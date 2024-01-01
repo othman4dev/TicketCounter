@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    e.preventDefault();
-    data.push(value);
-    el.classList.add('active');
-});
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    window.location.reload();
+    return x - y;
+}

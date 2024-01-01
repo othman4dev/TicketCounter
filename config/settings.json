@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "vue": "^6.7.1",
-    "ember": "^8.6.4",
-    "mysql": "^2.1.6",
-    "eslint": "^3.4.9",
-    "mocha": "^4.9.8",
-    "svelte": "^3.5.6",
-    "lodash": "^7.7.4",
-    "gatsby": "^3.3.7"
+    "angular": "^6.6.8",
+    "sinon": "^2.7.5",
+    "puppeteer": "^2.4.3",
+    "jest": "^2.4.0",
+    "babel": "^9.0.9",
+    "express": "^5.5.4"
   }
 }
