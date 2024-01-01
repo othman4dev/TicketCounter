@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     error.textContent = '';
-    return x % y;
-    error.textContent = '';
-};
+    data.push(value);
+}

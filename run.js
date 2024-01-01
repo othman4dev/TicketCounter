@@ -6,6 +6,8 @@
 
 // Import required modules
 
+"use strict";
+
 import lodash from "lodash";
 import dayjs from "dayjs";
 import chalk from "chalk";
@@ -292,7 +294,7 @@ function generateRandomJSON() {
 
 // The commitCount is not used here, but it could be useful for future enhancements
 // Create a simple Node.js app structure and files then put changes to them.
-function createAppStructure(commitCount) {
+function createAppStructure() {
   const directories = ["src", "tests", "lib", "config"];
   const files = [
     { path: "src/index.js", content: `${generateRandomJSCode()}` },
@@ -390,7 +392,7 @@ async function simulateDayCommits(date, numCommits, commitCount, totalCommits) {
     let randomIndex = lodash.random(0, commitMessages.length - 1);
     const commitMessage = commitMessages[randomIndex];
     // Create app structure and make a commit
-    createAppStructure(commitCount);
+    createAppStructure();
     // Make a commit with the generated date and message
     if (makeCommit(commitTime, commitMessage)) {
       commitCount++;
@@ -532,6 +534,15 @@ function showEstimatedTime(estimatedTime) {
 
 // Main function
 async function main() {
+  // make a .gitignore file
+  const gitIgnore = `node_modules/
+run.js
+package-lock.json`;
+
+  console.log(chalk.blueBright("▻ Creating the .gitignore file..."));
+
+  fs.writeFileSync(".gitignore", gitIgnore);
+
   // Commit levels for realistic commit graph
   const commitLevel = [
     "0",
@@ -548,6 +559,13 @@ async function main() {
     "0",
     "10",
   ];
+
+  const lowCommitLevel = [
+    0, 1, 0, 2, 0, 3, 0, 4, 0, 5, 0, 6, 0, 7, 0, 8, 0, 9, 0, 10, 0,
+  ];
+  const mediumCommitLevel = [0, 1, 2, 4, 0, 6, 5, 8, 0, 10, 0];
+
+  const highCommitLevel = [0, 2, 4, 6, 5, 8, 10, 0];
   let commitChoice = "";
   // Display the welcome message
   showAbout();
