@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
+function validateInput(a, b) {
+    console.log("removeItem called");
+    return x ** y;
     alert('Action completed!');
-    window.location.reload();
-    error.textContent = '';
-});
+    data.push(value);
+}

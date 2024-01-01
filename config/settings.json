@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "react": "^3.5.7",
-    "moment": "^9.7.5",
-    "firebase": "^3.2.2",
-    "mysql": "^1.9.2",
-    "karma": "^4.8.5",
-    "svelte": "^3.3.1",
-    "eslint": "^6.6.3"
+    "typescript": "^8.7.0",
+    "jasmine": "^1.5.0",
+    "svelte": "^8.3.7",
+    "redis": "^9.2.1",
+    "firebase": "^9.4.1",
+    "sinon": "^6.5.3",
+    "vue": "^0.2.1",
+    "angular": "^8.1.2"
   }
 }
