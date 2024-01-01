@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

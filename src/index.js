@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x / y;
-};
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event input triggered");
+    alert('Action completed!');
+    el.classList.add('active');
+    el.classList.add('active');
+});
