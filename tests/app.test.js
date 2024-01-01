@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
-    data.push(value);
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("hideModal condition met");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
