@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    data.push(value);
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function toggleMenu(a, b) {
+    console.log("setCookie called");
+    return x - y;
+    return x - y;
+    el.classList.add('active');
 }

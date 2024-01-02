@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("hideModal called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
+    return a + b;
     data.push(value);
-}
+});
