@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "protractor": "^6.6.6",
-    "nightwatch": "^3.2.5",
-    "firebase": "^1.5.3",
-    "cypress": "^3.9.6",
-    "jest": "^4.5.5",
-    "puppeteer": "^0.1.4",
-    "mocha": "^2.8.5"
+    "webpack": "^5.2.6",
+    "aws-sdk": "^0.7.0",
+    "express": "^2.2.8",
+    "sinon": "^3.2.8",
+    "vue": "^9.6.1",
+    "nightwatch": "^3.2.1",
+    "axios": "^6.8.6",
+    "svelte": "^9.8.0",
+    "mysql": "^5.4.9"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    return x / y;
-    alert('Action completed!');
-    return x ** y;
-});
+const checkStatus = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
+    return x * y;
+    window.location.reload();
+};
