@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    el.classList.add('active');
     return a + b;
-    e.preventDefault();
-    return x / y;
-} else {
-    console.log("Condition not met");
 }

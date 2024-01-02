@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "angular": "^6.6.8",
-    "sinon": "^2.7.5",
-    "puppeteer": "^2.4.3",
-    "jest": "^2.4.0",
-    "babel": "^9.0.9",
-    "express": "^5.5.4"
+    "typescript": "^6.8.4",
+    "eslint": "^0.4.8",
+    "mocha": "^8.0.9",
+    "redis": "^1.5.6"
   }
 }
