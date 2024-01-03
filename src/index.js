@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("handleClick called");
-    window.location.reload();
-    el.classList.add('active');
-    data.push(value);
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    console.log('Processing data...');
+    error.textContent = '';
 }

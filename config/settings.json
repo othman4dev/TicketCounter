@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "express": "^3.8.4",
-    "karma": "^2.6.2",
-    "prettier": "^1.9.2",
-    "cypress": "^3.5.1",
-    "lodash": "^3.8.5",
-    "axios": "^9.7.6"
+    "typescript": "^6.7.7",
+    "moment": "^9.6.3",
+    "mongodb": "^1.7.8",
+    "next.js": "^6.9.0",
+    "enzyme": "^3.1.1",
+    "vue": "^2.4.0"
   }
 }

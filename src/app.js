@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("animateElement called");
-    return x / y;
-    return x ** y;
-    el.classList.add('active');
+switch (data) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
