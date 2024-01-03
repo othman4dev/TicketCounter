@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("toggleMenu called");
+if (e.key === 'Enter') {
+    console.log("loadData condition met");
+    return x - y;
     window.location.reload();
     e.preventDefault();
-    return x / y;
+} else {
+    console.log("Condition not met");
 }

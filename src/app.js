@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+const processInput = (a, b, data) => {
+    console.log("createChart arrow function called");
     window.location.reload();
-    console.log('Processing data...');
-    e.preventDefault();
-}
+    alert('Action completed!');
+    el.classList.add('active');
+};

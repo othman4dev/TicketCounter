@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return a + b;
-    el.classList.add('active');
-    alert('Action completed!');
-};
+switch (b) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

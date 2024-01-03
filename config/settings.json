@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "babel": "^2.5.0",
-    "webpack": "^3.9.4",
-    "typescript": "^6.9.7",
-    "ember": "^2.4.7",
-    "moment": "^9.8.1"
+    "protractor": "^7.7.4",
+    "cypress": "^7.2.2",
+    "puppeteer": "^9.9.5",
+    "graphql": "^7.7.7",
+    "prettier": "^6.9.8",
+    "typescript": "^9.0.8",
+    "mysql": "^9.2.1"
   }
 }
