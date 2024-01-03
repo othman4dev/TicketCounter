@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-};
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    e.preventDefault();
+    el.classList.add('active');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

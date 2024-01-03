@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    e.preventDefault();
-    return x % y;
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-};
+    el.classList.add('active');
+});
