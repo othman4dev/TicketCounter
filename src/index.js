@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    data.push(value);
+switch (value) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

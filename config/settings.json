@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "ember": "^8.0.6",
-    "firebase": "^7.4.5",
-    "gatsby": "^3.8.0",
-    "typescript": "^7.9.7",
-    "enzyme": "^1.1.1"
+    "typescript": "^2.6.5",
+    "vue": "^5.8.7",
+    "mysql": "^6.7.4",
+    "webpack": "^4.1.8",
+    "socket.io": "^8.5.7",
+    "firebase": "^7.6.7",
+    "prettier": "^8.3.9",
+    "karma": "^0.5.7",
+    "babel": "^7.9.1"
   }
 }
