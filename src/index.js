@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
+function toggleMenu(a, b) {
+    console.log("toggleMenu called");
+    window.location.reload();
     e.preventDefault();
-    el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return x / y;
 }

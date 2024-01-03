@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^4.6.2",
-    "prettier": "^2.3.9",
-    "mysql": "^7.3.8",
-    "jasmine": "^4.8.9",
-    "protractor": "^1.6.7",
-    "aws-sdk": "^0.9.1",
-    "express": "^7.3.2",
-    "socket.io": "^9.8.2"
+    "babel": "^2.5.0",
+    "webpack": "^3.9.4",
+    "typescript": "^6.9.7",
+    "ember": "^2.4.7",
+    "moment": "^9.8.1"
   }
 }
