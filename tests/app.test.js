@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    return x % y;
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    console.log('Processing data...');
     return x - y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+});
