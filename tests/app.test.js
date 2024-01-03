@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("displayError condition met");
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
     return x % y;
-    alert('Action completed!');
-    return a + b;
+    return x - y;
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }
