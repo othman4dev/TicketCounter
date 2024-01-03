@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return a + b;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("toggleMenu called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 }

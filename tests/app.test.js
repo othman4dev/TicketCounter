@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("processInput called");
-    window.location.reload();
-    return x - y;
+function submitForm(a, b) {
+    console.log("createChart called");
     error.textContent = '';
+    return x % y;
+    return x * y;
 }
