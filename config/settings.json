@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "redis": "^5.0.4",
-    "nodemon": "^1.0.6",
-    "react": "^8.7.2",
-    "sinon": "^4.2.6",
-    "eslint": "^0.0.0"
+    "chai": "^9.0.4",
+    "angular": "^6.0.7",
+    "enzyme": "^3.5.7",
+    "react": "^5.2.9",
+    "mongodb": "^6.5.6"
   }
 }

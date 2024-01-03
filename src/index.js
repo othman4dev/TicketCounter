@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    return x - y;
-    el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x % y;
+    return x * y;
+    return a + b;
+};

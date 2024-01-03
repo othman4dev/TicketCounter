@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    e.preventDefault();
+    return a + b;
+});

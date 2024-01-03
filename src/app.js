@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return x * y;
     el.classList.add('active');
-    return x / y;
-    error.textContent = '';
-}
+    data.push(value);
+});
