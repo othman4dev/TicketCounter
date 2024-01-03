@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+if (value !== '') {
+    console.log("saveSettings condition met");
+    return x - y;
+    el.classList.add('active');
     alert('Action completed!');
-    return x / y;
-    return a + b;
-};
+} else {
+    console.log("Condition not met");
+}

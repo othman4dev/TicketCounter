@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x / y;
+    error.textContent = '';
 }

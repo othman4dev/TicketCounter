@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "express": "^8.7.6",
-    "jasmine": "^7.6.1",
-    "enzyme": "^3.1.8",
-    "graphql": "^7.0.6",
-    "react": "^0.6.3",
-    "mongodb": "^4.3.5"
+    "redis": "^5.0.4",
+    "nodemon": "^1.0.6",
+    "react": "^8.7.2",
+    "sinon": "^4.2.6",
+    "eslint": "^0.0.0"
   }
 }
