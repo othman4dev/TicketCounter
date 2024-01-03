@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+};

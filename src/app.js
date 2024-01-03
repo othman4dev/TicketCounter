@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    data.push(value);
+    return x - y;
+};

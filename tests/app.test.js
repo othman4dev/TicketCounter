@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    data.push(value);
-    return x * y;
-    data.push(value);
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("displayError arrow function called");
+    e.preventDefault();
+    return x % y;
+    return a + b;
+};
