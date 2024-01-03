@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    window.location.reload();
-    return a + b;
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    data.push(value);
+    return x * y;
+    data.push(value);
+});
