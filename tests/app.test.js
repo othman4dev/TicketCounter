@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    return x * y;
-    return x * y;
-});
+const submitForm = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};

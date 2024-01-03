@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return x % y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+});
