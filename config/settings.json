@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^7.7.4",
-    "cypress": "^7.2.2",
-    "puppeteer": "^9.9.5",
-    "graphql": "^7.7.7",
-    "prettier": "^6.9.8",
-    "typescript": "^9.0.8",
-    "mysql": "^9.2.1"
+    "prettier": "^1.4.0",
+    "graphql": "^8.0.6",
+    "vue": "^1.2.7",
+    "jasmine": "^1.3.1",
+    "mocha": "^3.0.8",
+    "express": "^6.2.3",
+    "webpack": "^9.3.1",
+    "axios": "^4.9.4"
   }
 }

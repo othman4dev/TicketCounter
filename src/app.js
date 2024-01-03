@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("createChart arrow function called");
-    window.location.reload();
-    alert('Action completed!');
-    el.classList.add('active');
-};
+switch (a) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
