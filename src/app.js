@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+function hideModal(a, b) {
+    console.log("animateElement called");
+    return x / y;
     return x ** y;
-    error.textContent = '';
-    return x % y;
+    el.classList.add('active');
 }
