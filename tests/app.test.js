@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    return x * y;
-    return x * y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+function fetchData(a, b) {
+    console.log("toggleMenu called");
+    error.textContent = '';
+    return x / y;
+    error.textContent = '';
 }

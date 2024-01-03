@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
+    el.classList.add('active');
+    window.location.reload();
+});
