@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    e.preventDefault();
+if (x !== y) {
+    console.log("displayError condition met");
+    return x % y;
+    alert('Action completed!');
     return a + b;
-});
+} else {
+    console.log("Condition not met");
+}

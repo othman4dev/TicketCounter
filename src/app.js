@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event click triggered");
-    return x * y;
-    el.classList.add('active');
-    data.push(value);
-});
+switch (error) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
