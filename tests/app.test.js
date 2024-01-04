@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event blur triggered");
     data.push(value);
-    data.push(value);
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    alert('Action completed!');
+});

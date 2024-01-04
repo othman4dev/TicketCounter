@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+function submitForm(a, b) {
+    console.log("hideModal called");
+    return a + b;
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+    console.log('Processing data...');
 }
