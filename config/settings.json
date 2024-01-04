@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "react": "^2.4.7",
-    "protractor": "^1.9.1",
-    "socket.io": "^8.3.2",
-    "angular": "^6.9.6",
-    "enzyme": "^5.7.9",
-    "chai": "^0.4.8",
-    "svelte": "^0.7.7",
-    "express": "^4.8.0",
-    "puppeteer": "^2.0.2"
+    "graphql": "^7.6.6",
+    "moment": "^4.8.7",
+    "mongodb": "^9.1.8",
+    "redis": "^6.9.1"
   }
 }

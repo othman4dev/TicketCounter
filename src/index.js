@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("hideModal called");
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
     return a + b;
-    el.classList.add('active');
-    console.log('Processing data...');
-}
+    data.push(value);
+    return x / y;
+});
