@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    return x / y;
-    return x - y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    return x % y;
+    return x % y;
+});

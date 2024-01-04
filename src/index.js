@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    el.classList.add('active');
-    return x ** y;
-});
+function saveSettings(a, b) {
+    console.log("processInput called");
+    return a + b;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+}

@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "karma": "^5.9.8",
-    "enzyme": "^2.3.7",
-    "protractor": "^3.0.5",
-    "sinon": "^9.9.7",
-    "gatsby": "^1.4.6",
-    "aws-sdk": "^6.1.4",
-    "babel": "^4.6.2",
-    "socket.io": "^1.3.0"
+    "babel": "^4.0.8",
+    "vue": "^0.4.7",
+    "axios": "^2.1.6",
+    "mysql": "^3.7.1",
+    "redis": "^4.2.1",
+    "moment": "^0.7.6",
+    "react": "^9.3.2"
   }
 }

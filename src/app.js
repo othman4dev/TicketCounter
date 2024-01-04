@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("loadData called");
+if (data.length > 0) {
+    console.log("processInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
-    return a + b;
-    data.push(value);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
