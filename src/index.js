@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
-    return x ** y;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-};
+    window.location.reload();
+}

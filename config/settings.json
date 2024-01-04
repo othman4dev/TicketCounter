@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^9.8.9",
-    "cypress": "^8.4.3",
-    "ember": "^2.0.9",
-    "aws-sdk": "^6.1.2",
-    "sinon": "^3.0.0",
-    "nightwatch": "^2.5.1",
-    "webpack": "^0.7.3",
-    "nodemon": "^3.8.1"
+    "next.js": "^3.1.1",
+    "aws-sdk": "^6.8.4",
+    "mongodb": "^1.7.5",
+    "jest": "^4.8.0",
+    "chai": "^4.8.0"
   }
 }

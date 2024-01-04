@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("createChart called");
-    console.log('Processing data...');
-    return x % y;
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
     data.push(value);
+    data.push(value);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
