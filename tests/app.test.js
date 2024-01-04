@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("saveSettings called");
-    return x * y;
-    console.log('Processing data...');
-    return a + b;
+switch (x) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
