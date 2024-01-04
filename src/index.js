@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("processInput called");
-    return a + b;
+try {
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

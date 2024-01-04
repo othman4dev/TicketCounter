@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "babel": "^4.0.8",
-    "vue": "^0.4.7",
-    "axios": "^2.1.6",
-    "mysql": "^3.7.1",
-    "redis": "^4.2.1",
-    "moment": "^0.7.6",
-    "react": "^9.3.2"
+    "jest": "^8.7.0",
+    "mongodb": "^8.0.4",
+    "mysql": "^8.2.1",
+    "prettier": "^4.9.0",
+    "nodemon": "^9.3.2",
+    "jasmine": "^6.9.5"
   }
 }

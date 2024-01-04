@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event input triggered");
+function formatDate(a, b) {
+    console.log("fetchData called");
     el.classList.add('active');
-    return x % y;
-    return x % y;
-});
+    return x - y;
+    return x - y;
+}
