@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^4.8.0",
-    "aws-sdk": "^4.8.0",
-    "react": "^5.8.2",
-    "nightwatch": "^5.5.8",
-    "puppeteer": "^9.8.4",
-    "angular": "^7.0.0",
-    "vue": "^8.1.9",
-    "moment": "^0.5.8",
-    "redis": "^7.1.0"
+    "enzyme": "^9.8.9",
+    "cypress": "^8.4.3",
+    "ember": "^2.0.9",
+    "aws-sdk": "^6.1.2",
+    "sinon": "^3.0.0",
+    "nightwatch": "^2.5.1",
+    "webpack": "^0.7.3",
+    "nodemon": "^3.8.1"
   }
 }

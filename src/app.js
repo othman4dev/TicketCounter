@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x % y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    error.textContent = '';
+});
