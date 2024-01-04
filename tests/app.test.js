@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("toggleMenu called");
-    error.textContent = '';
-    return x / y;
-    error.textContent = '';
+function animateElement(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    console.log('Processing data...');
+    return a + b;
 }
