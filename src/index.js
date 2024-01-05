@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("submitForm called");
+try {
     return x ** y;
-    window.location.reload();
-    e.preventDefault();
+    console.log('Processing data...');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

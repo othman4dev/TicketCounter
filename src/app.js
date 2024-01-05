@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x * y;
-    return x / y;
-    el.classList.add('active');
-};
+switch (b) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
