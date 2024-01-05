@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x / y;
-    return x / y;
-}
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event mouseover triggered");
+    console.log('Processing data...');
+    e.preventDefault();
+    el.classList.add('active');
+});

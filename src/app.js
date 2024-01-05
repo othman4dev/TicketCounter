@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
+function fetchData(a, b) {
+    console.log("formatDate called");
+    return a + b;
     e.preventDefault();
-    error.textContent = '';
-    return x ** y;
-});
+    alert('Action completed!');
+}

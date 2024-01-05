@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^9.2.8",
-    "nodemon": "^6.5.3",
-    "puppeteer": "^6.7.8",
-    "jest": "^4.6.2",
-    "mongodb": "^9.7.5",
-    "karma": "^3.3.3",
-    "nightwatch": "^4.8.5",
-    "react": "^6.6.4"
+    "next.js": "^5.2.6",
+    "mongodb": "^3.4.1",
+    "nodemon": "^7.6.6",
+    "enzyme": "^9.4.0",
+    "mysql": "^7.5.5",
+    "babel": "^0.8.9",
+    "eslint": "^7.2.8",
+    "protractor": "^6.4.1"
   }
 }
