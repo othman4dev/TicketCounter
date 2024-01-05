@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^1.6.0",
-    "socket.io": "^7.9.2",
-    "mongodb": "^9.4.5",
-    "sinon": "^5.6.7",
-    "cypress": "^5.8.7",
-    "firebase": "^7.1.2",
-    "eslint": "^0.0.9"
+    "next.js": "^9.2.8",
+    "nodemon": "^6.5.3",
+    "puppeteer": "^6.7.8",
+    "jest": "^4.6.2",
+    "mongodb": "^9.7.5",
+    "karma": "^3.3.3",
+    "nightwatch": "^4.8.5",
+    "react": "^6.6.4"
   }
 }

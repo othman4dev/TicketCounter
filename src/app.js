@@ -1,7 +1,6 @@
-try {
-    return x / y;
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    error.textContent = '';
     return x ** y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+});

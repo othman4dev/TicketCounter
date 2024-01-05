@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
+for (let i = 0; i < 12; i++) {
     console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    e.preventDefault();
-    console.log('Processing data...');
+    return a + b;
+    error.textContent = '';
+    return a + b;
 }
