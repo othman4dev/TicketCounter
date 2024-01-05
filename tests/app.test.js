@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    return x * y;
-    return x / y;
-});
+function setCookie(a, b) {
+    console.log("setSessionStorage called");
+    return a + b;
+    console.log('Processing data...');
+    window.location.reload();
+}

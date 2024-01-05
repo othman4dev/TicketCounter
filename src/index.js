@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    return a + b;
-});
+if (a > b) {
+    console.log("toggleMenu condition met");
+    window.location.reload();
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

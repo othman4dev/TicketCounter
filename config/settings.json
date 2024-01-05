@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^5.6.6",
-    "protractor": "^3.8.8",
-    "angular": "^2.2.3",
-    "prettier": "^5.8.5",
-    "cypress": "^5.9.0",
-    "jest": "^0.1.6",
-    "ember": "^4.7.4"
+    "vue": "^3.4.3",
+    "jest": "^1.5.3",
+    "enzyme": "^3.5.2",
+    "react": "^4.8.3",
+    "babel": "^9.7.5",
+    "moment": "^4.4.0"
   }
 }
