@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    data.push(value);
+    window.location.reload();
+    return x - y;
+};

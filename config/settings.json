@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^4.1.7",
-    "eslint": "^3.6.6",
-    "mocha": "^2.1.8",
-    "mysql": "^0.2.7",
-    "mongodb": "^6.0.8",
-    "ember": "^0.7.3",
-    "express": "^2.7.2",
-    "jest": "^3.0.3"
+    "redis": "^2.8.3",
+    "moment": "^2.1.8",
+    "chai": "^4.6.0",
+    "jest": "^8.9.2",
+    "typescript": "^1.6.3",
+    "karma": "^7.5.5"
   }
 }

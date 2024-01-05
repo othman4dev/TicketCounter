@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    window.location.reload();
+function animateElement(a, b) {
+    console.log("formatDate called");
     return a + b;
-    alert('Action completed!');
-});
+    return x - y;
+    return x ** y;
+}
