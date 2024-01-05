@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("fetchData called");
-    return x / y;
-    return x * y;
-    return x * y;
+switch (x) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

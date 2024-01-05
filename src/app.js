@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
+function processInput(a, b) {
+    console.log("renderList called");
     data.push(value);
-    alert('Action completed!');
+    data.push(value);
+    return a + b;
 }
