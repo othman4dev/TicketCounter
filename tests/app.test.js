@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    return x % y;
-    e.preventDefault();
-    return x / y;
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    return a + b;
+    alert('Action completed!');
 });

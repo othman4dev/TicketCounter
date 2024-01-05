@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^7.6.6",
-    "moment": "^4.8.7",
-    "mongodb": "^9.1.8",
-    "redis": "^6.9.1"
+    "graphql": "^4.1.7",
+    "eslint": "^3.6.6",
+    "mocha": "^2.1.8",
+    "mysql": "^0.2.7",
+    "mongodb": "^6.0.8",
+    "ember": "^0.7.3",
+    "express": "^2.7.2",
+    "jest": "^3.0.3"
   }
 }

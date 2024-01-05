@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    data.push(value);
-    return x / y;
-});
+const setCookie = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    e.preventDefault();
+    window.location.reload();
+    return x % y;
+};
