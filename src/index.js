@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("renderList arrow function called");
-    window.location.reload();
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return a + b;
     return x ** y;
-    return x - y;
-};
+});

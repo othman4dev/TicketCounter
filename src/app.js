@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    data.push(value);
-    window.location.reload();
-    return x - y;
+const setSessionStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x / y;
 };

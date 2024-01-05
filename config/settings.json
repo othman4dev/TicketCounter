@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "redis": "^2.8.3",
-    "moment": "^2.1.8",
-    "chai": "^4.6.0",
-    "jest": "^8.9.2",
-    "typescript": "^1.6.3",
-    "karma": "^7.5.5"
+    "mysql": "^4.3.0",
+    "react": "^8.4.9",
+    "mocha": "^8.7.1",
+    "chai": "^7.5.6",
+    "prettier": "^7.8.4",
+    "firebase": "^9.4.7"
   }
 }
