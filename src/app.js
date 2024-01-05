@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    return a + b;
-    return a + b;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
