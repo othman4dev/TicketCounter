@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^7.2.6",
-    "redis": "^8.1.0",
-    "react": "^2.5.9",
-    "sinon": "^8.1.2",
-    "puppeteer": "^5.2.4",
-    "jasmine": "^1.1.7",
-    "webpack": "^3.0.1"
+    "gatsby": "^2.2.1",
+    "eslint": "^8.8.1",
+    "jest": "^6.6.5",
+    "lodash": "^7.1.1",
+    "next.js": "^6.3.2"
   }
 }
