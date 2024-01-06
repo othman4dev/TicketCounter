@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    return a + b;
-    alert('Action completed!');
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
+    return x ** y;
 }

@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event mouseover triggered");
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
     e.preventDefault();
-    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
 });
