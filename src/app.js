@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+const toggleMenu = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
     return x ** y;
-    console.log('Processing data...');
-    return x % y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
