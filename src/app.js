@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
+function hideModal(a, b) {
+    console.log("animateElement called");
+    alert('Action completed!');
+    el.classList.add('active');
     error.textContent = '';
-    return x - y;
-    error.textContent = '';
-});
+}
