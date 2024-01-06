@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    return x * y;
+    return a + b;
+});

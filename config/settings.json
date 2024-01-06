@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "moment": "^7.6.2",
-    "mongodb": "^2.3.7",
-    "mysql": "^7.3.4",
-    "vue": "^7.3.5",
-    "graphql": "^3.0.9",
-    "enzyme": "^5.8.4"
+    "nightwatch": "^2.7.0",
+    "karma": "^3.5.0",
+    "webpack": "^3.6.5",
+    "puppeteer": "^4.7.2",
+    "mongodb": "^1.8.9"
   }
 }
