@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    window.location.reload();
-    console.log('Processing data...');
-    return x - y;
-};
+switch (data) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

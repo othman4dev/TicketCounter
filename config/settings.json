@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^3.5.3",
-    "jest": "^8.5.1",
-    "socket.io": "^8.3.8",
-    "puppeteer": "^4.7.4",
-    "mongodb": "^3.6.2",
-    "typescript": "^2.6.1",
-    "react": "^7.3.3"
+    "moment": "^7.6.2",
+    "mongodb": "^2.3.7",
+    "mysql": "^7.3.4",
+    "vue": "^7.3.5",
+    "graphql": "^3.0.9",
+    "enzyme": "^5.8.4"
   }
 }

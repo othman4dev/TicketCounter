@@ -1,4 +1,4 @@
-switch (x) {
+switch (data) {
     case 4:
         console.log("error case 1");
         break;
