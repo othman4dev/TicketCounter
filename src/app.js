@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    e.preventDefault();
-    return x * y;
+function checkStatus(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }
