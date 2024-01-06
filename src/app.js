@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-}
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    return x - y;
+    return x ** y;
+    el.classList.add('active');
+});

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("updateUI condition met");
-    el.classList.add('active');
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const processInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};

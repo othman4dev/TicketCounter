@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event click triggered");
-    return x / y;
+const displayError = (a, b, data) => {
+    console.log("renderList arrow function called");
     document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-});
+    return x % y;
+};
