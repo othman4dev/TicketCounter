@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("hideModal arrow function called");
+function hideModal(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    return x - y;
     return a + b;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+}
