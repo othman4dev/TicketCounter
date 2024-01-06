@@ -1,7 +1,7 @@
 try {
-    return a + b;
-    data.push(value);
-    return x * y;
+    error.textContent = '';
+    return x - y;
+    console.log('Processing data...');
 } catch (error) {
     console.error("Error:", error);
 }

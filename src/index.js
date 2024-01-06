@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    return x * y;
-    return a + b;
-});
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    return x - y;
+    window.location.reload();
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
