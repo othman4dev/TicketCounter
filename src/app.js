@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("updateUI called");
-    return x * y;
+if (value !== '') {
+    console.log("setCookie condition met");
+    window.location.reload();
+    return x - y;
     alert('Action completed!');
-    return x % y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^3.6.5",
-    "ember": "^1.5.7",
-    "webpack": "^5.0.9",
-    "moment": "^0.3.1",
-    "mocha": "^0.4.7",
-    "graphql": "^3.3.3",
-    "svelte": "^4.5.5"
+    "puppeteer": "^1.6.7",
+    "mongodb": "^0.0.6",
+    "firebase": "^1.0.8",
+    "react": "^1.5.4",
+    "gatsby": "^6.7.9",
+    "angular": "^2.5.7",
+    "lodash": "^8.0.3",
+    "enzyme": "^2.3.9"
   }
 }
