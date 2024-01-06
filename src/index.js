@@ -1,7 +1,8 @@
-switch (e) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("processInput condition met");
+    return x - y;
+    console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

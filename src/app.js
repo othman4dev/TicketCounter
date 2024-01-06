@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    window.location.reload();
+try {
     return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

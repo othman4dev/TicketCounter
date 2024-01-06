@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^1.6.7",
-    "mongodb": "^0.0.6",
-    "firebase": "^1.0.8",
-    "react": "^1.5.4",
-    "gatsby": "^6.7.9",
-    "angular": "^2.5.7",
-    "lodash": "^8.0.3",
-    "enzyme": "^2.3.9"
+    "nightwatch": "^4.1.1",
+    "jasmine": "^9.8.9",
+    "redis": "^7.5.8",
+    "moment": "^4.2.5",
+    "webpack": "^1.3.0"
   }
 }

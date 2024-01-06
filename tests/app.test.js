@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("checkStatus called");
-    return x - y;
-    alert('Action completed!');
-    return x - y;
+try {
+    return x % y;
+    return a + b;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
