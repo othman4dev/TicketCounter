@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    return x - y;
-    e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    return a + b;
+});

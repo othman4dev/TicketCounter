@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event focus triggered");
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event blur triggered");
+    return x - y;
+    return x * y;
     return x / y;
-    return a + b;
-    return x % y;
 });
