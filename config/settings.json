@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^4.1.1",
-    "jasmine": "^9.8.9",
-    "redis": "^7.5.8",
-    "moment": "^4.2.5",
-    "webpack": "^1.3.0"
+    "moment": "^1.0.5",
+    "eslint": "^8.2.1",
+    "axios": "^4.7.8",
+    "prettier": "^7.9.0",
+    "webpack": "^1.1.3"
   }
 }

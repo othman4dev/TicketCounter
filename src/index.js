@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("processInput condition met");
+const showMessage = (a, b, data) => {
+    console.log("showMessage arrow function called");
     return x - y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};
