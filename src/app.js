@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("animateElement called");
-    alert('Action completed!');
-    el.classList.add('active');
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
     error.textContent = '';
-}
+    el.classList.add('active');
+    window.location.reload();
+};
