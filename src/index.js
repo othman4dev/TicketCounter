@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    window.location.reload();
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (data) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

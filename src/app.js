@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    return x ** y;
-    el.classList.add('active');
-});
+function formatDate(a, b) {
+    console.log("updateUI called");
+    return x * y;
+    alert('Action completed!');
+    return x % y;
+}

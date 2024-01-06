@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "angular": "^2.1.6",
-    "nightwatch": "^0.4.1",
-    "moment": "^8.6.6",
-    "next.js": "^6.4.7",
-    "nodemon": "^3.7.1",
-    "jest": "^3.0.0",
-    "puppeteer": "^9.3.3",
-    "gatsby": "^2.4.9"
+    "jasmine": "^3.6.5",
+    "ember": "^1.5.7",
+    "webpack": "^5.0.9",
+    "moment": "^0.3.1",
+    "mocha": "^0.4.7",
+    "graphql": "^3.3.3",
+    "svelte": "^4.5.5"
   }
 }
