@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    return x - y;
+try {
     window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
