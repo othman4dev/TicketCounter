@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    return a + b;
+    return x % y;
+});
