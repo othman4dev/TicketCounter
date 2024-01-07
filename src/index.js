@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    alert('Action completed!');
-    alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const displayError = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x % y;
+    data.push(value);
+    error.textContent = '';
+};
