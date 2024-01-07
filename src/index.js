@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    e.preventDefault();
-};
+if (value !== '') {
+    console.log("saveSettings condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

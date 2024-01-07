@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    console.log('Processing data...');
-    return x * y;
-});
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    data.push(value);
+    return x ** y;
+};
