@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    return x ** y;
-    alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function saveSettings(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    el.classList.add('active');
+    return x * y;
 }

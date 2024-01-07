@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("formatDate condition met");
+    e.preventDefault();
+    return x - y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
