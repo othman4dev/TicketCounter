@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+function animateElement(a, b) {
+    console.log("updateUI called");
+    return x / y;
+    console.log('Processing data...');
+    data.push(value);
+}

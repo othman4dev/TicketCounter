@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    e.preventDefault();
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function formatDate(a, b) {
+    console.log("fetchData called");
+    return x ** y;
+    console.log('Processing data...');
+    return x % y;
 }
