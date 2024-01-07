@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^5.9.4",
-    "mysql": "^6.6.4",
-    "ember": "^3.9.4",
-    "mongodb": "^8.8.4",
-    "prettier": "^0.0.0",
-    "aws-sdk": "^7.6.7",
-    "gatsby": "^6.8.8"
+    "react": "^1.4.3",
+    "ember": "^6.9.6",
+    "jest": "^1.6.5",
+    "angular": "^3.4.5",
+    "nodemon": "^7.3.2",
+    "cypress": "^2.6.1",
+    "express": "^2.3.0",
+    "prettier": "^4.5.2"
   }
 }

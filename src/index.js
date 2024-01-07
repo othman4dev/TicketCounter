@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    return x * y;
+const toggleMenu = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    data.push(value);
-});
+    return a + b;
+};
