@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("submitForm condition met");
-    return x ** y;
-    alert('Action completed!');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    return x % y;
+    return x - y;
+    return x % y;
+});

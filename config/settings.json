@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "angular": "^8.8.7",
-    "react": "^5.0.3",
-    "typescript": "^9.1.8",
-    "karma": "^6.6.0",
-    "prettier": "^6.6.9",
-    "gatsby": "^0.7.1",
-    "vue": "^9.3.1",
-    "mocha": "^5.1.0"
+    "sinon": "^4.2.6",
+    "babel": "^1.1.8",
+    "moment": "^7.8.8",
+    "puppeteer": "^0.5.7",
+    "svelte": "^3.1.9",
+    "next.js": "^8.6.8",
+    "gatsby": "^3.1.1",
+    "graphql": "^0.8.7"
   }
 }

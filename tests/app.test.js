@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x % y;
-    window.location.reload();
-    return x / y;
-};
+function hideModal(a, b) {
+    console.log("checkStatus called");
+    e.preventDefault();
+    return a + b;
+    data.push(value);
+}

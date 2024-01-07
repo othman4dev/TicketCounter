@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    data.push(value);
+function submitForm(a, b) {
+    console.log("handleClick called");
     return x - y;
-    window.location.reload();
-});
+    return x - y;
+    return x ** y;
+}
