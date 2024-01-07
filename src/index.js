@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x % y;
-    data.push(value);
-    error.textContent = '';
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    el.classList.add('active');
+    el.classList.add('active');
+}

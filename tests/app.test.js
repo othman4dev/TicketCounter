@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    error.textContent = '';
-    return x * y;
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    return x / y;
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
