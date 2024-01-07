@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("handleClick called");
-    return x - y;
-    return x - y;
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event click triggered");
     return x ** y;
-}
+    return x / y;
+    e.preventDefault();
+});
