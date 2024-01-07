@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("toggleMenu condition met");
-    return a + b;
-    error.textContent = '';
+function validateInput(a, b) {
+    console.log("handleClick called");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return a + b;
 }
