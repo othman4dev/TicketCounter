@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x ** y;
+const createChart = (a, b, data) => {
+    console.log("setCookie arrow function called");
     alert('Action completed!');
-}
+    return x - y;
+    e.preventDefault();
+};
