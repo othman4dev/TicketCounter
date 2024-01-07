@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
-    return x / y;
-    console.log('Processing data...');
-    data.push(value);
-}
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    window.location.reload();
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+});

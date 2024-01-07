@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("fetchData called");
-    return x ** y;
-    console.log('Processing data...');
-    return x % y;
-}
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    data.push(value);
+    window.location.reload();
+});
