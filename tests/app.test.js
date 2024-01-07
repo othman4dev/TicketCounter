@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
+try {
+    data.push(value);
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

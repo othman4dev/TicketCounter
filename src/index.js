@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("toggleMenu called");
-    data.push(value);
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-}
+const checkStatus = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
+    e.preventDefault();
+};
