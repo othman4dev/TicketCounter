@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
+if (data.length > 0) {
+    console.log("toggleMenu condition met");
+    return a + b;
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
