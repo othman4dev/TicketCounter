@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (x === y) {
+    console.log("submitForm condition met");
+    return x ** y;
+    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

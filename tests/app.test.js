@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    data.push(value);
+const renderList = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x % y;
     window.location.reload();
-});
+    return x / y;
+};

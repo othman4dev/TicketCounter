@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^0.9.0",
-    "nightwatch": "^8.9.6",
-    "axios": "^0.4.0",
-    "babel": "^8.9.6",
-    "express": "^5.5.3",
-    "ember": "^0.5.1"
+    "angular": "^8.8.7",
+    "react": "^5.0.3",
+    "typescript": "^9.1.8",
+    "karma": "^6.6.0",
+    "prettier": "^6.6.9",
+    "gatsby": "^0.7.1",
+    "vue": "^9.3.1",
+    "mocha": "^5.1.0"
   }
 }
