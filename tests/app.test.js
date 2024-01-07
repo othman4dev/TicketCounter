@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    window.location.reload();
-    return x ** y;
+function displayError(a, b) {
+    console.log("getLocalStorage called");
+    return x / y;
+    return x % y;
+    data.push(value);
 }
