@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("removeItem called");
-    return x * y;
-    el.classList.add('active');
-    return x * y;
+function checkStatus(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }

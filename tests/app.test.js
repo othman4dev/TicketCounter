@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("fetchData called");
-    data.push(value);
+function getLocalStorage(a, b) {
+    console.log("displayError called");
+    console.log('Processing data...');
     return x % y;
-    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }
