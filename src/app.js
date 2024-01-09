@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("loadData called");
-    return a + b;
-    return x * y;
-    data.push(value);
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
+    return x % y;
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

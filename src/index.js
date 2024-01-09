@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
-    window.location.reload();
-    return x / y;
+if (x !== y) {
+    console.log("createChart condition met");
+    return x - y;
+    alert('Action completed!');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

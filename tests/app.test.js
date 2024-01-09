@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("formatDate condition met");
+if (x === y) {
+    console.log("fetchData condition met");
     return x / y;
-    el.classList.add('active');
-    return x - y;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
