@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    return x * y;
-    return x - y;
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
     return x ** y;
+    error.textContent = '';
 });
