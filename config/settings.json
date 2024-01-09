@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^6.1.1",
-    "prettier": "^7.8.8",
-    "karma": "^8.0.0",
-    "jest": "^7.5.0",
-    "mysql": "^1.7.4"
+    "vue": "^2.0.3",
+    "mocha": "^5.9.8",
+    "lodash": "^1.5.7",
+    "ember": "^6.1.8",
+    "protractor": "^6.6.7",
+    "redis": "^8.0.7"
   }
 }

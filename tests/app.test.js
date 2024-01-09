@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x ** y;
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event click triggered");
     window.location.reload();
-    return x ** y;
-};
+    data.push(value);
+    return x * y;
+});
