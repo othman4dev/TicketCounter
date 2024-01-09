@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    alert('Action completed!');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    window.location.reload();
+    return x % y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    error.textContent = '';
-    data.push(value);
-    e.preventDefault();
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
+    return x % y;
+    return a + b;
 };

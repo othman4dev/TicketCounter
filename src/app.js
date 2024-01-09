@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
+const getLocalStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
     return x / y;
-    return x ** y;
-    return x / y;
-});
+    return x - y;
+    return x % y;
+};
