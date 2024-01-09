@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
+function handleClick(a, b) {
+    console.log("showMessage called");
+    alert('Action completed!');
     data.push(value);
-    return a + b;
-    return x * y;
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
 }
