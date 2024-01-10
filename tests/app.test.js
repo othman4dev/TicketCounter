@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    return a + b;
+try {
+    alert('Action completed!');
     return x % y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
