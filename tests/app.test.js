@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    window.location.reload();
-    return x % y;
-    return a + b;
+const processInput = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    e.preventDefault();
+    data.push(value);
+    e.preventDefault();
 };

@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    window.location.reload();
-    return x % y;
+if (a > b) {
+    console.log("getLocalStorage condition met");
     return x ** y;
+    alert('Action completed!');
+    return x % y;
 } else {
     console.log("Condition not met");
 }
