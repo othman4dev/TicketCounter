@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("loadData arrow function called");
-    e.preventDefault();
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     return x * y;
-    data.push(value);
-};
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+}
