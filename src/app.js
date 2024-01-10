@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("setSessionStorage called");
-    return x * y;
-    return x ** y;
-    error.textContent = '';
+function processInput(a, b) {
+    console.log("updateUI called");
+    return x % y;
+    alert('Action completed!');
+    window.location.reload();
 }

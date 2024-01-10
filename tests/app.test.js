@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    console.log('Processing data...');
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event blur triggered");
     error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    return x ** y;
+});
