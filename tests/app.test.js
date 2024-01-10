@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    error.textContent = '';
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-    return x ** y;
-});
+    el.classList.add('active');
+    data.push(value);
+}
