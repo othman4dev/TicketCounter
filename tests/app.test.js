@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    console.log('Processing data...');
+const validateInput = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return a + b;
+    el.classList.add('active');
     alert('Action completed!');
-    console.log('Processing data...');
 };

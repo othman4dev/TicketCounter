@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^3.8.2",
-    "jest": "^4.1.4",
-    "firebase": "^3.3.5",
-    "prettier": "^3.3.4",
-    "mocha": "^5.3.3"
+    "mongodb": "^3.9.0",
+    "gatsby": "^3.4.0",
+    "nodemon": "^7.9.0",
+    "react": "^3.7.9",
+    "moment": "^3.9.9",
+    "socket.io": "^6.1.6",
+    "sinon": "^7.9.0",
+    "redis": "^2.5.5"
   }
 }

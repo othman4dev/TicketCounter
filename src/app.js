@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    return x ** y;
-    error.textContent = '';
-});
+switch (error) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
