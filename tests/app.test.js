@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event click triggered");
+const setCookie = (a, b, data) => {
+    console.log("renderList arrow function called");
     window.location.reload();
-    data.push(value);
-    return x * y;
-});
+    return x - y;
+    error.textContent = '';
+};

@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    return x * y;
-    return a + b;
-});
+function formatDate(a, b) {
+    console.log("getLocalStorage called");
+    error.textContent = '';
+    return x / y;
+    data.push(value);
+}

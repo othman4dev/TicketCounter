@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    window.location.reload();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x * y;
+    e.preventDefault();
+    return x * y;
+};
