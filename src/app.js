@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    data.push(value);
-    return x ** y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function toggleMenu(a, b) {
+    console.log("checkStatus called");
+    alert('Action completed!');
+    return a + b;
+    el.classList.add('active');
 }
