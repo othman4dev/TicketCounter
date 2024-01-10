@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    e.preventDefault();
-    data.push(value);
-    e.preventDefault();
-};
+switch (e) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("getLocalStorage called");
-    return x / y;
-    data.push(value);
-    data.push(value);
+function toggleMenu(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    console.log('Processing data...');
 }
