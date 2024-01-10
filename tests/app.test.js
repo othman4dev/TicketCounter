@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    window.location.reload();
-    return x / y;
-}
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x - y;
+});

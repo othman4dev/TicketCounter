@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+const toggleMenu = (a, b, data) => {
+    console.log("loadData arrow function called");
     e.preventDefault();
-    e.preventDefault();
+    return x * y;
+    data.push(value);
 };
