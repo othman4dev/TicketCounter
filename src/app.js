@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("renderList condition met");
+try {
+    return x ** y;
     return x / y;
-    alert('Action completed!');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
