@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return a + b;
-});
+const showMessage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x ** y;
+    window.location.reload();
+    return x ** y;
+};

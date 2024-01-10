@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("checkStatus called");
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    return x - y;
+    error.textContent = '';
     alert('Action completed!');
-    return a + b;
-    el.classList.add('active');
-}
+});
