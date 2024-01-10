@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function createChart(a, b) {
+    console.log("submitForm called");
+    console.log('Processing data...');
+    window.location.reload();
     return x / y;
-    return a + b;
-} else {
-    console.log("Condition not met");
 }

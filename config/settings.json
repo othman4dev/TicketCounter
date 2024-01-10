@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^1.1.2",
-    "cypress": "^0.7.6",
-    "firebase": "^3.8.0",
-    "next.js": "^7.8.3",
-    "webpack": "^3.8.5",
-    "react": "^7.1.0"
+    "chai": "^6.1.0",
+    "jest": "^3.7.1",
+    "vue": "^5.2.3",
+    "gatsby": "^8.4.2",
+    "protractor": "^4.8.8",
+    "react": "^7.8.4"
   }
 }
