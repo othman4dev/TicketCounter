@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
-    return x / y;
-    data.push(value);
+try {
+    return x ** y;
+    el.classList.add('active');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

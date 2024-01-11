@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x * y;
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event load triggered");
     e.preventDefault();
-    return x * y;
-};
+    e.preventDefault();
+    return x / y;
+});
