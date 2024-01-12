@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+function setSessionStorage(a, b) {
+    console.log("processInput called");
+    error.textContent = '';
     data.push(value);
-    window.location.reload();
+    return x / y;
 }

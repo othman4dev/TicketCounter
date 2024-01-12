@@ -1,7 +1,8 @@
-switch (y) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

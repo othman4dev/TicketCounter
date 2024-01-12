@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    window.location.reload();
+const updateUI = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x % y;
+    return x / y;
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+};
