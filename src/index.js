@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x % y;
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    el.classList.add('active');
     data.push(value);
-    window.location.reload();
-};
+}
