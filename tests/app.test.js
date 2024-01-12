@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("renderList called");
-    return a + b;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    el.classList.add('active');
+    data.push(value);
 }

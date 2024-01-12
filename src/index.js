@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    e.preventDefault();
-    return x / y;
-});
+const processInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x % y;
+    data.push(value);
+    window.location.reload();
+};
