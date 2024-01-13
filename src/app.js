@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    alert('Action completed!');
-    return x ** y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+function checkStatus(a, b) {
+    console.log("removeItem called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    data.push(value);
 }

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+const handleClick = (a, b, data) => {
+    console.log("displayError arrow function called");
+    console.log('Processing data...');
+    data.push(value);
+    console.log('Processing data...');
+};

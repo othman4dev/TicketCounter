@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    e.preventDefault();
-    data.push(value);
+const toggleMenu = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x / y;
+    el.classList.add('active');
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+};
