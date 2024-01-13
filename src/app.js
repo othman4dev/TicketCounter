@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("createChart condition met");
-    window.location.reload();
-    error.textContent = '';
-    return a + b;
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
