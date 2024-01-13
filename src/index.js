@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("displayError arrow function called");
-    console.log('Processing data...');
-    data.push(value);
-    console.log('Processing data...');
+const setCookie = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x / y;
+    return x - y;
+    return x ** y;
 };

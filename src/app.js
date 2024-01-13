@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("removeItem called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    data.push(value);
+if (x === y) {
+    console.log("createChart condition met");
+    window.location.reload();
+    error.textContent = '';
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

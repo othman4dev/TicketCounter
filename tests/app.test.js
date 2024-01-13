@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("showMessage arrow function called");
+const setSessionStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     return x / y;
-    el.classList.add('active');
-    return x * y;
+    return x / y;
+    return x ** y;
 };
