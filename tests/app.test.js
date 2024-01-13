@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+if (data.length > 0) {
+    console.log("fetchData condition met");
     return a + b;
-    return x * y;
-    data.push(value);
+    el.classList.add('active');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

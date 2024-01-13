@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x % y;
-    e.preventDefault();
-    el.classList.add('active');
-};
+switch (b) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
