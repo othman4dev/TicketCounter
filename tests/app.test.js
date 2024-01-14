@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+};
