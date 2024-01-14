@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    el.classList.add('active');
-    return x % y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
