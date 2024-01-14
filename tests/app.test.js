@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    return a + b;
-};
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return x / y;
+    window.location.reload();
+    el.classList.add('active');
+});

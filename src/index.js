@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const hideModal = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    return x * y;
+    return x / y;
+};
