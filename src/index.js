@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    error.textContent = '';
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-});
+function handleClick(a, b) {
+    console.log("formatDate called");
+    return x * y;
+    data.push(value);
+    data.push(value);
+}
