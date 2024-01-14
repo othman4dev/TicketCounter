@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
+const createChart = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return a + b;
-    el.classList.add('active');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return a + b;
+};

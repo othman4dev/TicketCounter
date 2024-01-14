@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "react": "^1.6.8",
-    "chai": "^5.9.9",
-    "babel": "^7.3.1",
-    "socket.io": "^9.1.2",
-    "lodash": "^8.4.3"
+    "angular": "^1.5.3",
+    "moment": "^2.6.1",
+    "ember": "^4.0.4",
+    "karma": "^4.4.6",
+    "vue": "^7.3.9",
+    "nodemon": "^2.6.6"
   }
 }
