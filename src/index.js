@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    e.preventDefault();
-    return x * y;
-    return x / y;
-};
+if (x !== y) {
+    console.log("removeItem condition met");
+    return x % y;
+    window.location.reload();
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event change triggered");
-    return x / y;
-    window.location.reload();
-    el.classList.add('active');
-});
+switch (el) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

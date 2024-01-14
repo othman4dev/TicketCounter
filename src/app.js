@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x % y;
+    alert('Action completed!');
+    console.log('Processing data...');
+};
