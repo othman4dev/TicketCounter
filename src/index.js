@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("updateUI called");
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event click triggered");
+    return x * y;
+    window.location.reload();
     return x % y;
-    el.classList.add('active');
-    data.push(value);
-}
+});

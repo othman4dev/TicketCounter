@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event load triggered");
+const createChart = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    alert('Action completed!');
-});
+    e.preventDefault();
+};
