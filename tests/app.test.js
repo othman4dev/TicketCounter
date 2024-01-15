@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+const handleClick = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    return x % y;
+    return x % y;
 };

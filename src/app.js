@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    error.textContent = '';
-    return x ** y;
-}
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
+    alert('Action completed!');
+    data.push(value);
+});
