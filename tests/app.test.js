@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("loadData condition met");
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    alert('Action completed!');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+};

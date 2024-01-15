@@ -1,7 +1,6 @@
-try {
-    return x / y;
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    error.textContent = '';
+    alert('Action completed!');
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+});
