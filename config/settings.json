@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^2.0.8",
-    "angular": "^0.6.2",
-    "mysql": "^2.2.0",
-    "nightwatch": "^6.9.7",
-    "cypress": "^3.6.9"
+    "aws-sdk": "^5.2.2",
+    "react": "^4.2.0",
+    "vue": "^4.2.8",
+    "mocha": "^9.2.0",
+    "firebase": "^6.8.0",
+    "protractor": "^4.3.8"
   }
 }

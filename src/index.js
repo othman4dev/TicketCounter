@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
     error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+});
