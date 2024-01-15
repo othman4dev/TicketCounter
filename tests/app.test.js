@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    el.classList.add('active');
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    return a + b;
     e.preventDefault();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+});

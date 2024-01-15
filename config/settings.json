@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "redis": "^0.1.5",
-    "express": "^6.8.2",
-    "cypress": "^9.5.8",
-    "eslint": "^3.0.5",
-    "jest": "^2.2.1"
+    "puppeteer": "^4.5.8",
+    "axios": "^3.4.5",
+    "prettier": "^1.1.8",
+    "redis": "^6.1.0"
   }
 }

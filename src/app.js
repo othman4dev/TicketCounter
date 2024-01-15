@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
+if (data.length > 0) {
+    console.log("displayError condition met");
     return x * y;
+    error.textContent = '';
     return a + b;
-    return x * y;
 } else {
     console.log("Condition not met");
 }
