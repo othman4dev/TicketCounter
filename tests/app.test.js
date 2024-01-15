@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return a + b;
-    return x % y;
-    return x % y;
-};
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

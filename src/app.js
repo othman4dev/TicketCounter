@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    alert('Action completed!');
-    data.push(value);
-});
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
+    return x * y;
+    return a + b;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
