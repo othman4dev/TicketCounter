@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    return a + b;
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event load triggered");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    alert('Action completed!');
+});

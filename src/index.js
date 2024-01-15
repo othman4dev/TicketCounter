@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    e.preventDefault();
-    return x / y;
+function renderList(a, b) {
+    console.log("updateUI called");
+    return x % y;
     el.classList.add('active');
-};
+    data.push(value);
+}

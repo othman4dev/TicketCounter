@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
     return a + b;
     return x - y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
