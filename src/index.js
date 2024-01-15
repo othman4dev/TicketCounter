@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    error.textContent = '';
+if (a > b) {
+    console.log("submitForm condition met");
     document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

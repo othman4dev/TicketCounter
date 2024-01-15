@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const animateElement = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    data.push(value);
+    return x ** y;
+    return x / y;
+};

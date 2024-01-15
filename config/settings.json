@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "babel": "^1.7.3",
-    "firebase": "^5.2.7",
-    "jest": "^1.5.3",
-    "aws-sdk": "^3.5.4",
-    "gatsby": "^3.0.4",
-    "typescript": "^5.6.1",
-    "vue": "^0.2.0",
-    "socket.io": "^9.8.0"
+    "prettier": "^0.9.0",
+    "react": "^7.7.1",
+    "karma": "^8.6.3",
+    "mongodb": "^1.7.0",
+    "enzyme": "^6.2.6",
+    "graphql": "^0.8.8"
   }
 }
