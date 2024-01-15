@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^1.7.1",
-    "chai": "^2.1.7",
-    "next.js": "^9.7.1",
-    "jasmine": "^0.5.4",
-    "typescript": "^6.0.0",
-    "eslint": "^7.5.4"
+    "firebase": "^2.7.0",
+    "sinon": "^5.7.7",
+    "nightwatch": "^1.1.0",
+    "axios": "^2.7.2",
+    "cypress": "^0.8.1",
+    "puppeteer": "^1.0.3",
+    "svelte": "^7.1.4"
   }
 }

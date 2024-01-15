@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x - y;
-    return x % y;
-    return x - y;
-};
+switch (value) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

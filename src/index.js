@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("removeItem called");
-    return x * y;
-    e.preventDefault();
-    return x ** y;
-}
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    error.textContent = '';
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});
