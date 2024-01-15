@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^4.5.8",
-    "axios": "^3.4.5",
-    "prettier": "^1.1.8",
-    "redis": "^6.1.0"
+    "svelte": "^1.7.1",
+    "chai": "^2.1.7",
+    "next.js": "^9.7.1",
+    "jasmine": "^0.5.4",
+    "typescript": "^6.0.0",
+    "eslint": "^7.5.4"
   }
 }

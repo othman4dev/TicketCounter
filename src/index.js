@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    window.location.reload();
-    data.push(value);
-    return x / y;
-} else {
-    console.log("Condition not met");
+function setCookie(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    e.preventDefault();
+    return x ** y;
 }
