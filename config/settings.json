@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "moment": "^0.6.3",
-    "mysql": "^7.1.4",
-    "nodemon": "^1.2.4",
-    "chai": "^7.5.1",
-    "axios": "^9.0.6",
-    "angular": "^7.2.9"
+    "nodemon": "^8.7.7",
+    "cypress": "^6.6.3",
+    "chai": "^4.7.7",
+    "aws-sdk": "^4.1.8",
+    "vue": "^8.6.3",
+    "karma": "^1.5.1"
   }
 }

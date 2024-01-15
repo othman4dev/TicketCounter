@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("fetchData called");
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    return x / y;
+    return x % y;
     alert('Action completed!');
-    e.preventDefault();
-}
+});

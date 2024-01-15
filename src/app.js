@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x % y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+if (x === y) {
+    console.log("toggleMenu condition met");
+    return x * y;
+    e.preventDefault();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
