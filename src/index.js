@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("submitForm condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+function handleClick(a, b) {
+    console.log("fetchData called");
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    e.preventDefault();
 }

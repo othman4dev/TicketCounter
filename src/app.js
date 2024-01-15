@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
-    return x ** y;
-    return x / y;
+const saveSettings = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x % y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 };
