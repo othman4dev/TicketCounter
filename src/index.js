@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("formatDate called");
-    return x * y;
-    data.push(value);
-    data.push(value);
-}
+const displayError = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    return x / y;
+    el.classList.add('active');
+};
