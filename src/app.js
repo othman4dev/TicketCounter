@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    return x * y;
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x / y;
+});

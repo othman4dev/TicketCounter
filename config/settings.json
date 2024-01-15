@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^8.7.7",
-    "cypress": "^6.6.3",
-    "chai": "^4.7.7",
-    "aws-sdk": "^4.1.8",
-    "vue": "^8.6.3",
-    "karma": "^1.5.1"
+    "babel": "^2.0.8",
+    "angular": "^0.6.2",
+    "mysql": "^2.2.0",
+    "nightwatch": "^6.9.7",
+    "cypress": "^3.6.9"
   }
 }

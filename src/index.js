@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    return x / y;
-    return x % y;
-    alert('Action completed!');
-});
+if (x !== y) {
+    console.log("checkStatus condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
