@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
-    return x ** y;
+function displayError(a, b) {
+    console.log("formatDate called");
+    return a + b;
+    return x * y;
     data.push(value);
-};
+}
