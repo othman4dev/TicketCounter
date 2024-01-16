@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    el.classList.add('active');
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    alert('Action completed!');
     return x * y;
-    return x ** y;
-};
+});

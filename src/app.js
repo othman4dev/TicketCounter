@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x * y;
+if (a > b) {
+    console.log("setCookie condition met");
+    window.location.reload();
+    window.location.reload();
     error.textContent = '';
-    e.preventDefault();
-};
+} else {
+    console.log("Condition not met");
+}
