@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
+    return x / y;
+    return x / y;
+    console.log('Processing data...');
+});

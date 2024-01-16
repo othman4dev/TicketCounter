@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    window.location.reload();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    el.classList.add('active');
+    return x ** y;
+    e.preventDefault();
+};
