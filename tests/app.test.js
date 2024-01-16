@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("removeItem called");
+try {
     return x - y;
     return x * y;
-    return a + b;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
