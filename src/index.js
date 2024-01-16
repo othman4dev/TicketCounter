@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
+try {
     alert('Action completed!');
-    return x * y;
-});
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

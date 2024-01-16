@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
-    return a + b;
-    return x / y;
-});
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x * y;
+    error.textContent = '';
+}

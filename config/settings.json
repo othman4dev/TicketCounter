@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^1.2.0",
-    "webpack": "^7.8.5",
-    "express": "^9.3.9",
-    "sinon": "^6.6.2",
-    "moment": "^8.0.7"
+    "express": "^7.0.5",
+    "nodemon": "^5.1.1",
+    "jest": "^9.8.7",
+    "mongodb": "^0.7.8",
+    "cypress": "^7.1.2",
+    "angular": "^3.0.1"
   }
 }
