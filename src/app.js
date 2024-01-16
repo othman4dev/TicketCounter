@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
+const setCookie = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
     return x ** y;
-    return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+};

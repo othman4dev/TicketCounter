@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("formatDate called");
-    return a + b;
+function toggleMenu(a, b) {
+    console.log("removeItem called");
+    return x - y;
     return x * y;
-    data.push(value);
+    return a + b;
 }

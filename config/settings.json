@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^7.5.8",
-    "mysql": "^0.2.0",
-    "protractor": "^2.5.1",
-    "enzyme": "^7.1.1",
-    "mocha": "^2.5.9",
-    "ember": "^2.7.3",
-    "webpack": "^7.2.0"
+    "jest": "^7.5.7",
+    "cypress": "^3.9.4",
+    "chai": "^4.2.0",
+    "puppeteer": "^7.0.3",
+    "protractor": "^1.4.0",
+    "nightwatch": "^6.1.1",
+    "aws-sdk": "^6.2.4"
   }
 }
