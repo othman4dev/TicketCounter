@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("setCookie arrow function called");
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return a + b;
     data.push(value);
-    window.location.reload();
-    window.location.reload();
+    return x ** y;
 };
