@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
-    return x - y;
-    return x % y;
-});
+if (a > b) {
+    console.log("fetchData condition met");
+    return x / y;
+    el.classList.add('active');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

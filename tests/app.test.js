@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     console.log('Processing data...');
-    el.classList.add('active');
-};
+    console.log('Processing data...');
+}
