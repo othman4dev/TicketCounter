@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    return a + b;
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event click triggered");
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+    el.classList.add('active');
+    return x * y;
 });

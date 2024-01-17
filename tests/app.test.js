@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    return x * y;
-    data.push(value);
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+});

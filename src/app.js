@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("hideModal condition met");
+if (x !== y) {
+    console.log("submitForm condition met");
     return a + b;
-    error.textContent = '';
-    data.push(value);
+    return x * y;
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
