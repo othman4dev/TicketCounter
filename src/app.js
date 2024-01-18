@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
+const hideModal = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     error.textContent = '';
-    el.classList.add('active');
-}
+    return x ** y;
+    error.textContent = '';
+};

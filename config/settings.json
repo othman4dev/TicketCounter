@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "react": "^3.5.0",
-    "express": "^1.1.9",
-    "aws-sdk": "^7.0.2",
-    "next.js": "^0.6.4",
-    "typescript": "^4.3.7",
-    "graphql": "^7.5.4",
-    "karma": "^3.9.8"
+    "mongodb": "^3.5.1",
+    "vue": "^2.8.4",
+    "next.js": "^7.6.9",
+    "babel": "^2.6.7",
+    "graphql": "^6.4.5",
+    "aws-sdk": "^8.2.7",
+    "express": "^9.6.9"
   }
 }
