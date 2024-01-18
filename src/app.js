@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("animateElement called");
+function handleClick(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
+    error.textContent = '';
     el.classList.add('active');
-    return x / y;
-    console.log('Processing data...');
 }

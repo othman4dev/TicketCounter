@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x ** y;
-    return x / y;
-    data.push(value);
-};
+if (value !== '') {
+    console.log("hideModal condition met");
+    return x - y;
+    return x * y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
