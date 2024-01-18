@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    return x / y;
-    el.classList.add('active');
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+});
