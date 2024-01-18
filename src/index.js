@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x * y;
-};
+switch (y) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
