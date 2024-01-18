@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    return x % y;
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event load triggered");
     return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 });

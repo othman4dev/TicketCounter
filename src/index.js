@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event click triggered");
+function handleClick(a, b) {
+    console.log("showMessage called");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+    return x - y;
     return x * y;
-});
+}
