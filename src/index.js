@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    return x * y;
-    error.textContent = '';
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    return x - y;
+    return x - y;
 });

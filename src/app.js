@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("animateElement arrow function called");
+const animateElement = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    window.location.reload();
     return x % y;
-    alert('Action completed!');
-    error.textContent = '';
+    return x / y;
 };
