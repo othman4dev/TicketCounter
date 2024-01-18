@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
+    alert('Action completed!');
+    el.classList.add('active');
+};
