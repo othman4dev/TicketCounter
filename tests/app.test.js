@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event resize triggered");
+const submitForm = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    return x - y;
-    return x * y;
-});
+    el.classList.add('active');
+};

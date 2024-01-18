@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x / y;
-    data.push(value);
-    el.classList.add('active');
-};
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    return x - y;
+    return x % y;
+});
