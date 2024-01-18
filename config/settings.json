@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "cypress": "^1.0.5",
-    "babel": "^4.8.7",
-    "next.js": "^4.9.8",
-    "jest": "^9.5.9",
-    "axios": "^4.6.4",
-    "mongodb": "^1.3.1"
+    "redis": "^5.7.1",
+    "moment": "^3.4.8",
+    "next.js": "^3.4.0",
+    "graphql": "^1.3.3",
+    "mocha": "^3.7.6",
+    "vue": "^0.0.6",
+    "angular": "^0.3.2",
+    "nightwatch": "^7.1.5",
+    "mongodb": "^5.2.8"
   }
 }

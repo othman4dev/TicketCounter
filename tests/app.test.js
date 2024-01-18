@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    el.classList.add('active');
-    alert('Action completed!');
-    el.classList.add('active');
-};
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    return x - y;
+    return x * y;
+});
