@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^3.5.1",
-    "vue": "^2.8.4",
-    "next.js": "^7.6.9",
-    "babel": "^2.6.7",
-    "graphql": "^6.4.5",
-    "aws-sdk": "^8.2.7",
-    "express": "^9.6.9"
+    "aws-sdk": "^0.7.2",
+    "next.js": "^5.9.3",
+    "protractor": "^1.8.2",
+    "gatsby": "^2.6.9",
+    "svelte": "^6.7.0"
   }
 }
