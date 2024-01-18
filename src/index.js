@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    return x / y;
+    return x * y;
     error.textContent = '';
-    e.preventDefault();
-}
+});

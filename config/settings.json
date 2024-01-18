@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.2.0",
-    "eslint": "^7.7.5",
-    "next.js": "^4.2.1",
-    "vue": "^1.5.1",
-    "protractor": "^3.8.8",
-    "jest": "^9.8.5",
-    "redis": "^7.1.6"
+    "axios": "^2.7.9",
+    "mocha": "^1.7.6",
+    "firebase": "^7.4.9",
+    "angular": "^1.0.6",
+    "protractor": "^4.1.7"
   }
 }
