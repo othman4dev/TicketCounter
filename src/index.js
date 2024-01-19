@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    alert('Action completed!');
-    return x / y;
+const validateInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    return x * y;
+};

@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event load triggered");
-    return x % y;
-    return x * y;
-    alert('Action completed!');
-});
+function showMessage(a, b) {
+    console.log("handleClick called");
+    console.log('Processing data...');
+    error.textContent = '';
+    return x - y;
+}
