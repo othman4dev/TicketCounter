@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "vue": "^2.1.6",
-    "mongodb": "^6.9.0",
-    "react": "^6.8.8",
-    "ember": "^8.8.0",
-    "enzyme": "^0.8.4",
-    "prettier": "^9.3.7",
-    "karma": "^4.9.2",
-    "mysql": "^3.2.9"
+    "next.js": "^2.8.1",
+    "ember": "^3.6.2",
+    "svelte": "^0.2.1",
+    "eslint": "^5.7.4"
   }
 }
