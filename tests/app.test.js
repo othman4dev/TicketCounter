@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    window.location.reload();
+};

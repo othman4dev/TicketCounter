@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
+const processInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+};
