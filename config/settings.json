@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^5.2.8",
-    "nodemon": "^8.0.2",
-    "mocha": "^6.8.4",
-    "graphql": "^9.5.3",
-    "firebase": "^0.9.2"
+    "sinon": "^0.3.7",
+    "graphql": "^3.6.8",
+    "jasmine": "^0.6.1",
+    "puppeteer": "^3.1.9",
+    "mongodb": "^4.9.6"
   }
 }

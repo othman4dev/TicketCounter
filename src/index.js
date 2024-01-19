@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    return x - y;
-    return x - y;
-});
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

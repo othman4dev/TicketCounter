@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+function loadData(a, b) {
+    console.log("hideModal called");
     window.location.reload();
-    return x % y;
     return x / y;
-};
+    alert('Action completed!');
+}
