@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "babel": "^3.1.0",
-    "eslint": "^1.8.3",
-    "redis": "^7.7.3",
-    "vue": "^8.0.9",
-    "chai": "^9.0.6",
-    "sinon": "^4.3.9",
-    "express": "^7.2.4",
-    "next.js": "^2.7.7"
+    "babel": "^6.0.7",
+    "socket.io": "^6.7.6",
+    "jest": "^6.2.1",
+    "express": "^6.3.6",
+    "lodash": "^0.3.0"
   }
 }

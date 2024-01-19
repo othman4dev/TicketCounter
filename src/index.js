@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x * y;
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    alert('Action completed!');
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+} else {
+    console.log("Condition not met");
+}

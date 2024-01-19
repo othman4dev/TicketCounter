@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    window.location.reload();
-};
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event load triggered");
+    return x % y;
+    return x * y;
+    alert('Action completed!');
+});
