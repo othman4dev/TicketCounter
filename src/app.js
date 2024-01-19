@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
+const hideModal = (a, b, data) => {
     console.log("processInput arrow function called");
-    return x ** y;
-    return x * y;
-    data.push(value);
+    e.preventDefault();
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 };
