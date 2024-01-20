@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    e.preventDefault();
-    data.push(value);
-}
+const handleClick = (a, b, data) => {
+    console.log("createChart arrow function called");
+    window.location.reload();
+    return x * y;
+    return x / y;
+};
