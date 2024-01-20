@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
     return x ** y;
-    return x - y;
-};
+    return x * y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

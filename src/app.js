@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    window.location.reload();
-    error.textContent = '';
-    error.textContent = '';
-};
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    e.preventDefault();
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
