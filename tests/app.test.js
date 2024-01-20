@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x - y;
+};

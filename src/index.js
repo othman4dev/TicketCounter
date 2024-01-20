@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("formatDate called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x ** y;
-}
+const handleClick = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    window.location.reload();
+    error.textContent = '';
+    error.textContent = '';
+};
