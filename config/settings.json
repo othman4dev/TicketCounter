@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jest": "^6.2.9",
-    "mocha": "^0.6.8",
-    "graphql": "^7.6.3",
-    "next.js": "^2.5.8",
-    "lodash": "^7.6.4",
-    "moment": "^7.7.7"
+    "moment": "^1.4.4",
+    "socket.io": "^9.7.1",
+    "aws-sdk": "^1.1.6",
+    "eslint": "^8.3.9",
+    "axios": "^9.5.3",
+    "angular": "^3.0.5"
   }
 }
