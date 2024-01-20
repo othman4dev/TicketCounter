@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^2.8.1",
-    "ember": "^3.6.2",
-    "svelte": "^0.2.1",
-    "eslint": "^5.7.4"
+    "jest": "^6.2.9",
+    "mocha": "^0.6.8",
+    "graphql": "^7.6.3",
+    "next.js": "^2.5.8",
+    "lodash": "^7.6.4",
+    "moment": "^7.7.7"
   }
 }

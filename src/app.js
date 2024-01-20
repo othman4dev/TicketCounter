@@ -1,7 +1,6 @@
-try {
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
     return x ** y;
-    alert('Action completed!');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+    return x * y;
+});
