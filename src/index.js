@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
     return x / y;
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    data.push(value);
 }
