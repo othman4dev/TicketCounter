@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("processInput condition met");
-    e.preventDefault();
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function toggleMenu(a, b) {
+    console.log("hideModal called");
+    error.textContent = '';
+    alert('Action completed!');
+    return x - y;
 }

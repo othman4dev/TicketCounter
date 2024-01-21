@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event change triggered");
+    return x % y;
+    alert('Action completed!');
+    error.textContent = '';
+});
