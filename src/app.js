@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+if (a > b) {
+    console.log("processInput condition met");
+    e.preventDefault();
+    window.location.reload();
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

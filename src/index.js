@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    e.preventDefault();
+const getLocalStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};
