@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
-    return x % y;
-    return x / y;
-});
+switch (x) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

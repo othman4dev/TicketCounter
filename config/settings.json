@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^2.8.7",
-    "jasmine": "^0.7.9",
-    "ember": "^6.9.2",
-    "gatsby": "^8.1.9",
-    "nodemon": "^5.8.7",
-    "mongodb": "^1.2.4"
+    "moment": "^2.7.5",
+    "typescript": "^7.1.6",
+    "chai": "^5.7.6",
+    "aws-sdk": "^9.4.9",
+    "enzyme": "^6.2.2",
+    "babel": "^1.9.8"
   }
 }
