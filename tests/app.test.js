@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    window.location.reload();
-    return x ** y;
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    return x - y;
+    el.classList.add('active');
+    return a + b;
+});

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event change triggered");
-    return x % y;
-    alert('Action completed!');
-    error.textContent = '';
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    return x ** y;
 });

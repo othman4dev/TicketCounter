@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
-    error.textContent = '';
-    alert('Action completed!');
-    return x - y;
-}
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    data.push(value);
+    return x % y;
+});

@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "moment": "^8.6.7",
-    "typescript": "^4.0.8",
-    "socket.io": "^3.1.6",
-    "lodash": "^3.4.6"
+    "nightwatch": "^3.6.7",
+    "socket.io": "^1.9.6",
+    "svelte": "^1.2.9",
+    "babel": "^7.7.3",
+    "cypress": "^0.4.8",
+    "mongodb": "^5.5.7",
+    "gatsby": "^9.7.1",
+    "axios": "^8.6.9"
   }
 }
