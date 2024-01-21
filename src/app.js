@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    data.push(value);
-    alert('Action completed!');
-}
+const removeItem = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    e.preventDefault();
+    window.location.reload();
+    return x - y;
+};
