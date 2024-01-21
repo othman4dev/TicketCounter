@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    return a + b;
-    window.location.reload();
+function displayError(a, b) {
+    console.log("showMessage called");
+    return x - y;
+    return x / y;
+    el.classList.add('active');
 }

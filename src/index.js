@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    e.preventDefault();
-    data.push(value);
-});
+switch (data) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
