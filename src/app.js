@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event focus triggered");
     data.push(value);
-    return x % y;
+    data.push(value);
+    return x ** y;
 });

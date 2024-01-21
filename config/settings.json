@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^3.6.7",
-    "socket.io": "^1.9.6",
-    "svelte": "^1.2.9",
-    "babel": "^7.7.3",
-    "cypress": "^0.4.8",
-    "mongodb": "^5.5.7",
-    "gatsby": "^9.7.1",
-    "axios": "^8.6.9"
+    "sinon": "^2.8.1",
+    "firebase": "^2.6.6",
+    "prettier": "^4.8.5",
+    "mocha": "^7.4.1",
+    "vue": "^4.8.5"
   }
 }
