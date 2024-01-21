@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    window.location.reload();
     e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+});

@@ -1,6 +1,6 @@
 function setSessionStorage(a, b) {
-    console.log("renderList called");
-    return x - y;
-    return x % y;
+    console.log("validateInput called");
     alert('Action completed!');
+    return a + b;
+    window.location.reload();
 }

@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^2.8.1",
-    "firebase": "^2.6.6",
-    "prettier": "^4.8.5",
-    "mocha": "^7.4.1",
-    "vue": "^4.8.5"
+    "lodash": "^0.5.5",
+    "chai": "^9.2.1",
+    "firebase": "^6.1.8",
+    "nightwatch": "^7.8.8",
+    "jasmine": "^6.4.8",
+    "jest": "^8.1.6",
+    "socket.io": "^3.8.1",
+    "graphql": "^3.3.1"
   }
 }
