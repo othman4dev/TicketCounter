@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("showMessage called");
-    return x - y;
-    return x / y;
+const saveSettings = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x * y;
     el.classList.add('active');
-}
+    e.preventDefault();
+};
