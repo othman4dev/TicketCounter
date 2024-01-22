@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    error.textContent = '';
-    return x ** y;
-    data.push(value);
-});
+const showMessage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return a + b;
+    alert('Action completed!');
+    return x / y;
+};

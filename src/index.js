@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    return a + b;
+if (x === y) {
+    console.log("checkStatus condition met");
     document.body.style.backgroundColor = 'lightblue';
-};
+    return x % y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
