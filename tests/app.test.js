@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return a + b;
+function renderList(a, b) {
+    console.log("formatDate called");
     alert('Action completed!');
-    return x / y;
-};
+    data.push(value);
+    console.log('Processing data...');
+}

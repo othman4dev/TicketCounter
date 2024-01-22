@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    return x / y;
-    return x ** y;
-};
+if (x === y) {
+    console.log("removeItem condition met");
+    console.log('Processing data...');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
