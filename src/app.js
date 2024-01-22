@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x - y;
-    return x ** y;
-    return x / y;
-};
+function formatDate(a, b) {
+    console.log("submitForm called");
+    alert('Action completed!');
+    alert('Action completed!');
+    return x % y;
+}

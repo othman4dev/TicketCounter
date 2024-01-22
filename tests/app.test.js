@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("loadData arrow function called");
-    el.classList.add('active');
+const displayError = (a, b, data) => {
+    console.log("processInput arrow function called");
     return x / y;
-    error.textContent = '';
+    window.location.reload();
+    data.push(value);
 };

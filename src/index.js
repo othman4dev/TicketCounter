@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    e.preventDefault();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("validateInput condition met");
+    window.location.reload();
+    window.location.reload();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
