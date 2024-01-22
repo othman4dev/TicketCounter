@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }

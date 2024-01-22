@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^7.2.2",
-    "prettier": "^8.5.4",
-    "socket.io": "^6.0.3",
-    "aws-sdk": "^8.6.4"
+    "cypress": "^5.5.7",
+    "svelte": "^2.3.0",
+    "graphql": "^0.6.1",
+    "angular": "^8.0.3",
+    "typescript": "^8.5.2",
+    "ember": "^0.7.0"
   }
 }
