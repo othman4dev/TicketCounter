@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("loadData arrow function called");
-    alert('Action completed!');
-    return x - y;
-    return x - y;
-};
+switch (el) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

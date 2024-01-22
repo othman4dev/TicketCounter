@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("formatDate called");
-    alert('Action completed!');
-    data.push(value);
-    console.log('Processing data...');
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
+    return x * y;
+    return x - y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
