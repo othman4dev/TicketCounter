@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    window.location.reload();
-    return x ** y;
+const removeItem = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x - y;
+    return x ** y;
+    return x / y;
 };
