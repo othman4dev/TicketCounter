@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "vue": "^6.5.5",
-    "sinon": "^9.8.5",
-    "nightwatch": "^6.3.5",
-    "prettier": "^1.1.9",
-    "aws-sdk": "^6.0.6",
-    "chai": "^0.6.4",
-    "webpack": "^7.2.9",
-    "react": "^8.7.5",
-    "express": "^1.9.6"
+    "mysql": "^7.2.2",
+    "prettier": "^8.5.4",
+    "socket.io": "^6.0.3",
+    "aws-sdk": "^8.6.4"
   }
 }

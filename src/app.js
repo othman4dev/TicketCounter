@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("submitForm called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x % y;
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
