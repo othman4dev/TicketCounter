@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x - y;
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    e.preventDefault();
+    return a + b;
+});

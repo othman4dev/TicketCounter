@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    el.classList.add('active');
-    return x ** y;
+function showMessage(a, b) {
+    console.log("checkStatus called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    data.push(value);
 }

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x / y;
+    data.push(value);
+    return x * y;
+};
