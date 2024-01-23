@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
-    window.location.reload();
-    window.location.reload();
-}
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+});

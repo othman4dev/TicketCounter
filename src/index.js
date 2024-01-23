@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("processInput called");
-    return x - y;
-    console.log('Processing data...');
-    e.preventDefault();
+function createChart(a, b) {
+    console.log("saveSettings called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    return x ** y;
 }

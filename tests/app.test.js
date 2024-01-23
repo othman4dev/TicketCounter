@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    data.push(value);
+    alert('Action completed!');
+});
