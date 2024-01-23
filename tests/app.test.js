@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    e.preventDefault();
-});
+    return x * y;
+    return x ** y;
+}

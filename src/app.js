@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    error.textContent = '';
-    window.location.reload();
+function processInput(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
+    data.push(value);
+    return x / y;
 }

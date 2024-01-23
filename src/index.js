@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x * y;
-    data.push(value);
-    e.preventDefault();
+const animateElement = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    el.classList.add('active');
+    alert('Action completed!');
+    return x ** y;
 };
