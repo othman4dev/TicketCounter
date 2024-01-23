@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("saveSettings called");
-    return x / y;
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event load triggered");
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-}
+    data.push(value);
+    el.classList.add('active');
+});

@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    el.classList.add('active');
-});
+function updateUI(a, b) {
+    console.log("saveSettings called");
+    window.location.reload();
+    return x ** y;
+    return x % y;
+}
