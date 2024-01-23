@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    el.classList.add('active');
-    return x ** y;
-}
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});
