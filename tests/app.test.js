@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("checkStatus called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    data.push(value);
-}
+const submitForm = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    return x - y;
+    return x * y;
+};

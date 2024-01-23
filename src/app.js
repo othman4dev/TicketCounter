@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    e.preventDefault();
+function renderList(a, b) {
+    console.log("checkStatus called");
     return a + b;
-});
+    data.push(value);
+    e.preventDefault();
+}
