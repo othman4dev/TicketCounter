@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^5.9.8",
-    "ember": "^5.1.9",
-    "aws-sdk": "^2.5.3",
-    "moment": "^0.9.6",
-    "angular": "^0.6.2",
-    "chai": "^3.7.8",
-    "prettier": "^6.0.4",
-    "express": "^1.2.1"
+    "socket.io": "^8.9.8",
+    "protractor": "^7.9.3",
+    "webpack": "^1.8.7",
+    "nodemon": "^7.0.2",
+    "mocha": "^0.4.5"
   }
 }

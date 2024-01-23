@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    return x - y;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    return x * y;
 }
