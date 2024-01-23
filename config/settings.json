@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "graphql": "^4.7.0",
-    "prettier": "^4.0.9",
-    "next.js": "^9.0.4",
-    "vue": "^6.7.7",
-    "puppeteer": "^0.9.5"
+    "next.js": "^8.8.5",
+    "jest": "^6.5.7",
+    "angular": "^3.4.6",
+    "gatsby": "^0.9.9",
+    "webpack": "^2.3.5",
+    "redis": "^4.2.4",
+    "firebase": "^3.8.5",
+    "moment": "^5.1.1",
+    "prettier": "^1.7.5"
   }
 }
