@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x ** y;
-};
+try {
+    return x / y;
+    return a + b;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

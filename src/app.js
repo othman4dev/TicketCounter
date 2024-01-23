@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    data.push(value);
-    return x / y;
+try {
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
