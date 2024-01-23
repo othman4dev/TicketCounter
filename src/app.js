@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("checkStatus called");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-    data.push(value);
-    e.preventDefault();
+    window.location.reload();
+    return x ** y;
 }

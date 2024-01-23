@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return a + b;
-    return x ** y;
-}
+const loadData = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x / y;
+    el.classList.add('active');
+    window.location.reload();
+};
