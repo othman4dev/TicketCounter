@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    return x - y;
+const getLocalStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
     return x / y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+};

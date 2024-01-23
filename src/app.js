@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+function updateUI(a, b) {
+    console.log("displayError called");
+    console.log('Processing data...');
     window.location.reload();
-    return x ** y;
+    window.location.reload();
 }

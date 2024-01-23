@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "angular": "^5.4.2",
-    "ember": "^3.4.8",
-    "puppeteer": "^5.3.4",
-    "sinon": "^5.1.0",
-    "chai": "^0.8.9"
+    "jest": "^0.9.3",
+    "redis": "^3.0.0",
+    "ember": "^6.0.9",
+    "sinon": "^5.2.9",
+    "vue": "^5.4.7",
+    "mysql": "^9.4.7",
+    "nightwatch": "^4.1.7"
   }
 }
