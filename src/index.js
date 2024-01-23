@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    console.log('Processing data...');
+    error.textContent = '';
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-});
+} else {
+    console.log("Condition not met");
+}
