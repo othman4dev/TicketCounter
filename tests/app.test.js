@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
-    data.push(value);
-    alert('Action completed!');
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    error.textContent = '';
+    e.preventDefault();
 });

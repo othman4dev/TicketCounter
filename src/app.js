@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    error.textContent = '';
+    window.location.reload();
+}

@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("saveSettings called");
-    document.body.style.backgroundColor = 'lightblue';
+const loadData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x * y;
     data.push(value);
-    return x ** y;
-}
+    e.preventDefault();
+};

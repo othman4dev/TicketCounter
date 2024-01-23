@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "moment": "^3.0.9",
-    "nodemon": "^5.3.8",
-    "jasmine": "^7.0.8",
-    "protractor": "^3.2.1",
-    "typescript": "^3.7.8",
-    "lodash": "^9.9.6"
+    "redis": "^5.1.9",
+    "karma": "^2.0.5",
+    "mysql": "^8.2.2",
+    "react": "^5.5.5",
+    "jest": "^4.8.8",
+    "vue": "^4.0.8"
   }
 }
