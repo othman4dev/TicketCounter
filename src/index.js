@@ -1,7 +1,6 @@
-try {
+function createChart(a, b) {
+    console.log("saveSettings called");
     return x / y;
-    return a + b;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
