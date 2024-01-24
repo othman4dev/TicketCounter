@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("saveSettings called");
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event click triggered");
     window.location.reload();
-    return x ** y;
-    return x % y;
-}
+    return x - y;
+    alert('Action completed!');
+});
