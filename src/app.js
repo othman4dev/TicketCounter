@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("loadData condition met");
-    return x * y;
-    console.log('Processing data...');
+const validateInput = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};
