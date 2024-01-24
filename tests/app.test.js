@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
-    return x / y;
-    return x / y;
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
+    return x - y;
+    return x * y;
+    return x * y;
 } else {
     console.log("Condition not met");
 }

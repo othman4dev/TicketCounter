@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("getLocalStorage condition met");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+if (x !== y) {
+    console.log("loadData condition met");
+    return x * y;
+    console.log('Processing data...');
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
