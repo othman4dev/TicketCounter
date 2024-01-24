@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    return x - y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     alert('Action completed!');
-});
+    document.body.style.backgroundColor = 'lightblue';
+}

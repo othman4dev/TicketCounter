@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    return x - y;
+};

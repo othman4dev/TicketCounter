@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x * y;
+    alert('Action completed!');
+    return x ** y;
+};
