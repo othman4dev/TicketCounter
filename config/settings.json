@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "ember": "^7.9.0",
-    "mysql": "^3.6.0",
-    "graphql": "^6.8.6",
-    "socket.io": "^6.0.9",
-    "express": "^3.1.5"
+    "chai": "^8.5.2",
+    "typescript": "^5.9.7",
+    "vue": "^1.5.1",
+    "aws-sdk": "^0.6.5",
+    "moment": "^3.9.0",
+    "gatsby": "^2.3.5",
+    "karma": "^9.1.2",
+    "eslint": "^9.2.0"
   }
 }
