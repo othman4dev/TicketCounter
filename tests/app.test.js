@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("toggleMenu condition met");
-    return a + b;
-    error.textContent = '';
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+});

@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("loadData called");
-    return x * y;
-    window.location.reload();
-    el.classList.add('active');
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    e.preventDefault();
+    return x ** y;
 }
