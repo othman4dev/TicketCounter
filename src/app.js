@@ -1,6 +1,7 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+switch (a) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

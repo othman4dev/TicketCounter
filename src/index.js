@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("updateUI arrow function called");
+const checkStatus = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     console.log('Processing data...');
-    return a + b;
-    return x - y;
+    return x * y;
+    error.textContent = '';
 };
