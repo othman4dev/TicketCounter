@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("animateElement arrow function called");
+const validateInput = (a, b, data) => {
+    console.log("processInput arrow function called");
     return a + b;
-    return x - y;
-    return x % y;
+    data.push(value);
+    return x * y;
 };

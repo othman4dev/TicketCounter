@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("validateInput called");
-    error.textContent = '';
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     el.classList.add('active');
-    alert('Action completed!');
+    return x / y;
 }
