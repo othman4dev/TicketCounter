@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
+function submitForm(a, b) {
+    console.log("formatDate called");
+    e.preventDefault();
+    return x % y;
     return x * y;
-    alert('Action completed!');
 }
