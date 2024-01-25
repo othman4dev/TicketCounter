@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    e.preventDefault();
-    window.location.reload();
-    return x * y;
-};
+try {
+    return x - y;
+    return a + b;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

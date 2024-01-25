@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    return x ** y;
-};
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    error.textContent = '';
+    return a + b;
+});

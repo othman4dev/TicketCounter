@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "sinon": "^9.0.6",
-    "react": "^0.4.3",
-    "svelte": "^5.3.9",
-    "graphql": "^5.6.8",
-    "cypress": "^8.3.5"
+    "jest": "^4.0.5",
+    "mysql": "^3.9.7",
+    "lodash": "^7.0.0",
+    "gatsby": "^6.4.4"
   }
 }
