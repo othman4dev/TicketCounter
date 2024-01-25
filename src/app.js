@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
-    error.textContent = '';
+const updateUI = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return a + b;
-});
+    return x - y;
+    return x % y;
+};

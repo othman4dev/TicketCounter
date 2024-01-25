@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return a + b;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("validateInput called");
+    error.textContent = '';
+    el.classList.add('active');
+    alert('Action completed!');
 }

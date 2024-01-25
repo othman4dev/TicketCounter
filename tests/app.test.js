@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    e.preventDefault();
-    return x ** y;
+if (x === y) {
+    console.log("showMessage condition met");
+    return x % y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
