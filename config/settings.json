@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "axios": "^8.7.9",
-    "next.js": "^7.0.9",
-    "express": "^2.6.8"
+    "karma": "^4.4.1",
+    "protractor": "^4.8.5",
+    "lodash": "^0.0.6",
+    "enzyme": "^5.8.1",
+    "typescript": "^0.5.3"
   }
 }

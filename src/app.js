@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return a + b;
-    data.push(value);
-    return x * y;
-};
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    error.textContent = '';
+    return x / y;
+});
