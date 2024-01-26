@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    console.log('Processing data...');
+    return x - y;
+    el.classList.add('active');
+});
