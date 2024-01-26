@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x / y;
+const setSessionStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    error.textContent = '';
     return a + b;
-}
+    e.preventDefault();
+};

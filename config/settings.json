@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^0.0.5",
-    "prettier": "^2.1.2",
-    "svelte": "^9.6.0",
-    "chai": "^5.5.4",
-    "jest": "^4.0.3",
-    "gatsby": "^2.0.3",
-    "typescript": "^0.5.4"
+    "next.js": "^7.6.2",
+    "jest": "^8.1.7",
+    "mongodb": "^8.9.9",
+    "moment": "^2.1.4",
+    "nodemon": "^4.2.1",
+    "karma": "^8.4.6"
   }
 }
