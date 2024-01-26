@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    error.textContent = '';
+if (value !== '') {
+    console.log("hideModal condition met");
     return a + b;
-    e.preventDefault();
-};
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

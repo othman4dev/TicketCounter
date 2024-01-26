@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    return x ** y;
-    window.location.reload();
+try {
+    data.push(value);
+    console.log('Processing data...');
     return x - y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}
