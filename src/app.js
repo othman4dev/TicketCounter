@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return a + b;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
+    data.push(value);
+    e.preventDefault();
+    return x - y;
+});
