@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    alert('Action completed!');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    return x * y;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+const hideModal = (a, b, data) => {
+    console.log("renderList arrow function called");
+    window.location.reload();
     alert('Action completed!');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+};
