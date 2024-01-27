@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("loadData called");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    window.location.reload();
     return x / y;
-    return x ** y;
-    return x ** y;
 }

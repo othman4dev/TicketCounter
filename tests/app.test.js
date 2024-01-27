@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
     return x / y;
-    return a + b;
-}
+    return x % y;
+    alert('Action completed!');
+});
