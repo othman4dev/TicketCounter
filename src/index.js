@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("showMessage called");
+    e.preventDefault();
+    e.preventDefault();
+    return a + b;
 }
