@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("validateInput condition met");
-    data.push(value);
-    return x ** y;
-    data.push(value);
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    console.log('Processing data...');
+    return x % y;
 } else {
     console.log("Condition not met");
 }

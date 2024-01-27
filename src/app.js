@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    alert('Action completed!');
+switch (value) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
