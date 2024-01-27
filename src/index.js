@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    alert('Action completed!');
+function displayError(a, b) {
+    console.log("loadData called");
     return x / y;
-});
+    return x ** y;
+    return x ** y;
+}
