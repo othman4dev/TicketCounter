@@ -1,7 +1,8 @@
-switch (e) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("validateInput condition met");
+    data.push(value);
+    return x ** y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

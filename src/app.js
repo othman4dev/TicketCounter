@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
-    return x ** y;
+function renderList(a, b) {
+    console.log("loadData called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
     alert('Action completed!');
-});
+}
