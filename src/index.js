@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+try {
+    return a + b;
+    return x / y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    el.classList.add('active');
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
 }
