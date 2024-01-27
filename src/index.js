@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
-    return x - y;
-    return x / y;
-    return x - y;
-});
+const submitForm = (a, b, data) => {
+    console.log("displayError arrow function called");
+    el.classList.add('active');
+    return x % y;
+    return a + b;
+};
