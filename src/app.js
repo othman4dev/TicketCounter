@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    return x ** y;
-    return x ** y;
+try {
+    error.textContent = '';
     e.preventDefault();
-});
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
