@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("getLocalStorage called");
-    return x % y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    return x - y;
+    error.textContent = '';
 }

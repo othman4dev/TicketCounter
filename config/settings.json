@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^8.8.6",
-    "gatsby": "^4.0.7",
-    "typescript": "^4.6.4",
-    "puppeteer": "^0.9.1",
-    "ember": "^9.7.4"
+    "ember": "^5.7.8",
+    "protractor": "^3.4.4",
+    "svelte": "^9.9.7",
+    "puppeteer": "^7.0.8",
+    "enzyme": "^2.5.9",
+    "firebase": "^9.0.5"
   }
 }
