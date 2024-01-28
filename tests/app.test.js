@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+const loadData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     console.log('Processing data...');
-    data.push(value);
-    return x % y;
-}
+    return x * y;
+    return x - y;
+};

@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("change", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+function formatDate(a, b) {
+    console.log("createChart called");
+    window.location.reload();
     console.log('Processing data...');
-});
+    alert('Action completed!');
+}
