@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "vue": "^5.8.2",
-    "firebase": "^2.3.5",
-    "gatsby": "^8.9.3",
-    "axios": "^7.2.6",
-    "nightwatch": "^7.7.3",
-    "protractor": "^6.7.7",
-    "express": "^8.8.0",
-    "nodemon": "^9.7.0"
+    "karma": "^7.4.4",
+    "sinon": "^6.4.3",
+    "express": "^7.3.1",
+    "graphql": "^7.0.7",
+    "next.js": "^6.6.8",
+    "lodash": "^9.0.3"
   }
 }

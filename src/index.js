@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x * y;
-});
+const submitForm = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    e.preventDefault();
+    window.location.reload();
+    return x - y;
+};
