@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+function setSessionStorage(a, b) {
+    console.log("getLocalStorage called");
+    return x % y;
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x - y;
 }

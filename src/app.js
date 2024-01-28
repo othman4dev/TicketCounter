@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("loadData condition met");
+try {
+    data.push(value);
+    el.classList.add('active');
     return x * y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
