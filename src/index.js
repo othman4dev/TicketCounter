@@ -1,7 +1,7 @@
-try {
-    return a + b;
-    return x / y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+switch (value) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

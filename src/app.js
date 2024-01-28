@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    el.classList.add('active');
-    return x - y;
-}
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    return x ** y;
+    e.preventDefault();
+});
