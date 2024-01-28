@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("displayError arrow function called");
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-    return x % y;
-    return a + b;
-};
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

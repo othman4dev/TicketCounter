@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^6.8.9",
-    "lodash": "^3.3.4",
-    "mongodb": "^4.9.1",
-    "next.js": "^7.5.8",
-    "moment": "^4.9.1"
+    "prettier": "^6.5.7",
+    "mongodb": "^9.5.8",
+    "nodemon": "^2.1.2",
+    "redis": "^6.5.8"
   }
 }
