@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("loadData condition met");
+    return x * y;
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
