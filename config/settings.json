@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^6.9.9",
-    "aws-sdk": "^7.5.0",
-    "moment": "^1.9.6",
-    "nightwatch": "^0.0.5",
-    "jasmine": "^7.0.4",
-    "enzyme": "^2.7.4",
-    "gatsby": "^3.8.2"
+    "protractor": "^4.9.8",
+    "mysql": "^7.7.9",
+    "socket.io": "^7.5.4",
+    "aws-sdk": "^9.3.2",
+    "vue": "^5.8.0"
   }
 }

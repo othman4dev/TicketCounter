@@ -1,7 +1,6 @@
-try {
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
     e.preventDefault();
     return x - y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+});
