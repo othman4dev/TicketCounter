@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
+for (let i = 0; i < 8; i++) {
     console.log("Loop iteration: " + i);
-    return x - y;
-    return x - y;
-    error.textContent = '';
+    console.log('Processing data...');
+    data.push(value);
+    return x % y;
 }
