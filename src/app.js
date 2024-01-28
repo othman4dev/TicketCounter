@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("createChart called");
-    window.location.reload();
-    console.log('Processing data...');
+try {
     alert('Action completed!');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

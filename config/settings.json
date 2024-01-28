@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^3.3.6",
-    "aws-sdk": "^2.7.1",
-    "cypress": "^5.1.7",
-    "puppeteer": "^5.0.0",
-    "graphql": "^5.4.5"
+    "vue": "^5.8.2",
+    "firebase": "^2.3.5",
+    "gatsby": "^8.9.3",
+    "axios": "^7.2.6",
+    "nightwatch": "^7.7.3",
+    "protractor": "^6.7.7",
+    "express": "^8.8.0",
+    "nodemon": "^9.7.0"
   }
 }
