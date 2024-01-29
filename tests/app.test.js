@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    e.preventDefault();
+    console.log('Processing data...');
+    error.textContent = '';
+};

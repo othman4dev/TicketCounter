@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    return x * y;
+if (value !== '') {
+    console.log("submitForm condition met");
     alert('Action completed!');
-});
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
