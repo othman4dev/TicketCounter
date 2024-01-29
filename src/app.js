@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+const formatDate = (a, b, data) => {
+    console.log("createChart arrow function called");
+    alert('Action completed!');
     return x / y;
-    el.classList.add('active');
-    el.classList.add('active');
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
