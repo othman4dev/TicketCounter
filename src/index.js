@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("hideModal condition met");
+    alert('Action completed!');
+    return x - y;
     return x / y;
-    data.push(value);
-});
+} else {
+    console.log("Condition not met");
+}

@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "axios": "^5.0.5",
-    "next.js": "^7.7.5",
-    "mongodb": "^6.3.4",
-    "angular": "^1.9.3",
-    "mysql": "^0.1.9",
-    "karma": "^5.1.7",
-    "ember": "^4.5.8"
+    "jest": "^0.8.1",
+    "react": "^8.8.3",
+    "protractor": "^6.7.2",
+    "puppeteer": "^5.2.3",
+    "moment": "^4.1.1",
+    "lodash": "^0.3.3",
+    "webpack": "^8.4.2",
+    "next.js": "^1.1.3"
   }
 }
