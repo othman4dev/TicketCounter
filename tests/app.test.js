@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x * y;
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return a + b;
 });
