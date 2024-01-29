@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("createChart arrow function called");
-    alert('Action completed!');
-    return x / y;
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-};
+    data.push(value);
+});

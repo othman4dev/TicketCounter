@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-}
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    return x ** y;
+    error.textContent = '';
+});
