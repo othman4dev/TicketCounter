@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
-    return x * y;
-    window.location.reload();
-};
+switch (a) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
