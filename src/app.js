@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+switch (e) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

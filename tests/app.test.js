@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    console.log('Processing data...');
-    return x ** y;
+try {
     error.textContent = '';
-});
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
