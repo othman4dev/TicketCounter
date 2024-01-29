@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x * y;
+    error.textContent = '';
+    data.push(value);
+};

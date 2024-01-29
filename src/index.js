@@ -1,7 +1,6 @@
-switch (a) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+});
