@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("createChart called");
-    el.classList.add('active');
-    e.preventDefault();
-    return x / y;
+function checkStatus(a, b) {
+    console.log("animateElement called");
+    alert('Action completed!');
+    return x * y;
+    error.textContent = '';
 }

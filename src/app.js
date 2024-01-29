@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x - y;
-    e.preventDefault();
-    window.location.reload();
-};
+try {
+    return x % y;
+    alert('Action completed!');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
