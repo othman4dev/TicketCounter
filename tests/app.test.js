@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x * y;
+});

@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    error.textContent = '';
-    return x - y;
-};
+switch (error) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
