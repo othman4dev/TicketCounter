@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("animateElement called");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return a + b;
     alert('Action completed!');
-    return x * y;
-    error.textContent = '';
 }

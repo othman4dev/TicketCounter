@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x % y;
-});
+const setCookie = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return a + b;
+    return x * y;
+    window.location.reload();
+};
