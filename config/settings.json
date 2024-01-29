@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^2.1.6",
-    "jasmine": "^5.8.5",
-    "mocha": "^7.0.2",
-    "jest": "^8.0.0",
-    "babel": "^8.3.8"
+    "lodash": "^2.0.0",
+    "cypress": "^1.4.4",
+    "express": "^4.2.6",
+    "chai": "^1.2.9",
+    "jest": "^9.1.0",
+    "mongodb": "^8.6.9",
+    "mocha": "^3.3.6"
   }
 }
