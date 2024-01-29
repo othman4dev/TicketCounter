@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    alert('Action completed!');
-    return a + b;
-}
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x - y;
+    e.preventDefault();
+    window.location.reload();
+};

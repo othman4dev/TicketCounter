@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    console.log('Processing data...');
-    return x % y;
-    return x * y;
-});
+function loadData(a, b) {
+    console.log("createChart called");
+    el.classList.add('active');
+    e.preventDefault();
+    return x / y;
+}
