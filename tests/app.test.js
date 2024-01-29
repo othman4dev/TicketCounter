@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
-    data.push(value);
-    error.textContent = '';
-});
+switch (el) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
