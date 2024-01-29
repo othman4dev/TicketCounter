@@ -1,7 +1,7 @@
 try {
-    return x * y;
-    el.classList.add('active');
-    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }
