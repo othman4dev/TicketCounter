@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
+for (let i = 0; i < 6; i++) {
     console.log("Loop iteration: " + i);
     return a + b;
-    alert('Action completed!');
     return a + b;
+    return x - y;
 }
