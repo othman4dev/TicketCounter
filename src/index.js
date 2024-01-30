@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("saveSettings called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+if (x === y) {
+    console.log("fetchData condition met");
+    alert('Action completed!');
+    data.push(value);
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
