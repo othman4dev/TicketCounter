@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    return a + b;
+    console.log('Processing data...');
+});

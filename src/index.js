@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
+const hideModal = (a, b, data) => {
+    console.log("processInput arrow function called");
+    window.location.reload();
     alert('Action completed!');
-    data.push(value);
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+};
