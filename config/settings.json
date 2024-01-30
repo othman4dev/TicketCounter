@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "babel": "^6.0.8",
-    "protractor": "^2.7.3",
-    "eslint": "^9.2.0",
-    "ember": "^0.5.9",
-    "svelte": "^7.1.1",
-    "axios": "^0.3.0",
-    "typescript": "^1.8.3"
+    "graphql": "^9.0.2",
+    "mongodb": "^4.2.2",
+    "mysql": "^3.0.9",
+    "jest": "^4.9.2",
+    "nodemon": "^4.6.6"
   }
 }

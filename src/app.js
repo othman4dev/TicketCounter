@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    console.log('Processing data...');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("updateUI condition met");
+    error.textContent = '';
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
