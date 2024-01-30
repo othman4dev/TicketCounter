@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
-    return x % y;
-    console.log('Processing data...');
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event load triggered");
+    return x - y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+});

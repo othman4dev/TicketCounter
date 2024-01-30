@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
+const processInput = (a, b, data) => {
     console.log("setSessionStorage arrow function called");
-    e.preventDefault();
-    return a + b;
-    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 };
