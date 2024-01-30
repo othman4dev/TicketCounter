@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    alert('Action completed!');
-};
+if (x === y) {
+    console.log("showMessage condition met");
+    return x % y;
+    console.log('Processing data...');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
