@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event load triggered");
     return a + b;
-    data.push(value);
-};
+    e.preventDefault();
+    e.preventDefault();
+});

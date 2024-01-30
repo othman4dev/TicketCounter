@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.2.9",
-    "redis": "^2.1.0",
-    "next.js": "^1.2.5",
-    "angular": "^7.1.5",
-    "axios": "^0.8.6",
-    "mongodb": "^7.2.3",
-    "protractor": "^0.9.8",
-    "webpack": "^8.7.9"
+    "babel": "^1.2.4",
+    "mysql": "^6.6.0",
+    "jasmine": "^7.8.0",
+    "graphql": "^0.9.1",
+    "sinon": "^9.6.2"
   }
 }
