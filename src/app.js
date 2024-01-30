@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    return a + b;
-    e.preventDefault();
-    e.preventDefault();
-});
+switch (b) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

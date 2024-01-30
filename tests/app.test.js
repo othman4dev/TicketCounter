@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x - y;
-    e.preventDefault();
-    return x / y;
-};
+switch (a) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
