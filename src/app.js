@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("updateUI condition met");
-    error.textContent = '';
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
+    alert('Action completed!');
     el.classList.add('active');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+});
