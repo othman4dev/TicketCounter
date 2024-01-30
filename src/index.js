@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("processInput arrow function called");
-    window.location.reload();
-    alert('Action completed!');
+try {
     el.classList.add('active');
-};
+    return x / y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
