@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
+const showMessage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
+    return a + b;
     data.push(value);
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+};

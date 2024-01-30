@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
+const saveSettings = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
+    data.push(value);
     return x / y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};

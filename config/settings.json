@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "angular": "^5.2.9",
-    "firebase": "^2.9.5",
-    "moment": "^8.3.6",
-    "jest": "^7.9.7",
-    "vue": "^6.5.9",
-    "typescript": "^3.8.9",
-    "protractor": "^9.6.1",
-    "lodash": "^2.6.8"
+    "aws-sdk": "^5.2.9",
+    "redis": "^2.1.0",
+    "next.js": "^1.2.5",
+    "angular": "^7.1.5",
+    "axios": "^0.8.6",
+    "mongodb": "^7.2.3",
+    "protractor": "^0.9.8",
+    "webpack": "^8.7.9"
   }
 }
