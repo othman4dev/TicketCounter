@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    el.classList.add('active');
-    error.textContent = '';
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    data.push(value);
+    return x - y;
 });
