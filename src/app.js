@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("updateUI condition met");
+function toggleMenu(a, b) {
+    console.log("showMessage called");
+    return x / y;
     return x - y;
-    e.preventDefault();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x / y;
 }
