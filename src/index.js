@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    return a + b;
+    return a + b;
+});

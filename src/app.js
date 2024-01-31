@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    return x - y;
-    return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
