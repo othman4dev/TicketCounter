@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
+if (a > b) {
+    console.log("formatDate condition met");
+    return a + b;
     e.preventDefault();
     el.classList.add('active');
-    error.textContent = '';
-};
+} else {
+    console.log("Condition not met");
+}
