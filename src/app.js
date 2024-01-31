@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("showMessage called");
-    return x / y;
-    return x - y;
-    return x / y;
-}
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    console.log('Processing data...');
+    error.textContent = '';
+});

@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^5.9.0",
-    "mongodb": "^4.3.6",
-    "webpack": "^2.2.3",
-    "jasmine": "^3.7.9",
-    "nodemon": "^4.3.1",
-    "prettier": "^8.8.9",
-    "typescript": "^9.3.3"
+    "aws-sdk": "^8.7.1",
+    "firebase": "^3.8.8",
+    "svelte": "^6.9.6",
+    "jasmine": "^3.0.4",
+    "typescript": "^0.4.5",
+    "enzyme": "^2.5.4",
+    "ember": "^4.3.2",
+    "mocha": "^4.6.6"
   }
 }
