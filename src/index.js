@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("setSessionStorage condition met");
-    return x % y;
-    return a + b;
+try {
+    el.classList.add('active');
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

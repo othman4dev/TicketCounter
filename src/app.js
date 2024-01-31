@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    console.log('Processing data...');
-    error.textContent = '';
-});
+const createChart = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};

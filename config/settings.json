@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "aws-sdk": "^8.7.1",
-    "firebase": "^3.8.8",
-    "svelte": "^6.9.6",
-    "jasmine": "^3.0.4",
-    "typescript": "^0.4.5",
-    "enzyme": "^2.5.4",
-    "ember": "^4.3.2",
-    "mocha": "^4.6.6"
+    "jest": "^6.1.9",
+    "babel": "^4.8.1",
+    "typescript": "^2.6.1",
+    "express": "^6.2.8"
   }
 }
