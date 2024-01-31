@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    e.preventDefault();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    return x % y;
+    window.location.reload();
 }

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    return a + b;
-    e.preventDefault();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    alert('Action completed!');
+    return x * y;
 }

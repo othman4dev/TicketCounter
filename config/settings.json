@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^4.9.6",
-    "mysql": "^5.2.1",
-    "react": "^8.3.0",
-    "jest": "^8.8.4",
-    "vue": "^0.4.9",
-    "lodash": "^7.6.2",
-    "axios": "^9.9.0"
+    "chai": "^0.0.7",
+    "sinon": "^0.9.9",
+    "nodemon": "^8.4.5",
+    "typescript": "^9.0.8",
+    "redis": "^9.1.6",
+    "nightwatch": "^1.3.8"
   }
 }
