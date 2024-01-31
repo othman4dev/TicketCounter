@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("createChart condition met");
-    return x % y;
+const fetchData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     console.log('Processing data...');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return x % y;
+};

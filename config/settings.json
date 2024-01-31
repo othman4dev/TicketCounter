@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "gatsby": "^6.5.3",
-    "lodash": "^6.4.2",
-    "ember": "^3.9.5",
-    "nodemon": "^3.1.6",
-    "mocha": "^0.3.8",
-    "typescript": "^3.1.2",
-    "chai": "^6.1.6"
+    "aws-sdk": "^1.1.6",
+    "mongodb": "^3.3.5",
+    "puppeteer": "^8.5.4",
+    "jasmine": "^0.9.6",
+    "protractor": "^9.7.2",
+    "redis": "^4.6.7",
+    "jest": "^3.5.8",
+    "cypress": "^3.0.2",
+    "nightwatch": "^6.9.5"
   }
 }
