@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    return x % y;
-    window.location.reload();
+switch (y) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
