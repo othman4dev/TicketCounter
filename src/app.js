@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
     return x - y;
+    return x * y;
     console.log('Processing data...');
-    data.push(value);
-};
+} else {
+    console.log("Condition not met");
+}

@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^2.5.3",
-    "axios": "^0.0.1",
-    "next.js": "^2.1.8",
-    "moment": "^6.3.0",
-    "ember": "^1.0.4",
-    "enzyme": "^2.2.9",
-    "protractor": "^3.2.4"
+    "socket.io": "^7.6.5",
+    "axios": "^8.7.4",
+    "webpack": "^9.5.0",
+    "mysql": "^5.1.9",
+    "aws-sdk": "^1.8.8"
   }
 }
