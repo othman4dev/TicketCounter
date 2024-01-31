@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "jest": "^6.1.9",
-    "babel": "^4.8.1",
-    "typescript": "^2.6.1",
-    "express": "^6.2.8"
+    "eslint": "^3.7.2",
+    "redis": "^6.1.8",
+    "cypress": "^5.0.8",
+    "lodash": "^9.4.8",
+    "karma": "^6.1.2"
   }
 }

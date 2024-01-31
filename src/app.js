@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
     return x - y;
-};
+    return x - y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
