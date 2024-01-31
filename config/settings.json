@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "socket.io": "^0.8.4",
-    "jasmine": "^7.6.3",
-    "webpack": "^3.4.0",
-    "mocha": "^7.8.8",
-    "svelte": "^1.8.6",
-    "axios": "^0.9.9",
-    "gatsby": "^2.3.9"
+    "redis": "^2.8.4",
+    "sinon": "^9.2.4",
+    "lodash": "^9.6.2",
+    "nightwatch": "^7.8.3"
   }
 }

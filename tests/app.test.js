@@ -1,7 +1,6 @@
-try {
-    return x - y;
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
     error.textContent = '';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
