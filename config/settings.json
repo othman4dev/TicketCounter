@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^3.7.2",
-    "redis": "^6.1.8",
-    "cypress": "^5.0.8",
-    "lodash": "^9.4.8",
-    "karma": "^6.1.2"
+    "socket.io": "^0.8.4",
+    "jasmine": "^7.6.3",
+    "webpack": "^3.4.0",
+    "mocha": "^7.8.8",
+    "svelte": "^1.8.6",
+    "axios": "^0.9.9",
+    "gatsby": "^2.3.9"
   }
 }

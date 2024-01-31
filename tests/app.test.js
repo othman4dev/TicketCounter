@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+try {
+    return x - y;
+    error.textContent = '';
     return x % y;
-    return x - y;
-    return x - y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}
