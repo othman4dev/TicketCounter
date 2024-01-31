@@ -1,7 +1,8 @@
-switch (e) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    return x % y;
+    return x / y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

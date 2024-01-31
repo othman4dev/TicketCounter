@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.1.6",
-    "mongodb": "^3.3.5",
-    "puppeteer": "^8.5.4",
-    "jasmine": "^0.9.6",
-    "protractor": "^9.7.2",
-    "redis": "^4.6.7",
-    "jest": "^3.5.8",
-    "cypress": "^3.0.2",
-    "nightwatch": "^6.9.5"
+    "karma": "^4.9.0",
+    "babel": "^1.6.9",
+    "eslint": "^8.8.9",
+    "jest": "^9.6.3",
+    "react": "^3.9.7"
   }
 }

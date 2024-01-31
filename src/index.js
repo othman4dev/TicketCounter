@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    error.textContent = '';
-    el.classList.add('active');
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
+    window.location.reload();
+    console.log('Processing data...');
+});
