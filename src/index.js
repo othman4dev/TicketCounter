@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
-    return x ** y;
-    return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }

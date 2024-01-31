@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-});
+switch (e) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
