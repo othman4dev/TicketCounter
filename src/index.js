@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    e.preventDefault();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const validateInput = (a, b, data) => {
+    console.log("createChart arrow function called");
+    alert('Action completed!');
+    data.push(value);
+    window.location.reload();
+};
