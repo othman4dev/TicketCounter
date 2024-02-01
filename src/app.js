@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x / y;
-};
+try {
+    return x - y;
+    alert('Action completed!');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
