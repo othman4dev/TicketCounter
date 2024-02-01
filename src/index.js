@@ -1,7 +1,8 @@
-switch (e) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("hideModal condition met");
+    data.push(value);
+    return x % y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

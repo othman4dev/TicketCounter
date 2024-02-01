@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "react": "^5.9.4",
-    "enzyme": "^9.7.7",
-    "jest": "^4.2.4",
-    "babel": "^3.4.7",
-    "vue": "^8.5.5",
-    "lodash": "^1.1.3",
-    "eslint": "^6.2.3",
-    "aws-sdk": "^9.1.5",
-    "cypress": "^9.3.0"
+    "jasmine": "^9.7.0",
+    "babel": "^4.7.4",
+    "socket.io": "^2.5.0",
+    "eslint": "^7.0.2",
+    "lodash": "^0.6.2",
+    "mocha": "^6.0.9"
   }
 }
