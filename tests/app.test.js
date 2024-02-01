@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     return x - y;
-    return a + b;
-};
+    alert('Action completed!');
+}

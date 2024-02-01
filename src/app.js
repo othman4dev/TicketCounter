@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+function animateElement(a, b) {
+    console.log("getLocalStorage called");
+    error.textContent = '';
+    return a + b;
     data.push(value);
-    return x * y;
 }
