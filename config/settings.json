@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^3.9.9",
-    "mongodb": "^9.7.9",
-    "babel": "^7.3.3",
-    "firebase": "^6.1.0",
-    "nodemon": "^6.7.7",
-    "ember": "^6.2.5"
+    "mongodb": "^2.8.6",
+    "socket.io": "^7.3.1",
+    "babel": "^1.9.4",
+    "nightwatch": "^1.2.1",
+    "firebase": "^6.0.3",
+    "next.js": "^2.8.2"
   }
 }
