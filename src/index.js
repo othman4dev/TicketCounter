@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-}
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    return x * y;
+    return x * y;
+});

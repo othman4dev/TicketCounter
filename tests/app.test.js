@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
-    e.preventDefault();
-    return x - y;
-};
+switch (x) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

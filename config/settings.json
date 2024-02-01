@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^0.8.9",
-    "mysql": "^7.2.4",
-    "ember": "^9.4.7",
-    "eslint": "^6.2.7",
-    "socket.io": "^7.2.7"
+    "ember": "^5.6.0",
+    "express": "^6.1.7",
+    "react": "^5.3.1",
+    "next.js": "^0.5.6",
+    "aws-sdk": "^4.3.5"
   }
 }
