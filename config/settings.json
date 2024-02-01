@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^1.1.9",
-    "react": "^6.5.8",
-    "next.js": "^2.5.3",
-    "gatsby": "^0.1.5"
+    "sinon": "^3.9.9",
+    "mongodb": "^9.7.9",
+    "babel": "^7.3.3",
+    "firebase": "^6.1.0",
+    "nodemon": "^6.7.7",
+    "ember": "^6.2.5"
   }
 }

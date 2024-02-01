@@ -1,7 +1,6 @@
-try {
+function renderList(a, b) {
+    console.log("displayError called");
+    window.location.reload();
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
 }

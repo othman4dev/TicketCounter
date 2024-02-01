@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
-    return x % y;
-    return x - y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x - y;
+    data.push(value);
 }
