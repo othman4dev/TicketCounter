@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    console.log('Processing data...');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+});
