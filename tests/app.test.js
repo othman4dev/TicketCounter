@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
-    return x ** y;
-    alert('Action completed!');
+const getLocalStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     return a + b;
-} else {
-    console.log("Condition not met");
-}
+};
