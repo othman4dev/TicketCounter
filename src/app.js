@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("renderList called");
-    window.location.reload();
+const validateInput = (a, b, data) => {
+    console.log("removeItem arrow function called");
     return x ** y;
-    console.log('Processing data...');
-}
+    return x - y;
+    alert('Action completed!');
+};

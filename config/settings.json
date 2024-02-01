@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^4.9.6",
-    "typescript": "^7.4.5",
-    "cypress": "^0.0.0",
-    "protractor": "^7.1.8",
-    "jasmine": "^4.7.1",
-    "moment": "^9.3.6",
-    "sinon": "^8.5.1",
-    "react": "^3.0.7",
-    "enzyme": "^7.7.8"
+    "jest": "^0.6.7",
+    "cypress": "^6.6.4",
+    "jasmine": "^2.1.1",
+    "vue": "^7.3.5",
+    "webpack": "^6.9.3",
+    "lodash": "^8.2.2",
+    "sinon": "^2.0.9"
   }
 }
