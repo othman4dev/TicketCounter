@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("setCookie arrow function called");
+try {
+    console.log('Processing data...');
     return a + b;
-    return x - y;
-    return x % y;
-};
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

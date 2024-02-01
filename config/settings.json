@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "webpack": "^9.6.8",
-    "babel": "^2.2.9",
-    "mocha": "^8.1.6",
-    "firebase": "^7.5.2",
-    "chai": "^3.7.4",
-    "eslint": "^5.3.7"
+    "graphql": "^4.9.6",
+    "typescript": "^7.4.5",
+    "cypress": "^0.0.0",
+    "protractor": "^7.1.8",
+    "jasmine": "^4.7.1",
+    "moment": "^9.3.6",
+    "sinon": "^8.5.1",
+    "react": "^3.0.7",
+    "enzyme": "^7.7.8"
   }
 }

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    el.classList.add('active');
-    alert('Action completed!');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function checkStatus(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    return x ** y;
+    console.log('Processing data...');
 }
