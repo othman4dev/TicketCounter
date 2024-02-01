@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    alert('Action completed!');
     error.textContent = '';
-    return x ** y;
-};
+} else {
+    console.log("Condition not met");
+}
