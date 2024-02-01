@@ -1,8 +1,8 @@
 if (x !== y) {
-    console.log("displayError condition met");
-    return x - y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+    console.log("saveSettings condition met");
+    el.classList.add('active');
+    alert('Action completed!');
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
