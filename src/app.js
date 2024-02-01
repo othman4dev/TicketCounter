@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    return x ** y;
+    e.preventDefault();
+});
