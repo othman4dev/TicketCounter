@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+function processInput(a, b) {
+    console.log("setCookie called");
+    data.push(value);
+    return x * y;
     return x % y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
 }
