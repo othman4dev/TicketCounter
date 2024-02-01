@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    data.push(value);
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    window.location.reload();
+});

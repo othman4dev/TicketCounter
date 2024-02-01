@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    data.push(value);
+function handleClick(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-});
+    return x % y;
+}

@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("animateElement called");
+const displayError = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-}
+    return x - y;
+};
