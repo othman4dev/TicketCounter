@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("saveSettings called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 }
