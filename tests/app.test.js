@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("showMessage called");
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event load triggered");
     error.textContent = '';
-    window.location.reload();
-    return x % y;
-}
+    return x - y;
+    el.classList.add('active');
+});
