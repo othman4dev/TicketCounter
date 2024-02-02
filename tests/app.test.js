@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    e.preventDefault();
-    return x % y;
-    data.push(value);
-};
+function fetchData(a, b) {
+    console.log("checkStatus called");
+    return x / y;
+    return x * y;
+    return x - y;
+}

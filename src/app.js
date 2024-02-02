@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    return x * y;
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 });

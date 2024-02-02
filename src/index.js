@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("formatDate called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x ** y;
 }
