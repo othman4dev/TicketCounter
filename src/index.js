@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    el.classList.add('active');
-    return x * y;
-    return x ** y;
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    error.textContent = '';
+    window.location.reload();
 });

@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     return x - y;
     el.classList.add('active');
-});
+}
