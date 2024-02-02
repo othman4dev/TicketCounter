@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    error.textContent = '';
-    window.location.reload();
-});
+switch (x) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

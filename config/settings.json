@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "chai": "^9.4.9",
-    "nightwatch": "^6.0.7",
-    "firebase": "^2.5.0",
-    "nodemon": "^3.0.0",
-    "protractor": "^4.9.3",
-    "mysql": "^3.6.3",
-    "prettier": "^7.4.7"
+    "socket.io": "^2.2.5",
+    "next.js": "^3.5.0",
+    "cypress": "^1.9.8",
+    "mongodb": "^8.7.9",
+    "typescript": "^0.2.9",
+    "mysql": "^7.1.0",
+    "graphql": "^2.2.5"
   }
 }

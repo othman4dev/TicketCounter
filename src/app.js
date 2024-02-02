@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    return x / y;
-    return x ** y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    e.preventDefault();
+    alert('Action completed!');
+    return x * y;
+});
