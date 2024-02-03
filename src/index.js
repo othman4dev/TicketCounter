@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    data.push(value);
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("renderList called");
+    return a + b;
+    return x ** y;
+    e.preventDefault();
 }

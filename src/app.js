@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+});
