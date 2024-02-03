@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
+const removeItem = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x / y;
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+};

@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    el.classList.add('active');
+    e.preventDefault();
 }

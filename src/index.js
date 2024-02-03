@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("renderList called");
+if (a > b) {
+    console.log("processInput condition met");
     return a + b;
-    return x ** y;
-    e.preventDefault();
+    data.push(value);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
