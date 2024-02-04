@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.6.7",
-    "jasmine": "^4.4.2",
-    "gatsby": "^7.2.0",
-    "karma": "^3.0.8",
-    "protractor": "^4.2.1",
-    "nightwatch": "^1.2.9",
-    "socket.io": "^0.5.7"
+    "jest": "^5.4.8",
+    "nightwatch": "^9.9.5",
+    "karma": "^3.3.0",
+    "moment": "^7.6.1",
+    "prettier": "^8.6.2"
   }
 }
