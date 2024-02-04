@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x - y;
+const removeItem = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     data.push(value);
-}
+    alert('Action completed!');
+    return x % y;
+};

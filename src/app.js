@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("showMessage called");
-    data.push(value);
+function fetchData(a, b) {
+    console.log("validateInput called");
+    return x ** y;
+    e.preventDefault();
     return x / y;
-    data.push(value);
 }
