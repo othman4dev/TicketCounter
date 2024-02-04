@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("getLocalStorage condition met");
-    return x / y;
-    return a + b;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    return x * y;
+    data.push(value);
+});

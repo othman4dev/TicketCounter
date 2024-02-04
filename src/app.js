@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
+    return x - y;
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
