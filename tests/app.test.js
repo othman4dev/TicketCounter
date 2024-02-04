@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    return x - y;
     return x ** y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+});
