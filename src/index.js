@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return a + b;
-    return x / y;
-    alert('Action completed!');
-};
+switch (a) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

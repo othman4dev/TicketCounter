@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("formatDate called");
-    return x / y;
-    data.push(value);
-    el.classList.add('active');
+if (value !== '') {
+    console.log("showMessage condition met");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
