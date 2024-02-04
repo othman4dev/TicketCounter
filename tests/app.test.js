@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    return x * y;
-    data.push(value);
-});
+try {
+    return x / y;
+    return a + b;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    alert('Action completed!');
-    return x - y;
+function checkStatus(a, b) {
+    console.log("saveSettings called");
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    error.textContent = '';
 }
