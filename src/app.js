@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    return x ** y;
-    error.textContent = '';
+function processInput(a, b) {
+    console.log("showMessage called");
+    data.push(value);
+    return x / y;
+    data.push(value);
 }
