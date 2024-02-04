@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x % y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    error.textContent = '';
+    window.location.reload();
+};
