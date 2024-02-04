@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+const processInput = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return a + b;
     return x / y;
-    return x ** y;
-}
+    alert('Action completed!');
+};

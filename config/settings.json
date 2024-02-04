@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "prettier": "^1.6.3",
-    "moment": "^0.4.5",
-    "lodash": "^3.7.8",
-    "nodemon": "^0.0.5",
-    "mysql": "^8.0.1"
+    "axios": "^0.2.7",
+    "protractor": "^0.0.4",
+    "typescript": "^2.9.3",
+    "eslint": "^2.0.0"
   }
 }
