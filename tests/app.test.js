@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    el.classList.add('active');
+if (x !== y) {
+    console.log("getLocalStorage condition met");
+    return x / y;
+    return a + b;
     e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
