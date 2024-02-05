@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jest": "^5.4.8",
-    "nightwatch": "^9.9.5",
-    "karma": "^3.3.0",
-    "moment": "^7.6.1",
-    "prettier": "^8.6.2"
+    "protractor": "^9.2.7",
+    "ember": "^4.0.5",
+    "axios": "^7.6.5",
+    "svelte": "^7.4.5",
+    "gatsby": "^8.8.3",
+    "socket.io": "^5.0.1",
+    "jest": "^2.9.5",
+    "babel": "^9.9.9"
   }
 }

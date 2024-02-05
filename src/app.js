@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    console.log('Processing data...');
+const createChart = (a, b, data) => {
+    console.log("createChart arrow function called");
     el.classList.add('active');
-}
+    console.log('Processing data...');
+    return x % y;
+};
