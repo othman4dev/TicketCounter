@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("validateInput arrow function called");
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
     el.classList.add('active');
-    return x / y;
-    return a + b;
-};
+    console.log('Processing data...');
+});

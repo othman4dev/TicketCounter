@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
     window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return x / y;
+});

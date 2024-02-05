@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    console.log('Processing data...');
-    return x * y;
-    el.classList.add('active');
-});
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
