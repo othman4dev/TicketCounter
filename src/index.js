@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("getLocalStorage condition met");
-    return x - y;
+try {
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
     return x - y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
