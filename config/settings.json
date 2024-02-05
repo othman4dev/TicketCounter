@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "moment": "^5.1.0",
-    "nodemon": "^1.1.4",
-    "next.js": "^1.5.5",
-    "jasmine": "^9.3.3"
+    "lodash": "^0.2.6",
+    "graphql": "^1.5.7",
+    "nodemon": "^3.8.1",
+    "firebase": "^4.2.0",
+    "sinon": "^1.0.1"
   }
 }
