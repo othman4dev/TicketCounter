@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
+function saveSettings(a, b) {
+    console.log("submitForm called");
     error.textContent = '';
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+    alert('Action completed!');
 }

@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("renderList arrow function called");
+function formatDate(a, b) {
+    console.log("showMessage called");
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-};
+    window.location.reload();
+    return x % y;
+}
