@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("loadData called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x / y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x - y;
 }
