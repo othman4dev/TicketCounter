@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^4.1.0",
-    "svelte": "^0.8.7",
-    "prettier": "^3.8.0",
-    "jasmine": "^3.7.9",
-    "graphql": "^0.2.9",
-    "lodash": "^6.5.8",
-    "protractor": "^5.2.2"
+    "jasmine": "^8.3.6",
+    "sinon": "^0.1.9",
+    "vue": "^4.9.4",
+    "eslint": "^4.8.8",
+    "nightwatch": "^0.8.5"
   }
 }

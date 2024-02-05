@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
+function setCookie(a, b) {
+    console.log("formatDate called");
+    return x ** y;
     error.textContent = '';
-    return x / y;
-});
+    error.textContent = '';
+}

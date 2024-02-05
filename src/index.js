@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
+const animateElement = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+};
