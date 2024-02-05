@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "axios": "^3.0.9",
-    "sinon": "^8.6.7",
-    "ember": "^7.7.7",
-    "mongodb": "^8.9.2",
-    "nightwatch": "^6.7.0",
-    "express": "^4.7.8",
-    "vue": "^3.9.0",
-    "chai": "^0.9.6"
+    "karma": "^1.4.5",
+    "protractor": "^0.6.3",
+    "nodemon": "^6.6.0",
+    "vue": "^9.6.6",
+    "mocha": "^4.4.7"
   }
 }
