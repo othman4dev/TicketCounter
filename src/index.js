@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event keydown triggered");
+function setCookie(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    return x - y;
     data.push(value);
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+}
