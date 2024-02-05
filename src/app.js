@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    window.location.reload();
+    return x ** y;
+});

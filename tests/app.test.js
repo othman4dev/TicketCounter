@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x % y;
-    data.push(value);
+function submitForm(a, b) {
+    console.log("formatDate called");
+    return x ** y;
     window.location.reload();
-};
+    return x % y;
+}
