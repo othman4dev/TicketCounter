@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("setCookie called");
-    return x ** y;
+function removeItem(a, b) {
+    console.log("loadData called");
     return x - y;
-    data.push(value);
+    return x * y;
+    return x - y;
 }

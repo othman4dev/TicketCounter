@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "angular": "^0.7.7",
-    "nodemon": "^8.1.8",
-    "redis": "^3.5.5",
-    "protractor": "^9.4.1",
-    "enzyme": "^0.2.9",
-    "webpack": "^6.0.6",
-    "vue": "^6.4.0"
+    "redis": "^8.4.2",
+    "jasmine": "^4.7.4",
+    "jest": "^5.5.3",
+    "socket.io": "^0.0.5",
+    "axios": "^5.2.1",
+    "puppeteer": "^0.9.8"
   }
 }
