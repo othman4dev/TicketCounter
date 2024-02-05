@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return a + b;
+if (value !== '') {
+    console.log("saveSettings condition met");
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-};
+    error.textContent = '';
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
