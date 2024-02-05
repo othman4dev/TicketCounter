@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("showMessage called");
-    window.location.reload();
-    window.location.reload();
-    return x % y;
-}
+const fetchData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
+    return x / y;
+    return a + b;
+};

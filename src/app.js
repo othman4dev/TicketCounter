@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^2.8.3",
-    "express": "^2.5.5",
-    "mysql": "^4.2.3",
-    "ember": "^3.4.3",
-    "typescript": "^7.3.4"
+    "mongodb": "^8.2.8",
+    "aws-sdk": "^7.4.5",
+    "nodemon": "^4.2.3",
+    "express": "^7.3.9",
+    "cypress": "^9.7.6",
+    "lodash": "^1.4.4",
+    "redis": "^6.8.7"
   }
 }

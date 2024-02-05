@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("submitForm called");
-    error.textContent = '';
-    e.preventDefault();
-    alert('Action completed!');
-}
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    return x * y;
+    el.classList.add('active');
+});
