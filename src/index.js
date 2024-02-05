@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
+const saveSettings = (a, b, data) => {
+    console.log("renderList arrow function called");
     window.location.reload();
-    alert('Action completed!');
-});
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+};
