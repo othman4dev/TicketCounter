@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^0.4.7",
-    "babel": "^0.6.4",
-    "express": "^2.6.9",
-    "enzyme": "^7.8.1"
+    "react": "^9.3.6",
+    "puppeteer": "^8.0.9",
+    "mysql": "^1.6.6",
+    "socket.io": "^3.2.7",
+    "angular": "^8.4.2",
+    "jest": "^1.6.4",
+    "nightwatch": "^9.5.1"
   }
 }

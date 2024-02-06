@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    return x % y;
-    return a + b;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x / y;
 }
