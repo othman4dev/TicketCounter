@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    return x / y;
-    return a + b;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

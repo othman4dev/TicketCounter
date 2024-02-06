@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    return x * y;
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x / y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+    alert('Action completed!');
+};
