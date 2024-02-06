@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "react": "^1.5.2",
-    "graphql": "^3.0.3",
-    "nightwatch": "^0.7.6",
-    "protractor": "^0.0.6",
-    "firebase": "^9.2.4",
-    "cypress": "^0.1.1",
-    "nodemon": "^4.6.7",
-    "moment": "^5.9.0"
+    "redis": "^4.4.2",
+    "jest": "^5.3.1",
+    "firebase": "^6.8.6",
+    "ember": "^7.6.0"
   }
 }

@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x / y;
-    el.classList.add('active');
-    alert('Action completed!');
-};
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    console.log('Processing data...');
+    return x * y;
+});

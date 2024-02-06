@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("hideModal called");
-    data.push(value);
-    return x ** y;
-    return x ** y;
-}
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    return x - y;
+    return x / y;
+    error.textContent = '';
+});
