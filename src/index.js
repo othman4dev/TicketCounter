@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    return x ** y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function hideModal(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
+    return a + b;
+    return x - y;
 }

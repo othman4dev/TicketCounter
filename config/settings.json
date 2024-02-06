@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.0.8",
-    "chai": "^2.4.0",
-    "ember": "^8.5.4",
-    "webpack": "^4.5.5"
+    "next.js": "^0.7.0",
+    "svelte": "^7.8.9",
+    "karma": "^0.4.3",
+    "ember": "^0.5.1",
+    "cypress": "^5.9.3"
   }
 }

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    return x * y;
-    el.classList.add('active');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function animateElement(a, b) {
+    console.log("displayError called");
+    return x / y;
+    return x ** y;
+    data.push(value);
 }
