@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    return x / y;
-    error.textContent = '';
-});
+function fetchData(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
+    data.push(value);
+    e.preventDefault();
+}
