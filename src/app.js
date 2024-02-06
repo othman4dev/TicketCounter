@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
     return x * y;
-    e.preventDefault();
-    return x / y;
+    el.classList.add('active');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

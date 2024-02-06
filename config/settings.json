@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "react": "^9.3.6",
-    "puppeteer": "^8.0.9",
-    "mysql": "^1.6.6",
-    "socket.io": "^3.2.7",
-    "angular": "^8.4.2",
-    "jest": "^1.6.4",
-    "nightwatch": "^9.5.1"
+    "aws-sdk": "^5.0.8",
+    "chai": "^2.4.0",
+    "ember": "^8.5.4",
+    "webpack": "^4.5.5"
   }
 }
