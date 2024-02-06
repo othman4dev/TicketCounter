@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^0.7.0",
-    "svelte": "^7.8.9",
-    "karma": "^0.4.3",
-    "ember": "^0.5.1",
-    "cypress": "^5.9.3"
+    "jest": "^0.4.6",
+    "karma": "^6.9.4",
+    "moment": "^4.9.5",
+    "gatsby": "^8.3.0",
+    "redis": "^5.5.8",
+    "lodash": "^7.8.7"
   }
 }
