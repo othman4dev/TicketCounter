@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
-    data.push(value);
-    e.preventDefault();
+try {
+    window.location.reload();
+    return x * y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
