@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    alert('Action completed!');
-    window.location.reload();
-    return x % y;
+const updateUI = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    return x - y;
 };
