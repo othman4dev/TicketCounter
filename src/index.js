@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    el.classList.add('active');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function updateUI(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    error.textContent = '';
+    error.textContent = '';
 }
