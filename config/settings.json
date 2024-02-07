@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "vue": "^6.5.4",
-    "jest": "^5.8.3",
-    "jasmine": "^9.6.8",
-    "react": "^5.3.8"
+    "nodemon": "^5.2.9",
+    "mocha": "^5.5.2",
+    "svelte": "^6.8.5",
+    "typescript": "^5.9.6",
+    "protractor": "^5.1.5",
+    "gatsby": "^2.2.1",
+    "next.js": "^2.2.6",
+    "webpack": "^0.6.5"
   }
 }

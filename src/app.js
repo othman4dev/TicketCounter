@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    return x - y;
+    el.classList.add('active');
     error.textContent = '';
-    data.push(value);
-};
+});

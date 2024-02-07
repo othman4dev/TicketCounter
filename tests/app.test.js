@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+switch (error) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
