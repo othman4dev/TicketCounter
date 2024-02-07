@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    return x / y;
-    alert('Action completed!');
-    return x * y;
-});
+switch (error) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("setCookie called");
+    return a + b;
+    return a + b;
+    e.preventDefault();
 }
