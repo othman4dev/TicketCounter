@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    return x / y;
-    window.location.reload();
-});
+try {
+    alert('Action completed!');
+    error.textContent = '';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

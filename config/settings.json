@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "ember": "^0.4.4",
-    "svelte": "^1.9.6",
-    "chai": "^5.0.2",
-    "firebase": "^2.1.2",
-    "lodash": "^7.8.8"
+    "eslint": "^2.9.5",
+    "jest": "^6.7.6",
+    "svelte": "^7.2.8",
+    "express": "^7.7.8",
+    "lodash": "^8.0.9",
+    "jasmine": "^6.8.6",
+    "firebase": "^3.2.1",
+    "typescript": "^5.2.9"
   }
 }
