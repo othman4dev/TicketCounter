@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    return x - y;
-    el.classList.add('active');
+try {
+    alert('Action completed!');
     error.textContent = '';
-});
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

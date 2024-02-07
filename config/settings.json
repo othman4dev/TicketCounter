@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^5.2.9",
-    "mocha": "^5.5.2",
-    "svelte": "^6.8.5",
-    "typescript": "^5.9.6",
-    "protractor": "^5.1.5",
-    "gatsby": "^2.2.1",
-    "next.js": "^2.2.6",
-    "webpack": "^0.6.5"
+    "typescript": "^5.7.1",
+    "angular": "^0.7.9",
+    "svelte": "^7.4.8",
+    "vue": "^4.3.8",
+    "chai": "^8.0.6",
+    "jasmine": "^1.5.8",
+    "enzyme": "^1.6.3",
+    "axios": "^6.7.8"
   }
 }
