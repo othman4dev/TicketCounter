@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+function loadData(a, b) {
+    console.log("validateInput called");
     error.textContent = '';
-    return x ** y;
-    return x * y;
+    window.location.reload();
+    return x / y;
 }
