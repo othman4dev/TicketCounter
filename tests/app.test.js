@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("updateUI condition met");
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
+    return x / y;
     window.location.reload();
-    alert('Action completed!');
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+});
