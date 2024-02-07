@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("setSessionStorage called");
-    console.log('Processing data...');
+try {
+    return x ** y;
     return x * y;
-    return x % y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

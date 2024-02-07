@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("validateInput called");
-    error.textContent = '';
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event change triggered");
     window.location.reload();
-    return x / y;
-}
+    return x - y;
+    e.preventDefault();
+});
