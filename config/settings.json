@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^6.8.9",
-    "protractor": "^7.0.9",
-    "mocha": "^6.6.7",
-    "typescript": "^5.5.1",
-    "react": "^5.1.0"
+    "babel": "^2.6.1",
+    "angular": "^1.0.3",
+    "webpack": "^2.0.1",
+    "eslint": "^6.0.7",
+    "firebase": "^3.0.9"
   }
 }

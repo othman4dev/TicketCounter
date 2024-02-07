@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    data.push(value);
-    error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function checkStatus(a, b) {
+    console.log("setCookie called");
+    alert('Action completed!');
+    alert('Action completed!');
+    return a + b;
 }

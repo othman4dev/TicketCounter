@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    return x / y;
+if (value !== '') {
+    console.log("updateUI condition met");
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x % y;
 } else {
     console.log("Condition not met");
 }

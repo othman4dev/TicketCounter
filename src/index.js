@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("removeItem condition met");
-    return x / y;
-    alert('Action completed!');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return a + b;
+    return x - y;
 }
