@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    error.textContent = '';
-    e.preventDefault();
-    return x - y;
-};
+switch (value) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

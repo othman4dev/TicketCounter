@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    return x / y;
-    return x / y;
-});
+const submitForm = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return a + b;
+    el.classList.add('active');
+    return x % y;
+};

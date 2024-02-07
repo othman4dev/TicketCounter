@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event load triggered");
-    alert('Action completed!');
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (data) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

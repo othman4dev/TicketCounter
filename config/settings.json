@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^0.5.4",
-    "vue": "^3.3.9",
-    "jest": "^5.6.0",
-    "aws-sdk": "^8.3.5",
-    "moment": "^6.0.2"
+    "svelte": "^3.4.2",
+    "express": "^7.1.1",
+    "lodash": "^5.5.5",
+    "angular": "^4.4.8",
+    "babel": "^4.5.6"
   }
 }
