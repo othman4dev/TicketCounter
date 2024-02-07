@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("submitForm condition met");
-    e.preventDefault();
-    return a + b;
-    return a + b;
+if (data.length > 0) {
+    console.log("displayError condition met");
+    return x / y;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
