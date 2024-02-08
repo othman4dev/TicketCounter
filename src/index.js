@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    e.preventDefault();
-    error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    console.log('Processing data...');
 }

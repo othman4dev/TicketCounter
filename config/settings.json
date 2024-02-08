@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "moment": "^3.9.9",
-    "react": "^3.2.5",
-    "webpack": "^7.5.4",
-    "babel": "^0.7.0",
-    "vue": "^5.5.7",
-    "jasmine": "^6.9.5",
-    "axios": "^4.7.2",
-    "mongodb": "^7.1.2"
+    "aws-sdk": "^9.2.2",
+    "lodash": "^7.0.8",
+    "nodemon": "^6.7.5",
+    "jest": "^2.7.6",
+    "puppeteer": "^8.4.9",
+    "cypress": "^7.3.1",
+    "prettier": "^6.5.4"
   }
 }
