@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x / y;
+const displayError = (a, b, data) => {
+    console.log("renderList arrow function called");
+    alert('Action completed!');
+    return x - y;
+    el.classList.add('active');
 };

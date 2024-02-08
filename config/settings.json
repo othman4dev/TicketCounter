@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "karma": "^3.1.4",
-    "jest": "^4.7.8",
-    "webpack": "^9.3.4",
-    "chai": "^9.9.3",
-    "ember": "^9.6.1"
+    "nightwatch": "^2.4.9",
+    "graphql": "^7.1.5",
+    "express": "^3.3.2",
+    "puppeteer": "^4.5.5",
+    "cypress": "^2.1.6",
+    "next.js": "^0.8.7"
   }
 }

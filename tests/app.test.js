@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
+document.querySelector("#button").addEventListener("mouseover", function() {
     console.log("Event change triggered");
-    window.location.reload();
-    return x * y;
-    el.classList.add('active');
+    e.preventDefault();
+    return x / y;
+    return x / y;
 });
