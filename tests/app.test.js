@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
     data.push(value);
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
