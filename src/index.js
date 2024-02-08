@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    return a + b;
-    return x ** y;
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
+    return x % y;
+    console.log('Processing data...');
 });
