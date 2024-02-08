@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    alert('Action completed!');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("updateUI called");
+    return x * y;
+    data.push(value);
+    return x * y;
 }

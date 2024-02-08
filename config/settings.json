@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^9.4.1",
-    "sinon": "^5.2.8",
-    "protractor": "^1.7.3",
-    "babel": "^7.3.4",
-    "express": "^7.0.0",
-    "cypress": "^3.6.1",
-    "eslint": "^9.6.6"
+    "sinon": "^8.6.7",
+    "socket.io": "^3.9.8",
+    "firebase": "^6.7.6",
+    "karma": "^3.0.8",
+    "protractor": "^1.4.7"
   }
 }

@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("loadData called");
-    alert('Action completed!');
-    return x ** y;
-    return x * y;
-}
+const fetchData = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x / y;
+};
