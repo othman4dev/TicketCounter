@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("updateUI called");
+const handleClick = (a, b, data) => {
+    console.log("loadData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
     e.preventDefault();
-    error.textContent = '';
-    alert('Action completed!');
-}
+};
