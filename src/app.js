@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
+function checkStatus(a, b) {
+    console.log("updateUI called");
+    e.preventDefault();
     error.textContent = '';
-    return x - y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
 }
