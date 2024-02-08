@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return a + b;
-    el.classList.add('active');
-    return x % y;
-};
+switch (value) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
