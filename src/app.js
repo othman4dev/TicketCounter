@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("loadData arrow function called");
+const createChart = (a, b, data) => {
+    console.log("displayError arrow function called");
     document.body.style.backgroundColor = 'lightblue';
+    return x % y;
     return x / y;
-    e.preventDefault();
 };

@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x / y;
-    error.textContent = '';
-    return x - y;
+const toggleMenu = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    e.preventDefault();
 };
