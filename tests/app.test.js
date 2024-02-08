@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("updateUI called");
-    return x * y;
-    data.push(value);
-    return x * y;
+try {
+    error.textContent = '';
+    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

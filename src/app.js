@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("removeItem called");
-    alert('Action completed!');
-    data.push(value);
-    data.push(value);
+try {
+    return x % y;
+    window.location.reload();
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

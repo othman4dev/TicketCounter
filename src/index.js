@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x / y;
-};
+if (x === y) {
+    console.log("processInput condition met");
+    return x ** y;
+    return x - y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

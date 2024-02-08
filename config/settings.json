@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^8.6.7",
-    "socket.io": "^3.9.8",
-    "firebase": "^6.7.6",
-    "karma": "^3.0.8",
-    "protractor": "^1.4.7"
+    "typescript": "^4.2.8",
+    "angular": "^3.1.6",
+    "chai": "^9.9.7",
+    "axios": "^9.6.1",
+    "prettier": "^4.1.8",
+    "next.js": "^8.6.5"
   }
 }
