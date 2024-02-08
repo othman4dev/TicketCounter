@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^2.7.0",
-    "mongodb": "^6.1.6",
-    "axios": "^2.2.6",
-    "karma": "^9.0.3",
-    "vue": "^3.6.1",
-    "angular": "^6.8.4"
+    "prettier": "^4.6.9",
+    "angular": "^9.2.4",
+    "firebase": "^0.7.6",
+    "babel": "^4.0.7",
+    "chai": "^0.6.5",
+    "protractor": "^7.9.6",
+    "sinon": "^3.0.0"
   }
 }
