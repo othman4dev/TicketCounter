@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("renderList arrow function called");
-    alert('Action completed!');
-    return x - y;
-    el.classList.add('active');
-};
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
+    data.push(value);
+    window.location.reload();
+});

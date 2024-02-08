@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
+function animateElement(a, b) {
+    console.log("loadData called");
+    alert('Action completed!');
     return x ** y;
-    return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+    return x * y;
 }
