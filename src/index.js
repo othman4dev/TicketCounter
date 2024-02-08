@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("processInput condition met");
-    return x ** y;
+const fetchData = (a, b, data) => {
+    console.log("createChart arrow function called");
+    e.preventDefault();
+    alert('Action completed!');
     return x - y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+};

@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    error.textContent = '';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    return x * y;
+    return x ** y;
+});
