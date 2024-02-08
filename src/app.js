@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    el.classList.add('active');
-    return x / y;
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return x * y;
+    return x ** y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

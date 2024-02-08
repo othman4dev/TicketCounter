@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
-    return x % y;
-    console.log('Processing data...');
-});
+if (data.length > 0) {
+    console.log("submitForm condition met");
+    e.preventDefault();
+    error.textContent = '';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
