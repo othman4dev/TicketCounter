@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("checkStatus called");
+const getLocalStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
     el.classList.add('active');
-    e.preventDefault();
-    window.location.reload();
-}
+    return a + b;
+    alert('Action completed!');
+};
