@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    return a + b;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("displayError condition met");
+    return x / y;
+    console.log('Processing data...');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

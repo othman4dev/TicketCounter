@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^8.5.3",
-    "protractor": "^7.2.8",
-    "express": "^2.1.3",
-    "mongodb": "^0.2.1",
-    "prettier": "^0.6.8",
-    "jasmine": "^4.6.5",
-    "vue": "^9.2.0",
-    "ember": "^3.6.9"
+    "cypress": "^5.8.3",
+    "react": "^0.1.6",
+    "enzyme": "^6.3.6",
+    "moment": "^5.4.5",
+    "socket.io": "^6.3.4",
+    "graphql": "^3.3.9",
+    "vue": "^7.1.1",
+    "sinon": "^7.1.5"
   }
 }

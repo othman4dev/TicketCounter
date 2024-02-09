@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
-    return x ** y;
-    return x ** y;
-});
+try {
+    data.push(value);
+    error.textContent = '';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
