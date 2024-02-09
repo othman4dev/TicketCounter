@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+function showMessage(a, b) {
+    console.log("createChart called");
     return x % y;
+    window.location.reload();
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
 }

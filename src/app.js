@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    console.log('Processing data...');
+const setCookie = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
+    return x ** y;
+    return x / y;
 };
