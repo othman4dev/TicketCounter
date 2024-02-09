@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^3.1.5",
-    "vue": "^1.1.6",
-    "prettier": "^4.6.7",
-    "svelte": "^7.7.7",
-    "redis": "^8.7.0",
-    "moment": "^4.3.3",
-    "axios": "^2.8.5"
+    "mocha": "^0.2.1",
+    "jasmine": "^6.1.4",
+    "nightwatch": "^8.1.5",
+    "enzyme": "^8.4.8",
+    "lodash": "^0.2.0"
   }
 }

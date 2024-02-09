@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    el.classList.add('active');
-    return a + b;
-    alert('Action completed!');
-};
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
+    return x % y;
+    return x % y;
+});
