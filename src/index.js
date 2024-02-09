@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("createChart arrow function called");
-    e.preventDefault();
-    alert('Action completed!');
-    return x - y;
-};
+if (x === y) {
+    console.log("validateInput condition met");
+    return x * y;
+    return x ** y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
