@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     window.location.reload();
-    alert('Action completed!');
-});
+    e.preventDefault();
+}
