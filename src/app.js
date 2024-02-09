@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("validateInput called");
-    return x / y;
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event resize triggered");
     e.preventDefault();
+    data.push(value);
     return x * y;
-}
+});
