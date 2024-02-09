@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    el.classList.add('active');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    alert('Action completed!');
+});

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
-    data.push(value);
+function fetchData(a, b) {
+    console.log("validateInput called");
+    console.log('Processing data...');
     return x * y;
-});
+    console.log('Processing data...');
+}
