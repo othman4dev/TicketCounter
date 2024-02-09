@@ -1,7 +1,6 @@
-switch (data) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("validateInput called");
+    return x / y;
+    e.preventDefault();
+    return x * y;
 }

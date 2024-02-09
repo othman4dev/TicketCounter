@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return x % y;
-};
+switch (e) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

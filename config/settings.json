@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^8.0.1",
-    "lodash": "^4.7.9",
-    "karma": "^4.8.6",
-    "prettier": "^8.6.0",
-    "mongodb": "^0.1.9"
+    "jest": "^7.0.4",
+    "nodemon": "^2.7.6",
+    "svelte": "^7.0.5",
+    "mocha": "^0.6.5",
+    "socket.io": "^3.3.6"
   }
 }
