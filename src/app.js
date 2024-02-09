@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("updateUI arrow function called");
+const validateInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x - y;
+    data.push(value);
 };

@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("showMessage condition met");
-    return x / y;
-    el.classList.add('active');
+try {
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return a + b;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
