@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^5.8.3",
-    "react": "^0.1.6",
-    "enzyme": "^6.3.6",
-    "moment": "^5.4.5",
-    "socket.io": "^6.3.4",
-    "graphql": "^3.3.9",
-    "vue": "^7.1.1",
-    "sinon": "^7.1.5"
+    "chai": "^2.4.0",
+    "mocha": "^3.9.8",
+    "react": "^1.0.3",
+    "next.js": "^6.4.3",
+    "nightwatch": "^9.9.6",
+    "moment": "^6.7.5",
+    "express": "^6.1.6",
+    "prettier": "^3.3.7"
   }
 }

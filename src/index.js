@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    return x / y;
-    console.log('Processing data...');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x - y;
+    return x * y;
 }
