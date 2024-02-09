@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+const animateElement = (a, b, data) => {
+    console.log("fetchData arrow function called");
     data.push(value);
-    return x % y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+};
