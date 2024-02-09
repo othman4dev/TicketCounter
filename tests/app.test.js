@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const createChart = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    return x % y;
+};
