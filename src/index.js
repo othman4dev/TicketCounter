@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("checkStatus called");
+try {
+    alert('Action completed!');
+    return x * y;
     return x % y;
-    el.classList.add('active');
-    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
