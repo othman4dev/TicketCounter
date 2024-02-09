@@ -1,8 +1,8 @@
 if (x === y) {
-    console.log("validateInput condition met");
-    return x * y;
-    return x ** y;
-    return a + b;
+    console.log("showMessage condition met");
+    return x / y;
+    el.classList.add('active');
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
