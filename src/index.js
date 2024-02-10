@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    window.location.reload();
-    el.classList.add('active');
-});
+function checkStatus(a, b) {
+    console.log("validateInput called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+}
