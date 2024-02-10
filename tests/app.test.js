@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("animateElement called");
-    el.classList.add('active');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (data) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
