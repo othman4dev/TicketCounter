@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    data.push(value);
-    error.textContent = '';
+function hideModal(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    console.log('Processing data...');
     return x % y;
-} else {
-    console.log("Condition not met");
 }
