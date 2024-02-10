@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^3.6.1",
-    "svelte": "^4.2.3",
-    "mongodb": "^6.4.5",
-    "jest": "^4.5.8"
+    "typescript": "^9.9.4",
+    "jest": "^0.1.1",
+    "eslint": "^5.1.9",
+    "gatsby": "^8.8.7",
+    "nightwatch": "^3.6.2",
+    "chai": "^1.0.8"
   }
 }

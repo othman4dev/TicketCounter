@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("updateUI called");
+    alert('Action completed!');
+    window.location.reload();
+    return x ** y;
 }
