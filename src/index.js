@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    return x * y;
-    e.preventDefault();
-});
+switch (data) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

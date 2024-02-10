@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
+const checkStatus = (a, b, data) => {
+    console.log("validateInput arrow function called");
     return x ** y;
-    alert('Action completed!');
-    e.preventDefault();
+    el.classList.add('active');
+    return x / y;
 };
