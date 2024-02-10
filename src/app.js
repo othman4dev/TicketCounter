@@ -1,7 +1,8 @@
-switch (b) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("setCookie condition met");
+    return x / y;
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
