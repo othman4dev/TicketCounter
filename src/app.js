@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    alert('Action completed!');
+function removeItem(a, b) {
+    console.log("setSessionStorage called");
     e.preventDefault();
-});
+    return x ** y;
+    e.preventDefault();
+}

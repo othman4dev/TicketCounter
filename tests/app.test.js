@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    error.textContent = '';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
+    alert('Action completed!');
+    return x / y;
+});

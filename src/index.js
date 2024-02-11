@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    return x * y;
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    return x % y;
+    return x - y;
 });
