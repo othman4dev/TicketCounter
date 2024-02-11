@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
