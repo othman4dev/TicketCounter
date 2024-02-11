@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x - y;
-    return a + b;
-    return a + b;
-};
+try {
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

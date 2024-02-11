@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x - y;
-    return x - y;
-    window.location.reload();
-};
+function showMessage(a, b) {
+    console.log("hideModal called");
+    return a + b;
+    data.push(value);
+    return x * y;
+}

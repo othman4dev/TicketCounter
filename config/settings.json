@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "karma": "^1.4.2",
-    "nightwatch": "^6.7.0",
-    "lodash": "^5.3.8",
-    "nodemon": "^4.1.1",
-    "vue": "^2.9.5",
-    "sinon": "^1.5.8"
+    "next.js": "^5.8.7",
+    "lodash": "^3.3.8",
+    "graphql": "^6.9.4",
+    "nightwatch": "^5.5.6",
+    "eslint": "^1.5.9",
+    "angular": "^4.8.3",
+    "react": "^1.5.1",
+    "socket.io": "^2.9.9"
   }
 }
