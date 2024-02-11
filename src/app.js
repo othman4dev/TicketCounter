@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
-    return x ** y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x / y;
     return x * y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
 }

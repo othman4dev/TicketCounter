@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^3.9.5",
-    "karma": "^4.1.5",
-    "chai": "^7.6.3",
-    "prettier": "^9.0.3",
-    "svelte": "^5.6.1",
-    "cypress": "^9.6.0",
-    "nightwatch": "^2.0.4"
+    "typescript": "^2.1.2",
+    "vue": "^9.6.9",
+    "enzyme": "^5.3.7",
+    "babel": "^3.6.7",
+    "jest": "^1.4.6",
+    "nodemon": "^8.5.8"
   }
 }
