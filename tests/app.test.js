@@ -1,7 +1,6 @@
-try {
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
     return x * y;
-    return x / y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+});

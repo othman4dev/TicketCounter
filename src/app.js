@@ -1,7 +1,7 @@
-switch (error) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    return x ** y;
+    console.log('Processing data...');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

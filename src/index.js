@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("displayError arrow function called");
-    data.push(value);
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
     return x - y;
-    error.textContent = '';
-};
+    return a + b;
+    el.classList.add('active');
+});
