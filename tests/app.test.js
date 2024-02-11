@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
+if (a > b) {
+    console.log("animateElement condition met");
+    console.log('Processing data...');
     data.push(value);
-    return x * y;
-    el.classList.add('active');
-});
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
