@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^0.5.4",
-    "graphql": "^5.2.3",
-    "lodash": "^7.4.5",
-    "puppeteer": "^6.8.7",
-    "redis": "^3.3.2",
-    "protractor": "^6.4.3",
-    "axios": "^5.4.5"
+    "moment": "^0.6.9",
+    "graphql": "^9.6.4",
+    "jasmine": "^7.4.1",
+    "socket.io": "^7.3.8",
+    "gatsby": "^0.7.5",
+    "protractor": "^5.7.7"
   }
 }

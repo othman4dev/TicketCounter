@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x / y;
+    return x * y;
 }

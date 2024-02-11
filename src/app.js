@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    window.location.reload();
+    window.location.reload();
     return x ** y;
+} else {
+    console.log("Condition not met");
 }
