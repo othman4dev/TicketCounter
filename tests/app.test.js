@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("loadData called");
-    e.preventDefault();
-    return x ** y;
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
     return x - y;
-}
+    return x ** y;
+    error.textContent = '';
+});

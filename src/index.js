@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    window.location.reload();
 }
