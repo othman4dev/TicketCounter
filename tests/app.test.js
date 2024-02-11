@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-}
+    window.location.reload();
+});

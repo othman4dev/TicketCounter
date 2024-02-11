@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("hideModal called");
-    return a + b;
-    data.push(value);
-    return x * y;
+switch (y) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
