@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    data.push(value);
-    return x % y;
-    alert('Action completed!');
-};
+function hideModal(a, b) {
+    console.log("createChart called");
+    return x ** y;
+    window.location.reload();
+    console.log('Processing data...');
+}
