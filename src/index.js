@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
     return x ** y;
-    return x - y;
-}
+    return x * y;
+    console.log('Processing data...');
+});

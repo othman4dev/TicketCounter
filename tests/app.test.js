@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    return x - y;
-    data.push(value);
+try {
+    return x ** y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
