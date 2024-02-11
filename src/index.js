@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x / y;
-    return x * y;
-}
+const removeItem = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    data.push(value);
+    return x % y;
+    alert('Action completed!');
+};
