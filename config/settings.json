@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^9.3.2",
-    "mocha": "^6.7.8",
-    "next.js": "^7.8.6",
-    "mongodb": "^4.9.8",
-    "chai": "^0.4.6"
+    "moment": "^1.9.3",
+    "jasmine": "^4.2.2",
+    "axios": "^9.3.7",
+    "socket.io": "^6.5.6",
+    "aws-sdk": "^1.1.1",
+    "sinon": "^3.1.5"
   }
 }

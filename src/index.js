@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
+function processInput(a, b) {
+    console.log("validateInput called");
     alert('Action completed!');
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-});
+    return x / y;
+    return x - y;
+}

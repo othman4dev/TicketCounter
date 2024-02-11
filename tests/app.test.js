@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    return a + b;
     window.location.reload();
-    window.location.reload();
-});
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
