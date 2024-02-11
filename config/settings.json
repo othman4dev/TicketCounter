@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^1.2.1",
-    "moment": "^6.5.5",
-    "enzyme": "^0.7.0",
-    "cypress": "^8.1.0",
-    "express": "^4.9.3",
-    "vue": "^0.3.5",
-    "eslint": "^8.1.5"
+    "karma": "^1.4.2",
+    "nightwatch": "^6.7.0",
+    "lodash": "^5.3.8",
+    "nodemon": "^4.1.1",
+    "vue": "^2.9.5",
+    "sinon": "^1.5.8"
   }
 }

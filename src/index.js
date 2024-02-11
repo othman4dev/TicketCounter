@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x - y;
+    return a + b;
+    return a + b;
+};
