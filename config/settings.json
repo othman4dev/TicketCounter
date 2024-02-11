@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "moment": "^1.9.3",
-    "jasmine": "^4.2.2",
-    "axios": "^9.3.7",
-    "socket.io": "^6.5.6",
-    "aws-sdk": "^1.1.1",
-    "sinon": "^3.1.5"
+    "ember": "^5.2.3",
+    "express": "^3.5.0",
+    "prettier": "^4.5.6",
+    "socket.io": "^2.6.7",
+    "graphql": "^6.2.3",
+    "angular": "^9.7.6",
+    "chai": "^6.9.5"
   }
 }

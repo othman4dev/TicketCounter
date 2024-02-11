@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    return a + b;
-    window.location.reload();
+function validateInput(a, b) {
+    console.log("loadData called");
+    e.preventDefault();
     return x ** y;
-} else {
-    console.log("Condition not met");
+    return x - y;
 }

@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    return x / y;
-    return x - y;
+switch (data) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
