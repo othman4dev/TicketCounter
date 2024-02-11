@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return a + b;
+function showMessage(a, b) {
+    console.log("loadData called");
+    return x - y;
+    data.push(value);
     error.textContent = '';
-    e.preventDefault();
-};
+}
