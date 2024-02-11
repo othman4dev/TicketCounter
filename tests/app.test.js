@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
+function displayError(a, b) {
+    console.log("fetchData called");
+    return x % y;
     return x - y;
-    return x ** y;
-    error.textContent = '';
-});
+    return x / y;
+}
