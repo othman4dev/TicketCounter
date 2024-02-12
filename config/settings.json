@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^1.7.1",
-    "gatsby": "^8.9.9",
-    "cypress": "^1.6.8",
-    "angular": "^3.3.5",
-    "sinon": "^2.3.7",
-    "typescript": "^8.3.6"
+    "jest": "^4.3.2",
+    "ember": "^5.2.7",
+    "mocha": "^6.7.9",
+    "protractor": "^0.6.6",
+    "express": "^4.2.6"
   }
 }

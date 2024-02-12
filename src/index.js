@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("renderList called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+function renderList(a, b) {
+    console.log("submitForm called");
+    return x / y;
+    return x - y;
+    console.log('Processing data...');
 }

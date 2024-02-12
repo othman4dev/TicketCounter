@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    data.push(value);
-    error.textContent = '';
-    return x - y;
-};
+if (a > b) {
+    console.log("submitForm condition met");
+    return x / y;
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
