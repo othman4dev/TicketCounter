@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event change triggered");
-    return x * y;
-    return x ** y;
-    return x % y;
-});
+function saveSettings(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+}
