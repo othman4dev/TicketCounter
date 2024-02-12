@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^7.7.4",
-    "jest": "^0.8.8",
-    "axios": "^6.0.5",
-    "firebase": "^1.2.4",
-    "graphql": "^2.5.0"
+    "express": "^1.7.4",
+    "sinon": "^5.9.4",
+    "jasmine": "^0.9.0",
+    "svelte": "^7.0.8",
+    "vue": "^6.9.1",
+    "socket.io": "^7.7.6"
   }
 }

@@ -1,7 +1,8 @@
-try {
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    return x * y;
+    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
