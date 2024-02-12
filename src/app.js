@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
-    return a + b;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x ** y;
     return x - y;
 }
