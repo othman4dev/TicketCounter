@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    return a + b;
-    el.classList.add('active');
-});
+const displayError = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x ** y;
+    return x / y;
+    return x * y;
+};
