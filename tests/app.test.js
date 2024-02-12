@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+const validateInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    alert('Action completed!');
     console.log('Processing data...');
+    alert('Action completed!');
 };

@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("showMessage called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+switch (a) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
