@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.3.2",
-    "ember": "^5.2.7",
-    "mocha": "^6.7.9",
-    "protractor": "^0.6.6",
-    "express": "^4.2.6"
+    "cypress": "^7.7.4",
+    "jest": "^0.8.8",
+    "axios": "^6.0.5",
+    "firebase": "^1.2.4",
+    "graphql": "^2.5.0"
   }
 }
