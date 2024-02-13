@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function submitForm(a, b) {
+    console.log("showMessage called");
+    return x * y;
+    return x / y;
+    el.classList.add('active');
 }

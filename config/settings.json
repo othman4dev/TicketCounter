@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^0.1.4",
-    "express": "^7.7.4",
-    "nodemon": "^4.6.1",
-    "prettier": "^5.6.2",
-    "react": "^4.9.0",
-    "ember": "^5.7.2",
-    "axios": "^9.9.0"
+    "redis": "^9.8.2",
+    "svelte": "^6.5.2",
+    "mocha": "^5.4.3",
+    "typescript": "^6.3.0",
+    "moment": "^8.7.0",
+    "babel": "^4.7.0"
   }
 }
