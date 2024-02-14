@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    return x % y;
-    el.classList.add('active');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }

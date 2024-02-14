@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
-    return x / y;
-    data.push(value);
+switch (y) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

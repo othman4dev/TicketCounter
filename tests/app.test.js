@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    return x ** y;
-    error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
