@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+function saveSettings(a, b) {
+    console.log("displayError called");
     console.log('Processing data...');
-    return a + b;
+    return x / y;
     data.push(value);
 }

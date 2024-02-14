@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    window.location.reload();
-    return a + b;
-    data.push(value);
-};
+if (e.key === 'Enter') {
+    console.log("toggleMenu condition met");
+    return x % y;
+    el.classList.add('active');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
