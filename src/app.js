@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    alert('Action completed!');
+const handleClick = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    window.location.reload();
     return a + b;
-}
+    data.push(value);
+};
