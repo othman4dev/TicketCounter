@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    window.location.reload();
-    console.log('Processing data...');
-});
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    alert('Action completed!');
+    return a + b;
+}

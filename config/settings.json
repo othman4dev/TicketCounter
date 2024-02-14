@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "moment": "^4.2.3",
-    "jest": "^6.0.8",
-    "jasmine": "^5.9.4",
-    "babel": "^3.6.0",
-    "redis": "^9.0.0"
+    "moment": "^1.8.9",
+    "mysql": "^0.7.2",
+    "socket.io": "^2.7.2",
+    "angular": "^6.3.8",
+    "prettier": "^3.0.8"
   }
 }

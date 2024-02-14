@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    return x ** y;
+    window.location.reload();
+});
