@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    el.classList.add('active');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("processInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+try {
+    return a + b;
+    el.classList.add('active');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
