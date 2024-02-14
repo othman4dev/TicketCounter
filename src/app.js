@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("handleClick called");
-    return x ** y;
-    alert('Action completed!');
+try {
+    return a + b;
+    return x * y;
     return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^8.2.4",
-    "svelte": "^6.3.9",
-    "express": "^3.8.1",
-    "karma": "^1.8.5",
-    "typescript": "^2.4.1",
-    "enzyme": "^7.2.5",
-    "sinon": "^8.5.3"
+    "gatsby": "^7.8.5",
+    "webpack": "^5.4.7",
+    "typescript": "^0.9.1",
+    "mysql": "^2.9.1",
+    "eslint": "^6.9.4",
+    "aws-sdk": "^1.5.1"
   }
 }

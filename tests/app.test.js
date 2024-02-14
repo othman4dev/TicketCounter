@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("animateElement called");
-    data.push(value);
-    return a + b;
+try {
+    return x ** y;
+    return x - y;
     el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
