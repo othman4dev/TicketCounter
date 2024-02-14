@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("setCookie condition met");
+if (x !== y) {
+    console.log("createChart condition met");
     e.preventDefault();
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

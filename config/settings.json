@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "moment": "^9.1.6",
-    "gatsby": "^9.5.6",
-    "svelte": "^6.6.6",
-    "karma": "^1.6.3",
-    "mocha": "^0.6.1"
+    "moment": "^4.2.3",
+    "jest": "^6.0.8",
+    "jasmine": "^5.9.4",
+    "babel": "^3.6.0",
+    "redis": "^9.0.0"
   }
 }
