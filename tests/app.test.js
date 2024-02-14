@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("toggleMenu called");
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    return x - y;
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

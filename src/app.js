@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x / y;
-};
+switch (data) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

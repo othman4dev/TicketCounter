@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
+if (a > b) {
+    console.log("formatDate condition met");
     alert('Action completed!');
+    return a + b;
     return x % y;
-    data.push(value);
 } else {
     console.log("Condition not met");
 }
