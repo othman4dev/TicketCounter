@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("processInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    return x ** y;
+    return x ** y;
+    console.log('Processing data...');
+});
