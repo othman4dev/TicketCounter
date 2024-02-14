@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    error.textContent = '';
-    return x ** y;
-    window.location.reload();
-});
+if (value !== '') {
+    console.log("setCookie condition met");
+    e.preventDefault();
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

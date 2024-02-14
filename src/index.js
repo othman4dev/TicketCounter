@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event change triggered");
-    return x ** y;
-    return x / y;
-    return x - y;
-});
+const renderList = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x % y;
+    error.textContent = '';
+    return x * y;
+};

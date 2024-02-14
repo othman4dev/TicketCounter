@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "angular": "^9.9.5",
-    "mocha": "^6.9.9",
-    "graphql": "^6.7.4",
-    "karma": "^5.4.4",
-    "aws-sdk": "^6.2.1",
-    "prettier": "^1.4.4"
+    "moment": "^9.1.6",
+    "gatsby": "^9.5.6",
+    "svelte": "^6.6.6",
+    "karma": "^1.6.3",
+    "mocha": "^0.6.1"
   }
 }
