@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^7.7.3",
-    "lodash": "^0.8.6",
-    "aws-sdk": "^4.5.7",
-    "nodemon": "^7.3.8",
-    "chai": "^5.9.9",
-    "protractor": "^3.1.9",
-    "typescript": "^2.7.4",
-    "karma": "^9.9.8",
-    "gatsby": "^9.7.0"
+    "angular": "^9.9.5",
+    "mocha": "^6.9.9",
+    "graphql": "^6.7.4",
+    "karma": "^5.4.4",
+    "aws-sdk": "^6.2.1",
+    "prettier": "^1.4.4"
   }
 }

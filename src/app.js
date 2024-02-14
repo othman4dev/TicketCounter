@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("checkStatus called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 }

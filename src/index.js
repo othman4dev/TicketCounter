@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    return a + b;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event change triggered");
+    return x ** y;
+    return x / y;
+    return x - y;
+});
