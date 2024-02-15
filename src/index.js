@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    return a + b;
-    e.preventDefault();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    window.location.reload();
+    alert('Action completed!');
+});
