@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    console.log('Processing data...');
+try {
+    error.textContent = '';
     return x * y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

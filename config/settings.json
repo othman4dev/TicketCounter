@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "angular": "^0.8.0",
-    "puppeteer": "^3.4.7",
-    "aws-sdk": "^6.5.3",
-    "react": "^7.8.6",
-    "redis": "^2.4.4"
+    "firebase": "^7.8.4",
+    "prettier": "^4.6.3",
+    "graphql": "^1.9.1",
+    "nodemon": "^6.4.4",
+    "react": "^0.7.7",
+    "nightwatch": "^6.6.6",
+    "ember": "^3.8.8",
+    "next.js": "^8.9.0"
   }
 }

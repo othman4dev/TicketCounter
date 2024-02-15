@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("formatDate called");
-    return x - y;
-    return x % y;
-    error.textContent = '';
-}
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
+    return x ** y;
+    return x * y;
+});
