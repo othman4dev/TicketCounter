@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    return x * y;
+function handleClick(a, b) {
+    console.log("formatDate called");
+    return x - y;
     return x % y;
+    error.textContent = '';
 }

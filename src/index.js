@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    window.location.reload();
-};
+if (x === y) {
+    console.log("toggleMenu condition met");
+    console.log('Processing data...');
+    return x * y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
