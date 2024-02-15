@@ -1,7 +1,6 @@
-try {
-    return x / y;
+const processInput = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    window.location.reload();
+};

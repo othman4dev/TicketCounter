@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    return x - y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function checkStatus(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    return x * y;
+    return x % y;
 }
