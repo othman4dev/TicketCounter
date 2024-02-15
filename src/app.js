@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+try {
+    error.textContent = '';
+    return x % y;
     el.classList.add('active');
-    alert('Action completed!');
-    window.location.reload();
-};
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
+if (a > b) {
     console.log("setSessionStorage condition met");
-    error.textContent = '';
+    return a + b;
+    e.preventDefault();
     el.classList.add('active');
-    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
