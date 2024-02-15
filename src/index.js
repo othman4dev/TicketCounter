@@ -1,7 +1,8 @@
-switch (el) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("setSessionStorage condition met");
+    error.textContent = '';
+    el.classList.add('active');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
