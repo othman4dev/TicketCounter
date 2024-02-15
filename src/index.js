@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x * y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const removeItem = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    console.log('Processing data...');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+};

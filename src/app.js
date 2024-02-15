@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    return x ** y;
-    return x * y;
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    el.classList.add('active');
+    data.push(value);
+    alert('Action completed!');
 });
