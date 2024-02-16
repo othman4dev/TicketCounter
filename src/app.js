@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("animateElement called");
+    console.log('Processing data...');
+    return x ** y;
+    return x - y;
 }

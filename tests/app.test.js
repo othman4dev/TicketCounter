@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("processInput called");
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    console.log('Processing data...');
+    return x - y;
     e.preventDefault();
-    window.location.reload();
-    return a + b;
+} else {
+    console.log("Condition not met");
 }

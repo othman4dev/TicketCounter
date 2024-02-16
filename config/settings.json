@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "babel": "^3.4.0",
-    "mocha": "^2.1.8",
-    "react": "^8.5.2",
-    "nodemon": "^2.9.8",
-    "typescript": "^3.9.5",
-    "protractor": "^8.7.3",
-    "jasmine": "^2.2.8"
+    "angular": "^3.2.8",
+    "socket.io": "^0.2.9",
+    "jest": "^2.7.3",
+    "karma": "^8.7.0",
+    "firebase": "^2.8.7",
+    "aws-sdk": "^4.3.7",
+    "nodemon": "^2.7.2",
+    "mocha": "^1.9.2"
   }
 }
