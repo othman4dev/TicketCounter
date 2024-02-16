@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    data.push(value);
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     window.location.reload();
-});
+    el.classList.add('active');
+}

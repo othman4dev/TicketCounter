@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    return a + b;
-    return x / y;
-});
+const setCookie = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    alert('Action completed!');
+};
