@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    return x % y;
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x ** y;
-};
+});

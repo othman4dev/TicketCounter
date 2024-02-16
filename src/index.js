@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x * y;
-    data.push(value);
+if (window.innerWidth > 500) {
+    console.log("hideModal condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
