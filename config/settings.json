@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^6.9.5",
-    "enzyme": "^5.7.1",
-    "babel": "^8.1.8",
-    "mocha": "^5.0.3",
-    "prettier": "^6.4.3",
-    "karma": "^1.3.9"
+    "socket.io": "^0.2.9",
+    "nodemon": "^0.1.1",
+    "enzyme": "^0.2.7",
+    "svelte": "^7.8.4",
+    "jest": "^5.4.6",
+    "jasmine": "^7.2.2",
+    "vue": "^8.8.1",
+    "angular": "^9.6.7"
   }
 }

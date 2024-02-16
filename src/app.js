@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
-    return x ** y;
-    e.preventDefault();
-};
+function fetchData(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x % y;
+}

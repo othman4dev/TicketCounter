@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
     error.textContent = '';
-    e.preventDefault();
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
