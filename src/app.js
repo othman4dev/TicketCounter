@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("animateElement called");
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
     return x ** y;
-    return x - y;
-}
+    data.push(value);
+    window.location.reload();
+});

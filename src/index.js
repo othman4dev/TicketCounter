@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    return x / y;
+    return x - y;
     window.location.reload();
-    return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+});
