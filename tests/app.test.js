@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("setSessionStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x % y;
+switch (a) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
