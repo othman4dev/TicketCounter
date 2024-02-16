@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jest": "^1.0.6",
-    "svelte": "^6.5.4",
-    "prettier": "^0.4.0",
-    "express": "^6.6.6",
-    "protractor": "^0.9.5",
-    "mocha": "^3.6.2",
-    "nightwatch": "^2.7.1",
-    "puppeteer": "^0.8.3"
+    "puppeteer": "^3.5.5",
+    "karma": "^5.8.7",
+    "mocha": "^1.4.8",
+    "jest": "^1.5.5",
+    "redis": "^5.7.2"
   }
 }
