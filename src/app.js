@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    window.location.reload();
-    el.classList.add('active');
-}
+const handleClick = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    console.log('Processing data...');
+    return x ** y;
+    e.preventDefault();
+};
