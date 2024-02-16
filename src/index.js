@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("submitForm called");
+    e.preventDefault();
+    return a + b;
+    e.preventDefault();
 }

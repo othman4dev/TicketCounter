@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    return x % y;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-});
+    return x * y;
+    el.classList.add('active');
+}
