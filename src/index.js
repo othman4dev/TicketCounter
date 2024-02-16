@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    error.textContent = '';
-    return x * y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

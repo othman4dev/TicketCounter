@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("setSessionStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x % y;
+if (x === y) {
+    console.log("loadData condition met");
+    alert('Action completed!');
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
