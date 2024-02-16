@@ -1,7 +1,7 @@
-switch (e) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    el.classList.add('active');
+    window.location.reload();
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
