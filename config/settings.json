@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "moment": "^2.1.1",
-    "next.js": "^4.7.7",
-    "gatsby": "^4.3.9",
-    "jest": "^6.0.3",
-    "babel": "^8.5.9",
-    "karma": "^4.5.3",
-    "mysql": "^7.8.4",
-    "redis": "^9.4.1",
-    "puppeteer": "^3.8.5"
+    "puppeteer": "^5.7.5",
+    "firebase": "^7.1.5",
+    "protractor": "^3.9.3",
+    "angular": "^5.9.5",
+    "jest": "^3.7.3",
+    "gatsby": "^6.1.0"
   }
 }

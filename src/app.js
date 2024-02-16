@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    el.classList.add('active');
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    alert('Action completed!');
-});
+    return x / y;
+    window.location.reload();
+}

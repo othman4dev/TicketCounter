@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    console.log('Processing data...');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return x * y;
+    data.push(value);
+}
