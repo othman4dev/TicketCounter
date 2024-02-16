@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    return x * y;
-    alert('Action completed!');
-    return a + b;
-});
+switch (a) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
