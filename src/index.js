@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("setSessionStorage called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-}
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    alert('Action completed!');
+    return a + b;
+});
