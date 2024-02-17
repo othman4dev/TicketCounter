@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "eslint": "^2.3.4",
-    "express": "^8.6.3",
-    "puppeteer": "^8.5.8",
-    "sinon": "^7.6.9",
-    "typescript": "^0.2.6",
-    "aws-sdk": "^3.0.7",
-    "jest": "^8.1.8"
+    "webpack": "^8.7.2",
+    "react": "^9.3.9",
+    "karma": "^8.0.9",
+    "jasmine": "^3.8.0"
   }
 }

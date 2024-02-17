@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    data.push(value);
+    el.classList.add('active');
+    alert('Action completed!');
+};
