@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return a + b;
-    data.push(value);
-    return a + b;
+const animateElement = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    error.textContent = '';
+    el.classList.add('active');
+    console.log('Processing data...');
 };

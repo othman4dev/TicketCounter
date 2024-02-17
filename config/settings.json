@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^4.1.2",
-    "enzyme": "^2.8.5",
-    "mocha": "^0.6.5",
-    "lodash": "^8.2.5",
-    "mongodb": "^8.8.7",
-    "protractor": "^5.5.8"
+    "ember": "^7.1.1",
+    "nightwatch": "^8.0.3",
+    "socket.io": "^0.7.4",
+    "express": "^5.1.2",
+    "redis": "^0.9.3",
+    "jasmine": "^8.3.6",
+    "babel": "^8.6.3",
+    "protractor": "^7.2.1"
   }
 }
