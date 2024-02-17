@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    data.push(value);
-    el.classList.add('active');
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-};
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+}
