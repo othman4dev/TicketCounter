@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
+try {
+    console.log('Processing data...');
+    alert('Action completed!');
     el.classList.add('active');
-    return x * y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

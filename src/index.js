@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const loadData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    console.log('Processing data...');
+};
