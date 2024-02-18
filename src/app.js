@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    return x / y;
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
     return x - y;
-    return x * y;
+    console.log('Processing data...');
 });
