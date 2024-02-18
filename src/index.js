@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x / y;
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+    data.push(value);
+};

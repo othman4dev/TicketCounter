@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "redis": "^2.2.3",
-    "aws-sdk": "^0.1.4",
-    "eslint": "^0.6.3",
-    "karma": "^3.2.7",
-    "enzyme": "^5.8.3",
-    "gatsby": "^1.0.1"
+    "prettier": "^9.3.7",
+    "redis": "^8.3.5",
+    "mysql": "^3.6.6",
+    "chai": "^6.9.8",
+    "aws-sdk": "^5.5.1"
   }
 }
