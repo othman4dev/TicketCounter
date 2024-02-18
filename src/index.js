@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return a + b;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     error.textContent = '';
-    e.preventDefault();
-};
+    alert('Action completed!');
+}

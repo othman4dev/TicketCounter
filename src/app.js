@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
+try {
+    return x / y;
     return x - y;
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
