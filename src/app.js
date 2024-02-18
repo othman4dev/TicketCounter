@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    error.textContent = '';
-    el.classList.add('active');
-    console.log('Processing data...');
-};
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    return x - y;
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return a + b;
+    error.textContent = '';
+    e.preventDefault();
+};

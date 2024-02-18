@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "ember": "^7.1.1",
-    "nightwatch": "^8.0.3",
-    "socket.io": "^0.7.4",
-    "express": "^5.1.2",
-    "redis": "^0.9.3",
-    "jasmine": "^8.3.6",
-    "babel": "^8.6.3",
-    "protractor": "^7.2.1"
+    "babel": "^6.2.7",
+    "socket.io": "^4.2.1",
+    "lodash": "^5.8.5",
+    "nightwatch": "^0.1.5",
+    "cypress": "^4.3.9",
+    "graphql": "^8.6.1",
+    "mysql": "^9.5.8",
+    "axios": "^6.9.8",
+    "nodemon": "^4.6.3"
   }
 }
