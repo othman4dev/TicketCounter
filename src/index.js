@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    el.classList.add('active');
-    alert('Action completed!');
-    data.push(value);
-};
+switch (value) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
