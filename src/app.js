@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    data.push(value);
-    return x / y;
-    data.push(value);
-});
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    return x * y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
