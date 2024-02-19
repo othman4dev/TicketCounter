@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+try {
+    console.log('Processing data...');
+    return x ** y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
