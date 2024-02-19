@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^9.6.4",
-    "karma": "^6.1.5",
-    "aws-sdk": "^4.1.9",
-    "axios": "^0.2.1",
-    "nodemon": "^2.2.4",
-    "angular": "^9.9.7",
-    "webpack": "^6.9.2",
-    "typescript": "^7.9.3",
-    "lodash": "^0.2.2"
+    "prettier": "^8.3.2",
+    "gatsby": "^7.7.2",
+    "ember": "^2.5.9",
+    "nodemon": "^6.9.9",
+    "eslint": "^2.7.0"
   }
 }
