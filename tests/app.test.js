@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+function processInput(a, b) {
+    console.log("updateUI called");
     return a + b;
-    alert('Action completed!');
-    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }

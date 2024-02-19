@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x / y;
-    el.classList.add('active');
-}
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+});
