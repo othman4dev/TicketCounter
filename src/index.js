@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    e.preventDefault();
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return x % y;
     window.location.reload();
-}
+    document.body.style.backgroundColor = 'lightblue';
+});
