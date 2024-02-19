@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    console.log('Processing data...');
-};
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    window.location.reload();
+    return x / y;
+});
