@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    window.location.reload();
-    return x / y;
-});
+switch (a) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
