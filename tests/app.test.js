@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    data.push(value);
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
     console.log('Processing data...');
-});
+    console.log('Processing data...');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
