@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "puppeteer": "^1.7.4",
-    "nightwatch": "^8.1.5",
-    "eslint": "^7.6.3",
-    "typescript": "^7.6.7",
-    "socket.io": "^4.4.8"
+    "ember": "^2.9.7",
+    "firebase": "^8.7.6",
+    "lodash": "^5.0.9",
+    "mongodb": "^4.6.3",
+    "protractor": "^5.0.2",
+    "angular": "^1.2.2",
+    "mocha": "^5.1.1",
+    "nightwatch": "^5.3.6",
+    "webpack": "^4.6.5"
   }
 }

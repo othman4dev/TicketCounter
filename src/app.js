@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("loadData called");
-    error.textContent = '';
-    return x - y;
-    window.location.reload();
+switch (a) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
