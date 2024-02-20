@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^9.1.4",
-    "react": "^9.9.5",
-    "next.js": "^9.1.4",
-    "typescript": "^0.8.2",
-    "chai": "^8.7.4"
+    "moment": "^1.8.6",
+    "react": "^4.8.5",
+    "sinon": "^5.1.4",
+    "eslint": "^5.0.7",
+    "nightwatch": "^4.2.1",
+    "mocha": "^9.8.4"
   }
 }
