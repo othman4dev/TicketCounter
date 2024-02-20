@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("processInput arrow function called");
-    data.push(value);
-    console.log('Processing data...');
+if (a > b) {
+    console.log("handleClick condition met");
+    alert('Action completed!');
     return x ** y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

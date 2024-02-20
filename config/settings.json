@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^8.3.5",
-    "protractor": "^0.2.5",
-    "nightwatch": "^8.7.3",
-    "cypress": "^5.4.6",
-    "react": "^4.7.4"
+    "mysql": "^9.1.4",
+    "react": "^9.9.5",
+    "next.js": "^9.1.4",
+    "typescript": "^0.8.2",
+    "chai": "^8.7.4"
   }
 }

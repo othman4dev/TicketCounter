@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    return x / y;
+    return x / y;
+    return x / y;
+});
