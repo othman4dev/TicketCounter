@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^9.9.2",
-    "enzyme": "^9.5.5",
-    "express": "^0.6.3",
-    "nightwatch": "^6.3.1",
-    "puppeteer": "^0.7.1"
+    "puppeteer": "^1.7.4",
+    "nightwatch": "^8.1.5",
+    "eslint": "^7.6.3",
+    "typescript": "^7.6.7",
+    "socket.io": "^4.4.8"
   }
 }

@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    alert('Action completed!');
-    return x * y;
-    return x - y;
-};
+function updateUI(a, b) {
+    console.log("processInput called");
+    data.push(value);
+    return x % y;
+    return x / y;
+}
