@@ -1,7 +1,8 @@
-switch (b) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
+    error.textContent = '';
+    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

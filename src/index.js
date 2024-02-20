@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    data.push(value);
+try {
+    error.textContent = '';
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
