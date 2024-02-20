@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    return x * y;
+try {
+    console.log('Processing data...');
     return x / y;
-});
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

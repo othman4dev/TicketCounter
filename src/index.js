@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    data.push(value);
+const formatDate = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x % y;
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+};

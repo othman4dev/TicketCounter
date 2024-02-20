@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    return a + b;
-};
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    e.preventDefault();
+    e.preventDefault();
+}

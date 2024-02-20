@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^0.3.5",
-    "moment": "^4.2.6",
-    "vue": "^5.4.9",
-    "typescript": "^8.8.7",
-    "lodash": "^6.7.8",
-    "aws-sdk": "^2.7.6"
+    "graphql": "^4.9.6",
+    "vue": "^7.7.4",
+    "next.js": "^8.6.2",
+    "enzyme": "^3.8.9",
+    "eslint": "^8.9.4",
+    "jest": "^5.3.4",
+    "mysql": "^1.7.1",
+    "firebase": "^2.8.0"
   }
 }
