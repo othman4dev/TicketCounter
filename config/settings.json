@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "moment": "^1.8.6",
-    "react": "^4.8.5",
-    "sinon": "^5.1.4",
-    "eslint": "^5.0.7",
-    "nightwatch": "^4.2.1",
-    "mocha": "^9.8.4"
+    "svelte": "^0.3.5",
+    "moment": "^4.2.6",
+    "vue": "^5.4.9",
+    "typescript": "^8.8.7",
+    "lodash": "^6.7.8",
+    "aws-sdk": "^2.7.6"
   }
 }
