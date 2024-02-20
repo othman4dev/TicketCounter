@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^4.9.6",
-    "vue": "^7.7.4",
-    "next.js": "^8.6.2",
-    "enzyme": "^3.8.9",
-    "eslint": "^8.9.4",
-    "jest": "^5.3.4",
-    "mysql": "^1.7.1",
-    "firebase": "^2.8.0"
+    "jasmine": "^2.6.2",
+    "prettier": "^4.6.1",
+    "jest": "^8.3.9",
+    "next.js": "^3.6.7",
+    "axios": "^1.8.7",
+    "protractor": "^8.4.6",
+    "react": "^8.1.0",
+    "ember": "^5.2.6"
   }
 }

@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x % y;
-    error.textContent = '';
-    return x * y;
-};
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
+    data.push(value);
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
