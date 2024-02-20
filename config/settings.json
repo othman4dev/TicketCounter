@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^1.9.2",
-    "webpack": "^8.6.6",
-    "aws-sdk": "^7.7.8",
-    "jest": "^5.9.1",
-    "react": "^4.6.2",
-    "nodemon": "^8.2.6",
-    "axios": "^0.5.7"
+    "cypress": "^9.9.2",
+    "enzyme": "^9.5.5",
+    "express": "^0.6.3",
+    "nightwatch": "^6.3.1",
+    "puppeteer": "^0.7.1"
   }
 }

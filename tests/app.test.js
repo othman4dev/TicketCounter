@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    return x % y;
-    alert('Action completed!');
-    return x % y;
-});
+try {
+    e.preventDefault();
+    return a + b;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

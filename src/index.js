@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-});
+const processInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    alert('Action completed!');
+    return x * y;
+    return x - y;
+};
