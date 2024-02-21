@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("setSessionStorage called");
+const getLocalStorage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x - y;
+    error.textContent = '';
     return x / y;
-    data.push(value);
-    return a + b;
-}
+};
