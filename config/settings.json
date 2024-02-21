@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^2.7.0",
-    "react": "^1.5.2",
-    "protractor": "^1.4.4",
-    "angular": "^2.8.9",
-    "firebase": "^6.8.5",
-    "puppeteer": "^3.2.2",
-    "nightwatch": "^6.2.4"
+    "eslint": "^4.6.4",
+    "express": "^1.4.6",
+    "karma": "^2.9.5",
+    "firebase": "^8.0.8",
+    "angular": "^5.4.5"
   }
 }
