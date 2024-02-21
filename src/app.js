@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
-    return x % y;
-    return x - y;
-};
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    e.preventDefault();
+    data.push(value);
+});
