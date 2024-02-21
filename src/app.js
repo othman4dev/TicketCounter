@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
-    el.classList.add('active');
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("setSessionStorage called");
+    error.textContent = '';
+    error.textContent = '';
+    return x % y;
 }

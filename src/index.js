@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    window.location.reload();
-    return a + b;
+const formatDate = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    el.classList.add('active');
     return x / y;
 };
