@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x / y;
+    data.push(value);
+    window.location.reload();
+};
