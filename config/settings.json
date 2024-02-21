@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^0.5.0",
-    "mysql": "^6.2.5",
-    "ember": "^3.2.5",
-    "jest": "^2.2.5",
-    "karma": "^3.5.4",
-    "prettier": "^2.7.2",
-    "babel": "^3.1.8",
-    "nightwatch": "^5.8.6"
+    "jasmine": "^1.4.0",
+    "protractor": "^3.4.8",
+    "eslint": "^3.0.0",
+    "mysql": "^2.2.4",
+    "mongodb": "^8.9.9"
   }
 }
