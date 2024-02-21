@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    return x - y;
-    return a + b;
-    data.push(value);
+if (a > b) {
+    console.log("createChart condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
