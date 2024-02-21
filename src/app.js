@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
-    return x / y;
+const setSessionStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
     error.textContent = '';
-}
+    return x ** y;
+};
