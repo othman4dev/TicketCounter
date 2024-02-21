@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    window.location.reload();
-    console.log('Processing data...');
-}
+const setCookie = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x ** y;
+    return x ** y;
+    data.push(value);
+};

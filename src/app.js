@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("renderList called");
-    return x * y;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
     return x ** y;
-    e.preventDefault();
 }

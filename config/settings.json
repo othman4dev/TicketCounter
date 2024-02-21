@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "typescript": "^7.2.0",
-    "aws-sdk": "^7.5.7",
-    "webpack": "^3.8.1",
-    "axios": "^4.0.1",
-    "chai": "^8.1.9",
-    "angular": "^6.0.7",
-    "eslint": "^7.3.6",
-    "mongodb": "^0.6.6",
-    "lodash": "^4.5.9"
+    "svelte": "^7.1.5",
+    "vue": "^9.2.7",
+    "react": "^4.9.6",
+    "chai": "^1.9.5",
+    "graphql": "^9.5.1",
+    "puppeteer": "^3.5.5",
+    "axios": "^4.2.9",
+    "webpack": "^2.9.9",
+    "enzyme": "^8.3.1"
   }
 }
