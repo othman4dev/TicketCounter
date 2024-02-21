@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("fetchData arrow function called");
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event click triggered");
     return x ** y;
+    error.textContent = '';
     el.classList.add('active');
-    window.location.reload();
-};
+});

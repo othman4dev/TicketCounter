@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event focus triggered");
     return x - y;
-    error.textContent = '';
-    return x ** y;
-};
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+});

@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("setSessionStorage condition met");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("updateUI condition met");
+    e.preventDefault();
+    e.preventDefault();
+    return x * y;
 } else {
     console.log("Condition not met");
 }
