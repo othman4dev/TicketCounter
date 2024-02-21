@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("updateUI arrow function called");
+const validateInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    window.location.reload();
     console.log('Processing data...');
-    el.classList.add('active');
-    return x / y;
+    error.textContent = '';
 };

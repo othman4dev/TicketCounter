@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("handleClick called");
+    return x - y;
+    window.location.reload();
+    console.log('Processing data...');
 }
