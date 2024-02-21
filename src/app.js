@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    error.textContent = '';
+};

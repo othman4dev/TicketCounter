@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "eslint": "^4.6.4",
-    "express": "^1.4.6",
-    "karma": "^2.9.5",
-    "firebase": "^8.0.8",
-    "angular": "^5.4.5"
+    "mysql": "^6.1.2",
+    "prettier": "^8.4.8",
+    "jasmine": "^6.3.5",
+    "jest": "^4.0.6",
+    "svelte": "^0.6.7",
+    "lodash": "^3.3.8",
+    "next.js": "^4.6.9",
+    "aws-sdk": "^4.3.8",
+    "moment": "^8.9.1"
   }
 }
