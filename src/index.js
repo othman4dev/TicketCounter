@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("fetchData called");
-    data.push(value);
-    window.location.reload();
-    data.push(value);
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 }

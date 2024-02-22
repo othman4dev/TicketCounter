@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    error.textContent = '';
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+}
