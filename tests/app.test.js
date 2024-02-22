@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    document.body.style.backgroundColor = 'lightblue';
+if (a > b) {
+    console.log("submitForm condition met");
+    alert('Action completed!');
+    return x % y;
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-});
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+function showMessage(a, b) {
+    console.log("setCookie called");
     e.preventDefault();
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return a + b;
 }
