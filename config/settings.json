@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^1.5.2",
-    "karma": "^8.1.0",
-    "mysql": "^0.9.4",
-    "puppeteer": "^7.5.5",
-    "sinon": "^7.9.3",
-    "chai": "^9.1.0"
+    "chai": "^1.6.0",
+    "cypress": "^8.7.3",
+    "moment": "^1.7.7",
+    "jest": "^4.8.7",
+    "vue": "^5.7.7",
+    "graphql": "^2.9.0",
+    "svelte": "^3.2.8",
+    "typescript": "^6.9.8"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event input triggered");
+const saveSettings = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return x ** y;
+    error.textContent = '';
     return x - y;
-    alert('Action completed!');
-});
+};
