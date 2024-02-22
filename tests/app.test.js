@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("processInput condition met");
-    return x / y;
-    return x ** y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    alert('Action completed!');
+});
