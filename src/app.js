@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("showMessage called");
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     data.push(value);
-    return x ** y;
-    data.push(value);
+    return x * y;
 }
