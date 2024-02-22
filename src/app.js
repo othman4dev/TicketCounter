@@ -1,7 +1,8 @@
-switch (value) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("displayError condition met");
+    e.preventDefault();
+    return x % y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

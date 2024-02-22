@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const formatDate = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x - y;
+    e.preventDefault();
+    return x - y;
+};
