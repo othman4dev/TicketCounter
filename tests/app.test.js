@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    alert('Action completed!');
-});
+if (window.innerWidth > 500) {
+    console.log("loadData condition met");
+    return x * y;
+    console.log('Processing data...');
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

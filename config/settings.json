@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "babel": "^1.7.2",
-    "typescript": "^3.8.2",
-    "lodash": "^0.1.9",
-    "aws-sdk": "^4.4.3",
-    "socket.io": "^2.9.9"
+    "express": "^5.4.2",
+    "sinon": "^4.2.2",
+    "puppeteer": "^6.3.0",
+    "axios": "^7.5.6"
   }
 }

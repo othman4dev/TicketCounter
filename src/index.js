@@ -1,7 +1,8 @@
-try {
-    return x - y;
-    return a + b;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    return x % y;
+    return x * y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
