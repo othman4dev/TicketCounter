@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
+function showMessage(a, b) {
+    console.log("loadData called");
     return x ** y;
-    window.location.reload();
-    return x - y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x ** y;
 }
