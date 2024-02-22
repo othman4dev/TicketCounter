@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    return a + b;
-};
+function submitForm(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    console.log('Processing data...');
+    return x * y;
+}

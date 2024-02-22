@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^1.0.8",
-    "jasmine": "^0.8.4",
-    "mongodb": "^4.0.4",
-    "svelte": "^8.2.9",
-    "graphql": "^1.4.4"
+    "svelte": "^2.2.3",
+    "protractor": "^1.6.5",
+    "babel": "^9.5.8",
+    "mocha": "^0.0.4",
+    "next.js": "^9.0.6"
   }
 }
