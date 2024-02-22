@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x - y;
-    e.preventDefault();
-    return x - y;
-};
+if (x !== y) {
+    console.log("handleClick condition met");
+    return x ** y;
+    window.location.reload();
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

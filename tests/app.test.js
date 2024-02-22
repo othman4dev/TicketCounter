@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("createChart called");
-    data.push(value);
+try {
+    return x * y;
     return x - y;
     return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
