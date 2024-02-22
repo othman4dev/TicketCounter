@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("loadData called");
-    return x ** y;
-    alert('Action completed!');
-    return x ** y;
+function updateUI(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    window.location.reload();
+    data.push(value);
 }

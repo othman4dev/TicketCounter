@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^4.2.4",
-    "redis": "^9.1.8",
-    "axios": "^5.2.6",
-    "jasmine": "^2.3.8",
-    "enzyme": "^3.9.3",
-    "nightwatch": "^4.7.5",
-    "svelte": "^6.9.9",
-    "mocha": "^0.9.8"
+    "eslint": "^8.3.0",
+    "aws-sdk": "^3.2.6",
+    "vue": "^1.5.7",
+    "ember": "^9.5.4",
+    "mocha": "^4.1.5"
   }
 }

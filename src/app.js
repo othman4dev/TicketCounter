@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
-    return x % y;
-    error.textContent = '';
+const displayError = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 };
