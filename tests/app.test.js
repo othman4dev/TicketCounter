@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("toggleMenu called");
-    data.push(value);
-    console.log('Processing data...');
-    return x * y;
+if (value !== '') {
+    console.log("processInput condition met");
+    return x / y;
+    return x ** y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
