@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("setCookie called");
-    e.preventDefault();
-    return x % y;
-    return a + b;
-}
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    el.classList.add('active');
+};

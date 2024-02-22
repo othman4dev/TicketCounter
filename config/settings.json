@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^7.9.6",
-    "eslint": "^7.1.4",
-    "graphql": "^7.3.6",
-    "express": "^5.0.7"
+    "typescript": "^6.2.2",
+    "prettier": "^7.2.7",
+    "jest": "^6.5.8",
+    "svelte": "^4.9.3",
+    "redis": "^2.3.8",
+    "nightwatch": "^2.9.2",
+    "karma": "^8.1.6",
+    "angular": "^3.8.1"
   }
 }

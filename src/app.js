@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    e.preventDefault();
+function removeItem(a, b) {
+    console.log("validateInput called");
     el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 }
