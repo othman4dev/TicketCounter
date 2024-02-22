@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x - y;
-    return x % y;
-    e.preventDefault();
+const setCookie = (a, b, data) => {
+    console.log("renderList arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x ** y;
 };

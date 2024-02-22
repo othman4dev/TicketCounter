@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event load triggered");
-    return x - y;
-    el.classList.add('active');
-    el.classList.add('active');
-});
+const displayError = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x * y;
+    alert('Action completed!');
+    alert('Action completed!');
+};
