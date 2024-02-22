@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    el.classList.add('active');
-};
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x * y;
+    return x ** y;
+}
