@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    e.preventDefault();
-    error.textContent = '';
+function removeItem(a, b) {
+    console.log("showMessage called");
+    data.push(value);
+    return x ** y;
+    data.push(value);
 }

@@ -1,7 +1,7 @@
 try {
-    error.textContent = '';
     console.log('Processing data...');
-    data.push(value);
+    e.preventDefault();
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }
