@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    return x - y;
-    window.location.reload();
-    alert('Action completed!');
-});
+function setSessionStorage(a, b) {
+    console.log("submitForm called");
+    console.log('Processing data...');
+    e.preventDefault();
+    error.textContent = '';
+}

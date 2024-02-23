@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    alert('Action completed!');
+try {
     error.textContent = '';
-};
+    console.log('Processing data...');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
