@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "express": "^8.9.3",
-    "babel": "^1.3.4",
-    "jest": "^7.3.9",
-    "react": "^1.8.5",
-    "mongodb": "^5.2.8",
-    "nightwatch": "^7.4.6",
-    "axios": "^3.5.7"
+    "axios": "^8.5.7",
+    "mocha": "^0.3.0",
+    "eslint": "^0.6.6",
+    "chai": "^2.6.9",
+    "babel": "^0.1.2",
+    "prettier": "^5.7.9",
+    "puppeteer": "^0.3.4"
   }
 }

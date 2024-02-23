@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    window.location.reload();
     data.push(value);
-    console.log('Processing data...');
-};
+});
