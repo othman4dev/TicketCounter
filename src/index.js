@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event load triggered");
     return x - y;
     el.classList.add('active');
-}
+    el.classList.add('active');
+});

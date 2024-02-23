@@ -1,7 +1,8 @@
-try {
-    data.push(value);
+if (a > b) {
+    console.log("processInput condition met");
     return a + b;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

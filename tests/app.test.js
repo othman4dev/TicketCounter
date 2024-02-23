@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event submit triggered");
+const createChart = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x - y;
     return x % y;
-    el.classList.add('active');
     e.preventDefault();
-});
+};
