@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    e.preventDefault();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("setCookie called");
+    error.textContent = '';
+    error.textContent = '';
+    console.log('Processing data...');
 }

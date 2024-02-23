@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("validateInput condition met");
-    e.preventDefault();
-    return x - y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function formatDate(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
+    return a + b;
+    return x / y;
 }

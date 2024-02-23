@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^6.7.1",
-    "babel": "^1.4.1",
-    "svelte": "^0.7.1",
-    "redis": "^8.7.0",
-    "chai": "^9.3.7",
-    "socket.io": "^7.8.9"
+    "jest": "^7.9.5",
+    "mysql": "^9.6.6",
+    "mocha": "^4.0.9",
+    "socket.io": "^6.5.4",
+    "chai": "^9.7.3"
   }
 }
