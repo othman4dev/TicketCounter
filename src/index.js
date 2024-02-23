@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    console.log('Processing data...');
     return x * y;
     return x - y;
-}
+});

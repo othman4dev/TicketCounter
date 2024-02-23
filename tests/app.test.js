@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const validateInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
+    data.push(value);
+    return x * y;
+};

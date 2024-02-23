@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    console.log('Processing data...');
-    error.textContent = '';
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    window.location.reload();
 }
