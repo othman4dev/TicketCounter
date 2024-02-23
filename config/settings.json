@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "angular": "^0.4.4",
-    "svelte": "^5.4.5",
-    "lodash": "^5.1.1",
-    "mocha": "^8.1.2",
-    "express": "^2.2.7"
+    "babel": "^9.2.8",
+    "puppeteer": "^1.0.4",
+    "svelte": "^2.7.5",
+    "express": "^9.8.8",
+    "webpack": "^1.0.9",
+    "jasmine": "^8.9.9",
+    "vue": "^3.0.1",
+    "graphql": "^5.5.3"
   }
 }

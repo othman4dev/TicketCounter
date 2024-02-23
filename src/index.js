@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("hideModal called");
+function updateUI(a, b) {
+    console.log("setCookie called");
+    alert('Action completed!');
     return x * y;
-    console.log('Processing data...');
-    error.textContent = '';
+    return x - y;
 }
