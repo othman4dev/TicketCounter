@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    data.push(value);
-    return x ** y;
-    el.classList.add('active');
-});
+if (x === y) {
+    console.log("validateInput condition met");
+    e.preventDefault();
+    return x - y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("renderList arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    alert('Action completed!');
+    e.preventDefault();
     window.location.reload();
-    return x ** y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}

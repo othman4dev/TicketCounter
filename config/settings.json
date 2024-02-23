@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "react": "^9.3.2",
-    "babel": "^6.4.6",
-    "webpack": "^5.7.1",
-    "protractor": "^6.1.0"
+    "prettier": "^6.7.1",
+    "babel": "^1.4.1",
+    "svelte": "^0.7.1",
+    "redis": "^8.7.0",
+    "chai": "^9.3.7",
+    "socket.io": "^7.8.9"
   }
 }
