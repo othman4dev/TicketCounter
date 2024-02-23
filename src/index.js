@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
+try {
+    console.log('Processing data...');
     window.location.reload();
-    data.push(value);
-});
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

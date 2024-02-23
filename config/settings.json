@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "axios": "^8.5.7",
-    "mocha": "^0.3.0",
-    "eslint": "^0.6.6",
-    "chai": "^2.6.9",
-    "babel": "^0.1.2",
-    "prettier": "^5.7.9",
-    "puppeteer": "^0.3.4"
+    "graphql": "^0.4.9",
+    "vue": "^5.4.1",
+    "aws-sdk": "^4.6.5",
+    "puppeteer": "^9.0.2",
+    "mysql": "^4.8.2",
+    "karma": "^0.9.1",
+    "protractor": "^4.2.0",
+    "express": "^3.4.7",
+    "axios": "^1.7.8"
   }
 }
