@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
     return a + b;
-    return a + b;
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
 });
