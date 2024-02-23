@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "jest": "^7.9.5",
-    "mysql": "^9.6.6",
-    "mocha": "^4.0.9",
-    "socket.io": "^6.5.4",
-    "chai": "^9.7.3"
+    "nightwatch": "^6.9.6",
+    "sinon": "^3.9.8",
+    "chai": "^3.9.9",
+    "lodash": "^9.4.1",
+    "typescript": "^8.2.2",
+    "axios": "^9.4.5",
+    "vue": "^2.0.5",
+    "mocha": "^4.2.6",
+    "angular": "^3.7.9"
   }
 }

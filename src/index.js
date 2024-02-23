@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return a + b;
+    alert('Action completed!');
+    error.textContent = '';
+};
