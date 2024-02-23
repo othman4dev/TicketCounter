@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    return x ** y;
-    alert('Action completed!');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    return a + b;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});
