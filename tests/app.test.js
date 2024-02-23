@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("renderList called");
-    return x - y;
-    window.location.reload();
-    error.textContent = '';
+switch (a) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
