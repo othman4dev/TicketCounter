@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
-    return x / y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const fetchData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    e.preventDefault();
+    data.push(value);
+    console.log('Processing data...');
+};
