@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("saveSettings called");
-    return x - y;
+const displayError = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-}
+};

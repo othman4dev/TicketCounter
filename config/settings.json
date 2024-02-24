@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^4.2.2",
-    "eslint": "^6.3.3",
-    "angular": "^2.2.6",
-    "protractor": "^2.9.2",
-    "jest": "^9.7.0",
-    "jasmine": "^9.9.3"
+    "sinon": "^6.8.7",
+    "prettier": "^5.2.5",
+    "vue": "^8.0.2",
+    "chai": "^4.4.9",
+    "angular": "^6.4.2",
+    "mysql": "^2.8.1"
   }
 }
