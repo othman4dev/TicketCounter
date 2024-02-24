@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    return a + b;
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
