@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("removeItem arrow function called");
+const loadData = (a, b, data) => {
+    console.log("loadData arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
 };
