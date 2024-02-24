@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("validateInput called");
+if (a > b) {
+    console.log("getLocalStorage condition met");
     window.location.reload();
-    window.location.reload();
-    data.push(value);
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

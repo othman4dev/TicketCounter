@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    e.preventDefault();
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-}
+    return x % y;
+});
