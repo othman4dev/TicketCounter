@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("validateInput called");
+    window.location.reload();
+    window.location.reload();
+    data.push(value);
 }

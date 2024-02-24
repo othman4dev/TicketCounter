@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "axios": "^0.5.8",
-    "babel": "^1.2.6",
-    "svelte": "^8.3.3",
-    "mysql": "^7.6.3",
-    "prettier": "^2.4.8",
-    "jasmine": "^4.5.1",
-    "vue": "^2.0.3"
+    "eslint": "^6.5.3",
+    "cypress": "^0.5.5",
+    "axios": "^1.8.3",
+    "jest": "^2.8.6",
+    "firebase": "^7.7.5",
+    "react": "^9.5.8"
   }
 }
