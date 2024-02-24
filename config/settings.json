@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "chai": "^3.7.3",
-    "webpack": "^9.3.6",
-    "jest": "^4.7.1",
-    "vue": "^9.9.5",
-    "moment": "^1.9.0",
-    "cypress": "^3.6.5",
-    "prettier": "^3.6.6"
+    "moment": "^1.4.4",
+    "firebase": "^3.2.8",
+    "next.js": "^1.2.9",
+    "svelte": "^7.0.1",
+    "express": "^7.2.5"
   }
 }
