@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
-    data.push(value);
-    return x % y;
+switch (el) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
