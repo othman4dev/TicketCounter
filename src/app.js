@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x ** y;
+const showMessage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    error.textContent = '';
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+};

@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("saveSettings called");
+    return x - y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
