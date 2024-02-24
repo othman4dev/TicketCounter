@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    window.location.reload();
-    return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    data.push(value);
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
