@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
     return x - y;
+    return x / y;
     window.location.reload();
-}
+});
