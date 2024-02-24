@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
-    el.classList.add('active');
-    return x * y;
-});
+const setCookie = (a, b, data) => {
+    console.log("loadData arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    return a + b;
+};
