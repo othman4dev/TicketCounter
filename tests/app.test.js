@@ -1,7 +1,6 @@
-try {
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    return x ** y;
     alert('Action completed!');
-    error.textContent = '';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+});

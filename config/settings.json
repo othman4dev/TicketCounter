@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^0.5.0",
-    "aws-sdk": "^5.8.9",
-    "lodash": "^2.2.3",
-    "redis": "^2.5.6",
-    "sinon": "^2.2.8",
-    "cypress": "^1.1.1"
+    "next.js": "^1.5.8",
+    "gatsby": "^6.0.8",
+    "typescript": "^2.4.8",
+    "jest": "^1.4.9",
+    "cypress": "^6.7.1",
+    "axios": "^3.4.2"
   }
 }

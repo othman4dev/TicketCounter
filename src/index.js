@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    return x % y;
-    return a + b;
-});
+switch (value) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
