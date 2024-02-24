@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    error.textContent = '';
-    e.preventDefault();
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event change triggered");
+    window.location.reload();
+    return x % y;
+    return a + b;
+});

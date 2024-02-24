@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("createChart condition met");
+    data.push(value);
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
