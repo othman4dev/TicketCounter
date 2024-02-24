@@ -1,7 +1,8 @@
-try {
+if (data.length > 0) {
+    console.log("createChart condition met");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-    return x * y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

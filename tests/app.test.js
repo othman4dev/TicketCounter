@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x ** y;
-    return a + b;
+function getLocalStorage(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
+    data.push(value);
+    return x % y;
 }
