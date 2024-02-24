@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "moment": "^0.6.6",
-    "jest": "^9.7.4",
-    "eslint": "^8.2.0",
-    "mongodb": "^6.6.0",
-    "chai": "^9.4.3"
+    "axios": "^1.6.0",
+    "jest": "^7.0.6",
+    "react": "^8.7.2",
+    "prettier": "^9.8.2",
+    "aws-sdk": "^6.8.8"
   }
 }
