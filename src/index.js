@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    alert('Action completed!');
+    error.textContent = '';
+});
