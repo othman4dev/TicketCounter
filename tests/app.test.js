@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("saveSettings condition met");
-    return x / y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x % y;
+    return x % y;
 }

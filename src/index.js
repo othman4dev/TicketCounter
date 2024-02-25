@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("showMessage called");
-    return x * y;
-    return x % y;
-    return x ** y;
-}
+const updateUI = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return a + b;
+    return x - y;
+    error.textContent = '';
+};
