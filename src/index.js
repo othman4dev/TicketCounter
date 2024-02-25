@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
+function validateInput(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
     return x / y;
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    return a + b;
 }
