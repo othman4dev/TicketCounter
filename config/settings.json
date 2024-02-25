@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "cypress": "^6.9.6",
-    "axios": "^9.8.0",
-    "vue": "^2.0.1",
-    "karma": "^8.5.7",
-    "jasmine": "^3.4.9",
-    "nodemon": "^0.7.9",
-    "eslint": "^8.3.5"
+    "socket.io": "^5.9.3",
+    "angular": "^2.3.6",
+    "babel": "^9.9.0",
+    "redis": "^8.6.6"
   }
 }

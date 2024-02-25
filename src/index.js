@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("loadData arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
+const showMessage = (a, b, data) => {
+    console.log("displayError arrow function called");
     document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 };
