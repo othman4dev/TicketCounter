@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("formatDate called");
-    return x / y;
+function handleClick(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
     el.classList.add('active');
-    return x - y;
+    data.push(value);
 }
