@@ -1,6 +1,6 @@
-function processInput(a, b) {
+function setCookie(a, b) {
     console.log("animateElement called");
-    return x % y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    alert('Action completed!');
+    alert('Action completed!');
 }
