@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    el.classList.add('active');
+if (data.length > 0) {
+    console.log("createChart condition met");
+    return x % y;
+    return x - y;
     e.preventDefault();
-    data.push(value);
-};
+} else {
+    console.log("Condition not met");
+}
