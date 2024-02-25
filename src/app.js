@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
-    error.textContent = '';
-    return x % y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    console.log('Processing data...');
+    console.log('Processing data...');
 }

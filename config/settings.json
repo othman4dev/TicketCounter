@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "chai": "^0.1.9",
-    "mocha": "^1.0.8",
-    "gatsby": "^3.8.0",
-    "axios": "^2.5.5",
-    "jest": "^2.4.3"
+    "typescript": "^7.4.9",
+    "webpack": "^3.7.7",
+    "mocha": "^8.7.9",
+    "nightwatch": "^8.9.2",
+    "firebase": "^5.5.1",
+    "eslint": "^6.6.0",
+    "enzyme": "^8.3.0",
+    "prettier": "^9.5.7",
+    "protractor": "^0.7.7"
   }
 }
