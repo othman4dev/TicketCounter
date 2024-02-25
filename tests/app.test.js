@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("showMessage called");
-    error.textContent = '';
+const processInput = (a, b, data) => {
+    console.log("displayError arrow function called");
     el.classList.add('active');
-    return x / y;
-}
+    e.preventDefault();
+    data.push(value);
+};

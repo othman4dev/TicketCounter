@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }
