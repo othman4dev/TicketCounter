@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^3.8.5",
-    "lodash": "^2.4.4",
-    "redis": "^7.7.3",
-    "moment": "^0.0.7",
-    "sinon": "^2.4.0"
+    "ember": "^5.1.8",
+    "moment": "^5.7.9",
+    "react": "^3.2.8",
+    "redis": "^0.9.6",
+    "mysql": "^9.5.2",
+    "aws-sdk": "^5.2.0"
   }
 }

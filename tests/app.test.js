@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+const displayError = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
+    window.location.reload();
     return x / y;
-    return a + b;
-    alert('Action completed!');
-}
+};

@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("loadData arrow function called");
-    console.log('Processing data...');
-    return a + b;
-    return a + b;
-};
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return x / y;
+    error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
