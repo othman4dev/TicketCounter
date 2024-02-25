@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return a + b;
-    return x - y;
-    error.textContent = '';
-};
+switch (data) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

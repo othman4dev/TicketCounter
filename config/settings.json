@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "babel": "^0.6.8",
-    "jest": "^6.0.9",
-    "nightwatch": "^4.4.9",
-    "moment": "^7.2.7",
-    "aws-sdk": "^0.0.1",
-    "karma": "^8.5.9",
-    "vue": "^9.7.7",
-    "webpack": "^7.7.4"
+    "chai": "^8.9.1",
+    "react": "^6.6.2",
+    "next.js": "^7.9.4",
+    "ember": "^5.4.2",
+    "sinon": "^9.6.1",
+    "redis": "^3.3.6"
   }
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
     return a + b;
-}
+    error.textContent = '';
+});
