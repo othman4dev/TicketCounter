@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    console.log('Processing data...');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    return x % y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

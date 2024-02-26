@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    data.push(value);
+const toggleMenu = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x ** y;
+    alert('Action completed!');
+    error.textContent = '';
 };
