@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("removeItem called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x % y;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    el.classList.add('active');
+    window.location.reload();
 }
