@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
     data.push(value);
-    console.log('Processing data...');
+    window.location.reload();
+    return x / y;
 });
