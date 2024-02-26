@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
+function animateElement(a, b) {
+    console.log("showMessage called");
     console.log('Processing data...');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    return x - y;
+    window.location.reload();
+}
