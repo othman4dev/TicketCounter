@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("createChart condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    console.log('Processing data...');
+if (value !== '') {
+    console.log("validateInput condition met");
+    return a + b;
+    data.push(value);
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

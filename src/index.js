@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    data.push(value);
-    window.location.reload();
-    return x / y;
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    el.classList.add('active');
+    e.preventDefault();
 });
