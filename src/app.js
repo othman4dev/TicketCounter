@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
-    el.classList.add('active');
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event click triggered");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+});

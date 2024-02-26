@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^5.2.7",
-    "socket.io": "^0.8.5",
-    "sinon": "^1.0.4",
-    "ember": "^6.9.8",
-    "firebase": "^1.2.1",
-    "lodash": "^3.8.8",
-    "aws-sdk": "^4.4.9"
+    "mongodb": "^0.8.1",
+    "babel": "^6.1.6",
+    "express": "^3.7.4",
+    "karma": "^3.4.8",
+    "chai": "^6.7.3",
+    "protractor": "^0.8.3"
   }
 }

@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
+const updateUI = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    data.push(value);
     return x ** y;
-    alert('Action completed!');
-    error.textContent = '';
+    return x / y;
 };
