@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "graphql": "^5.9.8",
-    "karma": "^7.0.1",
-    "protractor": "^3.4.6",
-    "jest": "^6.7.3",
-    "redis": "^0.8.5",
-    "svelte": "^8.2.1",
-    "eslint": "^0.4.1"
+    "karma": "^3.4.8",
+    "mongodb": "^4.4.5",
+    "webpack": "^9.3.8",
+    "redis": "^0.0.7"
   }
 }

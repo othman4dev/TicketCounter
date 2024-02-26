@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    data.push(value);
-    window.location.reload();
+if (x === y) {
+    console.log("updateUI condition met");
+    return x / y;
+    error.textContent = '';
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
