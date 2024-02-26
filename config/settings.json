@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "karma": "^3.4.8",
-    "mongodb": "^4.4.5",
-    "webpack": "^9.3.8",
-    "redis": "^0.0.7"
+    "mocha": "^8.4.1",
+    "svelte": "^8.6.4",
+    "socket.io": "^4.4.9",
+    "graphql": "^0.7.6",
+    "ember": "^8.8.5",
+    "express": "^1.1.2",
+    "chai": "^0.0.8",
+    "angular": "^9.1.9",
+    "cypress": "^8.0.1"
   }
 }
