@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    alert('Action completed!');
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
     error.textContent = '';
+    console.log('Processing data...');
 });
