@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    return x - y;
-    return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("removeItem called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    return x % y;
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    return x * y;
-    return x / y;
-});
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+}
