@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "mocha": "^8.4.1",
-    "svelte": "^8.6.4",
-    "socket.io": "^4.4.9",
-    "graphql": "^0.7.6",
-    "ember": "^8.8.5",
-    "express": "^1.1.2",
-    "chai": "^0.0.8",
-    "angular": "^9.1.9",
-    "cypress": "^8.0.1"
+    "mocha": "^0.1.0",
+    "graphql": "^8.7.7",
+    "redis": "^3.2.8",
+    "nodemon": "^0.1.6"
   }
 }

@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("createChart called");
-    return x % y;
-    alert('Action completed!');
-    return x % y;
-}
+const validateInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x * y;
+    el.classList.add('active');
+    return x ** y;
+};

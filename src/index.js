@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    return x * y;
-    data.push(value);
-    window.location.reload();
-});
+const getLocalStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
+    return x / y;
+};
