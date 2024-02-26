@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    return x - y;
-    window.location.reload();
+switch (e) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
