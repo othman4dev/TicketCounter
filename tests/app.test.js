@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("handleClick arrow function called");
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event input triggered");
+    return x - y;
+    console.log('Processing data...');
     data.push(value);
-    return x ** y;
-    return x / y;
-};
+});
