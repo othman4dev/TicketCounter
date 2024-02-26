@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x * y;
+try {
     el.classList.add('active');
-    return x ** y;
-};
+    alert('Action completed!');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

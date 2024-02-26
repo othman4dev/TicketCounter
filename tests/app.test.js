@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    e.preventDefault();
-    el.classList.add('active');
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    return a + b;
+    return a + b;
+    data.push(value);
 });

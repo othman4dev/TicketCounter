@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    return x / y;
+const removeItem = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x - y;
+    error.textContent = '';
+    data.push(value);
 };
