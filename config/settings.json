@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "moment": "^3.6.6",
-    "axios": "^3.6.5",
-    "gatsby": "^1.8.7",
-    "jest": "^4.9.4",
-    "next.js": "^7.7.7"
+    "aws-sdk": "^9.5.7",
+    "typescript": "^0.2.7",
+    "next.js": "^1.6.2",
+    "mongodb": "^7.4.6",
+    "firebase": "^3.1.4",
+    "graphql": "^4.3.0"
   }
 }

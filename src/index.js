@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    data.push(value);
     console.log('Processing data...');
-    return x / y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+});
