@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
+try {
+    data.push(value);
     return x % y;
-    return x % y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

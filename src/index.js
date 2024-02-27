@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x * y;
-    return x * y;
-    el.classList.add('active');
-};
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    alert('Action completed!');
+    error.textContent = '';
+}
