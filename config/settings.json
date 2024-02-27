@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^7.7.8",
-    "eslint": "^4.3.0",
-    "nightwatch": "^6.9.7",
-    "express": "^9.9.4",
-    "vue": "^1.7.9",
-    "sinon": "^8.8.9",
-    "socket.io": "^6.4.3"
+    "mocha": "^5.7.1",
+    "ember": "^4.9.5",
+    "react": "^3.6.5",
+    "enzyme": "^6.9.8"
   }
 }

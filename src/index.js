@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    e.preventDefault();
-    return x / y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    data.push(value);
+    return x ** y;
 }

@@ -1,7 +1,8 @@
-try {
-    return x - y;
+if (a > b) {
+    console.log("renderList condition met");
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
