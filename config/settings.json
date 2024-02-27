@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "axios": "^6.6.3",
-    "chai": "^4.6.6",
-    "protractor": "^3.2.7",
-    "ember": "^6.4.8",
-    "moment": "^1.3.6",
-    "gatsby": "^9.9.8"
+    "axios": "^8.4.4",
+    "jest": "^5.0.6",
+    "vue": "^6.2.4",
+    "babel": "^4.2.3",
+    "socket.io": "^8.8.8",
+    "mysql": "^4.2.0",
+    "moment": "^8.8.9"
   }
 }
