@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "mocha": "^5.7.1",
-    "ember": "^4.9.5",
-    "react": "^3.6.5",
-    "enzyme": "^6.9.8"
+    "axios": "^1.5.4",
+    "sinon": "^0.5.8",
+    "express": "^8.8.4",
+    "svelte": "^7.4.0",
+    "nightwatch": "^1.8.0",
+    "moment": "^9.7.4",
+    "nodemon": "^5.4.6",
+    "aws-sdk": "^2.5.3",
+    "jest": "^3.2.9"
   }
 }

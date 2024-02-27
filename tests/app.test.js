@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+const setCookie = (a, b, data) => {
+    console.log("handleClick arrow function called");
     data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    return x / y;
+};
