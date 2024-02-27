@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    data.push(value);
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event click triggered");
     alert('Action completed!');
-    return x / y;
-};
+    data.push(value);
+    console.log('Processing data...');
+});

@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "axios": "^1.5.4",
-    "sinon": "^0.5.8",
-    "express": "^8.8.4",
-    "svelte": "^7.4.0",
-    "nightwatch": "^1.8.0",
-    "moment": "^9.7.4",
-    "nodemon": "^5.4.6",
-    "aws-sdk": "^2.5.3",
-    "jest": "^3.2.9"
+    "express": "^7.8.9",
+    "enzyme": "^2.2.3",
+    "typescript": "^2.0.5",
+    "karma": "^4.0.5",
+    "react": "^3.3.6",
+    "nightwatch": "^9.5.3"
   }
 }
