@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
-    window.location.reload();
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
     return x % y;
+    el.classList.add('active');
 });

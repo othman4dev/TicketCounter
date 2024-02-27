@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("toggleMenu called");
-    return x - y;
-    error.textContent = '';
-    console.log('Processing data...');
+switch (a) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
