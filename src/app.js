@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x % y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    e.preventDefault();
+    alert('Action completed!');
 }

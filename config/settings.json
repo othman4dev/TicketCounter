@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "axios": "^6.9.7",
-    "firebase": "^8.5.0",
-    "chai": "^5.4.0",
-    "svelte": "^7.0.9",
-    "protractor": "^6.9.4",
-    "eslint": "^0.8.5",
-    "nodemon": "^1.5.0",
-    "angular": "^0.6.6",
-    "puppeteer": "^9.4.0"
+    "aws-sdk": "^0.2.4",
+    "lodash": "^0.7.1",
+    "express": "^3.8.6",
+    "moment": "^0.5.5",
+    "jest": "^2.1.5",
+    "prettier": "^2.9.2"
   }
 }
