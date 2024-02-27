@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    return x ** y;
+const renderList = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-    return x * y;
-});
+    window.location.reload();
+};

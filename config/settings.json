@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^4.6.9",
-    "firebase": "^4.1.4",
-    "sinon": "^3.9.6",
-    "mocha": "^7.3.5",
-    "svelte": "^8.3.8"
+    "angular": "^8.7.3",
+    "cypress": "^3.5.7",
+    "mocha": "^6.7.6",
+    "chai": "^4.4.9",
+    "nightwatch": "^0.8.0"
   }
 }
