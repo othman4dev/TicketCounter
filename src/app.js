@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
-    e.preventDefault();
-    alert('Action completed!');
+switch (value) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

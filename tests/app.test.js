@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    error.textContent = '';
+try {
     return x - y;
-    el.classList.add('active');
-};
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
