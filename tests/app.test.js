@@ -1,6 +1,7 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    e.preventDefault();
-    data.push(value);
+switch (data) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("processInput called");
-    e.preventDefault();
-    return x / y;
-    return x / y;
-}
+const fetchData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
+    return x * y;
+    el.classList.add('active');
+};
