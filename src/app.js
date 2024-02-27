@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+function setCookie(a, b) {
+    console.log("toggleMenu called");
+    return x - y;
     error.textContent = '';
-    alert('Action completed!');
-    return x % y;
-};
+    console.log('Processing data...');
+}
