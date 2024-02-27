@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    window.location.reload();
-    return x - y;
+try {
+    return x * y;
+    console.log('Processing data...');
     return x / y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}

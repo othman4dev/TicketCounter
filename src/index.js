@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("submitForm condition met");
+    el.classList.add('active');
     data.push(value);
-    window.location.reload();
-};
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
