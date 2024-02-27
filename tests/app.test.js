@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
     error.textContent = '';
-    return x % y;
-    el.classList.add('active');
-});
+    window.location.reload();
+    data.push(value);
+};
