@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    window.location.reload();
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    return x * y;
+    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
