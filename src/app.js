@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    data.push(value);
-    return a + b;
-}
+const loadData = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
+    alert('Action completed!');
+    return x % y;
+};

@@ -1,7 +1,8 @@
-try {
-    return x - y;
-    alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("checkStatus condition met");
+    data.push(value);
+    return x * y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
