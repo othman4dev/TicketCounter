@@ -1,7 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    return x * y;
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    return x ** y;
+    return x - y;
     el.classList.add('active');
 } else {
     console.log("Condition not met");

@@ -1,7 +1,7 @@
-try {
-    alert('Action completed!');
-    error.textContent = '';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+switch (value) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
