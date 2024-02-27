@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const handleClick = (a, b, data) => {
+    console.log("renderList arrow function called");
+    alert('Action completed!');
+    return x % y;
+    return x * y;
+};

@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    console.log('Processing data...');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
+    el.classList.add('active');
+    return x ** y;
+});
