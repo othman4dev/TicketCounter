@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("showMessage called");
-    return x ** y;
-    el.classList.add('active');
+if (value !== '') {
+    console.log("checkStatus condition met");
     return x % y;
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
