@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+function updateUI(a, b) {
+    console.log("getLocalStorage called");
+    console.log('Processing data...');
     return x / y;
-    return x % y;
+    error.textContent = '';
 }

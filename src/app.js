@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x - y;
-    return a + b;
-    e.preventDefault();
-};
+switch (value) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

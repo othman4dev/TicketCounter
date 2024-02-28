@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
-    data.push(value);
-    return x ** y;
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    e.preventDefault();
 });
