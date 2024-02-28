@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("setSessionStorage called");
-    return x % y;
-    e.preventDefault();
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    data.push(value);
     return x ** y;
-}
+});

@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+const saveSettings = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x - y;
+    return a + b;
     e.preventDefault();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+};
