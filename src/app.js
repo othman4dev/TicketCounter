@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    data.push(value);
+    return x / y;
 }
