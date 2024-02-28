@@ -1,10 +1,7 @@
 {
   "dependencies": {
-    "jest": "^6.6.5",
-    "mocha": "^8.2.7",
-    "nodemon": "^0.6.5",
-    "webpack": "^2.1.2",
-    "next.js": "^5.7.9",
-    "mongodb": "^8.2.9"
+    "graphql": "^5.4.2",
+    "angular": "^0.0.1",
+    "react": "^8.3.8"
   }
 }

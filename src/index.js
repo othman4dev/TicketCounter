@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("setSessionStorage called");
+    console.log('Processing data...');
+    error.textContent = '';
+    data.push(value);
 }

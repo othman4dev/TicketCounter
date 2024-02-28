@@ -1,6 +1,6 @@
 function animateElement(a, b) {
-    console.log("renderList called");
-    return x / y;
-    el.classList.add('active');
-    window.location.reload();
+    console.log("setSessionStorage called");
+    return x % y;
+    e.preventDefault();
+    return x ** y;
 }
