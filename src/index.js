@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("setSessionStorage called");
-    return x % y;
-    return a + b;
-    return a + b;
+if (data.length > 0) {
+    console.log("displayError condition met");
+    return x - y;
+    e.preventDefault();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("renderList arrow function called");
-    data.push(value);
-    return x ** y;
-    e.preventDefault();
-};
+switch (y) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

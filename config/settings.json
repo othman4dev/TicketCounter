@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "angular": "^6.5.9",
-    "next.js": "^0.1.4",
-    "babel": "^8.6.9",
-    "moment": "^5.8.5",
-    "axios": "^4.8.1",
-    "lodash": "^6.5.7"
+    "jest": "^8.3.0",
+    "mocha": "^0.6.2",
+    "prettier": "^9.4.9",
+    "angular": "^9.6.8",
+    "typescript": "^2.0.1",
+    "nodemon": "^4.0.8",
+    "mongodb": "^2.2.6"
   }
 }
