@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "karma": "^2.3.8",
-    "cypress": "^0.8.2",
-    "prettier": "^8.2.2",
-    "jest": "^2.1.4",
-    "chai": "^9.3.2"
+    "angular": "^6.5.9",
+    "next.js": "^0.1.4",
+    "babel": "^8.6.9",
+    "moment": "^5.8.5",
+    "axios": "^4.8.1",
+    "lodash": "^6.5.7"
   }
 }

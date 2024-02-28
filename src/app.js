@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    alert('Action completed!');
-    return x % y;
-});
+const loadData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
+    return x ** y;
+    e.preventDefault();
+};
