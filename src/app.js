@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("hideModal called");
+    console.log('Processing data...');
+    return a + b;
+    console.log('Processing data...');
 }

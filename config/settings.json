@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "express": "^9.8.9",
-    "jest": "^4.8.7",
-    "next.js": "^0.7.6",
-    "firebase": "^4.8.1",
-    "jasmine": "^7.5.5",
-    "vue": "^5.1.2",
-    "lodash": "^2.7.0"
+    "webpack": "^8.0.3",
+    "nightwatch": "^7.3.5",
+    "socket.io": "^4.5.4",
+    "lodash": "^4.5.9",
+    "prettier": "^7.6.1",
+    "babel": "^9.7.7"
   }
 }
