@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^8.1.0",
-    "moment": "^2.7.8",
-    "gatsby": "^7.8.2",
-    "mysql": "^4.6.1",
-    "redis": "^9.3.1",
-    "next.js": "^4.5.0",
-    "nightwatch": "^6.0.9",
-    "aws-sdk": "^4.6.5"
+    "aws-sdk": "^9.0.7",
+    "mocha": "^6.3.2",
+    "protractor": "^2.1.2",
+    "typescript": "^5.0.6",
+    "ember": "^8.2.9",
+    "gatsby": "^2.4.7"
   }
 }

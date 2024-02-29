@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x - y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("loadData arrow function called");
+    el.classList.add('active');
+    alert('Action completed!');
+    error.textContent = '';
+};
