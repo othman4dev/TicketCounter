@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    return a + b;
-    return x ** y;
+function renderList(a, b) {
+    console.log("createChart called");
+    e.preventDefault();
+    console.log('Processing data...');
+    return x / y;
 }

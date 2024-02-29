@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    return x ** y;
-    return x % y;
-    window.location.reload();
-});
+const toggleMenu = (a, b, data) => {
+    console.log("createChart arrow function called");
+    e.preventDefault();
+    error.textContent = '';
+    alert('Action completed!');
+};
