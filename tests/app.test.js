@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    return x ** y;
-    console.log('Processing data...');
-    error.textContent = '';
-});
+switch (e) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
