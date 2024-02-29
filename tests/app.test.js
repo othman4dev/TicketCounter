@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    return a + b;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-});
+    e.preventDefault();
+    return a + b;
+}

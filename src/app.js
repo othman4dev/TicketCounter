@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    el.classList.add('active');
-    error.textContent = '';
-});
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
+    console.log('Processing data...');
+    return x - y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
