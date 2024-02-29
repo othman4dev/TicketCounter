@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("showMessage called");
-    error.textContent = '';
-    error.textContent = '';
-    data.push(value);
+if (x === y) {
+    console.log("toggleMenu condition met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
