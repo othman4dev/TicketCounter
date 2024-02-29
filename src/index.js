@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
+try {
+    alert('Action completed!');
     return x - y;
-    e.preventDefault();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

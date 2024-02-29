@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    data.push(value);
-    window.location.reload();
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});

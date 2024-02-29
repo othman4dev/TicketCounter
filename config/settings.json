@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "jest": "^8.3.0",
-    "mocha": "^0.6.2",
-    "prettier": "^9.4.9",
-    "angular": "^9.6.8",
-    "typescript": "^2.0.1",
-    "nodemon": "^4.0.8",
-    "mongodb": "^2.2.6"
+    "firebase": "^9.2.0",
+    "nightwatch": "^7.4.9",
+    "babel": "^6.9.0",
+    "prettier": "^5.3.1",
+    "socket.io": "^3.0.2",
+    "redis": "^8.8.3",
+    "vue": "^3.5.3",
+    "axios": "^7.4.3"
   }
 }
