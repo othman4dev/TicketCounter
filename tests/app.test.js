@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    return x * y;
-    return a + b;
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event change triggered");
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return a + b;
+});
