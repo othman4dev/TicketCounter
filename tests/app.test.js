@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    return x ** y;
     console.log('Processing data...');
-    return a + b;
+    error.textContent = '';
 });
