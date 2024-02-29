@@ -1,6 +1,7 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    alert('Action completed!');
-    return x * y;
+try {
+    el.classList.add('active');
+    el.classList.add('active');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.0.7",
-    "mocha": "^6.3.2",
-    "protractor": "^2.1.2",
-    "typescript": "^5.0.6",
-    "ember": "^8.2.9",
-    "gatsby": "^2.4.7"
+    "enzyme": "^3.4.1",
+    "chai": "^7.5.0",
+    "firebase": "^7.7.2",
+    "protractor": "^7.0.3",
+    "mongodb": "^4.3.3",
+    "mocha": "^4.5.5"
   }
 }
