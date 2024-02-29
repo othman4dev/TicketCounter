@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("createChart arrow function called");
-    e.preventDefault();
-    error.textContent = '';
-    alert('Action completed!');
-};
+function fetchData(a, b) {
+    console.log("toggleMenu called");
+    el.classList.add('active');
+    return x / y;
+    return x / y;
+}
