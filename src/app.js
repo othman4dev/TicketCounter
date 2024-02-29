@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("loadData called");
-    return x * y;
-    console.log('Processing data...');
-    return x / y;
-}
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    alert('Action completed!');
+    return x % y;
+});

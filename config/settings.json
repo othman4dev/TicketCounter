@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^6.2.5",
-    "karma": "^7.8.0",
-    "firebase": "^6.2.7",
-    "sinon": "^7.7.1",
-    "puppeteer": "^6.3.6",
-    "protractor": "^5.5.5",
-    "next.js": "^5.1.6",
-    "axios": "^2.4.1"
+    "karma": "^2.3.8",
+    "cypress": "^0.8.2",
+    "prettier": "^8.2.2",
+    "jest": "^2.1.4",
+    "chai": "^9.3.2"
   }
 }
