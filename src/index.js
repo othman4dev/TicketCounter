@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x ** y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (b) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

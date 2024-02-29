@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+const handleClick = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    window.location.reload();
+    e.preventDefault();
     error.textContent = '';
-    return a + b;
-    return x ** y;
-}
+};

@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^8.0.3",
-    "nightwatch": "^7.3.5",
-    "socket.io": "^4.5.4",
-    "lodash": "^4.5.9",
-    "prettier": "^7.6.1",
-    "babel": "^9.7.7"
+    "typescript": "^6.2.5",
+    "karma": "^7.8.0",
+    "firebase": "^6.2.7",
+    "sinon": "^7.7.1",
+    "puppeteer": "^6.3.6",
+    "protractor": "^5.5.5",
+    "next.js": "^5.1.6",
+    "axios": "^2.4.1"
   }
 }
