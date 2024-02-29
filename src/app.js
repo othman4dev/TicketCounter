@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    console.log('Processing data...');
+const submitForm = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    return x % y;
+};

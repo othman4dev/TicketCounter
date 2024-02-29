@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "redis": "^2.1.5",
-    "chai": "^5.9.1",
-    "svelte": "^6.3.7",
-    "moment": "^3.2.0",
-    "cypress": "^9.6.6"
+    "webpack": "^4.4.8",
+    "next.js": "^1.6.4",
+    "react": "^0.7.4",
+    "cypress": "^4.6.8",
+    "sinon": "^0.1.8",
+    "express": "^8.4.5",
+    "aws-sdk": "^0.5.9"
   }
 }

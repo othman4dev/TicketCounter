@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event focus triggered");
     el.classList.add('active');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    console.log('Processing data...');
+});
