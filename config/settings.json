@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^4.4.8",
-    "next.js": "^1.6.4",
-    "react": "^0.7.4",
-    "cypress": "^4.6.8",
-    "sinon": "^0.1.8",
-    "express": "^8.4.5",
-    "aws-sdk": "^0.5.9"
+    "lodash": "^3.3.3",
+    "next.js": "^4.6.4",
+    "jest": "^4.6.5",
+    "aws-sdk": "^9.3.4",
+    "ember": "^5.2.4"
   }
 }

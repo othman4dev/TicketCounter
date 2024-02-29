@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    e.preventDefault();
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
     return x % y;
-};
+    window.location.reload();
+});

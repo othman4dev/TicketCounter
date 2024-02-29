@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

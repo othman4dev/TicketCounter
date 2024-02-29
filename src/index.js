@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
+function toggleMenu(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
     return a + b;
-    console.log('Processing data...');
-});
+    return x ** y;
+}
