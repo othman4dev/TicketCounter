@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^5.1.4",
-    "vue": "^1.6.9",
-    "prettier": "^8.3.9",
-    "redis": "^3.4.8",
-    "react": "^5.0.1",
-    "graphql": "^5.8.5"
+    "mongodb": "^5.5.0",
+    "prettier": "^8.6.9",
+    "mysql": "^6.8.6",
+    "angular": "^4.4.6",
+    "graphql": "^7.7.7",
+    "lodash": "^9.0.4",
+    "typescript": "^9.1.1",
+    "mocha": "^3.3.4"
   }
 }

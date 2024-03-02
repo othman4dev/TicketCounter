@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("setCookie called");
-    window.location.reload();
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+function fetchData(a, b) {
+    console.log("setSessionStorage called");
+    return a + b;
+    console.log('Processing data...');
+    return a + b;
 }
