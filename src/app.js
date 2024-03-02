@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x ** y;
+});

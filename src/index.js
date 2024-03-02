@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("submitForm called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    el.classList.add('active');
 }

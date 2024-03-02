@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^9.9.0",
-    "lodash": "^4.1.9",
-    "jest": "^9.3.9",
-    "babel": "^2.4.8",
-    "gatsby": "^2.0.3",
-    "moment": "^2.8.4"
+    "puppeteer": "^9.8.3",
+    "gatsby": "^4.9.4",
+    "karma": "^6.2.9",
+    "socket.io": "^8.1.2",
+    "lodash": "^6.7.9"
   }
 }
