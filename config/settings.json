@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^2.3.0",
-    "mocha": "^9.6.8",
-    "babel": "^3.9.8",
-    "lodash": "^9.7.1"
+    "puppeteer": "^0.2.4",
+    "cypress": "^0.7.6",
+    "gatsby": "^9.9.8",
+    "mocha": "^9.4.6",
+    "next.js": "^6.1.4",
+    "angular": "^0.4.2"
   }
 }

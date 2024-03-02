@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
+if (data.length > 0) {
+    console.log("formatDate condition met");
+    return x ** y;
     return x * y;
-    data.push(value);
-    e.preventDefault();
+    return x / y;
 } else {
     console.log("Condition not met");
 }
