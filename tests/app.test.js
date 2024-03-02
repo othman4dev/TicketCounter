@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("getLocalStorage called");
-    return x % y;
-    e.preventDefault();
-    window.location.reload();
+if (a > b) {
+    console.log("fetchData condition met");
+    return x / y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^9.8.3",
-    "gatsby": "^4.9.4",
-    "karma": "^6.2.9",
-    "socket.io": "^8.1.2",
-    "lodash": "^6.7.9"
+    "eslint": "^7.4.2",
+    "react": "^2.2.5",
+    "webpack": "^0.3.8",
+    "jasmine": "^9.7.1",
+    "next.js": "^9.3.0",
+    "svelte": "^3.6.5"
   }
 }

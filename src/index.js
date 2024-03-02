@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("submitForm called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    el.classList.add('active');
+try {
+    window.location.reload();
+    window.location.reload();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

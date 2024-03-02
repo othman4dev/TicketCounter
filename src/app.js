@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
+function renderList(a, b) {
+    console.log("showMessage called");
     console.log('Processing data...');
-    return x ** y;
-});
+    return x / y;
+    e.preventDefault();
+}
