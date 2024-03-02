@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    return x / y;
-    e.preventDefault();
+function validateInput(a, b) {
+    console.log("formatDate called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    data.push(value);
 }

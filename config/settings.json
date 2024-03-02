@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^7.4.2",
-    "react": "^2.2.5",
-    "webpack": "^0.3.8",
-    "jasmine": "^9.7.1",
-    "next.js": "^9.3.0",
-    "svelte": "^3.6.5"
+    "chai": "^4.5.8",
+    "socket.io": "^0.8.6",
+    "nodemon": "^9.3.9",
+    "sinon": "^0.4.9",
+    "eslint": "^9.8.9"
   }
 }

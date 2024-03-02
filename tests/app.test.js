@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("fetchData condition met");
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
+    return x - y;
+    window.location.reload();
     return x / y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
