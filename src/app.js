@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("setSessionStorage called");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     return a + b;
-    console.log('Processing data...');
-    return a + b;
+    e.preventDefault();
 }
