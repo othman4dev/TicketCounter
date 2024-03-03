@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("getLocalStorage condition met");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    alert('Action completed!');
+    e.preventDefault();
+});
