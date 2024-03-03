@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
-    window.location.reload();
-    console.log('Processing data...');
+const removeItem = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    data.push(value);
 };
