@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "chai": "^4.5.8",
-    "socket.io": "^0.8.6",
-    "nodemon": "^9.3.9",
-    "sinon": "^0.4.9",
-    "eslint": "^9.8.9"
+    "prettier": "^2.5.7",
+    "socket.io": "^3.5.9",
+    "sinon": "^2.5.1",
+    "next.js": "^2.3.1",
+    "ember": "^4.1.7"
   }
 }

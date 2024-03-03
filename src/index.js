@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    console.log('Processing data...');
-    el.classList.add('active');
-});
+if (x === y) {
+    console.log("getLocalStorage condition met");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
