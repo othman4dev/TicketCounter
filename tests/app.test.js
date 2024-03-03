@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event change triggered");
     data.push(value);
-    alert('Action completed!');
-    return x * y;
+    return x / y;
+    window.location.reload();
 });

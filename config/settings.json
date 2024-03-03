@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^6.3.4",
-    "angular": "^3.0.5",
-    "enzyme": "^6.0.1",
-    "ember": "^1.6.5",
-    "lodash": "^9.8.3",
-    "aws-sdk": "^3.5.3",
-    "nightwatch": "^0.8.6",
-    "cypress": "^7.9.0"
+    "jest": "^2.3.2",
+    "gatsby": "^7.1.0",
+    "puppeteer": "^3.0.4",
+    "sinon": "^6.5.1",
+    "typescript": "^8.7.7",
+    "mongodb": "^6.9.5",
+    "prettier": "^4.2.0",
+    "moment": "^2.3.1"
   }
 }

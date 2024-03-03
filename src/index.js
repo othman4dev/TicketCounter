@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event click triggered");
     el.classList.add('active');
-    data.push(value);
-};
+    alert('Action completed!');
+    e.preventDefault();
+});
