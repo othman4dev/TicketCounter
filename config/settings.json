@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "moment": "^5.6.4",
-    "aws-sdk": "^6.2.3",
-    "graphql": "^7.7.0",
-    "firebase": "^8.4.8",
-    "prettier": "^2.3.3",
-    "nightwatch": "^9.8.4"
+    "mongodb": "^9.3.7",
+    "angular": "^7.1.4",
+    "babel": "^2.7.0",
+    "graphql": "^0.6.1",
+    "eslint": "^1.5.7",
+    "ember": "^2.2.2",
+    "svelte": "^0.9.1",
+    "vue": "^6.2.1",
+    "cypress": "^0.7.6"
   }
 }

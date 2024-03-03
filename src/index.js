@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("createChart called");
+    e.preventDefault();
+    return x % y;
+    return x / y;
 }

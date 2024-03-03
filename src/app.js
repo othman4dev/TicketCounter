@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    console.log('Processing data...');
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    return x % y;
     error.textContent = '';
+    el.classList.add('active');
 });
