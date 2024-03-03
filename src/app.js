@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    return x * y;
+    console.log('Processing data...');
+    error.textContent = '';
+});
