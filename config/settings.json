@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^3.2.8",
-    "ember": "^9.8.0",
-    "chai": "^8.2.7",
-    "socket.io": "^7.5.7",
-    "svelte": "^5.6.5",
-    "jasmine": "^9.8.6",
-    "express": "^1.7.6"
+    "next.js": "^6.6.2",
+    "gatsby": "^6.4.6",
+    "angular": "^4.8.7",
+    "jest": "^6.9.5"
   }
 }

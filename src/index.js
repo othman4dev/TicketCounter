@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    e.preventDefault();
-});
+try {
+    data.push(value);
+    window.location.reload();
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
