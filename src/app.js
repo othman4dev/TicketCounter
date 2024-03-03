@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    error.textContent = '';
-    el.classList.add('active');
-});
+if (window.innerWidth > 500) {
+    console.log("fetchData condition met");
+    return x * y;
+    data.push(value);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
