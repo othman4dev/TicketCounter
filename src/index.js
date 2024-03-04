@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event click triggered");
+if (x !== y) {
+    console.log("createChart condition met");
+    console.log('Processing data...');
     el.classList.add('active');
-    alert('Action completed!');
-    e.preventDefault();
-});
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

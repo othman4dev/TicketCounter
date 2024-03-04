@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    return x / y;
+try {
     window.location.reload();
-});
+    console.log('Processing data...');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
