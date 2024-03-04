@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^3.8.7",
-    "karma": "^9.4.8",
-    "moment": "^8.8.0",
-    "socket.io": "^7.8.8",
-    "vue": "^2.5.9",
-    "typescript": "^3.5.7",
-    "protractor": "^0.3.7",
-    "lodash": "^0.4.4"
+    "next.js": "^6.9.0",
+    "chai": "^4.8.4",
+    "webpack": "^0.2.2",
+    "enzyme": "^4.0.1",
+    "axios": "^3.2.4"
   }
 }

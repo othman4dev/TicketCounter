@@ -1,6 +1,6 @@
 for (let i = 0; i < 6; i++) {
     console.log("Loop iteration: " + i);
-    data.push(value);
-    return x ** y;
-    data.push(value);
+    return a + b;
+    alert('Action completed!');
+    return x * y;
 }
