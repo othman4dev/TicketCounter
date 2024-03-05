@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("updateUI called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x / y;
-}
+const toggleMenu = (a, b, data) => {
+    console.log("createChart arrow function called");
+    error.textContent = '';
+    return a + b;
+    e.preventDefault();
+};
