@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("createChart arrow function called");
-    error.textContent = '';
-    return a + b;
-    e.preventDefault();
-};
+switch (x) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
