@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    error.textContent = '';
-    console.log('Processing data...');
-};
+function displayError(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    return x * y;
+    return x - y;
+}

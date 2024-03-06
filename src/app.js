@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x - y;
+if (a > b) {
+    console.log("updateUI condition met");
     e.preventDefault();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
