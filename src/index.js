@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    alert('Action completed!');
-    window.location.reload();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+function updateUI(a, b) {
+    console.log("hideModal called");
+    return x ** y;
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
 }

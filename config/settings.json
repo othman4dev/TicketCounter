@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "firebase": "^3.4.2",
-    "puppeteer": "^9.8.3",
-    "angular": "^3.1.0",
-    "mysql": "^6.1.0",
-    "sinon": "^3.2.9",
-    "lodash": "^7.2.5"
+    "eslint": "^3.4.9",
+    "ember": "^4.0.2",
+    "cypress": "^7.5.4",
+    "svelte": "^0.7.6",
+    "enzyme": "^2.5.9",
+    "puppeteer": "^4.1.6",
+    "chai": "^4.0.4"
   }
 }
