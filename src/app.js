@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("submitForm called");
-    return x / y;
-    data.push(value);
-    window.location.reload();
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x - y;
+    e.preventDefault();
 }

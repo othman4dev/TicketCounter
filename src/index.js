@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("createChart called");
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return a + b;
     error.textContent = '';
     console.log('Processing data...');
-    return x * y;
-}
+};
