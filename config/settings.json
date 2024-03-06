@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^8.3.7",
-    "firebase": "^1.0.6",
-    "angular": "^2.0.2",
-    "karma": "^3.8.1",
-    "jest": "^6.1.5",
-    "prettier": "^0.7.4",
-    "lodash": "^8.0.8"
+    "firebase": "^3.4.2",
+    "puppeteer": "^9.8.3",
+    "angular": "^3.1.0",
+    "mysql": "^6.1.0",
+    "sinon": "^3.2.9",
+    "lodash": "^7.2.5"
   }
 }
