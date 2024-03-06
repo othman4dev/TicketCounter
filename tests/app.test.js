@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
+function handleClick(a, b) {
+    console.log("saveSettings called");
+    error.textContent = '';
     window.location.reload();
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-});
+    error.textContent = '';
+}

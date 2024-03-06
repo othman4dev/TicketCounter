@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function setSessionStorage(a, b) {
+    console.log("setSessionStorage called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 }

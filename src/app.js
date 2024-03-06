@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("hideModal called");
-    return x ** y;
-    el.classList.add('active');
-    error.textContent = '';
+function createChart(a, b) {
+    console.log("setCookie called");
+    alert('Action completed!');
+    return x / y;
+    window.location.reload();
 }
