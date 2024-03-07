@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    return x - y;
-    return x - y;
+try {
     data.push(value);
-});
+    return x / y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
