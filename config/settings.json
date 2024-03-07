@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "angular": "^7.3.9",
-    "jest": "^5.1.7",
-    "webpack": "^2.4.5",
-    "sinon": "^2.8.8"
+    "puppeteer": "^9.5.2",
+    "svelte": "^5.5.8",
+    "chai": "^8.1.8",
+    "karma": "^1.0.2",
+    "aws-sdk": "^0.6.8"
   }
 }

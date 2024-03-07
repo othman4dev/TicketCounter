@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    alert('Action completed!');
+    e.preventDefault();
     error.textContent = '';
-    return x - y;
-});
+} else {
+    console.log("Condition not met");
+}
