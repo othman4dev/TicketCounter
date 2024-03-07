@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("loadData condition met");
     e.preventDefault();
-    console.log('Processing data...');
-});
+    window.location.reload();
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

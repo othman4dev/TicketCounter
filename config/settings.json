@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^3.0.4",
-    "lodash": "^2.3.4",
-    "prettier": "^5.0.2",
-    "aws-sdk": "^8.9.1",
-    "enzyme": "^5.7.3",
-    "graphql": "^3.0.5",
-    "cypress": "^0.3.1"
+    "redis": "^3.8.6",
+    "next.js": "^0.6.8",
+    "graphql": "^0.0.1",
+    "angular": "^4.7.1",
+    "typescript": "^4.6.6",
+    "express": "^7.6.6"
   }
 }

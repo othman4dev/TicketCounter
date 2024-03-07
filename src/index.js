@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x - y;
-    return x - y;
-});
+const animateElement = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x % y;
+    data.push(value);
+    return x ** y;
+};
