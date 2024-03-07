@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x / y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("formatDate called");
+    window.location.reload();
+    el.classList.add('active');
+    return x * y;
 }
