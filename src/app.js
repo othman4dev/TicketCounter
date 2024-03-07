@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    window.location.reload();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const updateUI = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
+    return x * y;
+    return x - y;
+};

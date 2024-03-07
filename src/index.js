@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    window.location.reload();
+const updateUI = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    alert('Action completed!');
+};
