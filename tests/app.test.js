@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("animateElement called");
-    error.textContent = '';
-    el.classList.add('active');
-    el.classList.add('active');
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    e.preventDefault();
+    console.log('Processing data...');
+});

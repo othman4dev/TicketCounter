@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    return x - y;
+    return x - y;
+});
