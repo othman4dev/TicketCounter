@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("saveSettings called");
+function fetchData(a, b) {
+    console.log("hideModal called");
     error.textContent = '';
+    return a + b;
     window.location.reload();
-    error.textContent = '';
 }

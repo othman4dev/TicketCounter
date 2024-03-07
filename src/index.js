@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("setSessionStorage called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-}
+const saveSettings = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x % y;
+    return x % y;
+    return x % y;
+};
