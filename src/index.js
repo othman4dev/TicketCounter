@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x % y;
-    data.push(value);
-}
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    alert('Action completed!');
+    window.location.reload();
+});

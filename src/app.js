@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x / y;
 }
