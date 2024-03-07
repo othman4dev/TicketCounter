@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("handleClick called");
-    return x / y;
-    return x / y;
-    return x % y;
+function checkStatus(a, b) {
+    console.log("createChart called");
+    return a + b;
+    window.location.reload();
+    return x ** y;
 }

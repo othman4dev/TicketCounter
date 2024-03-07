@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("renderList condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
