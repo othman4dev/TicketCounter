@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^2.2.5",
-    "eslint": "^0.3.8",
-    "prettier": "^0.1.5",
-    "svelte": "^6.4.0",
-    "puppeteer": "^5.0.5"
+    "protractor": "^5.6.9",
+    "gatsby": "^7.3.5",
+    "aws-sdk": "^8.3.2",
+    "typescript": "^0.8.9",
+    "mocha": "^7.2.4",
+    "react": "^9.7.5"
   }
 }

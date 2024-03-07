@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return a + b;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    return x % y;
+    return x % y;
+};
