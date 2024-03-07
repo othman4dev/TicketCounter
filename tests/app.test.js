@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    data.push(value);
-    return x * y;
+try {
+    alert('Action completed!');
     return x / y;
-};
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

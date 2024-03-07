@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    alert('Action completed!');
+try {
+    console.log('Processing data...');
+    window.location.reload();
     e.preventDefault();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

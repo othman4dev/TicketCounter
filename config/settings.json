@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^9.5.2",
-    "svelte": "^5.5.8",
-    "chai": "^8.1.8",
-    "karma": "^1.0.2",
-    "aws-sdk": "^0.6.8"
+    "webpack": "^4.7.0",
+    "enzyme": "^3.6.1",
+    "jest": "^9.9.2",
+    "next.js": "^4.1.8",
+    "firebase": "^8.3.3"
   }
 }
