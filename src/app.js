@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
-    return x * y;
-    return x - y;
-};
+function toggleMenu(a, b) {
+    console.log("handleClick called");
+    return x / y;
+    return x / y;
+    return x % y;
+}

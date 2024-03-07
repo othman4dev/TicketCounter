@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
-    e.preventDefault();
-    alert('Action completed!');
-};
+if (x !== y) {
+    console.log("renderList condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
