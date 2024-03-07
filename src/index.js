@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
-    return x % y;
-    return x % y;
-};
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event input triggered");
+    return x * y;
+    data.push(value);
+    el.classList.add('active');
+});

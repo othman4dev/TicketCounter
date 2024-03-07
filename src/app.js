@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function setSessionStorage(a, b) {
+    console.log("getLocalStorage called");
+    console.log('Processing data...');
+    return a + b;
+    console.log('Processing data...');
 }

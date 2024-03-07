@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("hideModal called");
-    error.textContent = '';
-    return a + b;
-    window.location.reload();
-}
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event focus triggered");
+    return x - y;
+    return x - y;
+    data.push(value);
+});
