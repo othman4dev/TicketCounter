@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x - y;
+});

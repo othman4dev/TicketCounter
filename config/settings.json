@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "socket.io": "^6.9.5",
-    "redis": "^3.3.2",
-    "eslint": "^0.0.1",
-    "firebase": "^4.0.5",
-    "jest": "^0.4.6",
-    "nightwatch": "^9.3.6",
-    "mocha": "^5.4.6",
-    "karma": "^3.2.8"
+    "angular": "^7.3.9",
+    "jest": "^5.1.7",
+    "webpack": "^2.4.5",
+    "sinon": "^2.8.8"
   }
 }

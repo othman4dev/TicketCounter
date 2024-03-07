@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("formatDate called");
-    window.location.reload();
+try {
+    alert('Action completed!');
+    return x / y;
     el.classList.add('active');
-    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
