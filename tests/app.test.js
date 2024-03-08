@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x % y;
+const removeItem = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    window.location.reload();
+    el.classList.add('active');
+    return x / y;
 };
