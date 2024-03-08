@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("displayError condition met");
-    return a + b;
-    error.textContent = '';
-    window.location.reload();
+if (x === y) {
+    console.log("formatDate condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
