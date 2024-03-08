@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    return x ** y;
-    return x / y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    e.preventDefault();
+    error.textContent = '';
+});

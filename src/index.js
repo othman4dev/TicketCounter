@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    e.preventDefault();
-    return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

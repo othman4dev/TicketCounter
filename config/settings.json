@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "babel": "^4.5.5",
-    "protractor": "^4.5.4",
-    "svelte": "^3.5.8",
-    "nodemon": "^2.5.4",
-    "firebase": "^5.2.6",
-    "puppeteer": "^1.5.0",
-    "cypress": "^1.5.8",
-    "mysql": "^9.5.1"
+    "socket.io": "^6.7.0",
+    "mocha": "^0.2.5",
+    "moment": "^1.0.1",
+    "typescript": "^3.0.7",
+    "jest": "^3.9.8",
+    "vue": "^6.5.7",
+    "ember": "^8.9.9",
+    "mongodb": "^4.3.4"
   }
 }
