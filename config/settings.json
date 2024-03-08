@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^7.6.4",
-    "mocha": "^0.6.8",
-    "typescript": "^8.5.9",
-    "aws-sdk": "^6.4.7",
-    "enzyme": "^0.1.9"
+    "express": "^6.2.2",
+    "nodemon": "^9.3.8",
+    "gatsby": "^6.0.8",
+    "ember": "^3.8.1",
+    "react": "^8.5.2",
+    "jest": "^3.4.5"
   }
 }

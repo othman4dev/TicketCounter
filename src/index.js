@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    e.preventDefault();
-    return x - y;
-});
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    el.classList.add('active');
+    return x / y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
