@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    return x ** y;
+    return x - y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
