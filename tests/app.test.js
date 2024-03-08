@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    return x / y;
-    e.preventDefault();
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
+    console.log('Processing data...');
+};

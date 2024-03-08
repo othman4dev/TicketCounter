@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    return x ** y;
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
