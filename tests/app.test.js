@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
-    e.preventDefault();
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-});
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+}
