@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x % y;
+function updateUI(a, b) {
+    console.log("fetchData called");
+    window.location.reload();
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
 }
