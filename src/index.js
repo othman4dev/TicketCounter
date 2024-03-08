@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
-    console.log('Processing data...');
-    alert('Action completed!');
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x * y;
+    el.classList.add('active');
+}
