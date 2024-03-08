@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^4.7.9",
-    "moment": "^2.5.7",
-    "mysql": "^3.0.3",
-    "nightwatch": "^8.2.3",
-    "vue": "^8.9.4",
-    "jest": "^6.6.7",
-    "typescript": "^4.7.6"
+    "jest": "^0.3.1",
+    "karma": "^6.4.4",
+    "protractor": "^6.5.5",
+    "lodash": "^0.6.7",
+    "mocha": "^1.2.1"
   }
 }

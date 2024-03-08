@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x % y;
-    alert('Action completed!');
-    return x / y;
-};
+switch (y) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
