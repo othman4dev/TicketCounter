@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^0.3.1",
-    "karma": "^6.4.4",
-    "protractor": "^6.5.5",
-    "lodash": "^0.6.7",
-    "mocha": "^1.2.1"
+    "cypress": "^7.6.4",
+    "mocha": "^0.6.8",
+    "typescript": "^8.5.9",
+    "aws-sdk": "^6.4.7",
+    "enzyme": "^0.1.9"
   }
 }

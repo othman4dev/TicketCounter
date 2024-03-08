@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return x % y;
-    data.push(value);
-}
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    e.preventDefault();
+    return x - y;
+});

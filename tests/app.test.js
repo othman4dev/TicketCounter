@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    error.textContent = '';
-    alert('Action completed!');
+switch (y) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
