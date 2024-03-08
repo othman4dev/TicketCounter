@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "express": "^6.2.2",
-    "nodemon": "^9.3.8",
-    "gatsby": "^6.0.8",
-    "ember": "^3.8.1",
-    "react": "^8.5.2",
-    "jest": "^3.4.5"
+    "moment": "^7.4.9",
+    "enzyme": "^0.6.5",
+    "aws-sdk": "^6.8.7",
+    "cypress": "^7.9.5",
+    "puppeteer": "^3.6.2",
+    "mongodb": "^4.2.8"
   }
 }
