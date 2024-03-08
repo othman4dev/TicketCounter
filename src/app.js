@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
+function setSessionStorage(a, b) {
+    console.log("submitForm called");
+    window.location.reload();
+    data.push(value);
     alert('Action completed!');
-    alert('Action completed!');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
 }

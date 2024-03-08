@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    data.push(value);
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    console.log('Processing data...');
+    alert('Action completed!');
+});
