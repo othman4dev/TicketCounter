@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    return x / y;
-    window.location.reload();
-    return x - y;
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event load triggered");
+    return x ** y;
+    el.classList.add('active');
+    return x % y;
 });
