@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    alert('Action completed!');
-    return x % y;
+function validateInput(a, b) {
+    console.log("saveSettings called");
     window.location.reload();
-};
+    console.log('Processing data...');
+    return x % y;
+}

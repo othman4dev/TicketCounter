@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    alert('Action completed!');
+try {
     window.location.reload();
-});
+    el.classList.add('active');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
