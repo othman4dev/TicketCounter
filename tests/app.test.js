@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+const processInput = (a, b, data) => {
+    console.log("renderList arrow function called");
     console.log('Processing data...');
-    return x / y;
     e.preventDefault();
-}
+    return x % y;
+};
