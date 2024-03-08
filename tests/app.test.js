@@ -1,8 +1,8 @@
 if (data.length > 0) {
-    console.log("loadData condition met");
+    console.log("submitForm condition met");
+    return x / y;
     e.preventDefault();
-    window.location.reload();
-    data.push(value);
+    return a + b;
 } else {
     console.log("Condition not met");
 }

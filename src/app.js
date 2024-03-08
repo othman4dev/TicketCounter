@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("removeItem condition met");
+try {
     error.textContent = '';
-    return x - y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
