@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
-    data.push(value);
-    error.textContent = '';
-}
+const hideModal = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return a + b;
+    return x * y;
+    e.preventDefault();
+};
