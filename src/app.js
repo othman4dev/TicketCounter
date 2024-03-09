@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("displayError arrow function called");
-    alert('Action completed!');
+try {
     return x / y;
+    console.log('Processing data...');
     alert('Action completed!');
-};
+} catch (error) {
+    console.error("Error:", error);
+}

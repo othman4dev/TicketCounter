@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    error.textContent = '';
+if (data.length > 0) {
+    console.log("fetchData condition met");
     window.location.reload();
+    return x * y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
