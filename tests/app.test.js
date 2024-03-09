@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const fetchData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    data.push(value);
+    error.textContent = '';
+    return x * y;
+};

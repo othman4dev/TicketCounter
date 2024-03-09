@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("removeItem called");
-    return x * y;
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    e.preventDefault();
     return x ** y;
-    alert('Action completed!');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
