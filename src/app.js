@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    e.preventDefault();
+function showMessage(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    data.push(value);
     error.textContent = '';
-});
+}

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^6.7.0",
-    "mocha": "^0.2.5",
-    "moment": "^1.0.1",
-    "typescript": "^3.0.7",
-    "jest": "^3.9.8",
-    "vue": "^6.5.7",
-    "ember": "^8.9.9",
-    "mongodb": "^4.3.4"
+    "eslint": "^8.0.8",
+    "enzyme": "^8.4.0",
+    "prettier": "^6.6.0",
+    "axios": "^9.6.7",
+    "svelte": "^2.1.7"
   }
 }
