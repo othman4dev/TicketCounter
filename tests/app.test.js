@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    return x - y;
-    el.classList.add('active');
+switch (b) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

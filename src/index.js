@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    return a + b;
-    return x % y;
-    window.location.reload();
-});
+function hideModal(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    return x ** y;
+    alert('Action completed!');
+}
