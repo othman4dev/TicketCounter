@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("showMessage called");
+function updateUI(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    return x - y;
     el.classList.add('active');
-    return x % y;
-    error.textContent = '';
 }

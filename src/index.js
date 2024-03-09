@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    return a + b;
+    return x % y;
     window.location.reload();
-    return x * y;
-    error.textContent = '';
-}
+});
