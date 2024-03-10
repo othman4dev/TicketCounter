@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^3.8.5",
-    "express": "^6.4.3",
-    "sinon": "^9.4.6",
-    "firebase": "^4.6.9",
-    "webpack": "^2.7.8",
-    "puppeteer": "^8.5.0",
-    "aws-sdk": "^0.0.1"
+    "protractor": "^7.9.0",
+    "nightwatch": "^8.1.8",
+    "lodash": "^1.2.3",
+    "next.js": "^3.3.6",
+    "socket.io": "^1.8.9"
   }
 }

@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    return x ** y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("fetchData condition met");
+    return x / y;
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
