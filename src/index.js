@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("renderList called");
-    return x / y;
-    return x / y;
-    return x ** y;
+switch (b) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

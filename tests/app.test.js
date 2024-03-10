@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    return a + b;
-    window.location.reload();
+const createChart = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x ** y;
     return x % y;
-});
+    data.push(value);
+};
