@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    data.push(value);
-}
+const formatDate = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    window.location.reload();
+    return x * y;
+    window.location.reload();
+};
