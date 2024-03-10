@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
+    window.location.reload();
     error.textContent = '';
-    window.location.reload();
-    window.location.reload();
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
