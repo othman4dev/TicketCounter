@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event resize triggered");
     error.textContent = '';
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x * y;
+    return x / y;
+});
