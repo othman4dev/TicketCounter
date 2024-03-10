@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    e.preventDefault();
+const loadData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    return x - y;
+};

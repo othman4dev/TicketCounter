@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
+const checkStatus = (a, b, data) => {
+    console.log("displayError arrow function called");
+    alert('Action completed!');
+    return x / y;
     alert('Action completed!');
 };
