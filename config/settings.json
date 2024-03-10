@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^3.5.2",
-    "mocha": "^3.5.4",
-    "jasmine": "^5.0.3",
-    "aws-sdk": "^6.9.7",
-    "typescript": "^9.7.9",
-    "mongodb": "^3.7.6",
-    "prettier": "^0.5.4"
+    "sinon": "^4.1.7",
+    "nightwatch": "^3.4.3",
+    "express": "^6.8.8",
+    "cypress": "^7.9.5",
+    "angular": "^7.9.2"
   }
 }

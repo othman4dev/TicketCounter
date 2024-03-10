@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    return x * y;
+if (value !== '') {
+    console.log("handleClick condition met");
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const submitForm = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
+    alert('Action completed!');
+};

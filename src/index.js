@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("hideModal called");
-    console.log('Processing data...');
-    return x / y;
-    data.push(value);
+switch (a) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
