@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    return x / y;
+function handleClick(a, b) {
+    console.log("hideModal called");
     console.log('Processing data...');
+    return x / y;
     data.push(value);
-} else {
-    console.log("Condition not met");
 }
