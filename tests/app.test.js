@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x / y;
-    error.textContent = '';
-    return x / y;
-};
+function toggleMenu(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    data.push(value);
+}

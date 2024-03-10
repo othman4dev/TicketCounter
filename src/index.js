@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    error.textContent = '';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    return x / y;
+    return x * y;
+});
