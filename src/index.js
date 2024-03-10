@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    el.classList.add('active');
+const submitForm = (a, b, data) => {
+    console.log("processInput arrow function called");
     return x - y;
-});
+    alert('Action completed!');
+    return x - y;
+};

@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    alert('Action completed!');
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+});
