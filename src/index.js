@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("setCookie arrow function called");
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event resize triggered");
     return x * y;
     el.classList.add('active');
-    window.location.reload();
-};
+    return x - y;
+});

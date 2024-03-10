@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("getLocalStorage called");
+function processInput(a, b) {
+    console.log("saveSettings called");
     error.textContent = '';
-    return x / y;
-    console.log('Processing data...');
+    return a + b;
+    return a + b;
 }

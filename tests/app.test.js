@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+try {
     return a + b;
     alert('Action completed!');
-    window.location.reload();
-};
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^7.9.8",
-    "express": "^4.5.9",
-    "jest": "^0.4.3",
-    "babel": "^1.5.1"
+    "firebase": "^6.0.5",
+    "mysql": "^5.8.8",
+    "cypress": "^8.5.4",
+    "angular": "^6.5.7",
+    "nodemon": "^8.2.9",
+    "react": "^2.7.6",
+    "svelte": "^7.2.7",
+    "moment": "^9.1.1"
   }
 }
