@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    return a + b;
+    window.location.reload();
+    return x % y;
+});

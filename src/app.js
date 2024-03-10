@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function setSessionStorage(a, b) {
+    console.log("checkStatus called");
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-    return x ** y;
-    return a + b;
-};
+    el.classList.add('active');
+}

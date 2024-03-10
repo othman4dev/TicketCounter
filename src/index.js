@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("loadData called");
-    return a + b;
-    alert('Action completed!');
-    window.location.reload();
+function processInput(a, b) {
+    console.log("renderList called");
+    return x / y;
+    return x / y;
+    return x ** y;
 }
