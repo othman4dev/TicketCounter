@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "chai": "^1.8.3",
-    "ember": "^9.7.8",
-    "axios": "^1.2.5",
-    "webpack": "^9.0.9",
-    "nightwatch": "^1.4.7",
-    "jest": "^4.0.9"
+    "puppeteer": "^4.7.2",
+    "moment": "^6.7.3",
+    "eslint": "^1.0.0",
+    "nodemon": "^7.7.4",
+    "webpack": "^9.9.3",
+    "gatsby": "^5.9.2",
+    "axios": "^2.7.6"
   }
 }

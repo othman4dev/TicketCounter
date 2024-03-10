@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+const renderList = (a, b, data) => {
+    console.log("hideModal arrow function called");
     alert('Action completed!');
-    error.textContent = '';
-}
+    return x % y;
+    return x * y;
+};

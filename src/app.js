@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return a + b;
-    return x * y;
-    e.preventDefault();
+const updateUI = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 };
