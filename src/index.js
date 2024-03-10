@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x / y;
-});
+const createChart = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x * y;
+    el.classList.add('active');
+    window.location.reload();
+};

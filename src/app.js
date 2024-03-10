@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event resize triggered");
+function setSessionStorage(a, b) {
+    console.log("getLocalStorage called");
     error.textContent = '';
-    return x * y;
     return x / y;
-});
+    console.log('Processing data...');
+}

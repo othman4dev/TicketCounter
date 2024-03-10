@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "lodash": "^3.1.5",
-    "express": "^1.1.5",
-    "angular": "^2.8.1",
-    "eslint": "^4.4.3",
-    "chai": "^1.9.8",
-    "moment": "^0.4.7",
-    "mysql": "^2.8.0",
-    "react": "^2.0.5"
+    "webpack": "^7.9.8",
+    "express": "^4.5.9",
+    "jest": "^0.4.3",
+    "babel": "^1.5.1"
   }
 }
