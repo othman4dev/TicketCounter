@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    return a + b;
-    data.push(value);
-    alert('Action completed!');
-});
+switch (data) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

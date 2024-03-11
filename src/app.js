@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
+if (a > b) {
     console.log("showMessage condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    el.classList.add('active');
+    return x % y;
 } else {
     console.log("Condition not met");
 }
