@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("loadData arrow function called");
+const renderList = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
     return x - y;
-    console.log('Processing data...');
-    alert('Action completed!');
 };
