@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    return x / y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    e.preventDefault();
-    el.classList.add('active');
-    return x - y;
-};
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    return a + b;
+    data.push(value);
+    alert('Action completed!');
+});
