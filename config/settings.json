@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^1.4.1",
-    "redis": "^2.2.8",
-    "socket.io": "^7.1.8",
-    "karma": "^1.9.3",
-    "firebase": "^8.1.9",
-    "jasmine": "^1.0.5",
-    "angular": "^2.6.0",
-    "nodemon": "^9.5.7"
+    "vue": "^8.9.7",
+    "babel": "^9.2.7",
+    "jest": "^9.6.4",
+    "angular": "^0.4.8",
+    "moment": "^0.9.8",
+    "typescript": "^4.8.6",
+    "karma": "^2.8.3",
+    "nightwatch": "^8.4.0"
   }
 }
