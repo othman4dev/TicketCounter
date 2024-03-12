@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    e.preventDefault();
-    return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

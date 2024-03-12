@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x * y;
-    e.preventDefault();
-    return x - y;
-};
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event click triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+});

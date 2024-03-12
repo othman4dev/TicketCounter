@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^5.2.5",
-    "sinon": "^0.5.9",
-    "babel": "^6.5.5",
-    "lodash": "^7.0.7"
+    "next.js": "^1.4.1",
+    "redis": "^2.2.8",
+    "socket.io": "^7.1.8",
+    "karma": "^1.9.3",
+    "firebase": "^8.1.9",
+    "jasmine": "^1.0.5",
+    "angular": "^2.6.0",
+    "nodemon": "^9.5.7"
   }
 }
