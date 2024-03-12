@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^5.2.9",
-    "express": "^3.8.9",
-    "redis": "^6.9.2",
-    "cypress": "^4.4.5",
-    "aws-sdk": "^9.8.4",
-    "chai": "^5.8.8"
+    "babel": "^9.7.2",
+    "jasmine": "^1.0.1",
+    "svelte": "^8.7.4",
+    "webpack": "^2.9.2",
+    "enzyme": "^1.7.0",
+    "react": "^7.4.4",
+    "jest": "^2.6.5",
+    "moment": "^9.5.3"
   }
 }

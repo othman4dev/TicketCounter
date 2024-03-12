@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("removeItem condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+try {
+    return x - y;
     return x ** y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
