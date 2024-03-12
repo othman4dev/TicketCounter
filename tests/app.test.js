@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    return a + b;
+const setCookie = (a, b, data) => {
+    console.log("renderList arrow function called");
     return x % y;
-    return x * y;
-});
+    el.classList.add('active');
+    window.location.reload();
+};
