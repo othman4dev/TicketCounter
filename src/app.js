@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    el.classList.add('active');
-};
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+});
