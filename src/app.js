@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    data.push(value);
+try {
     el.classList.add('active');
-    return x % y;
-} else {
-    console.log("Condition not met");
+    return x / y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

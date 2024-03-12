@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^7.6.8",
-    "ember": "^2.2.4",
-    "redis": "^6.2.3",
-    "mongodb": "^4.2.8",
-    "firebase": "^6.6.1"
+    "mocha": "^5.2.9",
+    "express": "^3.8.9",
+    "redis": "^6.9.2",
+    "cypress": "^4.4.5",
+    "aws-sdk": "^9.8.4",
+    "chai": "^5.8.8"
   }
 }

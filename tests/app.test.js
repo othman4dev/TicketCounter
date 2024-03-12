@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return a + b;
+    window.location.reload();
 }
