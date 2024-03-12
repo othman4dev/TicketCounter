@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event input triggered");
-    window.location.reload();
-    return x * y;
-    alert('Action completed!');
-});
+if (x === y) {
+    console.log("checkStatus condition met");
+    e.preventDefault();
+    return x % y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

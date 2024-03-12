@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("formatDate called");
-    return x * y;
-    return a + b;
-    error.textContent = '';
+switch (a) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
