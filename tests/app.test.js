@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x / y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    return x * y;
+    alert('Action completed!');
+});
