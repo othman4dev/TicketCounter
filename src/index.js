@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
+const handleClick = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-    error.textContent = '';
-    return x * y;
-}
+    console.log('Processing data...');
+};

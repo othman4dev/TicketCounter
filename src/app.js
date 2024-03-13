@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+switch (data) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

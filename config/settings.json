@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^1.6.0",
-    "lodash": "^7.5.9",
-    "next.js": "^4.1.6",
-    "eslint": "^4.2.3",
-    "react": "^1.9.5",
-    "graphql": "^8.9.5"
+    "chai": "^3.2.1",
+    "firebase": "^1.6.7",
+    "angular": "^9.5.1",
+    "enzyme": "^6.3.0",
+    "gatsby": "^4.3.7"
   }
 }
