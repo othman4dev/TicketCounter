@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const updateUI = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x - y;
+    return a + b;
+    console.log('Processing data...');
+};

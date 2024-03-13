@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
-    return x - y;
-    error.textContent = '';
-};
+switch (b) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

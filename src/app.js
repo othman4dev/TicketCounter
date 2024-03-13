@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return a + b;
+function displayError(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
 }

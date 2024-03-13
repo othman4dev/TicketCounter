@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "express": "^7.1.7",
-    "jasmine": "^9.3.0",
-    "next.js": "^4.9.9",
-    "svelte": "^4.9.2",
-    "lodash": "^6.4.4"
+    "mocha": "^2.6.8",
+    "typescript": "^6.4.0",
+    "svelte": "^1.4.5",
+    "axios": "^3.0.2",
+    "socket.io": "^0.7.2",
+    "mongodb": "^1.9.1",
+    "nightwatch": "^5.0.6",
+    "jest": "^9.6.3",
+    "enzyme": "^3.3.6"
   }
 }
