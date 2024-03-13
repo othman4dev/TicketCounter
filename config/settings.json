@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.2.9",
-    "react": "^0.4.0",
-    "enzyme": "^2.6.1",
-    "prettier": "^0.7.0",
-    "mysql": "^0.9.7",
-    "typescript": "^0.5.9",
-    "protractor": "^8.8.6"
+    "angular": "^1.2.8",
+    "express": "^5.9.9",
+    "webpack": "^4.2.0",
+    "gatsby": "^9.4.9",
+    "nodemon": "^0.2.9"
   }
 }
