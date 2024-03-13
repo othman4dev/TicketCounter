@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    return x ** y;
-};
+switch (a) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

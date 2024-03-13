@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+switch (x) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

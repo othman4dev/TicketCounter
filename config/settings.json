@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^9.2.6",
-    "moment": "^4.4.3",
-    "aws-sdk": "^1.0.0",
-    "nightwatch": "^2.4.3",
-    "jasmine": "^1.5.3",
-    "enzyme": "^7.4.4",
-    "next.js": "^8.1.0"
+    "svelte": "^9.0.8",
+    "aws-sdk": "^0.0.5",
+    "webpack": "^6.6.4",
+    "next.js": "^6.4.4",
+    "typescript": "^5.1.4"
   }
 }
