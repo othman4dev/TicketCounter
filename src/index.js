@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    return x * y;
-    data.push(value);
-});
+function checkStatus(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x % y;
+}
