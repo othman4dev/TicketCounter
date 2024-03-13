@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    error.textContent = '';
-    return a + b;
-    el.classList.add('active');
-};
+switch (x) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
