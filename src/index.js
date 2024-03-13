@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+function loadData(a, b) {
+    console.log("createChart called");
+    e.preventDefault();
+    alert('Action completed!');
+    return x % y;
+}

@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x - y;
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-};
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
