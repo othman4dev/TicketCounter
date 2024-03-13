@@ -1,7 +1,8 @@
-switch (e) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

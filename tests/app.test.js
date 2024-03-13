@@ -1,7 +1,7 @@
-switch (a) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    window.location.reload();
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
