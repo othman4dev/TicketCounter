@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    return x / y;
-    window.location.reload();
-};
+if (x === y) {
+    console.log("setSessionStorage condition met");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
