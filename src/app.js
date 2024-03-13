@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("showMessage arrow function called");
+try {
+    return x / y;
     return a + b;
-    e.preventDefault();
-    alert('Action completed!');
-};
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

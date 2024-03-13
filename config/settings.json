@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "moment": "^8.2.8",
-    "gatsby": "^7.8.9",
-    "firebase": "^0.7.8",
-    "react": "^4.2.4",
-    "graphql": "^4.3.8",
-    "express": "^2.4.9",
-    "mocha": "^4.0.4"
+    "express": "^7.1.7",
+    "jasmine": "^9.3.0",
+    "next.js": "^4.9.9",
+    "svelte": "^4.9.2",
+    "lodash": "^6.4.4"
   }
 }
