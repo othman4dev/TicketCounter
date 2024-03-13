@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
     return a + b;
-    console.log('Processing data...');
-};
+    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

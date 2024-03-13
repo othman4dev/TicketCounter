@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("setSessionStorage called");
-    document.body.style.backgroundColor = 'lightblue';
+if (value !== '') {
+    console.log("submitForm condition met");
+    window.location.reload();
+    return x * y;
     return x % y;
-    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
