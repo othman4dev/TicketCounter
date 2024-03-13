@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    return x % y;
-    return x ** y;
-    return x ** y;
-});
+const checkStatus = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    return x / y;
+    window.location.reload();
+};

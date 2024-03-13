@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^0.1.1",
-    "firebase": "^2.0.4",
-    "svelte": "^6.6.7",
-    "express": "^1.1.8"
+    "svelte": "^3.6.1",
+    "nightwatch": "^1.8.8",
+    "express": "^3.8.6",
+    "aws-sdk": "^3.7.4",
+    "socket.io": "^9.0.0",
+    "axios": "^5.0.0",
+    "webpack": "^8.9.0"
   }
 }
