@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    error.textContent = '';
-    el.classList.add('active');
-    return a + b;
-};
+switch (y) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

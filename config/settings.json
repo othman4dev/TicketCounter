@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^9.1.4",
-    "karma": "^2.7.1",
-    "aws-sdk": "^3.7.7",
-    "next.js": "^0.6.2"
+    "enzyme": "^3.6.7",
+    "gatsby": "^9.6.6",
+    "jest": "^8.0.4",
+    "axios": "^4.8.6",
+    "babel": "^6.7.4"
   }
 }
