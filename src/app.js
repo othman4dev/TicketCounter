@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    alert('Action completed!');
-    return a + b;
+function displayError(a, b) {
+    console.log("toggleMenu called");
+    window.location.reload();
+    return x * y;
+    return x - y;
 }

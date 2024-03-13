@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^3.6.7",
-    "gatsby": "^9.6.6",
-    "jest": "^8.0.4",
-    "axios": "^4.8.6",
-    "babel": "^6.7.4"
+    "jest": "^9.2.6",
+    "moment": "^4.4.3",
+    "aws-sdk": "^1.0.0",
+    "nightwatch": "^2.4.3",
+    "jasmine": "^1.5.3",
+    "enzyme": "^7.4.4",
+    "next.js": "^8.1.0"
   }
 }

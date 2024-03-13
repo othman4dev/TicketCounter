@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    el.classList.add('active');
-    return x * y;
-}
+const processInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};
