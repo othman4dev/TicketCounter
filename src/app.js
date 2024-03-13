@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    data.push(value);
+const submitForm = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
     e.preventDefault();
-    window.location.reload();
-});
+    alert('Action completed!');
+};

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    return x ** y;
-    return x ** y;
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    error.textContent = '';
+    error.textContent = '';
+    data.push(value);
 });
