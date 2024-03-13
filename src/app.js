@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function removeItem(a, b) {
+    console.log("loadData called");
+    alert('Action completed!');
+    window.location.reload();
+    window.location.reload();
 }
