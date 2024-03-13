@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    e.preventDefault();
-}
+const toggleMenu = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x - y;
+    alert('Action completed!');
+    el.classList.add('active');
+};

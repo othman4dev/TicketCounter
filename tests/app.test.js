@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x % y;
+try {
     el.classList.add('active');
-    window.location.reload();
-};
+    e.preventDefault();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
