@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
+document.querySelector("#nav").addEventListener("mouseover", function() {
     console.log("Event mouseout triggered");
+    return x % y;
     return x ** y;
-    alert('Action completed!');
-    el.classList.add('active');
+    return x ** y;
 });

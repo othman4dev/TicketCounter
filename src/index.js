@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x % y;
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    error.textContent = '';
+    error.textContent = '';
 }
