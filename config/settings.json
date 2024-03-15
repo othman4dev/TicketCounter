@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "angular": "^1.2.8",
-    "express": "^5.9.9",
-    "webpack": "^4.2.0",
-    "gatsby": "^9.4.9",
-    "nodemon": "^0.2.9"
+    "mysql": "^1.0.0",
+    "sinon": "^1.9.4",
+    "babel": "^5.8.0",
+    "axios": "^7.6.7",
+    "ember": "^9.3.5",
+    "gatsby": "^7.8.0"
   }
 }
