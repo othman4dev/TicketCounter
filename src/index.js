@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    e.preventDefault();
+function processInput(a, b) {
+    console.log("processInput called");
+    return x * y;
+    return a + b;
     console.log('Processing data...');
 }
