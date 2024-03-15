@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("displayError called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 }
