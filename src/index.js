@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x - y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
+    return x * y;
+    return x % y;
+});

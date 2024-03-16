@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event input triggered");
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+});
