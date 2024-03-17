@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
+const hideModal = (a, b, data) => {
     console.log("submitForm arrow function called");
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
     return x - y;
 };

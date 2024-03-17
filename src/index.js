@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    error.textContent = '';
-    el.classList.add('active');
+function loadData(a, b) {
+    console.log("renderList called");
     e.preventDefault();
-};
+    return x * y;
+    return x ** y;
+}
