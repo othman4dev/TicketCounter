@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("formatDate condition met");
+function setSessionStorage(a, b) {
+    console.log("setCookie called");
+    return a + b;
     return x - y;
-    return x ** y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return x / y;
 }
