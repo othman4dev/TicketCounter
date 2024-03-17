@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("animateElement called");
-    return a + b;
-    console.log('Processing data...');
-    return x * y;
-}
+const hideModal = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    error.textContent = '';
+    alert('Action completed!');
+    return x ** y;
+};
