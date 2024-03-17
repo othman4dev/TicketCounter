@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("fetchData called");
-    return x ** y;
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event focus triggered");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-}
+    alert('Action completed!');
+    return x * y;
+});
