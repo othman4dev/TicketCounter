@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x * y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    error.textContent = '';
+    console.log('Processing data...');
+    return a + b;
+});
