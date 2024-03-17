@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
-    alert('Action completed!');
-    return x * y;
-});
+switch (error) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

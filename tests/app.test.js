@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    return a + b;
+    e.preventDefault();
+};
