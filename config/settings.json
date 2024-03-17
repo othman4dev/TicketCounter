@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "chai": "^7.4.5",
-    "puppeteer": "^6.0.7",
-    "protractor": "^8.4.9",
-    "next.js": "^0.0.1",
-    "mocha": "^8.0.8"
+    "angular": "^1.2.5",
+    "protractor": "^3.3.8",
+    "react": "^9.2.9",
+    "lodash": "^9.3.6",
+    "prettier": "^5.9.7",
+    "aws-sdk": "^6.9.5"
   }
 }

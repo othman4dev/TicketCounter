@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    return x / y;
-    data.push(value);
-});
+function setSessionStorage(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    return x ** y;
+    return x * y;
+}

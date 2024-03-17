@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
-    window.location.reload();
-    return x ** y;
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    error.textContent = '';
+    el.classList.add('active');
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+};

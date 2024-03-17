@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("getLocalStorage called");
-    return x % y;
-    alert('Action completed!');
-    alert('Action completed!');
-}
+const formatDate = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};
