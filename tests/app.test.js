@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
     e.preventDefault();
-    return a + b;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

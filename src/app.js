@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    data.push(value);
+function setSessionStorage(a, b) {
+    console.log("fetchData called");
+    return x ** y;
     error.textContent = '';
-    return x - y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+}
