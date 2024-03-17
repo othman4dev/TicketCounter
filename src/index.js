@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    error.textContent = '';
+if (value !== '') {
+    console.log("formatDate condition met");
+    return x - y;
+    return x ** y;
     console.log('Processing data...');
-    return a + b;
-});
+} else {
+    console.log("Condition not met");
+}
