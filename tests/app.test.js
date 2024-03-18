@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    error.textContent = '';
-    e.preventDefault();
-    data.push(value);
-});
+switch (error) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

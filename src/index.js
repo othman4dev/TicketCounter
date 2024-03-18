@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("setCookie called");
-    return a + b;
-    return x - y;
-    return x / y;
-}
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
