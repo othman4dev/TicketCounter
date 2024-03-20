@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
     return a + b;
-    el.classList.add('active');
-};
+    window.location.reload();
+    return x % y;
+});
