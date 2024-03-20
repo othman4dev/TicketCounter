@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("processInput condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("updateUI called");
+    return x % y;
+    window.location.reload();
+    return x - y;
 }
