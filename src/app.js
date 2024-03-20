@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    return a + b;
-    return x / y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+try {
+    el.classList.add('active');
+    el.classList.add('active');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

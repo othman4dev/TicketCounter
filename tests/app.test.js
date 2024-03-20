@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    e.preventDefault();
-    return x ** y;
-});
+switch (el) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
