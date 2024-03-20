@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x * y;
+};

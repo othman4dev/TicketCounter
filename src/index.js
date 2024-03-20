@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    data.push(value);
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+});
