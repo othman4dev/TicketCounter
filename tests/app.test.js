@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    return x / y;
+    data.push(value);
     return x * y;
-    return x ** y;
-};
+} else {
+    console.log("Condition not met");
+}
