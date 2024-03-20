@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x * y;
+const fetchData = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    e.preventDefault();
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+};

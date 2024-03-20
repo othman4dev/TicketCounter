@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("validateInput called");
-    window.location.reload();
-    data.push(value);
-    return x % y;
+if (value !== '') {
+    console.log("processInput condition met");
+    alert('Action completed!');
+    el.classList.add('active');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
