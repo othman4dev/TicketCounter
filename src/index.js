@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return a + b;
+const hideModal = (a, b, data) => {
+    console.log("displayError arrow function called");
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+    return x % y;
+};
