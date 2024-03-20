@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^0.8.6",
-    "jest": "^3.2.5",
-    "prettier": "^5.3.7",
-    "angular": "^4.4.7",
-    "puppeteer": "^8.5.2",
-    "graphql": "^4.5.2"
+    "react": "^2.4.1",
+    "next.js": "^0.7.1",
+    "nodemon": "^8.5.3",
+    "prettier": "^8.2.6",
+    "karma": "^7.2.6",
+    "chai": "^4.8.3",
+    "express": "^3.7.8",
+    "axios": "^2.8.1"
   }
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    e.preventDefault();
-    error.textContent = '';
-}
+const toggleMenu = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x % y;
+    window.location.reload();
+    el.classList.add('active');
+};
