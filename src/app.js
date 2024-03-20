@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    window.location.reload();
-    return x % y;
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    data.push(value);
+    return x ** y;
 });
