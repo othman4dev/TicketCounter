@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    el.classList.add('active');
+const createChart = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     e.preventDefault();
-}
+    return x - y;
+    e.preventDefault();
+};
