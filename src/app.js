@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    e.preventDefault();
-    window.location.reload();
-}
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    return a + b;
+});
