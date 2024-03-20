@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("setCookie called");
-    return x * y;
-    return x * y;
-    alert('Action completed!');
+switch (x) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
