@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^2.3.9",
-    "gatsby": "^4.3.9",
-    "eslint": "^0.6.1",
-    "firebase": "^0.8.3",
-    "prettier": "^6.3.0",
-    "cypress": "^2.5.0",
-    "express": "^8.6.9"
+    "mysql": "^2.4.0",
+    "karma": "^2.8.6",
+    "vue": "^2.8.7",
+    "chai": "^2.3.5",
+    "jest": "^2.8.0"
   }
 }

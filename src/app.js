@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    return a + b;
-});
+function setSessionStorage(a, b) {
+    console.log("setCookie called");
+    return x * y;
+    return x * y;
+    alert('Action completed!');
+}

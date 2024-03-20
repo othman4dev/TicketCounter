@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    return x / y;
+    el.classList.add('active');
+    window.location.reload();
+});
