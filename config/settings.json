@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^1.2.9",
-    "enzyme": "^5.8.6",
-    "karma": "^1.3.9",
-    "nightwatch": "^0.4.2",
-    "socket.io": "^1.8.1",
-    "gatsby": "^6.6.8",
-    "prettier": "^4.0.3"
+    "aws-sdk": "^7.1.6",
+    "jasmine": "^9.3.6",
+    "protractor": "^1.8.5",
+    "next.js": "^0.4.8",
+    "express": "^3.0.7",
+    "nightwatch": "^5.5.4",
+    "jest": "^9.5.5"
   }
 }

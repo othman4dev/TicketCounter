@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    e.preventDefault();
-    return x - y;
-    console.log('Processing data...');
-};
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return a + b;
+    return x % y;
+}
