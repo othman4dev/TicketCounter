@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    data.push(value);
-    return x / y;
-    window.location.reload();
-};
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    return x - y;
+    return x ** y;
+    e.preventDefault();
+});

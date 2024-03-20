@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    alert('Action completed!');
-    window.location.reload();
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
     return x % y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}
