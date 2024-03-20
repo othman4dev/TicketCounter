@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^5.0.2",
-    "chai": "^5.3.3",
-    "prettier": "^8.5.2",
-    "cypress": "^8.3.8",
-    "lodash": "^1.8.7",
-    "mongodb": "^3.4.4",
-    "aws-sdk": "^7.0.6"
+    "eslint": "^0.8.6",
+    "jest": "^3.2.5",
+    "prettier": "^5.3.7",
+    "angular": "^4.4.7",
+    "puppeteer": "^8.5.2",
+    "graphql": "^4.5.2"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     return x * y;
-});
+    return x * y;
+    return x / y;
+}
