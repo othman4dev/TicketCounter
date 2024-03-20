@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    window.location.reload();
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
 }

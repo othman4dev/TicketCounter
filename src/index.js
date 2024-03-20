@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    return x - y;
+const submitForm = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x * y;
+    return x * y;
     return x ** y;
-    e.preventDefault();
-});
+};
