@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    e.preventDefault();
-    el.classList.add('active');
-}
+const formatDate = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return a + b;
+    return x * y;
+    return x ** y;
+};

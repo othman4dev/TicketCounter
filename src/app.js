@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
+    return x - y;
+    return x * y;
+};
