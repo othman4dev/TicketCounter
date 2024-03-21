@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x - y;
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    data.push(value);
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

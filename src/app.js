@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    alert('Action completed!');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("setSessionStorage called");
+    console.log('Processing data...');
+    return x ** y;
+    e.preventDefault();
 }
