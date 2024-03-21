@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
+function animateElement(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
     return a + b;
-    return a + b;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
 }

@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    data.push(value);
+    el.classList.add('active');
+    return a + b;
+};

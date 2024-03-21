@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "graphql": "^6.9.2",
-    "socket.io": "^4.4.1",
-    "puppeteer": "^2.8.9",
-    "ember": "^0.7.6",
-    "nightwatch": "^5.4.3"
+    "nodemon": "^5.5.0",
+    "jest": "^6.2.4",
+    "karma": "^0.6.7",
+    "sinon": "^4.2.3"
   }
 }
