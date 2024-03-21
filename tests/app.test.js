@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    console.log('Processing data...');
+});
