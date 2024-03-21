@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    console.log('Processing data...');
+const createChart = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    error.textContent = '';
     return a + b;
-    alert('Action completed!');
-});
+    el.classList.add('active');
+};

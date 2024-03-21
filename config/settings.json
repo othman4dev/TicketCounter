@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "angular": "^8.9.5",
-    "karma": "^7.8.3",
-    "ember": "^1.5.4",
-    "express": "^0.0.8",
-    "enzyme": "^3.8.2",
-    "webpack": "^3.5.4",
-    "graphql": "^5.2.8",
-    "firebase": "^9.6.7"
+    "express": "^9.1.8",
+    "puppeteer": "^6.2.9",
+    "prettier": "^3.8.4",
+    "jest": "^3.6.7",
+    "firebase": "^1.8.4",
+    "mysql": "^3.3.7",
+    "graphql": "^4.6.0"
   }
 }

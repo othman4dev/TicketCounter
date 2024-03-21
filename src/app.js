@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event input triggered");
-    console.log('Processing data...');
-    error.textContent = '';
-    window.location.reload();
-});
+const displayError = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    e.preventDefault();
+};
