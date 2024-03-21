@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("checkStatus called");
-    return a + b;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x % y;
+    alert('Action completed!');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

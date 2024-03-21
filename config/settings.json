@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^6.0.2",
-    "aws-sdk": "^9.6.1",
-    "angular": "^9.2.5",
-    "vue": "^3.3.9",
-    "ember": "^9.9.9",
-    "mongodb": "^4.9.7"
+    "mocha": "^8.7.6",
+    "lodash": "^2.9.9",
+    "mysql": "^0.2.2",
+    "svelte": "^9.4.9",
+    "jest": "^5.1.3"
   }
 }
