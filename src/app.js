@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("setSessionStorage called");
-    console.log('Processing data...');
-    return x ** y;
-    e.preventDefault();
+if (value !== '') {
+    console.log("handleClick condition met");
+    return a + b;
+    return a + b;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
