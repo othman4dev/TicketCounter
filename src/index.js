@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("setSessionStorage condition met");
+    return x - y;
+    e.preventDefault();
     return x ** y;
-    console.log('Processing data...');
-});
+} else {
+    console.log("Condition not met");
+}
