@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("checkStatus called");
+    return a + b;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }

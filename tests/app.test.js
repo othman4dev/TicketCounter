@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    error.textContent = '';
-    return a + b;
-    alert('Action completed!');
-});
+switch (a) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
