@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("getLocalStorage called");
-    console.log('Processing data...');
-    return x - y;
-    alert('Action completed!');
+switch (e) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
