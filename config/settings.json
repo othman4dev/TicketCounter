@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^6.7.4",
-    "nightwatch": "^0.7.1",
-    "jest": "^1.4.1",
-    "eslint": "^8.8.4",
-    "angular": "^1.2.6",
-    "aws-sdk": "^3.9.6"
+    "mocha": "^2.7.9",
+    "react": "^6.3.6",
+    "chai": "^4.5.6",
+    "axios": "^0.8.2",
+    "socket.io": "^9.1.5",
+    "jest": "^3.8.3"
   }
 }

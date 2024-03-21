@@ -1,8 +1,8 @@
 if (value !== '') {
-    console.log("createChart condition met");
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    return x / y;
     return a + b;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
