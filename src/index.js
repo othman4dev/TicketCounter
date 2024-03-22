@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("createChart called");
-    return x ** y;
-    return a + b;
-    el.classList.add('active');
+switch (a) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

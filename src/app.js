@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+const saveSettings = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    window.location.reload();
     alert('Action completed!');
-    return a + b;
-}
+    e.preventDefault();
+};
