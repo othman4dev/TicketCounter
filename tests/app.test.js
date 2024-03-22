@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x - y;
-    return x * y;
-    window.location.reload();
-};
+function renderList(a, b) {
+    console.log("getLocalStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    e.preventDefault();
+}

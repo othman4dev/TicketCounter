@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^0.6.3",
-    "gatsby": "^7.5.3",
-    "nightwatch": "^6.5.3",
-    "cypress": "^0.9.8",
-    "axios": "^6.1.0",
-    "angular": "^2.9.3",
-    "graphql": "^4.4.1"
+    "mongodb": "^0.0.9",
+    "puppeteer": "^1.0.5",
+    "protractor": "^9.0.7",
+    "cypress": "^2.4.4",
+    "moment": "^5.4.8"
   }
 }
