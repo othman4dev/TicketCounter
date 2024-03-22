@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "mongodb": "^0.0.9",
-    "puppeteer": "^1.0.5",
-    "protractor": "^9.0.7",
-    "cypress": "^2.4.4",
-    "moment": "^5.4.8"
+    "prettier": "^6.5.3",
+    "nightwatch": "^4.0.9",
+    "protractor": "^1.1.4",
+    "svelte": "^8.4.0",
+    "typescript": "^1.6.2",
+    "chai": "^1.0.9",
+    "jasmine": "^8.9.9",
+    "puppeteer": "^3.0.5",
+    "firebase": "^1.7.2"
   }
 }

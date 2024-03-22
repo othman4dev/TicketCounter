@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("getLocalStorage called");
+try {
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    e.preventDefault();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
