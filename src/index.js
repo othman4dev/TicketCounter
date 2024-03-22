@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    e.preventDefault();
-    return x - y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("createChart called");
+    return x ** y;
+    return a + b;
+    el.classList.add('active');
 }

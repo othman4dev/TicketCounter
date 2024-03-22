@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^6.5.3",
-    "nightwatch": "^4.0.9",
-    "protractor": "^1.1.4",
-    "svelte": "^8.4.0",
-    "typescript": "^1.6.2",
-    "chai": "^1.0.9",
-    "jasmine": "^8.9.9",
-    "puppeteer": "^3.0.5",
-    "firebase": "^1.7.2"
+    "ember": "^8.4.3",
+    "chai": "^9.1.6",
+    "vue": "^1.4.5",
+    "puppeteer": "^7.5.0",
+    "typescript": "^2.4.7",
+    "sinon": "^4.5.8"
   }
 }

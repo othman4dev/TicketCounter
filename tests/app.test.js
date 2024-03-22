@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("animateElement condition met");
+    return a + b;
+    window.location.reload();
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
