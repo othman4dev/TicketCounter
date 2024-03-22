@@ -1,7 +1,7 @@
 try {
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
+    alert('Action completed!');
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }

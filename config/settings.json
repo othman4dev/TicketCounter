@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^0.9.4",
-    "jest": "^1.4.5",
-    "enzyme": "^9.3.7",
-    "gatsby": "^1.2.5",
-    "graphql": "^9.7.4",
-    "sinon": "^0.9.5",
-    "express": "^7.0.4",
-    "prettier": "^7.5.7"
+    "gatsby": "^0.8.6",
+    "sinon": "^7.7.6",
+    "mongodb": "^1.5.1",
+    "lodash": "^7.6.8",
+    "axios": "^7.0.8",
+    "jasmine": "^8.9.1"
   }
 }

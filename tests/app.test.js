@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
-    error.textContent = '';
-    error.textContent = '';
-};
+function loadData(a, b) {
+    console.log("setSessionStorage called");
+    return x - y;
+    el.classList.add('active');
+    window.location.reload();
+}
