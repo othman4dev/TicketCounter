@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
+    error.textContent = '';
     data.push(value);
-    window.location.reload();
-    return a + b;
-});
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

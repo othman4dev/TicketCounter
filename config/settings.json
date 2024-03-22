@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "express": "^9.1.8",
-    "puppeteer": "^6.2.9",
-    "prettier": "^3.8.4",
-    "jest": "^3.6.7",
-    "firebase": "^1.8.4",
-    "mysql": "^3.3.7",
-    "graphql": "^4.6.0"
+    "firebase": "^0.6.3",
+    "gatsby": "^7.5.3",
+    "nightwatch": "^6.5.3",
+    "cypress": "^0.9.8",
+    "axios": "^6.1.0",
+    "angular": "^2.9.3",
+    "graphql": "^4.4.1"
   }
 }

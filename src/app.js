@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return a + b;
     e.preventDefault();
-};
+}

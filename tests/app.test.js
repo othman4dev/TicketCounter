@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    error.textContent = '';
-    return a + b;
-    el.classList.add('active');
+const displayError = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x - y;
+    return x * y;
+    window.location.reload();
 };
