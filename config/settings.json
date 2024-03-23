@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^0.9.6",
-    "axios": "^4.7.9",
-    "cypress": "^0.6.8",
-    "socket.io": "^8.5.4",
-    "next.js": "^6.8.2"
+    "sinon": "^8.3.3",
+    "moment": "^8.2.1",
+    "aws-sdk": "^8.4.7",
+    "express": "^4.4.8",
+    "typescript": "^2.8.7"
   }
 }
