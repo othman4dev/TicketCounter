@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    return a + b;
-    return a + b;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

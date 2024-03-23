@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^8.2.8",
-    "socket.io": "^8.3.3",
-    "jest": "^4.4.5",
-    "babel": "^8.4.2",
-    "mocha": "^6.8.8",
-    "eslint": "^4.2.6",
-    "angular": "^5.0.3",
-    "graphql": "^5.4.7"
+    "next.js": "^9.5.9",
+    "svelte": "^2.9.2",
+    "moment": "^4.9.8",
+    "sinon": "^9.7.4",
+    "mocha": "^5.4.8",
+    "mongodb": "^8.7.6",
+    "lodash": "^3.8.1",
+    "gatsby": "^8.5.3"
   }
 }

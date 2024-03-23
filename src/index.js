@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    el.classList.add('active');
+    return x - y;
     data.push(value);
-    alert('Action completed!');
-}
+});

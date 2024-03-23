@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    error.textContent = '';
-    el.classList.add('active');
-    return a + b;
+try {
+    alert('Action completed!');
+    alert('Action completed!');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
