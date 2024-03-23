@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "vue": "^3.3.8",
-    "lodash": "^7.8.5",
-    "prettier": "^7.0.7",
-    "gatsby": "^7.8.2",
-    "nightwatch": "^5.4.4"
+    "express": "^6.4.0",
+    "karma": "^9.7.7",
+    "jasmine": "^8.8.2",
+    "lodash": "^3.1.6",
+    "protractor": "^0.7.9",
+    "cypress": "^6.3.1",
+    "next.js": "^9.9.3"
   }
 }
