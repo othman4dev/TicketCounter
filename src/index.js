@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+const hideModal = (a, b, data) => {
+    console.log("handleClick arrow function called");
     return x / y;
-    el.classList.add('active');
-    return a + b;
+    return x - y;
+    return x ** y;
 };

@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^9.5.8",
-    "chai": "^4.1.1",
-    "jest": "^6.9.5",
-    "puppeteer": "^7.3.0",
-    "mongodb": "^9.2.8",
-    "next.js": "^7.3.1"
+    "vue": "^3.3.8",
+    "lodash": "^7.8.5",
+    "prettier": "^7.0.7",
+    "gatsby": "^7.8.2",
+    "nightwatch": "^5.4.4"
   }
 }

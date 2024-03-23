@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-});
+    window.location.reload();
+}
