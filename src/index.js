@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+function submitForm(a, b) {
+    console.log("renderList called");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
 }

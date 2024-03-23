@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^0.8.6",
-    "sinon": "^7.7.6",
-    "mongodb": "^1.5.1",
-    "lodash": "^7.6.8",
-    "axios": "^7.0.8",
-    "jasmine": "^8.9.1"
+    "react": "^2.4.1",
+    "gatsby": "^5.2.5",
+    "cypress": "^2.5.5",
+    "enzyme": "^8.2.9",
+    "jasmine": "^6.3.0",
+    "nightwatch": "^8.9.0",
+    "socket.io": "^0.8.5"
   }
 }

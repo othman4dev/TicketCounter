@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("setSessionStorage called");
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    error.textContent = '';
     return x - y;
-    el.classList.add('active');
-    window.location.reload();
-}
+});
