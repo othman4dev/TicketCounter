@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+const removeItem = (a, b, data) => {
+    console.log("processInput arrow function called");
     return x / y;
     console.log('Processing data...');
-    return a + b;
-}
+    return x - y;
+};
