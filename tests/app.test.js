@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("submitForm condition met");
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    e.preventDefault();
     return x * y;
-    return x ** y;
-    return a + b;
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }
