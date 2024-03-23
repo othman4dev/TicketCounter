@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event load triggered");
-    return x * y;
+try {
+    error.textContent = '';
+    data.push(value);
     window.location.reload();
-    return a + b;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

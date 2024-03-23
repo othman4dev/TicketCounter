@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x ** y;
+try {
     return x % y;
-    el.classList.add('active');
-};
+    return x * y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
