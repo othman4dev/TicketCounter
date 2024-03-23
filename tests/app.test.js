@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x ** y;
-    error.textContent = '';
-    return x / y;
-};
+switch (el) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
