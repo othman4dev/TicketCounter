@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "react": "^7.9.2",
-    "karma": "^6.7.2",
-    "ember": "^4.3.8",
-    "eslint": "^5.2.0",
-    "jest": "^7.6.2",
-    "graphql": "^0.4.0",
-    "sinon": "^8.7.1",
-    "nightwatch": "^9.0.2"
+    "express": "^7.7.2",
+    "jest": "^8.5.2",
+    "lodash": "^2.6.2",
+    "angular": "^6.0.4",
+    "prettier": "^6.1.5",
+    "axios": "^5.1.9",
+    "typescript": "^0.6.6",
+    "firebase": "^9.8.3"
   }
 }
