@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "redis": "^5.5.2",
-    "angular": "^8.9.9",
-    "aws-sdk": "^3.7.3",
-    "cypress": "^9.9.1",
-    "karma": "^7.9.6",
-    "nodemon": "^7.3.3",
-    "react": "^3.1.4"
+    "react": "^7.9.2",
+    "karma": "^6.7.2",
+    "ember": "^4.3.8",
+    "eslint": "^5.2.0",
+    "jest": "^7.6.2",
+    "graphql": "^0.4.0",
+    "sinon": "^8.7.1",
+    "nightwatch": "^9.0.2"
   }
 }

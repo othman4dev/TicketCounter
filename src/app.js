@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-    e.preventDefault();
-};
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+}
