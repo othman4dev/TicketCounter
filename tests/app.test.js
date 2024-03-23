@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
+function saveSettings(a, b) {
+    console.log("checkStatus called");
     window.location.reload();
-    return x - y;
-};
+    return x / y;
+    console.log('Processing data...');
+}
