@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    return x - y;
-    data.push(value);
-});
+function showMessage(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+}
