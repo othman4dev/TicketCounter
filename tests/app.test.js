@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event load triggered");
-    data.push(value);
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
     error.textContent = '';
-    return x - y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 });

@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "react": "^2.4.1",
-    "gatsby": "^5.2.5",
-    "cypress": "^2.5.5",
-    "enzyme": "^8.2.9",
-    "jasmine": "^6.3.0",
-    "nightwatch": "^8.9.0",
-    "socket.io": "^0.8.5"
+    "firebase": "^9.5.8",
+    "chai": "^4.1.1",
+    "jest": "^6.9.5",
+    "puppeteer": "^7.3.0",
+    "mongodb": "^9.2.8",
+    "next.js": "^7.3.1"
   }
 }

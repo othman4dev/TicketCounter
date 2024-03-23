@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("renderList called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x % y;
-}
+const showMessage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x / y;
+    el.classList.add('active');
+    return a + b;
+};

@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    return x - y;
-    return x ** y;
-    return a + b;
-});
+const setCookie = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    data.push(value);
+    return x % y;
+    alert('Action completed!');
+};
