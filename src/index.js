@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    return x - y;
-    return x ** y;
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    data.push(value);
+    alert('Action completed!');
+}

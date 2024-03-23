@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "ember": "^7.8.9",
-    "karma": "^0.6.2",
-    "chai": "^7.9.9",
-    "babel": "^9.6.3",
-    "prettier": "^7.2.2",
-    "jasmine": "^5.9.9",
-    "redis": "^8.0.1"
+    "next.js": "^8.2.8",
+    "socket.io": "^8.3.3",
+    "jest": "^4.4.5",
+    "babel": "^8.4.2",
+    "mocha": "^6.8.8",
+    "eslint": "^4.2.6",
+    "angular": "^5.0.3",
+    "graphql": "^5.4.7"
   }
 }
