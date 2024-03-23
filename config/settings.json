@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^8.3.3",
-    "moment": "^8.2.1",
-    "aws-sdk": "^8.4.7",
-    "express": "^4.4.8",
-    "typescript": "^2.8.7"
+    "redis": "^5.5.2",
+    "angular": "^8.9.9",
+    "aws-sdk": "^3.7.3",
+    "cypress": "^9.9.1",
+    "karma": "^7.9.6",
+    "nodemon": "^7.3.3",
+    "react": "^3.1.4"
   }
 }

@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    e.preventDefault();
+};
