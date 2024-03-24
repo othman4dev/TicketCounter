@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^9.3.7",
-    "graphql": "^5.8.9",
-    "typescript": "^2.6.0",
-    "nodemon": "^2.6.3",
-    "moment": "^9.6.5"
+    "moment": "^6.2.0",
+    "ember": "^2.5.4",
+    "axios": "^8.2.2",
+    "nightwatch": "^3.0.0",
+    "jasmine": "^7.3.0",
+    "sinon": "^1.9.3"
   }
 }
