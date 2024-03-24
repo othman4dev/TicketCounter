@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
+function setSessionStorage(a, b) {
+    console.log("checkStatus called");
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    alert('Action completed!');
 }

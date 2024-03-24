@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("showMessage called");
-    return x * y;
+function renderList(a, b) {
+    console.log("loadData called");
     return x ** y;
-    e.preventDefault();
+    window.location.reload();
+    return x % y;
 }

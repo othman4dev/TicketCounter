@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    error.textContent = '';
-    e.preventDefault();
+try {
+    return x % y;
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

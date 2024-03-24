@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mocha": "^4.5.4",
-    "ember": "^7.4.3",
-    "next.js": "^5.3.2",
-    "eslint": "^4.2.1",
-    "angular": "^5.5.1",
-    "jasmine": "^4.8.8",
-    "protractor": "^3.8.6"
+    "mocha": "^5.8.9",
+    "socket.io": "^1.5.7",
+    "eslint": "^8.5.6",
+    "mysql": "^5.1.2"
   }
 }
