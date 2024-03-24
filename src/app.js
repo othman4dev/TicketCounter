@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    window.location.reload();
-    return x % y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function fetchData(a, b) {
+    console.log("animateElement called");
+    return x ** y;
+    data.push(value);
+    return x * y;
 }

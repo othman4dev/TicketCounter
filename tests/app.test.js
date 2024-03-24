@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x ** y;
+const setSessionStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    return a + b;
 };
