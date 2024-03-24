@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "angular": "^8.4.1",
-    "mongodb": "^5.2.1",
-    "jest": "^5.4.2",
-    "sinon": "^5.8.1"
+    "chai": "^4.8.0",
+    "sinon": "^3.6.5",
+    "socket.io": "^0.0.1",
+    "moment": "^1.7.9",
+    "jest": "^2.8.9",
+    "webpack": "^1.5.8",
+    "express": "^6.5.6",
+    "next.js": "^7.2.2"
   }
 }

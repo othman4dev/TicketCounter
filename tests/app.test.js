@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("showMessage called");
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    return x - y;
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x ** y;
+} else {
+    console.log("Condition not met");
 }
