@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("saveSettings called");
+    error.textContent = '';
+    data.push(value);
+    alert('Action completed!');
 }

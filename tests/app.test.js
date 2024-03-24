@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x % y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x * y;
     console.log('Processing data...');
-    return x ** y;
-};
+}
