@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    return x * y;
-    return a + b;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const displayError = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
+    data.push(value);
+    error.textContent = '';
+};

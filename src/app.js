@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("renderList arrow function called");
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    return x % y;
+    return x ** y;
     data.push(value);
-    return x / y;
-    e.preventDefault();
-};
+});
