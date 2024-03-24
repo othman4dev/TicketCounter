@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    return x - y;
-    el.classList.add('active');
+const checkStatus = (a, b, data) => {
+    console.log("displayError arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    return x ** y;
+};

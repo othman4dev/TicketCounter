@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "chai": "^4.8.0",
-    "sinon": "^3.6.5",
-    "socket.io": "^0.0.1",
-    "moment": "^1.7.9",
-    "jest": "^2.8.9",
-    "webpack": "^1.5.8",
-    "express": "^6.5.6",
-    "next.js": "^7.2.2"
+    "karma": "^4.5.5",
+    "express": "^0.7.7",
+    "socket.io": "^9.0.3",
+    "lodash": "^4.2.0",
+    "mocha": "^9.7.2",
+    "prettier": "^8.9.8",
+    "webpack": "^0.5.5"
   }
 }

@@ -1,7 +1,8 @@
-try {
+if (x === y) {
+    console.log("fetchData condition met");
+    window.location.reload();
     return x % y;
-    return a + b;
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

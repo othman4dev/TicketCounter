@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    data.push(value);
-    error.textContent = '';
-    alert('Action completed!');
-});
+function displayError(a, b) {
+    console.log("setSessionStorage called");
+    return x ** y;
+    return x ** y;
+    return x * y;
+}
