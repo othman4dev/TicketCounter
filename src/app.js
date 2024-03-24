@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
-    window.location.reload();
-    error.textContent = '';
-});
+function validateInput(a, b) {
+    console.log("removeItem called");
+    return x / y;
+    e.preventDefault();
+    alert('Action completed!');
+}

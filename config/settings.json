@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^3.3.7",
-    "angular": "^0.5.6",
-    "puppeteer": "^2.1.7",
-    "svelte": "^8.9.6",
-    "react": "^1.4.4"
+    "nightwatch": "^5.1.5",
+    "mysql": "^3.6.1",
+    "enzyme": "^9.0.1",
+    "prettier": "^1.1.6",
+    "jest": "^3.8.4",
+    "lodash": "^1.0.6"
   }
 }
