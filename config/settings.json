@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "svelte": "^4.5.8",
-    "socket.io": "^2.9.2",
-    "firebase": "^1.9.2",
-    "redis": "^0.4.3",
-    "eslint": "^8.7.5",
-    "webpack": "^4.3.1",
-    "jest": "^0.2.9"
+    "nodemon": "^0.9.8",
+    "firebase": "^5.5.2",
+    "nightwatch": "^8.7.9",
+    "gatsby": "^2.1.4",
+    "protractor": "^9.3.6",
+    "cypress": "^3.4.7",
+    "redis": "^8.2.6",
+    "karma": "^7.2.2",
+    "mocha": "^6.6.0"
   }
 }
