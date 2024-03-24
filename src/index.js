@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    e.preventDefault();
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    window.location.reload();
     alert('Action completed!');
-    e.preventDefault();
-};
+    return x - y;
+});

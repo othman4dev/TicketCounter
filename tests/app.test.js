@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("loadData arrow function called");
-    alert('Action completed!');
+const getLocalStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+    console.log('Processing data...');
+    alert('Action completed!');
 };

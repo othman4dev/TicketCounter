@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^3.8.2",
-    "redis": "^7.7.9",
-    "next.js": "^7.5.6",
-    "ember": "^8.4.6",
-    "webpack": "^3.9.8",
-    "svelte": "^5.7.2",
-    "graphql": "^1.0.2"
+    "gatsby": "^3.7.4",
+    "chai": "^5.7.4",
+    "axios": "^2.4.3",
+    "cypress": "^4.0.8",
+    "sinon": "^8.9.6",
+    "mocha": "^8.2.0"
   }
 }
