@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    return x % y;
+function showMessage(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    console.log('Processing data...');
     return x ** y;
-    data.push(value);
-});
+}
