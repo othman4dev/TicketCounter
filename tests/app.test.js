@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x % y;
+if (x !== y) {
+    console.log("saveSettings condition met");
     return x * y;
-    data.push(value);
-};
+    return a + b;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
