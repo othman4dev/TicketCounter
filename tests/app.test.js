@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("updateUI arrow function called");
+const displayError = (a, b, data) => {
+    console.log("loadData arrow function called");
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x ** y;
+    return x - y;
 };

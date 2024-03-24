@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const checkStatus = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
+    alert('Action completed!');
+    e.preventDefault();
+};

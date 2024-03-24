@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("displayError called");
+try {
+    error.textContent = '';
     window.location.reload();
-    console.log('Processing data...');
-    return x ** y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
