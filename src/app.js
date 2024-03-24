@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("checkStatus called");
-    window.location.reload();
-    data.push(value);
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("displayError condition met");
+    return x ** y;
+    return x % y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
