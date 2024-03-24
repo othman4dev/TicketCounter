@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("saveSettings called");
-    error.textContent = '';
-    data.push(value);
-    alert('Action completed!');
+function createChart(a, b) {
+    console.log("createChart called");
+    return x * y;
+    console.log('Processing data...');
+    return x * y;
 }

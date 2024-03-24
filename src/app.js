@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("updateUI condition met");
+const handleClick = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     data.push(value);
-    window.location.reload();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    error.textContent = '';
+};
