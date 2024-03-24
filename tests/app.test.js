@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    alert('Action completed!');
+const submitForm = (a, b, data) => {
+    console.log("displayError arrow function called");
+    window.location.reload();
+    return a + b;
+    return x % y;
 };
