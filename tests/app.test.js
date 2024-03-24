@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x / y;
-    console.log('Processing data...');
-    return a + b;
-};
+if (x === y) {
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^5.2.7",
-    "express": "^7.3.8",
-    "svelte": "^9.9.4",
-    "sinon": "^2.2.3",
-    "enzyme": "^5.3.5"
+    "babel": "^9.3.7",
+    "graphql": "^5.8.9",
+    "typescript": "^2.6.0",
+    "nodemon": "^2.6.3",
+    "moment": "^9.6.5"
   }
 }
