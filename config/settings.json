@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^4.6.9",
-    "sinon": "^3.8.5",
-    "vue": "^5.7.4",
-    "nightwatch": "^3.9.4",
-    "graphql": "^2.8.5"
+    "lodash": "^3.3.7",
+    "angular": "^0.5.6",
+    "puppeteer": "^2.1.7",
+    "svelte": "^8.9.6",
+    "react": "^1.4.4"
   }
 }

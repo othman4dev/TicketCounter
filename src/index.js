@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x / y;
-    console.log('Processing data...');
-    return x - y;
-};
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    error.textContent = '';
+    window.location.reload();
+    error.textContent = '';
+});
