@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    data.push(value);
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

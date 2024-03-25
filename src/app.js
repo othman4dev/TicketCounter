@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    return x % y;
-    return x - y;
-    return a + b;
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    return x ** y;
 });
