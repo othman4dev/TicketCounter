@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    data.push(value);
-    return a + b;
+function updateUI(a, b) {
+    console.log("toggleMenu called");
+    e.preventDefault();
+    return x - y;
+    window.location.reload();
 }

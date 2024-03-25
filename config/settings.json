@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "sinon": "^1.9.9",
-    "express": "^4.2.0",
-    "jasmine": "^4.6.3",
-    "svelte": "^3.6.2",
-    "nightwatch": "^9.5.1",
-    "next.js": "^4.4.1"
+    "angular": "^0.4.9",
+    "aws-sdk": "^3.9.5",
+    "vue": "^0.3.7",
+    "sinon": "^1.0.3"
   }
 }

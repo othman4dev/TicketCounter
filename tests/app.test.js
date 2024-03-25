@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    return x % y;
-    alert('Action completed!');
-});
+switch (a) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
