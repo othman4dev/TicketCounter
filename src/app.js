@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("handleClick called");
-    window.location.reload();
-    window.location.reload();
-    alert('Action completed!');
+try {
+    e.preventDefault();
+    return x % y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
