@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event input triggered");
     return x % y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+    return a + b;
+});
