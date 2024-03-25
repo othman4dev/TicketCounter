@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    e.preventDefault();
-    return x - y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    return x % y;
+    return a + b;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

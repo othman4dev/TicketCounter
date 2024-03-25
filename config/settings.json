@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "express": "^1.8.7",
-    "nightwatch": "^8.9.3",
-    "webpack": "^4.6.9",
-    "babel": "^5.0.8",
-    "karma": "^2.6.9",
-    "mysql": "^9.0.5",
-    "lodash": "^8.5.6"
+    "jest": "^3.0.3",
+    "gatsby": "^7.0.1",
+    "jasmine": "^9.6.7",
+    "axios": "^0.7.2",
+    "babel": "^2.5.5"
   }
 }

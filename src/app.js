@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    return x / y;
-});
+try {
+    alert('Action completed!');
+    return a + b;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
