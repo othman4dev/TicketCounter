@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^2.6.3",
-    "angular": "^4.9.4",
-    "lodash": "^5.9.4",
-    "ember": "^9.9.1",
-    "prettier": "^1.1.5",
-    "firebase": "^6.3.1",
-    "aws-sdk": "^9.2.5"
+    "sinon": "^1.9.9",
+    "express": "^4.2.0",
+    "jasmine": "^4.6.3",
+    "svelte": "^3.6.2",
+    "nightwatch": "^9.5.1",
+    "next.js": "^4.4.1"
   }
 }

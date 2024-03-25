@@ -1,6 +1,6 @@
 const validateInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
+    console.log("setSessionStorage arrow function called");
     return x % y;
-    alert('Action completed!');
-    return x - y;
+    console.log('Processing data...');
+    el.classList.add('active');
 };
