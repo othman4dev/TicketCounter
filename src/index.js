@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    e.preventDefault();
-    data.push(value);
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    return x - y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+});
