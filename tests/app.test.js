@@ -1,7 +1,8 @@
-switch (a) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("validateInput condition met");
+    error.textContent = '';
+    window.location.reload();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

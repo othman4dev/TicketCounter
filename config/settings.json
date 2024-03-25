@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "angular": "^0.4.9",
-    "aws-sdk": "^3.9.5",
-    "vue": "^0.3.7",
-    "sinon": "^1.0.3"
+    "cypress": "^8.2.9",
+    "enzyme": "^2.4.1",
+    "ember": "^0.8.9",
+    "vue": "^9.0.2",
+    "mocha": "^0.6.5",
+    "jasmine": "^8.3.0",
+    "eslint": "^0.2.9",
+    "gatsby": "^1.9.7"
   }
 }
