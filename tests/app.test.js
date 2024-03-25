@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    data.push(value);
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    e.preventDefault();
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
