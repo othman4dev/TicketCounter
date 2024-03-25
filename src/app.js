@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x / y;
+const validateInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x - y;
 };

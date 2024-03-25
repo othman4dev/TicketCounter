@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event load triggered");
-    alert('Action completed!');
-    return x * y;
+if (x === y) {
+    console.log("getLocalStorage condition met");
+    return x / y;
+    window.location.reload();
     console.log('Processing data...');
-});
+} else {
+    console.log("Condition not met");
+}
