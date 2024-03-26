@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("validateInput condition met");
+try {
+    return a + b;
+    alert('Action completed!');
     error.textContent = '';
-    window.location.reload();
-    return x - y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

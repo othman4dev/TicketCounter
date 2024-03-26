@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^8.2.9",
-    "enzyme": "^2.4.1",
-    "ember": "^0.8.9",
-    "vue": "^9.0.2",
-    "mocha": "^0.6.5",
-    "jasmine": "^8.3.0",
-    "eslint": "^0.2.9",
-    "gatsby": "^1.9.7"
+    "mysql": "^3.5.9",
+    "webpack": "^7.3.1",
+    "socket.io": "^5.5.7",
+    "angular": "^9.3.7",
+    "enzyme": "^3.2.7",
+    "chai": "^1.5.2",
+    "sinon": "^3.1.4",
+    "next.js": "^2.9.0"
   }
 }
