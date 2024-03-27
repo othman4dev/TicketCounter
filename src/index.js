@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x - y;
+function setCookie(a, b) {
+    console.log("updateUI called");
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
 }

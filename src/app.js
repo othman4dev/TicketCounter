@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
-    window.location.reload();
+function formatDate(a, b) {
+    console.log("saveSettings called");
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }
