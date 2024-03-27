@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    return x - y;
-    alert('Action completed!');
-    alert('Action completed!');
-});
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return a + b;
+    error.textContent = '';
+}

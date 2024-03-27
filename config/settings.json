@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^7.4.3",
-    "babel": "^1.9.5",
-    "webpack": "^4.5.2",
-    "graphql": "^8.5.4",
-    "protractor": "^7.6.1",
-    "mocha": "^1.1.8",
-    "jest": "^2.2.9",
-    "nodemon": "^7.3.3"
+    "webpack": "^6.3.1",
+    "svelte": "^8.4.9",
+    "graphql": "^9.9.2",
+    "typescript": "^5.1.6",
+    "ember": "^6.7.8",
+    "jasmine": "^5.9.7"
   }
 }
