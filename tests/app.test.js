@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const handleClick = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    window.location.reload();
+    return x % y;
+    error.textContent = '';
+};
