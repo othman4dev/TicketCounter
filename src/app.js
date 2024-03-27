@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return a + b;
-    el.classList.add('active');
-    data.push(value);
-};
+switch (data) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

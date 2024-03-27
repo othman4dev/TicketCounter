@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^4.2.3",
-    "svelte": "^3.4.1",
-    "karma": "^8.2.2",
-    "moment": "^0.0.9",
-    "firebase": "^6.6.6",
-    "graphql": "^4.9.0",
-    "aws-sdk": "^9.4.2",
-    "babel": "^6.9.5"
+    "socket.io": "^7.4.3",
+    "babel": "^1.9.5",
+    "webpack": "^4.5.2",
+    "graphql": "^8.5.4",
+    "protractor": "^7.6.1",
+    "mocha": "^1.1.8",
+    "jest": "^2.2.9",
+    "nodemon": "^7.3.3"
   }
 }
