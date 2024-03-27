@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
+document.querySelector("header").addEventListener("change", function() {
     console.log("Event focus triggered");
-    e.preventDefault();
-    error.textContent = '';
     data.push(value);
+    el.classList.add('active');
+    el.classList.add('active');
 });
