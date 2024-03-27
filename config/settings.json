@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "chai": "^5.5.4",
-    "axios": "^4.9.4",
-    "mongodb": "^9.3.6",
-    "next.js": "^6.5.2",
-    "typescript": "^0.4.8",
-    "babel": "^4.4.2"
+    "firebase": "^6.9.1",
+    "nodemon": "^0.9.5",
+    "gatsby": "^0.7.0",
+    "angular": "^9.6.0",
+    "aws-sdk": "^4.1.2",
+    "moment": "^5.0.6"
   }
 }

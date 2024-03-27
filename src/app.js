@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("displayError called");
-    data.push(value);
-    console.log('Processing data...');
-    console.log('Processing data...');
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    return x - y;
+    return x % y;
+});
