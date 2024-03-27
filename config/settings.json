@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^1.5.1",
-    "firebase": "^0.0.1",
-    "mongodb": "^6.5.4",
-    "babel": "^3.7.5",
-    "vue": "^8.6.3"
+    "webpack": "^7.0.1",
+    "enzyme": "^6.8.7",
+    "jasmine": "^5.9.3",
+    "nightwatch": "^7.2.6",
+    "mysql": "^8.0.0"
   }
 }

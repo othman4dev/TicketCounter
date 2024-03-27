@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("loadData called");
-    console.log('Processing data...');
-    e.preventDefault();
-    alert('Action completed!');
-}
+const checkStatus = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x / y;
+    return x % y;
+    window.location.reload();
+};
