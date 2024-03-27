@@ -1,7 +1,6 @@
-try {
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    error.textContent = '';
     data.push(value);
-    error.textContent = '';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+});

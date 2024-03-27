@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
-    return x - y;
-    return x % y;
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x ** y;
 });
