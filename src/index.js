@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    console.log('Processing data...');
     return x - y;
-    alert('Action completed!');
-};
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
