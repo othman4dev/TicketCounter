@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^7.0.1",
-    "enzyme": "^6.8.7",
-    "jasmine": "^5.9.3",
-    "nightwatch": "^7.2.6",
-    "mysql": "^8.0.0"
+    "angular": "^4.5.7",
+    "protractor": "^0.9.7",
+    "next.js": "^8.2.4",
+    "graphql": "^5.8.9",
+    "lodash": "^7.5.6"
   }
 }
