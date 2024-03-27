@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    window.location.reload();
+if (x !== y) {
+    console.log("validateInput condition met");
     return x % y;
-    error.textContent = '';
-};
+    return x % y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
