@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-};
+function renderList(a, b) {
+    console.log("displayError called");
+    data.push(value);
+    console.log('Processing data...');
+    console.log('Processing data...');
+}
