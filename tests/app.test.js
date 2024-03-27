@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    data.push(value);
-    el.classList.add('active');
-    el.classList.add('active');
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 });

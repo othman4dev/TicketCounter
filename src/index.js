@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    return x / y;
+if (x === y) {
+    console.log("displayError condition met");
+    return x - y;
     error.textContent = '';
-    e.preventDefault();
-});
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
