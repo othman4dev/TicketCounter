@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    return x - y;
-    error.textContent = '';
-    return a + b;
-} else {
-    console.log("Condition not met");
+function getLocalStorage(a, b) {
+    console.log("loadData called");
+    console.log('Processing data...');
+    e.preventDefault();
+    alert('Action completed!');
 }

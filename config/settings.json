@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "babel": "^1.8.1",
-    "moment": "^7.3.0",
-    "angular": "^5.1.1",
-    "prettier": "^6.0.2",
-    "karma": "^8.5.7"
+    "socket.io": "^1.5.1",
+    "firebase": "^0.0.1",
+    "mongodb": "^6.5.4",
+    "babel": "^3.7.5",
+    "vue": "^8.6.3"
   }
 }
