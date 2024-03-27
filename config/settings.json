@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^1.5.1",
-    "redis": "^5.4.4",
-    "moment": "^1.0.1",
-    "cypress": "^6.5.6",
-    "enzyme": "^4.2.2",
-    "chai": "^5.8.3"
+    "protractor": "^4.2.3",
+    "svelte": "^3.4.1",
+    "karma": "^8.2.2",
+    "moment": "^0.0.9",
+    "firebase": "^6.6.6",
+    "graphql": "^4.9.0",
+    "aws-sdk": "^9.4.2",
+    "babel": "^6.9.5"
   }
 }
