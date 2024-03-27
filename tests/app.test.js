@@ -1,7 +1,6 @@
-try {
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event load triggered");
     alert('Action completed!');
-    console.log('Processing data...');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+});
