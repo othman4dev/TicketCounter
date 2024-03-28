@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event load triggered");
+function handleClick(a, b) {
+    console.log("displayError called");
+    return x ** y;
     alert('Action completed!');
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    data.push(value);
+}

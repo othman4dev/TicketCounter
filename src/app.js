@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("formatDate arrow function called");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
     return x * y;
-    console.log('Processing data...');
-    return x * y;
-};
+    return x / y;
+}
