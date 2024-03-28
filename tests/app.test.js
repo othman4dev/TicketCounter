@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+const processInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    el.classList.add('active');
+    return a + b;
+    return a + b;
 };

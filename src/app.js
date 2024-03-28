@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    el.classList.add('active');
+if (x !== y) {
+    console.log("submitForm condition met");
+    window.location.reload();
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
