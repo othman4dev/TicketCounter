@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+function createChart(a, b) {
+    console.log("setCookie called");
+    error.textContent = '';
+    return x - y;
+    return x * y;
+}

@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("handleClick called");
-    return x - y;
-    window.location.reload();
-    window.location.reload();
-}
+const showMessage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    el.classList.add('active');
+};
