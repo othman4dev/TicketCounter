@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("formatDate called");
-    return x - y;
-    return x ** y;
+function setSessionStorage(a, b) {
+    console.log("showMessage called");
+    return x / y;
+    return a + b;
     return x * y;
 }
