@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    alert('Action completed!');
+const checkStatus = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    e.preventDefault();
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-});
+};

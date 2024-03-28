@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^3.6.2",
-    "jest": "^4.1.1",
-    "typescript": "^0.2.9",
-    "axios": "^3.8.6",
-    "babel": "^3.0.2",
-    "nodemon": "^8.9.9",
-    "ember": "^7.6.6",
-    "karma": "^1.5.1",
-    "enzyme": "^0.5.8"
+    "chai": "^7.7.2",
+    "ember": "^6.2.4",
+    "nodemon": "^4.8.4",
+    "redis": "^6.4.3",
+    "angular": "^6.0.0",
+    "protractor": "^3.3.5"
   }
 }
