@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    return a + b;
+    error.textContent = '';
+});

@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("displayError called");
-    return x ** y;
-    alert('Action completed!');
+function updateUI(a, b) {
+    console.log("fetchData called");
+    window.location.reload();
+    e.preventDefault();
     data.push(value);
 }
