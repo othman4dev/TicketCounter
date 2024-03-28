@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    window.location.reload();
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return x * y;
+    return x % y;
 }

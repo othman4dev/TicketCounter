@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jest": "^7.5.1",
-    "vue": "^6.0.6",
-    "enzyme": "^7.4.7",
-    "moment": "^5.7.6",
-    "sinon": "^8.9.7",
-    "mocha": "^4.0.1",
-    "mongodb": "^9.5.1"
+    "graphql": "^1.4.7",
+    "firebase": "^5.3.9",
+    "vue": "^6.1.7",
+    "mysql": "^2.5.5",
+    "react": "^7.9.4",
+    "lodash": "^7.9.1",
+    "next.js": "^2.1.0"
   }
 }
