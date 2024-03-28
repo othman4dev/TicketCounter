@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "graphql": "^1.4.7",
-    "firebase": "^5.3.9",
-    "vue": "^6.1.7",
-    "mysql": "^2.5.5",
-    "react": "^7.9.4",
-    "lodash": "^7.9.1",
-    "next.js": "^2.1.0"
+    "express": "^1.8.9",
+    "gatsby": "^0.1.9",
+    "jasmine": "^0.7.0",
+    "eslint": "^4.6.8"
   }
 }
