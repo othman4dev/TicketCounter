@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+});

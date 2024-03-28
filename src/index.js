@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("showMessage called");
-    return x / y;
-    return a + b;
-    return x * y;
+switch (b) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
