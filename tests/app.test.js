@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});
