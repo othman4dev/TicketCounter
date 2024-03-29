@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("submitForm called");
+    e.preventDefault();
+    return x - y;
+    return x / y;
 }
