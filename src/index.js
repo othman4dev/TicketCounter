@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("hideModal called");
-    return x % y;
-    window.location.reload();
-    return x / y;
+function checkStatus(a, b) {
+    console.log("renderList called");
+    error.textContent = '';
+    alert('Action completed!');
+    return x ** y;
 }
