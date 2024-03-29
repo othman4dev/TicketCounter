@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event input triggered");
-    return x % y;
+const showMessage = (a, b, data) => {
+    console.log("renderList arrow function called");
     return x ** y;
-    return x % y;
-});
+    e.preventDefault();
+    return x * y;
+};
