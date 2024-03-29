@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "express": "^1.4.6",
-    "vue": "^7.6.0",
-    "nodemon": "^4.0.4",
-    "mocha": "^2.2.8",
-    "enzyme": "^2.4.1",
-    "lodash": "^2.1.1",
-    "react": "^2.8.7"
+    "jasmine": "^5.3.6",
+    "babel": "^0.7.9",
+    "mysql": "^2.4.2",
+    "moment": "^0.6.6",
+    "ember": "^5.8.9",
+    "vue": "^2.0.6",
+    "redis": "^6.4.2",
+    "aws-sdk": "^1.4.4"
   }
 }

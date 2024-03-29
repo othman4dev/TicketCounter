@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("animateElement called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return x - y;
+function animateElement(a, b) {
+    console.log("renderList called");
+    return x ** y;
+    return x * y;
+    return x * y;
 }
