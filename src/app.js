@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("validateInput called");
+function renderList(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
     return a + b;
-    return x * y;
-    return x ** y;
+    return x - y;
 }

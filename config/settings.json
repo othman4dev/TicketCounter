@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.7.1",
-    "babel": "^8.5.2",
-    "eslint": "^3.8.6",
-    "socket.io": "^3.1.9",
-    "mysql": "^6.2.7",
-    "enzyme": "^1.5.7"
+    "gatsby": "^6.8.2",
+    "redis": "^2.5.0",
+    "prettier": "^4.2.8",
+    "next.js": "^9.2.5",
+    "react": "^4.6.2",
+    "firebase": "^8.4.5",
+    "mongodb": "^9.3.3",
+    "aws-sdk": "^7.8.4"
   }
 }
