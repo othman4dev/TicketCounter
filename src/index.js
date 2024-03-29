@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("renderList called");
-    error.textContent = '';
-    alert('Action completed!');
-    return x ** y;
+try {
+    return x % y;
+    el.classList.add('active');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
