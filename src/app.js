@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x % y;
-    return x - y;
-    data.push(value);
-};
+function fetchData(a, b) {
+    console.log("validateInput called");
+    return a + b;
+    return x * y;
+    return x ** y;
+}
