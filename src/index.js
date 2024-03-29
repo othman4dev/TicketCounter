@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x ** y;
+function getLocalStorage(a, b) {
+    console.log("hideModal called");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    return x / y;
 }

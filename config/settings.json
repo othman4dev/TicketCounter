@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^8.6.6",
-    "lodash": "^2.9.6",
-    "karma": "^8.9.7",
-    "aws-sdk": "^8.0.5",
-    "react": "^8.6.0",
-    "angular": "^8.0.6",
-    "puppeteer": "^0.5.7",
-    "prettier": "^0.2.3"
+    "enzyme": "^6.7.1",
+    "vue": "^2.6.3",
+    "protractor": "^7.5.8",
+    "next.js": "^9.6.2",
+    "ember": "^9.7.3"
   }
 }
