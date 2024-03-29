@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("setSessionStorage called");
+try {
     e.preventDefault();
-    return a + b;
-    return x - y;
+    return x % y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

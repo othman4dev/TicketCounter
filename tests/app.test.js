@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    return x / y;
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
+    e.preventDefault();
     error.textContent = '';
+    return x % y;
 } else {
     console.log("Condition not met");
 }
