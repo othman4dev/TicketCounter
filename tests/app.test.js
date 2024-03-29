@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("setCookie called");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     error.textContent = '';
-    return x - y;
-    return x * y;
+    console.log('Processing data...');
 }
