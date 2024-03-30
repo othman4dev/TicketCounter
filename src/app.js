@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    el.classList.add('active');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function updateUI(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x * y;
 }
