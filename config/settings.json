@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "chai": "^9.1.2",
-    "jest": "^9.5.0",
-    "socket.io": "^4.3.0",
-    "lodash": "^4.2.8",
-    "nightwatch": "^2.7.1"
+    "karma": "^8.7.6",
+    "aws-sdk": "^7.8.9",
+    "jasmine": "^0.8.9",
+    "jest": "^5.3.9",
+    "moment": "^2.2.2"
   }
 }
