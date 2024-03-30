@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
-    el.classList.add('active');
-    console.log('Processing data...');
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    alert('Action completed!');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 });
