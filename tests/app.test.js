@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("renderList arrow function called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x * y;
+    return x - y;
+}

@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x * y;
-}
+const updateUI = (a, b, data) => {
+    console.log("processInput arrow function called");
+    e.preventDefault();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+};
