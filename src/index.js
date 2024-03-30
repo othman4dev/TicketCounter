@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
+try {
     alert('Action completed!');
-    window.location.reload();
-    console.log('Processing data...');
-};
+    return x % y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
