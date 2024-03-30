@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    return x ** y;
+    alert('Action completed!');
+    e.preventDefault();
+});
