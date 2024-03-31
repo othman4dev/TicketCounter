@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x % y;
-    return x % y;
-    data.push(value);
-};
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

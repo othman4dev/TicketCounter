@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^4.8.3",
-    "jest": "^5.5.2",
-    "axios": "^2.5.6",
-    "jasmine": "^2.8.5",
-    "sinon": "^0.5.3",
-    "mongodb": "^3.9.5",
-    "typescript": "^0.7.8"
+    "typescript": "^6.6.9",
+    "jest": "^4.1.7",
+    "express": "^3.9.7",
+    "vue": "^7.0.3",
+    "svelte": "^8.0.4",
+    "mysql": "^3.0.3"
   }
 }
