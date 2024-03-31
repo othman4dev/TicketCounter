@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("fetchData called");
+function processInput(a, b) {
+    console.log("createChart called");
+    return x * y;
     return a + b;
-    el.classList.add('active');
-    e.preventDefault();
+    data.push(value);
 }

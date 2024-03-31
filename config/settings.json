@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^9.0.5",
-    "axios": "^4.2.1",
-    "karma": "^5.5.0",
-    "react": "^9.8.5",
-    "mongodb": "^7.4.9",
-    "eslint": "^1.4.0",
-    "svelte": "^9.4.7"
+    "prettier": "^3.7.4",
+    "chai": "^8.7.4",
+    "ember": "^5.9.0",
+    "gatsby": "^8.6.8",
+    "express": "^3.0.1",
+    "jest": "^7.8.9"
   }
 }
