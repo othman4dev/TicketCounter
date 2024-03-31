@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    error.textContent = '';
-};
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+});
