@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
-    return x - y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    alert('Action completed!');
+    e.preventDefault();
 }
