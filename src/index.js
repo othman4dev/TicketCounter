@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
     alert('Action completed!');
+    return x ** y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
