@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+function toggleMenu(a, b) {
+    console.log("displayError called");
     alert('Action completed!');
-});
+    console.log('Processing data...');
+    data.push(value);
+}

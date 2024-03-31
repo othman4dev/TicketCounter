@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("hideModal called");
+const renderList = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x * y;
+    return x / y;
     return x - y;
-    alert('Action completed!');
-    error.textContent = '';
-}
+};
