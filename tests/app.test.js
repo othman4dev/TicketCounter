@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("displayError called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    data.push(value);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x % y;
+    el.classList.add('active');
+    return x / y;
+};

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.6.1",
-    "ember": "^3.8.9",
-    "karma": "^6.8.8",
-    "nodemon": "^6.9.5",
-    "prettier": "^0.8.2",
-    "mysql": "^8.0.6",
-    "react": "^0.7.8"
+    "cypress": "^1.8.4",
+    "axios": "^9.9.8",
+    "eslint": "^6.4.1",
+    "graphql": "^2.5.8",
+    "redis": "^2.1.7",
+    "typescript": "^6.1.6",
+    "vue": "^9.4.3"
   }
 }
