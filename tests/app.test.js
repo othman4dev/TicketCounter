@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    console.log('Processing data...');
-    el.classList.add('active');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("removeItem called");
+    return x % y;
+    return x - y;
+    return x * y;
 }
