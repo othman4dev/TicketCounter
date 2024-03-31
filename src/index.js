@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x / y;
-    el.classList.add('active');
-    console.log('Processing data...');
-};
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    error.textContent = '';
+    alert('Action completed!');
+}

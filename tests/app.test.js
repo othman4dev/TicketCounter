@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    alert('Action completed!');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (data.length > 0) {
+    console.log("hideModal condition met");
+    console.log('Processing data...');
+    el.classList.add('active');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

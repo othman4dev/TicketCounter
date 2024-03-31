@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^0.3.8",
-    "webpack": "^8.6.8",
-    "angular": "^1.6.0",
-    "firebase": "^9.4.1",
-    "gatsby": "^7.8.4",
-    "cypress": "^6.7.0",
-    "ember": "^3.3.2"
+    "jest": "^0.2.3",
+    "nightwatch": "^2.5.8",
+    "enzyme": "^6.2.3",
+    "mongodb": "^3.3.9",
+    "chai": "^8.0.7"
   }
 }
