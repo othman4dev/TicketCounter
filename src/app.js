@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    el.classList.add('active');
+function getLocalStorage(a, b) {
+    console.log("formatDate called");
+    return x * y;
+    console.log('Processing data...');
     return x / y;
 }

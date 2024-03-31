@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    window.location.reload();
-    alert('Action completed!');
-}
+const submitForm = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    data.push(value);
+    return x ** y;
+    e.preventDefault();
+};
