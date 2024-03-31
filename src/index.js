@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    return x ** y;
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+};
