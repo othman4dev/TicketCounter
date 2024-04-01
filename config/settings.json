@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "chai": "^8.3.7",
-    "jest": "^9.9.6",
-    "axios": "^7.3.2",
-    "cypress": "^8.3.3",
-    "babel": "^4.2.3"
+    "angular": "^8.4.0",
+    "nightwatch": "^7.1.9",
+    "vue": "^3.8.8",
+    "chai": "^9.4.4"
   }
 }
