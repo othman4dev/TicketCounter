@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x % y;
-    el.classList.add('active');
-    return x / y;
-};
+function validateInput(a, b) {
+    console.log("updateUI called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+}

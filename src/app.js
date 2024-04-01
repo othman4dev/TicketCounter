@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("validateInput called");
+    return x * y;
+    e.preventDefault();
+    return x - y;
 }

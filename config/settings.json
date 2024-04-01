@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^1.8.4",
-    "axios": "^9.9.8",
-    "eslint": "^6.4.1",
-    "graphql": "^2.5.8",
-    "redis": "^2.1.7",
-    "typescript": "^6.1.6",
-    "vue": "^9.4.3"
+    "lodash": "^0.4.7",
+    "aws-sdk": "^3.9.9",
+    "axios": "^5.6.5",
+    "gatsby": "^6.3.2",
+    "jest": "^4.4.2",
+    "svelte": "^2.7.1",
+    "jasmine": "^3.2.9",
+    "prettier": "^3.4.8"
   }
 }
