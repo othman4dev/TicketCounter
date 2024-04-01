@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("toggleMenu called");
+    window.location.reload();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }
