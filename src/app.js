@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("createChart arrow function called");
+const fetchData = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x * y;
     window.location.reload();
-    return x - y;
-    data.push(value);
+    error.textContent = '';
 };
