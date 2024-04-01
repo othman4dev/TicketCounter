@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    return x % y;
-    window.location.reload();
-    error.textContent = '';
-});
+try {
+    data.push(value);
+    console.log('Processing data...');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
