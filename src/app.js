@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x * y;
-    window.location.reload();
-    error.textContent = '';
-};
+switch (a) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

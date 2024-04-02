@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "express": "^4.5.8",
-    "babel": "^8.5.7",
-    "graphql": "^2.2.0"
+    "mysql": "^5.0.5",
+    "svelte": "^0.4.2",
+    "cypress": "^7.1.5",
+    "eslint": "^7.1.5",
+    "react": "^1.2.5"
   }
 }
