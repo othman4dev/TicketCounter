@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
+if (x === y) {
+    console.log("animateElement condition met");
     return a + b;
-    return x * y;
-    console.log('Processing data...');
-});
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

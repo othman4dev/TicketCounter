@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("updateUI called");
-    data.push(value);
-    alert('Action completed!');
-    window.location.reload();
+function getLocalStorage(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    e.preventDefault();
+    return x * y;
 }
