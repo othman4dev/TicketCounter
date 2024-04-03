@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    error.textContent = '';
-    alert('Action completed!');
-    error.textContent = '';
-};
+switch (y) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
+function updateUI(a, b) {
+    console.log("renderList called");
     data.push(value);
-    error.textContent = '';
-};
+    el.classList.add('active');
+    e.preventDefault();
+}

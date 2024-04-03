@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    window.location.reload();
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (x) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
