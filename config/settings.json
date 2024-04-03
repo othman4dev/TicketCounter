@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^7.2.3",
-    "aws-sdk": "^8.1.2",
-    "express": "^1.4.6",
-    "socket.io": "^2.5.8",
-    "lodash": "^5.6.1"
+    "typescript": "^6.7.5",
+    "babel": "^1.8.6",
+    "angular": "^4.4.6",
+    "nightwatch": "^8.0.0",
+    "nodemon": "^3.3.3",
+    "mysql": "^3.6.5"
   }
 }

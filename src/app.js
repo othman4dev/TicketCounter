@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    window.location.reload();
-    console.log('Processing data...');
+try {
+    e.preventDefault();
     return x / y;
-});
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

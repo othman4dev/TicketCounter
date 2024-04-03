@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    e.preventDefault();
-    return x - y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
