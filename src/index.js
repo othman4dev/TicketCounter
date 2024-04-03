@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    return a + b;
-    e.preventDefault();
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    data.push(value);
 }

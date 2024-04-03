@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
-    return x * y;
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
