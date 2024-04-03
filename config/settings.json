@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^5.7.6",
-    "protractor": "^5.0.6",
-    "babel": "^9.5.4",
-    "ember": "^9.5.0",
-    "lodash": "^8.7.8"
+    "mysql": "^7.2.3",
+    "aws-sdk": "^8.1.2",
+    "express": "^1.4.6",
+    "socket.io": "^2.5.8",
+    "lodash": "^5.6.1"
   }
 }

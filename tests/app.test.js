@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("renderList called");
-    data.push(value);
-    el.classList.add('active');
-    e.preventDefault();
+function createChart(a, b) {
+    console.log("hideModal called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 }

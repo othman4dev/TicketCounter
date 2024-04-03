@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    console.log('Processing data...');
+    return x / y;
+});
