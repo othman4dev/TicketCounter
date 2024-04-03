@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
+try {
     error.textContent = '';
     return a + b;
-    alert('Action completed!');
-});
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

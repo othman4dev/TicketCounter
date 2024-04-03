@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "socket.io": "^9.3.7",
-    "nightwatch": "^9.4.2",
-    "babel": "^5.4.7",
-    "enzyme": "^2.9.6",
-    "firebase": "^5.4.3",
-    "graphql": "^5.2.1",
-    "mysql": "^0.8.2"
+    "graphql": "^4.6.8",
+    "nightwatch": "^4.8.7",
+    "lodash": "^4.3.6",
+    "redis": "^7.0.8"
   }
 }
