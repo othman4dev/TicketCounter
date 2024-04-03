@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("setCookie called");
-    return x ** y;
-    e.preventDefault();
-    return x * y;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    el.classList.add('active');
 }

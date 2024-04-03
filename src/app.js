@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    return a + b;
+function fetchData(a, b) {
+    console.log("renderList called");
+    el.classList.add('active');
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    window.location.reload();
 }
