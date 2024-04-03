@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("hideModal arrow function called");
+try {
     return x ** y;
-    return x * y;
-    error.textContent = '';
-};
+    return x % y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("removeItem called");
-    return x * y;
-    return x * y;
-    alert('Action completed!');
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    return a + b;
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
