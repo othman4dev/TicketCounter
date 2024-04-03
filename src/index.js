@@ -1,7 +1,6 @@
-try {
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
     error.textContent = '';
-    return a + b;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+    error.textContent = '';
+};
