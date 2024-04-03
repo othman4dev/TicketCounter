@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "express": "^7.4.0",
-    "eslint": "^0.5.3",
-    "sinon": "^5.6.9",
-    "puppeteer": "^6.3.6"
+    "protractor": "^6.5.5",
+    "aws-sdk": "^1.5.1",
+    "babel": "^5.9.3",
+    "firebase": "^0.0.9",
+    "nightwatch": "^9.0.7",
+    "mocha": "^3.2.5",
+    "mysql": "^9.4.4"
   }
 }
