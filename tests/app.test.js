@@ -1,8 +1,8 @@
 if (e.key === 'Enter') {
-    console.log("animateElement condition met");
+    console.log("formatDate condition met");
     el.classList.add('active');
-    return x ** y;
-    data.push(value);
+    return x * y;
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

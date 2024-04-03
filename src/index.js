@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("getLocalStorage called");
-    return x * y;
+function displayError(a, b) {
+    console.log("updateUI called");
+    data.push(value);
+    alert('Action completed!');
     window.location.reload();
-    e.preventDefault();
 }
