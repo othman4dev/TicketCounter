@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
-    error.textContent = '';
-    window.location.reload();
+switch (el) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

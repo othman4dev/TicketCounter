@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    console.log('Processing data...');
-    return a + b;
-    window.location.reload();
-});
+const animateElement = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x ** y;
+    return x * y;
+    error.textContent = '';
+};
