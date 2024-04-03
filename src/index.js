@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
+document.querySelector(".container").addEventListener("mouseover", function() {
     console.log("Event scroll triggered");
-    return x - y;
-    window.location.reload();
-    return x / y;
+    error.textContent = '';
+    return a + b;
+    alert('Action completed!');
 });
