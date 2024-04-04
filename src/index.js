@@ -1,7 +1,8 @@
-switch (el) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    e.preventDefault();
+    error.textContent = '';
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

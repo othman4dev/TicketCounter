@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
+const setSessionStorage = (a, b, data) => {
     console.log("handleClick arrow function called");
-    return x % y;
-    e.preventDefault();
     alert('Action completed!');
+    e.preventDefault();
+    return x / y;
 };

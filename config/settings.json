@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "typescript": "^6.7.5",
-    "babel": "^1.8.6",
-    "angular": "^4.4.6",
-    "nightwatch": "^8.0.0",
-    "nodemon": "^3.3.3",
-    "mysql": "^3.6.5"
+    "prettier": "^8.6.1",
+    "nodemon": "^4.3.8",
+    "karma": "^2.1.6",
+    "express": "^8.3.8",
+    "jest": "^7.9.2",
+    "mongodb": "^2.8.3",
+    "angular": "^1.4.5",
+    "react": "^6.5.4",
+    "sinon": "^5.6.3"
   }
 }
