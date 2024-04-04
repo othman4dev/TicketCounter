@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return a + b;
+function fetchData(a, b) {
+    console.log("saveSettings called");
+    window.location.reload();
+    el.classList.add('active');
     console.log('Processing data...');
-    return x * y;
-};
+}

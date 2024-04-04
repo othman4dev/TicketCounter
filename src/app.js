@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    return a + b;
-    return x * y;
-});
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    window.location.reload();
+    window.location.reload();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
