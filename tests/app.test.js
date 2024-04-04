@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("saveSettings called");
-    window.location.reload();
-    el.classList.add('active');
-    console.log('Processing data...');
-}
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event load triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+});

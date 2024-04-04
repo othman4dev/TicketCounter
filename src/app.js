@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
+const checkStatus = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    alert('Action completed!');
     window.location.reload();
-    window.location.reload();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+};
