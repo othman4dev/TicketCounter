@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x ** y;
+const hideModal = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    window.location.reload();
+    return a + b;
     return x % y;
-    return x - y;
 };

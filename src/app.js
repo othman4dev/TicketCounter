@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event change triggered");
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    console.log('Processing data...');
+    data.push(value);
     return x ** y;
-    return x - y;
-    return x * y;
 });

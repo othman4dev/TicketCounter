@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    return x * y;
-    return x * y;
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
     data.push(value);
+    e.preventDefault();
 });
