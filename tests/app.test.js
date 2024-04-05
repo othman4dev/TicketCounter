@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("displayError called");
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event mouseout triggered");
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-}
+    data.push(value);
+    window.location.reload();
+});

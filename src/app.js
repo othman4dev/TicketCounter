@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    data.push(value);
+const fetchData = (a, b, data) => {
+    console.log("loadData arrow function called");
     e.preventDefault();
-    error.textContent = '';
-});
+    window.location.reload();
+    return x / y;
+};
