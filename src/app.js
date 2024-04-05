@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    alert('Action completed!');
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    return x / y;
     window.location.reload();
-    return x * y;
-};
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
