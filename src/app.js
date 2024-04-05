@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    e.preventDefault();
-    data.push(value);
-    return a + b;
-};
+switch (a) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

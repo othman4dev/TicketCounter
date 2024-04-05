@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+if (a > b) {
+    console.log("toggleMenu condition met");
+    return a + b;
+    return x ** y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

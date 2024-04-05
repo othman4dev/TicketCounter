@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("checkStatus called");
-    window.location.reload();
+try {
+    return x % y;
     el.classList.add('active');
-    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
