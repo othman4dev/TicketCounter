@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+if (a > b) {
+    console.log("getLocalStorage condition met");
     return x / y;
-    return a + b;
-    return x * y;
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

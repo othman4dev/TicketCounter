@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("loadData arrow function called");
-    e.preventDefault();
-    window.location.reload();
+if (a > b) {
+    console.log("removeItem condition met");
+    return x % y;
     return x / y;
-};
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
