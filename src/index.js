@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("displayError called");
-    return x ** y;
+function fetchData(a, b) {
+    console.log("handleClick called");
     return x / y;
-    return x * y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }

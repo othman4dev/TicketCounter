@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    return x * y;
-    window.location.reload();
-    return x % y;
-});
+function hideModal(a, b) {
+    console.log("displayError called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+}
