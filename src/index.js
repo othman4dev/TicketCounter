@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("removeItem called");
+try {
+    e.preventDefault();
     return a + b;
-    data.push(value);
-    alert('Action completed!');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

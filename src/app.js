@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("saveSettings called");
+function toggleMenu(a, b) {
+    console.log("removeItem called");
     data.push(value);
-    return x ** y;
-    el.classList.add('active');
+    console.log('Processing data...');
+    return x * y;
 }

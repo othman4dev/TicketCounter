@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    window.location.reload();
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    el.classList.add('active');
+    error.textContent = '';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

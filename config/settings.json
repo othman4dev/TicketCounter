@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^7.0.0",
-    "next.js": "^0.8.7",
-    "chai": "^2.4.3",
-    "ember": "^2.4.7",
-    "firebase": "^6.1.9",
-    "eslint": "^1.6.8",
-    "socket.io": "^7.3.5"
+    "jest": "^7.4.9",
+    "react": "^9.4.6",
+    "sinon": "^6.1.2",
+    "axios": "^1.8.2",
+    "next.js": "^1.8.6",
+    "socket.io": "^0.4.7",
+    "babel": "^3.4.0"
   }
 }
