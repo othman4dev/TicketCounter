@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "ember": "^0.7.2",
-    "typescript": "^7.0.1",
-    "vue": "^8.4.0",
-    "jest": "^7.0.1",
-    "socket.io": "^4.9.1",
-    "eslint": "^7.9.6",
-    "axios": "^6.8.1",
-    "prettier": "^5.3.6"
+    "puppeteer": "^3.0.8",
+    "eslint": "^4.4.2",
+    "mocha": "^8.8.7",
+    "karma": "^1.6.5",
+    "firebase": "^9.9.5",
+    "webpack": "^9.9.5",
+    "next.js": "^7.5.2",
+    "aws-sdk": "^7.1.0"
   }
 }

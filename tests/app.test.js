@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event submit triggered");
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    return x * y;
+    return x * y;
     data.push(value);
-    console.log('Processing data...');
-    alert('Action completed!');
 });
