@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^9.6.4",
-    "mysql": "^9.3.0",
-    "nightwatch": "^5.5.0",
-    "axios": "^9.5.4",
-    "aws-sdk": "^7.0.7"
+    "prettier": "^1.8.9",
+    "karma": "^9.2.7",
+    "chai": "^0.7.3",
+    "nightwatch": "^9.9.9",
+    "typescript": "^4.8.8"
   }
 }
