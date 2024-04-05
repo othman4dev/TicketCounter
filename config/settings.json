@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^1.8.9",
-    "karma": "^9.2.7",
-    "chai": "^0.7.3",
-    "nightwatch": "^9.9.9",
-    "typescript": "^4.8.8"
+    "webpack": "^4.7.4",
+    "aws-sdk": "^4.6.4",
+    "puppeteer": "^1.9.0",
+    "karma": "^9.9.6",
+    "eslint": "^8.8.3",
+    "sinon": "^8.2.1",
+    "redis": "^5.2.0",
+    "next.js": "^8.2.0"
   }
 }

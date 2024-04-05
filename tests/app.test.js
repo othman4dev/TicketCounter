@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    return x ** y;
-    return x - y;
-});
+const validateInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x * y;
+};
