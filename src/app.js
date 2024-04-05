@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    e.preventDefault();
+try {
     window.location.reload();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x - y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

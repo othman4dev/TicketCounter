@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setCookie condition met");
-    error.textContent = '';
+const submitForm = (a, b, data) => {
+    console.log("displayError arrow function called");
+    window.location.reload();
+    alert('Action completed!');
     return a + b;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+};
