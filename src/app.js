@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("saveSettings called");
+    data.push(value);
+    return x ** y;
+    el.classList.add('active');
 }

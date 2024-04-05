@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
+function createChart(a, b) {
+    console.log("removeItem called");
     return a + b;
-    return x ** y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    alert('Action completed!');
 }
