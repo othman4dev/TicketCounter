@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("removeItem called");
-    data.push(value);
-    console.log('Processing data...');
-    return x * y;
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return a + b;
+    return x ** y;
+    window.location.reload();
+};

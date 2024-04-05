@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
