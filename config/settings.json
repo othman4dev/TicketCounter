@@ -1,7 +1,12 @@
 {
   "dependencies": {
-    "chai": "^0.1.1",
-    "express": "^5.8.3",
-    "vue": "^8.7.5"
+    "ember": "^0.7.2",
+    "typescript": "^7.0.1",
+    "vue": "^8.4.0",
+    "jest": "^7.0.1",
+    "socket.io": "^4.9.1",
+    "eslint": "^7.9.6",
+    "axios": "^6.8.1",
+    "prettier": "^5.3.6"
   }
 }

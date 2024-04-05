@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    data.push(value);
-    window.location.reload();
-});
+switch (data) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

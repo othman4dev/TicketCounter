@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
+document.querySelector(".container").addEventListener("submit", function() {
     console.log("Event submit triggered");
-    el.classList.add('active');
     data.push(value);
-    window.location.reload();
+    console.log('Processing data...');
+    alert('Action completed!');
 });
