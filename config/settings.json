@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^7.0.3",
-    "express": "^7.9.7",
-    "cypress": "^8.4.1",
-    "svelte": "^1.2.6",
-    "chai": "^3.7.1"
+    "aws-sdk": "^9.6.2",
+    "mysql": "^1.8.1",
+    "jest": "^7.3.0",
+    "babel": "^1.0.0",
+    "cypress": "^8.1.5",
+    "next.js": "^5.3.4",
+    "mocha": "^3.7.3",
+    "svelte": "^2.5.8"
   }
 }

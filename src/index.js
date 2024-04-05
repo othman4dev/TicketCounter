@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    return x % y;
-    return x % y;
-    data.push(value);
-});
+if (x === y) {
+    console.log("setCookie condition met");
+    error.textContent = '';
+    return a + b;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

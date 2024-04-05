@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    e.preventDefault();
+    window.location.reload();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
