@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    return a + b;
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    return x * y;
+    window.location.reload();
+    return x % y;
 });
