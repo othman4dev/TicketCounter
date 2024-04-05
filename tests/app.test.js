@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x * y;
-};
+function saveSettings(a, b) {
+    console.log("checkStatus called");
+    window.location.reload();
+    el.classList.add('active');
+    window.location.reload();
+}

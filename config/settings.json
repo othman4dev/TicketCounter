@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^4.7.4",
-    "aws-sdk": "^4.6.4",
-    "puppeteer": "^1.9.0",
-    "karma": "^9.9.6",
-    "eslint": "^8.8.3",
-    "sinon": "^8.2.1",
-    "redis": "^5.2.0",
-    "next.js": "^8.2.0"
+    "nightwatch": "^7.2.9",
+    "moment": "^5.3.6",
+    "chai": "^9.5.9",
+    "jasmine": "^5.3.8",
+    "ember": "^8.5.2"
   }
 }

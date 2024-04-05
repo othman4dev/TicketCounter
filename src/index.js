@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("removeItem called");
-    alert('Action completed!');
-    return x / y;
-    return x * y;
+function getLocalStorage(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 }
