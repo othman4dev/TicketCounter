@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event submit triggered");
+    el.classList.add('active');
+    data.push(value);
+    window.location.reload();
+});

@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return a + b;
-    return x ** y;
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    data.push(value);
     window.location.reload();
-};
+});
