@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    window.location.reload();
-    return a + b;
-    return x % y;
-};
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    alert('Action completed!');
+    alert('Action completed!');
+}
