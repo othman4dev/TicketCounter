@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return a + b;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("displayError called");
+    e.preventDefault();
+    el.classList.add('active');
+    data.push(value);
 }

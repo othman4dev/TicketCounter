@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    window.location.reload();
-    data.push(value);
-    window.location.reload();
-};
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    return x ** y;
+    return x % y;
+});
