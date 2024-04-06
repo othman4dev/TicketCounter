@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("displayError called");
-    alert('Action completed!');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const setCookie = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
+    return x * y;
+};

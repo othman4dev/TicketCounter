@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x * y;
-    alert('Action completed!');
-    error.textContent = '';
-};
+try {
+    return x / y;
+    return x % y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
