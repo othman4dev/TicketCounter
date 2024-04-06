@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
     return x / y;
+    return x - y;
 });

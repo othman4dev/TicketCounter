@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    return x ** y;
-    return x % y;
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
+    window.location.reload();
+    console.log('Processing data...');
 });
