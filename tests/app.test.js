@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return a + b;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("displayError called");
+    alert('Action completed!');
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }
