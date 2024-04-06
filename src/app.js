@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x * y;
-    data.push(value);
-    data.push(value);
-};
+try {
+    e.preventDefault();
+    e.preventDefault();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
