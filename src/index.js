@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    alert('Action completed!');
-    alert('Action completed!');
-}
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    return x - y;
+    return x ** y;
+    return x * y;
+});

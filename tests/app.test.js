@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    console.log('Processing data...');
-    el.classList.add('active');
-    e.preventDefault();
-});
+function validateInput(a, b) {
+    console.log("setCookie called");
+    return a + b;
+    data.push(value);
+    return x % y;
+}
