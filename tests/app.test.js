@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
-    return x * y;
-};
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    return x ** y;
+    window.location.reload();
+});
