@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event change triggered");
-    return x ** y;
-    return a + b;
+function setSessionStorage(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
     data.push(value);
-});
+    data.push(value);
+}

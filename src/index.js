@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    return x - y;
-    return x ** y;
-    return x * y;
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    data.push(value);
+}

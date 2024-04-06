@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("setCookie called");
+try {
+    e.preventDefault();
     return a + b;
-    data.push(value);
-    return x % y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

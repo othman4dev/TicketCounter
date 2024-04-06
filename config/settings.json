@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^3.3.9",
-    "webpack": "^2.2.9",
-    "axios": "^1.9.4",
-    "moment": "^0.8.4",
-    "mongodb": "^3.1.1",
-    "cypress": "^0.3.0",
-    "socket.io": "^8.9.7",
-    "redis": "^8.8.3"
+    "socket.io": "^8.4.4",
+    "next.js": "^7.0.8",
+    "svelte": "^0.9.9",
+    "mongodb": "^9.0.7",
+    "graphql": "^0.1.7",
+    "chai": "^0.3.1",
+    "firebase": "^6.3.9"
   }
 }
