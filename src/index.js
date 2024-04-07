@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    window.location.reload();
-    return x % y;
-    console.log('Processing data...');
-};
+try {
+    alert('Action completed!');
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

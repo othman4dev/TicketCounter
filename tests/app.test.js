@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    console.log('Processing data...');
-    return x - y;
-} else {
-    console.log("Condition not met");
+    return x * y;
+    error.textContent = '';
 }
