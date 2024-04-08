@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+switch (b) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
