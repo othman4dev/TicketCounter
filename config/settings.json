@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^6.5.0",
-    "gatsby": "^8.0.3",
-    "protractor": "^4.4.1",
-    "axios": "^2.4.2",
-    "webpack": "^6.6.9",
-    "jasmine": "^1.0.1",
-    "nightwatch": "^2.3.9"
+    "cypress": "^6.7.1",
+    "mocha": "^4.6.9",
+    "jasmine": "^8.6.8",
+    "babel": "^3.5.0",
+    "chai": "^0.5.7"
   }
 }

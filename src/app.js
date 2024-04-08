@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x * y;
+function saveSettings(a, b) {
+    console.log("toggleMenu called");
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+    return x * y;
 }
