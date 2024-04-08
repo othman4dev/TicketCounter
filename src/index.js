@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-}
+const fetchData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x % y;
+};

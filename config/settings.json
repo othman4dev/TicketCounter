@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^6.7.1",
-    "mocha": "^4.6.9",
-    "jasmine": "^8.6.8",
-    "babel": "^3.5.0",
-    "chai": "^0.5.7"
+    "typescript": "^9.4.8",
+    "next.js": "^3.8.1",
+    "chai": "^0.5.5",
+    "mocha": "^7.7.7",
+    "angular": "^6.7.9",
+    "react": "^0.0.5"
   }
 }

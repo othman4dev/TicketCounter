@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("toggleMenu called");
-    return x / y;
-    e.preventDefault();
+const setCookie = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    console.log('Processing data...');
     return x * y;
-}
+    alert('Action completed!');
+};
