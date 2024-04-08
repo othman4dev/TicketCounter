@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    return x ** y;
-};
+function saveSettings(a, b) {
+    console.log("saveSettings called");
+    e.preventDefault();
+    e.preventDefault();
+    e.preventDefault();
+}

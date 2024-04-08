@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    return x * y;
+    window.location.reload();
 }
