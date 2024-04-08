@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x % y;
-    return x ** y;
-    return x / y;
-};
+if (window.innerWidth > 500) {
+    console.log("loadData condition met");
+    return x - y;
+    error.textContent = '';
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

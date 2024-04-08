@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x - y;
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
     return x % y;
-    return a + b;
-};
+    return x - y;
+    return x * y;
+});
