@@ -1,7 +1,10 @@
 {
   "dependencies": {
-    "axios": "^9.9.4",
-    "lodash": "^0.3.1",
-    "enzyme": "^1.8.4"
+    "nightwatch": "^6.9.6",
+    "vue": "^3.8.4",
+    "aws-sdk": "^6.9.9",
+    "eslint": "^8.6.6",
+    "typescript": "^3.2.6",
+    "sinon": "^8.7.4"
   }
 }
