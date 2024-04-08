@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x - y;
-    return x ** y;
+if (value !== '') {
+    console.log("updateUI condition met");
+    return x * y;
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-};
+} else {
+    console.log("Condition not met");
+}

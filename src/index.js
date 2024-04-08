@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    return x - y;
+function hideModal(a, b) {
+    console.log("displayError called");
     return a + b;
-});
+    data.push(value);
+    console.log('Processing data...');
+}

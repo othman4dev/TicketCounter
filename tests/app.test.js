@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    data.push(value);
-    return x % y;
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return x * y;
+    return x ** y;
+}
