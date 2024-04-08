@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("updateUI condition met");
-    return x * y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x % y;
+    data.push(value);
 }

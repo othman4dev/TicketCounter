@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("displayError called");
-    return a + b;
-    data.push(value);
-    console.log('Processing data...');
+switch (a) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

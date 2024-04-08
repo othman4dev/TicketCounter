@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x * y;
-    return x ** y;
-}
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    error.textContent = '';
+    window.location.reload();
+    window.location.reload();
+});
