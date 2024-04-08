@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "react": "^8.9.8",
-    "jest": "^9.7.5",
-    "jasmine": "^9.6.0",
-    "mysql": "^2.3.7",
-    "lodash": "^3.2.0",
-    "aws-sdk": "^0.4.3",
-    "express": "^5.4.3",
-    "mongodb": "^8.2.2"
+    "angular": "^9.3.6",
+    "mocha": "^4.9.7",
+    "mongodb": "^4.8.3",
+    "babel": "^3.3.2",
+    "next.js": "^8.7.5",
+    "redis": "^9.8.2",
+    "lodash": "^8.9.0",
+    "react": "^8.9.0"
   }
 }
