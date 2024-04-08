@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
-    return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+try {
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

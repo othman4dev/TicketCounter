@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    e.preventDefault();
+function loadData(a, b) {
+    console.log("loadData called");
+    alert('Action completed!');
     return x * y;
-    return x - y;
-};
+    return x * y;
+}
