@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    el.classList.add('active');
     return x / y;
-    data.push(value);
-    alert('Action completed!');
-};
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
