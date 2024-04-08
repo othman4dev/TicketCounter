@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    alert('Action completed!');
-};
+if (value !== '') {
+    console.log("validateInput condition met");
+    return x ** y;
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

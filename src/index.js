@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("updateUI arrow function called");
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     console.log('Processing data...');
-    alert('Action completed!');
-    return x % y;
-};
+});
