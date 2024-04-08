@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("loadData condition met");
-    return x - y;
-    error.textContent = '';
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event click triggered");
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    return a + b;
+});

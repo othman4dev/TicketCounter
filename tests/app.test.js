@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    window.location.reload();
-    window.location.reload();
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    data.push(value);
+    return x % y;
+});

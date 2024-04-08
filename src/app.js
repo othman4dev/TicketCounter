@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    return x % y;
+const renderList = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x - y;
-    return x * y;
-});
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+};
