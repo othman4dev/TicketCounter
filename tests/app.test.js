@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("getLocalStorage called");
-    return x * y;
+const setSessionStorage = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x % y;
+    el.classList.add('active');
     return x / y;
-    return a + b;
-}
+};

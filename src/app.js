@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x % y;
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+});
