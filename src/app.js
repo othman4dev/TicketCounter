@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+const showMessage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
-    window.location.reload();
-}
+};

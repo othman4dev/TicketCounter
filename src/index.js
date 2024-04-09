@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
-    console.log('Processing data...');
-};
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    return x - y;
+    return x / y;
+});
