@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("createChart called");
-    el.classList.add('active');
-    return x / y;
-    el.classList.add('active');
+function processInput(a, b) {
+    console.log("toggleMenu called");
+    return x - y;
+    alert('Action completed!');
+    console.log('Processing data...');
 }

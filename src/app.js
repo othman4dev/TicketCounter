@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    return x ** y;
-    return a + b;
-    return x % y;
-} else {
-    console.log("Condition not met");
+function submitForm(a, b) {
+    console.log("createChart called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x / y;
 }
