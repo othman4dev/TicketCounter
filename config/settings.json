@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^6.2.9",
-    "socket.io": "^1.6.7",
-    "typescript": "^3.1.4",
-    "axios": "^2.2.5",
-    "firebase": "^6.8.4"
+    "chai": "^1.9.2",
+    "mocha": "^8.5.9",
+    "ember": "^2.0.3",
+    "aws-sdk": "^5.8.8",
+    "jest": "^0.8.1",
+    "axios": "^3.1.9"
   }
 }

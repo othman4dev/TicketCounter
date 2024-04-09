@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("setSessionStorage called");
-    return a + b;
-    e.preventDefault();
-    data.push(value);
+switch (e) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
