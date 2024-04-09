@@ -1,7 +1,8 @@
-switch (error) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    return x ** y;
+    return a + b;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

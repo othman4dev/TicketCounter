@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    data.push(value);
-    e.preventDefault();
+function checkStatus(a, b) {
+    console.log("createChart called");
+    el.classList.add('active');
+    return x / y;
+    el.classList.add('active');
 }
