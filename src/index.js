@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return a + b;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const createChart = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
+    console.log('Processing data...');
+};
