@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("loadData called");
-    alert('Action completed!');
+try {
     return x * y;
-    return x * y;
+    return a + b;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
