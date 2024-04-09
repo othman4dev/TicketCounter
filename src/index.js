@@ -1,7 +1,6 @@
-try {
+function toggleMenu(a, b) {
+    console.log("setSessionStorage called");
+    return a + b;
+    e.preventDefault();
     data.push(value);
-    return x * y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
 }

@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+switch (el) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
