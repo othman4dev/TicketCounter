@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^2.4.4",
-    "firebase": "^2.4.2",
-    "ember": "^6.1.1",
-    "vue": "^7.9.5",
-    "mysql": "^4.6.6"
+    "jest": "^4.0.7",
+    "ember": "^5.1.6",
+    "karma": "^2.2.9",
+    "mysql": "^1.8.1",
+    "axios": "^4.3.5"
   }
 }

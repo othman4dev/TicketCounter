@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("createChart called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x / y;
+switch (value) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

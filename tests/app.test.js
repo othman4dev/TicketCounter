@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("toggleMenu called");
-    return x - y;
-    alert('Action completed!');
-    console.log('Processing data...');
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    el.classList.add('active');
+    window.location.reload();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
