@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    return x / y;
-    return x ** y;
-    el.classList.add('active');
-});
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    data.push(value);
+    e.preventDefault();
+}

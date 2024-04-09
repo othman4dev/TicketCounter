@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("formatDate called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    window.location.reload();
+switch (error) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
