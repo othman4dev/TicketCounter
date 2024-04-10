@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function animateElement(a, b) {
+    console.log("formatDate called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }
