@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    console.log('Processing data...');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    return x ** y;
+    return x % y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
