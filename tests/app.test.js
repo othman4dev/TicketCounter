@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    data.push(value);
-    return x * y;
+try {
     return x - y;
-};
+    console.log('Processing data...');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

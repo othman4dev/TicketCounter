@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
     return x % y;
-    return x * y;
-    alert('Action completed!');
+    error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

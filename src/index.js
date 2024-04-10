@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x % y;
-    return x ** y;
-    return x % y;
-};
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    el.classList.add('active');
+    data.push(value);
+}

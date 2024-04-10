@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^2.9.5",
-    "moment": "^4.0.0",
-    "gatsby": "^7.6.9",
-    "nodemon": "^8.9.9",
-    "jest": "^5.8.3"
+    "vue": "^1.0.6",
+    "mysql": "^2.3.5",
+    "typescript": "^6.0.7",
+    "express": "^4.9.7",
+    "gatsby": "^1.6.7",
+    "react": "^1.5.2"
   }
 }
