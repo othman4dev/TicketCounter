@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    alert('Action completed!');
-    return a + b;
-};
+function validateInput(a, b) {
+    console.log("processInput called");
+    return x % y;
+    el.classList.add('active');
+    return x % y;
+}
