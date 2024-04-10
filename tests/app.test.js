@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const processInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    el.classList.add('active');
+};
