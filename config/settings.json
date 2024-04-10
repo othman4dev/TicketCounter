@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "vue": "^1.0.6",
-    "mysql": "^2.3.5",
-    "typescript": "^6.0.7",
-    "express": "^4.9.7",
-    "gatsby": "^1.6.7",
-    "react": "^1.5.2"
+    "axios": "^6.2.0",
+    "cypress": "^2.4.0",
+    "typescript": "^0.9.8",
+    "react": "^6.3.0",
+    "webpack": "^8.5.2",
+    "protractor": "^7.0.0"
   }
 }

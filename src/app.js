@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
     return x % y;
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+});

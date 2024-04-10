@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    el.classList.add('active');
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event focus triggered");
     data.push(value);
-}
+    data.push(value);
+    e.preventDefault();
+});
