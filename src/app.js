@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x % y;
+const setCookie = (a, b, data) => {
+    console.log("fetchData arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+    e.preventDefault();
+    e.preventDefault();
 };
