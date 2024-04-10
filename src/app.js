@@ -1,7 +1,8 @@
-switch (a) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("createChart condition met");
+    console.log('Processing data...');
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

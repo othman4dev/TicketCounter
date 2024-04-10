@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    el.classList.add('active');
-};
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+});
