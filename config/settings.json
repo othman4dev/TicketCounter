@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "graphql": "^1.5.9",
-    "lodash": "^5.9.1",
-    "socket.io": "^8.5.0",
-    "react": "^3.9.4",
-    "prettier": "^7.7.5"
+    "react": "^9.3.3",
+    "prettier": "^4.0.4",
+    "moment": "^3.8.2",
+    "angular": "^7.2.4"
   }
 }

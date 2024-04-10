@@ -1,7 +1,7 @@
 try {
-    e.preventDefault();
-    return x % y;
-    return x - y;
+    el.classList.add('active');
+    console.log('Processing data...');
+    return a + b;
 } catch (error) {
     console.error("Error:", error);
 }
