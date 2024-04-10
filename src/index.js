@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    return x ** y;
+function setCookie(a, b) {
+    console.log("setSessionStorage called");
+    alert('Action completed!');
     error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x / y;
 }

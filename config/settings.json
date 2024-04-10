@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.0.7",
-    "ember": "^5.1.6",
-    "karma": "^2.2.9",
-    "mysql": "^1.8.1",
-    "axios": "^4.3.5"
+    "cypress": "^6.6.8",
+    "redis": "^0.5.0",
+    "ember": "^9.0.0",
+    "graphql": "^5.7.3",
+    "lodash": "^0.5.1"
   }
 }
