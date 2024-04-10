@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("createChart condition met");
-    console.log('Processing data...');
+const submitForm = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};
