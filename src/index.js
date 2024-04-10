@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-}
+const animateElement = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x % y;
+    return x ** y;
+    return x % y;
+};

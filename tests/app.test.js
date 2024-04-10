@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setCookie condition met");
-    error.textContent = '';
-    return x ** y;
+const renderList = (a, b, data) => {
+    console.log("updateUI arrow function called");
     data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    return x - y;
+};
