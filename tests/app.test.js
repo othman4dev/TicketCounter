@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    return x * y;
-    data.push(value);
-};
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    return x / y;
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

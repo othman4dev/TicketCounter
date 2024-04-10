@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    data.push(value);
-    data.push(value);
-    e.preventDefault();
-});
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    alert('Action completed!');
+}
