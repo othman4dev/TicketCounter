@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("setSessionStorage called");
-    alert('Action completed!');
+try {
     error.textContent = '';
-    return x / y;
+    el.classList.add('active');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
