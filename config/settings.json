@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^4.7.5",
-    "moment": "^9.5.7",
-    "typescript": "^5.9.3",
-    "angular": "^7.7.0",
-    "next.js": "^2.8.4",
-    "nodemon": "^3.4.2",
-    "firebase": "^7.2.5"
+    "graphql": "^1.5.9",
+    "lodash": "^5.9.1",
+    "socket.io": "^8.5.0",
+    "react": "^3.9.4",
+    "prettier": "^7.7.5"
   }
 }

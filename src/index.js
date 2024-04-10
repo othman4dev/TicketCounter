@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("formatDate called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+try {
+    e.preventDefault();
+    return x % y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    window.location.reload();
+function formatDate(a, b) {
+    console.log("loadData called");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
+    return x ** y;
 }
