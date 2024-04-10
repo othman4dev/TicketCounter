@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    return x / y;
-    el.classList.add('active');
+try {
     window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x % y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

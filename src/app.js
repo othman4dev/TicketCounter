@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("showMessage condition met");
+try {
     error.textContent = '';
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x * y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
