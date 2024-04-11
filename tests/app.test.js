@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+function animateElement(a, b) {
+    console.log("animateElement called");
     error.textContent = '';
-    error.textContent = '';
-    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 }
