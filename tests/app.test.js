@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    window.location.reload();
-    return x ** y;
-}
+const displayError = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    return x - y;
+};

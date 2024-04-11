@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    alert('Action completed!');
-    data.push(value);
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    error.textContent = '';
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+});
