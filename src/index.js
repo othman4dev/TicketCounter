@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("showMessage called");
-    el.classList.add('active');
-    return a + b;
-    return x / y;
-}
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    error.textContent = '';
+    error.textContent = '';
+});

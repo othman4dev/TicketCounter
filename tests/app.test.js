@@ -1,7 +1,8 @@
-switch (el) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("updateUI condition met");
+    data.push(value);
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
