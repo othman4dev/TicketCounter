@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("animateElement called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    window.location.reload();
+    return x ** y;
 }
