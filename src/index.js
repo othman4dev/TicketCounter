@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
-    window.location.reload();
+if (x === y) {
+    console.log("fetchData condition met");
     return x ** y;
+    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

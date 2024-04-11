@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "react": "^3.5.1",
-    "jest": "^3.1.1",
-    "redis": "^8.8.1",
-    "moment": "^0.5.2",
-    "karma": "^1.1.9",
-    "babel": "^1.6.7"
+    "protractor": "^6.9.9",
+    "webpack": "^9.3.2",
+    "react": "^2.7.2",
+    "angular": "^3.6.9",
+    "vue": "^9.1.8"
   }
 }

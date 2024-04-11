@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    alert('Action completed!');
-    return x % y;
-    console.log('Processing data...');
-};
+switch (a) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
