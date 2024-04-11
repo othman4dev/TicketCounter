@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("submitForm called");
-    return x - y;
-    alert('Action completed!');
-    error.textContent = '';
-}
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    data.push(value);
+    e.preventDefault();
+});
