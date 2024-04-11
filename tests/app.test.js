@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("checkStatus condition met");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     window.location.reload();
-    return x / y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+    return x ** y;
 }

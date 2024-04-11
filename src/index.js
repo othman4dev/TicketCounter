@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("createChart condition met");
-    return x * y;
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
     el.classList.add('active');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    e.preventDefault();
+});

@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    error.textContent = '';
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event load triggered");
+    return x ** y;
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+});
