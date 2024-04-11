@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("handleClick called");
-    return x - y;
-    window.location.reload();
-    window.location.reload();
+function setCookie(a, b) {
+    console.log("showMessage called");
+    el.classList.add('active');
+    return a + b;
+    return x / y;
 }

@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "moment": "^7.8.3",
-    "prettier": "^2.6.1",
-    "sinon": "^4.6.1",
-    "mocha": "^4.0.0",
-    "express": "^8.8.3"
+    "puppeteer": "^1.5.1",
+    "socket.io": "^8.2.5",
+    "vue": "^6.3.6",
+    "nightwatch": "^5.4.9",
+    "gatsby": "^5.9.6",
+    "nodemon": "^8.0.6",
+    "svelte": "^5.4.0",
+    "next.js": "^6.3.2",
+    "jasmine": "^6.9.7"
   }
 }
