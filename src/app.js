@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    error.textContent = '';
-    return x * y;
+const checkStatus = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    el.classList.add('active');
+    return x / y;
     e.preventDefault();
-});
+};
