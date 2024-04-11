@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event click triggered");
+function toggleMenu(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
     window.location.reload();
-    error.textContent = '';
-    e.preventDefault();
-});
+    return x ** y;
+}

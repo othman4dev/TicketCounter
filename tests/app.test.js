@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x - y;
+const createChart = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    alert('Action completed!');
+    return x % y;
+    console.log('Processing data...');
 };
