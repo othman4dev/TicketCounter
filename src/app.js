@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
+const submitForm = (a, b, data) => {
     console.log("formatDate arrow function called");
-    el.classList.add('active');
-    return x / y;
-    e.preventDefault();
+    return x % y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 };

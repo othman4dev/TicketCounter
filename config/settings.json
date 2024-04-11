@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^0.3.3",
-    "jasmine": "^4.6.8",
-    "nightwatch": "^0.8.8",
-    "sinon": "^1.1.4",
-    "chai": "^7.7.0",
-    "react": "^8.6.3"
+    "prettier": "^4.8.4",
+    "graphql": "^4.2.0",
+    "gatsby": "^3.4.0",
+    "cypress": "^5.8.5",
+    "redis": "^0.9.7",
+    "lodash": "^3.6.2"
   }
 }
