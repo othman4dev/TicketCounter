@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("processInput called");
-    return x * y;
-    el.classList.add('active');
+const showMessage = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return a + b;
-}
+    data.push(value);
+    e.preventDefault();
+};

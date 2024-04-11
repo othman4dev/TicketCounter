@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    alert('Action completed!');
-    return x * y;
-    return x / y;
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    error.textContent = '';
+    error.textContent = '';
+}
