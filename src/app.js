@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("renderList arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    error.textContent = '';
     return x * y;
-    data.push(value);
-};
+    e.preventDefault();
+});
