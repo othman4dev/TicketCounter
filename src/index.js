@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("processInput called");
+    return x * y;
+    el.classList.add('active');
+    return a + b;
 }

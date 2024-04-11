@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
+const toggleMenu = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    alert('Action completed!');
     return x * y;
-    return x - y;
-    error.textContent = '';
-});
+    return x / y;
+};

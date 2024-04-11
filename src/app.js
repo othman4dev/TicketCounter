@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    data.push(value);
-    e.preventDefault();
-});
+switch (error) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
