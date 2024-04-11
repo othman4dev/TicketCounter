@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^6.9.9",
-    "webpack": "^9.3.2",
-    "react": "^2.7.2",
-    "angular": "^3.6.9",
-    "vue": "^9.1.8"
+    "aws-sdk": "^3.1.1",
+    "gatsby": "^0.1.3",
+    "webpack": "^5.5.1",
+    "moment": "^6.9.9",
+    "protractor": "^6.7.3"
   }
 }

@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    return x ** y;
-    return x % y;
-    return a + b;
+if (value !== '') {
+    console.log("createChart condition met");
+    return x * y;
+    el.classList.add('active');
+    return x * y;
 } else {
     console.log("Condition not met");
 }
