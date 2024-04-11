@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event load triggered");
-    return x ** y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     data.push(value);
-    window.location.reload();
-});
+    data.push(value);
+}

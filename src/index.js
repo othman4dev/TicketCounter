@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    el.classList.add('active');
-    alert('Action completed!');
-    e.preventDefault();
-});
+function renderList(a, b) {
+    console.log("handleClick called");
+    return x - y;
+    window.location.reload();
+    window.location.reload();
+}
