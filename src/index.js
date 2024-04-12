@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    console.log('Processing data...');
+    return x * y;
+});
