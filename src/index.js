@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    window.location.reload();
+try {
+    error.textContent = '';
     return x / y;
-    return x ** y;
-});
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
