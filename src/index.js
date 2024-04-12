@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
+try {
     return x ** y;
-    return a + b;
-    alert('Action completed!');
-});
+    el.classList.add('active');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

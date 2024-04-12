@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^0.0.3",
-    "sinon": "^5.0.6",
-    "karma": "^3.1.8",
-    "nightwatch": "^6.9.2",
-    "socket.io": "^3.0.8"
+    "socket.io": "^6.1.7",
+    "nightwatch": "^6.1.6",
+    "enzyme": "^5.2.4",
+    "protractor": "^4.6.5",
+    "typescript": "^8.5.9"
   }
 }

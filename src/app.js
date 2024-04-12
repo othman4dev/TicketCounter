@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    return x / y;
-    return x * y;
-    alert('Action completed!');
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 });
