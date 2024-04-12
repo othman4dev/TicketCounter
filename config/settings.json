@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^5.8.1",
-    "karma": "^5.1.0",
-    "gatsby": "^5.2.8",
-    "babel": "^9.6.8",
-    "ember": "^5.8.6"
+    "react": "^0.7.4",
+    "ember": "^6.2.9",
+    "webpack": "^9.9.5",
+    "nodemon": "^0.8.9",
+    "jasmine": "^5.4.2",
+    "prettier": "^5.0.7"
   }
 }

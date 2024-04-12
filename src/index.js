@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    return x / y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
