@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    return x * y;
+    alert('Action completed!');
+    error.textContent = '';
 });
