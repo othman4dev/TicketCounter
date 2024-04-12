@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "express": "^0.4.9",
-    "redis": "^2.3.0",
-    "vue": "^3.0.1",
-    "jest": "^8.2.8",
-    "react": "^2.1.6"
+    "jasmine": "^6.1.1",
+    "jest": "^4.7.4",
+    "protractor": "^1.9.7",
+    "typescript": "^8.0.5",
+    "babel": "^3.4.2"
   }
 }
