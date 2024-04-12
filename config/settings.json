@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^6.1.1",
-    "jest": "^4.7.4",
-    "protractor": "^1.9.7",
-    "typescript": "^8.0.5",
-    "babel": "^3.4.2"
+    "lodash": "^0.0.3",
+    "sinon": "^5.0.6",
+    "karma": "^3.1.8",
+    "nightwatch": "^6.9.2",
+    "socket.io": "^3.0.8"
   }
 }

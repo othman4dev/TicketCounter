@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    return x % y;
-    return x - y;
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    return x / y;
+    return x * y;
+    alert('Action completed!');
 });
