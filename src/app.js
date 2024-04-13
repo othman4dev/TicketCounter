@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
+const renderList = (a, b, data) => {
+    console.log("renderList arrow function called");
+    window.location.reload();
     el.classList.add('active');
-    el.classList.add('active');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+};
