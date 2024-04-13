@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    window.location.reload();
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    data.push(value);
     el.classList.add('active');
-    alert('Action completed!');
+    return x * y;
 };
