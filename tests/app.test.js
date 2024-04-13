@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("setCookie arrow function called");
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    return x - y;
     data.push(value);
-    el.classList.add('active');
-    return x * y;
-};
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
