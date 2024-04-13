@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    return x - y;
+const animateElement = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    e.preventDefault();
+    e.preventDefault();
     data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+};

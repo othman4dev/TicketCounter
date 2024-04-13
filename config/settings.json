@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^7.0.3",
-    "lodash": "^6.2.3",
-    "angular": "^4.1.0",
-    "jasmine": "^9.9.7",
-    "redis": "^4.7.8",
-    "protractor": "^4.9.6",
-    "eslint": "^6.1.7",
-    "gatsby": "^5.2.4"
+    "jasmine": "^5.8.9",
+    "mysql": "^8.9.8",
+    "chai": "^6.1.0",
+    "ember": "^1.0.8",
+    "protractor": "^6.2.0",
+    "lodash": "^4.7.5",
+    "express": "^2.2.0"
   }
 }
