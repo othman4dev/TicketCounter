@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x % y;
-    window.location.reload();
+function createChart(a, b) {
+    console.log("updateUI called");
+    return x * y;
     alert('Action completed!');
-};
+    return x / y;
+}
