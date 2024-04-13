@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    return x * y;
+const setCookie = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x % y;
+    window.location.reload();
     alert('Action completed!');
-    error.textContent = '';
-});
+};
