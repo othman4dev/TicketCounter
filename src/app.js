@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    error.textContent = '';
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

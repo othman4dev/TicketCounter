@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "angular": "^7.1.4",
-    "svelte": "^7.0.5",
-    "jasmine": "^2.5.3",
-    "typescript": "^3.6.9",
-    "lodash": "^3.6.6",
-    "jest": "^8.2.0",
-    "prettier": "^9.0.4",
-    "graphql": "^3.5.8",
-    "next.js": "^1.6.8"
+    "jest": "^3.5.9",
+    "svelte": "^6.9.0",
+    "nodemon": "^6.3.2",
+    "mongodb": "^9.1.6",
+    "protractor": "^3.3.0",
+    "jasmine": "^5.0.1",
+    "mysql": "^6.1.0",
+    "react": "^3.5.2",
+    "eslint": "^6.5.3"
   }
 }
