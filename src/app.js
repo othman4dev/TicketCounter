@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    error.textContent = '';
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    return a + b;
     e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+});
