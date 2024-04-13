@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    return x % y;
-});
+if (x !== y) {
+    console.log("handleClick condition met");
+    alert('Action completed!');
+    window.location.reload();
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

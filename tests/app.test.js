@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    data.push(value);
-};
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("loadData called");
+function handleClick(a, b) {
+    console.log("fetchData called");
+    alert('Action completed!');
+    console.log('Processing data...');
     e.preventDefault();
-    return x / y;
-    window.location.reload();
 }
