@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    window.location.reload();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    return x / y;
+    alert('Action completed!');
 }

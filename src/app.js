@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (x !== y) {
+    console.log("showMessage condition met");
+    el.classList.add('active');
+    el.classList.add('active');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

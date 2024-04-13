@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^4.6.4",
-    "cypress": "^8.2.3",
-    "lodash": "^4.6.9",
-    "gatsby": "^2.5.4",
-    "express": "^1.0.7",
-    "mysql": "^9.4.2",
-    "socket.io": "^8.8.3"
+    "nodemon": "^6.5.2",
+    "prettier": "^9.0.5",
+    "aws-sdk": "^2.9.6",
+    "lodash": "^6.6.5",
+    "react": "^5.1.9",
+    "babel": "^2.8.9",
+    "cypress": "^0.3.1",
+    "next.js": "^7.9.4"
   }
 }
