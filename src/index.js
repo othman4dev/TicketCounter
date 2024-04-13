@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    console.log('Processing data...');
+try {
+    e.preventDefault();
     alert('Action completed!');
-    return x ** y;
-};
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

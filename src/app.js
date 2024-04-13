@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("loadData called");
-    e.preventDefault();
-    return x % y;
-    window.location.reload();
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+});
