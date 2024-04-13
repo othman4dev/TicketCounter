@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("updateUI called");
+const toggleMenu = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
+    window.location.reload();
     e.preventDefault();
-    return x % y;
-    el.classList.add('active');
-}
+};
