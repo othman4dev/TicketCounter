@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    error.textContent = '';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("loadData called");
+    e.preventDefault();
+    return x % y;
+    window.location.reload();
 }
