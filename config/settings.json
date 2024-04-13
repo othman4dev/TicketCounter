@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "ember": "^0.0.7",
-    "next.js": "^1.7.4",
-    "jasmine": "^4.6.8",
-    "cypress": "^8.3.6",
-    "puppeteer": "^4.2.0",
-    "sinon": "^4.8.8",
-    "nodemon": "^2.3.5",
-    "prettier": "^4.6.2"
+    "angular": "^7.1.4",
+    "svelte": "^7.0.5",
+    "jasmine": "^2.5.3",
+    "typescript": "^3.6.9",
+    "lodash": "^3.6.6",
+    "jest": "^8.2.0",
+    "prettier": "^9.0.4",
+    "graphql": "^3.5.8",
+    "next.js": "^1.6.8"
   }
 }

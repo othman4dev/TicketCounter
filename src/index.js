@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("fetchData called");
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
     alert('Action completed!');
-    console.log('Processing data...');
-    e.preventDefault();
-}
+    error.textContent = '';
+    return a + b;
+};

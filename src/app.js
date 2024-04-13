@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    alert('Action completed!');
-    window.location.reload();
-    return x * y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 }
