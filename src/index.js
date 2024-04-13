@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    data.push(value);
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("loadData condition met");
+    return x / y;
+    console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
