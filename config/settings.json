@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "ember": "^4.3.7",
-    "graphql": "^0.3.5",
-    "cypress": "^0.2.7",
-    "vue": "^4.8.7",
-    "express": "^6.0.6",
-    "gatsby": "^4.0.4",
-    "svelte": "^3.9.0",
-    "next.js": "^6.3.3",
-    "chai": "^1.2.1"
+    "moment": "^6.2.0",
+    "eslint": "^0.4.9",
+    "sinon": "^1.8.1",
+    "puppeteer": "^5.4.3",
+    "jest": "^2.7.6"
   }
 }

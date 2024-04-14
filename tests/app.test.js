@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("setSessionStorage called");
-    return x - y;
-    return x - y;
-    window.location.reload();
-}
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+});
