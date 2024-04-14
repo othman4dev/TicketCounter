@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jest": "^4.8.9",
-    "nightwatch": "^4.7.1",
-    "mongodb": "^5.3.6",
-    "puppeteer": "^2.4.6",
-    "svelte": "^8.9.0",
-    "ember": "^0.6.0",
-    "babel": "^7.4.0",
-    "sinon": "^3.8.7"
+    "sinon": "^4.2.0",
+    "eslint": "^2.7.4",
+    "next.js": "^5.2.8",
+    "jest": "^4.7.0",
+    "angular": "^0.2.6",
+    "cypress": "^1.0.0",
+    "chai": "^7.8.6",
+    "prettier": "^2.3.9"
   }
 }
