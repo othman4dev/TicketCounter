@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (y) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
