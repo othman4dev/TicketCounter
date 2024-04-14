@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});

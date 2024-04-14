@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    return x ** y;
-});
+switch (error) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
