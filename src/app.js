@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    error.textContent = '';
+const validateInput = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    el.classList.add('active');
+};

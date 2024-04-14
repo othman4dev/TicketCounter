@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    e.preventDefault();
-    e.preventDefault();
-});
+try {
+    data.push(value);
+    data.push(value);
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

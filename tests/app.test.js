@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event resize triggered");
+if (value !== '') {
+    console.log("loadData condition met");
+    alert('Action completed!');
+    data.push(value);
     error.textContent = '';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+} else {
+    console.log("Condition not met");
+}
