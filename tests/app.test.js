@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x * y;
+function formatDate(a, b) {
+    console.log("removeItem called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
 }

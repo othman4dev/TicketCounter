@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("toggleMenu called");
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return x ** y;
     data.push(value);
-    e.preventDefault();
-    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
