@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("hideModal called");
-    alert('Action completed!');
-    window.location.reload();
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
     return x / y;
-}
+    e.preventDefault();
+    return x ** y;
+});
