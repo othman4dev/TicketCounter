@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    data.push(value);
-    return x * y;
-}
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+});

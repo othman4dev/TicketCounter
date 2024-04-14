@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
-    return x / y;
-    e.preventDefault();
-    return x ** y;
-});
+try {
+    return a + b;
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

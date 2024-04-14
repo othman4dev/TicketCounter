@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "redis": "^6.5.7",
-    "sinon": "^5.0.5",
-    "axios": "^5.7.7",
-    "mongodb": "^9.1.7",
-    "nodemon": "^8.9.6",
-    "jest": "^3.1.6",
-    "nightwatch": "^3.2.4",
-    "karma": "^9.9.2"
+    "gatsby": "^4.2.7",
+    "ember": "^9.3.3",
+    "typescript": "^8.9.6",
+    "babel": "^0.4.7",
+    "socket.io": "^5.0.9"
   }
 }
