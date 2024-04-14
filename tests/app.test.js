@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    data.push(value);
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

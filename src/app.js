@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event keydown triggered");
     e.preventDefault();
-    el.classList.add('active');
-};
+    return x ** y;
+    console.log('Processing data...');
+});

@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    data.push(value);
+if (window.innerWidth > 500) {
+    console.log("toggleMenu condition met");
+    console.log('Processing data...');
+    return x / y;
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
