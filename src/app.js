@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    return x ** y;
+const showMessage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return a + b;
+    el.classList.add('active');
     console.log('Processing data...');
-});
+};
