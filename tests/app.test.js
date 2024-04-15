@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
-    data.push(value);
-};
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event load triggered");
+    return x - y;
+    e.preventDefault();
+    e.preventDefault();
+});

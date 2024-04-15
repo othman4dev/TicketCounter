@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "angular": "^9.9.0",
-    "typescript": "^4.8.7",
-    "ember": "^5.5.2",
-    "jest": "^5.0.2",
-    "next.js": "^3.4.0"
+    "eslint": "^3.9.8",
+    "mysql": "^4.4.8",
+    "axios": "^2.7.2",
+    "typescript": "^5.0.8",
+    "chai": "^1.5.1"
   }
 }
