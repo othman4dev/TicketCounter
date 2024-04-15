@@ -1,7 +1,6 @@
-try {
-    data.push(value);
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
     e.preventDefault();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+});
