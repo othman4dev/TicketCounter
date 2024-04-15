@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const updateUI = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
+    data.push(value);
+};
