@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    el.classList.add('active');
-    console.log('Processing data...');
-};
+try {
+    data.push(value);
+    e.preventDefault();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
