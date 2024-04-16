@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    data.push(value);
-    return x / y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+function animateElement(a, b) {
+    console.log("removeItem called");
+    e.preventDefault();
+    return x % y;
+    console.log('Processing data...');
 }

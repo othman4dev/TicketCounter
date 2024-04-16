@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x % y;
-    el.classList.add('active');
-    return x * y;
-};
+try {
+    return x ** y;
+    return x / y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

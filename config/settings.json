@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^0.1.7",
-    "sinon": "^2.1.8",
-    "firebase": "^2.4.4",
-    "enzyme": "^3.0.2",
-    "karma": "^1.9.8",
-    "socket.io": "^3.3.1",
-    "angular": "^9.9.9",
-    "react": "^0.1.9"
+    "mysql": "^8.0.8",
+    "redis": "^9.8.0",
+    "react": "^3.9.0",
+    "sinon": "^7.4.6",
+    "babel": "^8.2.6"
   }
 }
