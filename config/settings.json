@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^3.9.8",
-    "mysql": "^4.4.8",
-    "axios": "^2.7.2",
-    "typescript": "^5.0.8",
-    "chai": "^1.5.1"
+    "aws-sdk": "^0.1.7",
+    "sinon": "^2.1.8",
+    "firebase": "^2.4.4",
+    "enzyme": "^3.0.2",
+    "karma": "^1.9.8",
+    "socket.io": "^3.3.1",
+    "angular": "^9.9.9",
+    "react": "^0.1.9"
   }
 }

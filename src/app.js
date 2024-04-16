@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    console.log('Processing data...');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x % y;
+    el.classList.add('active');
+    return x * y;
+};

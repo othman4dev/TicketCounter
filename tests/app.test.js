@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event load triggered");
-    return x - y;
-    e.preventDefault();
-    e.preventDefault();
-});
+switch (b) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
