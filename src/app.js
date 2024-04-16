@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x / y;
-    return x % y;
-    e.preventDefault();
-};
+function setCookie(a, b) {
+    console.log("submitForm called");
+    return a + b;
+    alert('Action completed!');
+    return x ** y;
+}

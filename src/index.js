@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x - y;
-    return x * y;
-    el.classList.add('active');
-};
+switch (el) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

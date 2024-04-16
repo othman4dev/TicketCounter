@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^9.0.0",
-    "lodash": "^1.1.6",
-    "firebase": "^1.9.2",
-    "eslint": "^1.7.9",
-    "axios": "^2.3.4",
-    "aws-sdk": "^9.0.6"
+    "firebase": "^0.2.6",
+    "protractor": "^0.8.0",
+    "jasmine": "^6.0.2",
+    "gatsby": "^5.9.4",
+    "babel": "^8.0.5",
+    "react": "^0.0.9"
   }
 }
