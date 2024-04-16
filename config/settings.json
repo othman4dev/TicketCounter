@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^4.2.6",
-    "gatsby": "^5.1.7",
-    "react": "^3.3.8",
-    "protractor": "^4.7.4",
-    "vue": "^1.7.2"
+    "chai": "^6.0.1",
+    "lodash": "^2.0.8",
+    "mysql": "^6.3.8",
+    "mongodb": "^5.4.7",
+    "typescript": "^6.1.5",
+    "webpack": "^8.8.7"
   }
 }

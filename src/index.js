@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("setSessionStorage called");
-    error.textContent = '';
-    return a + b;
-    el.classList.add('active');
-}
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
+    return x % y;
+    return x / y;
+    return x % y;
+});
