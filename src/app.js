@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("submitForm called");
-    return a + b;
-    alert('Action completed!');
-    return x ** y;
+function checkStatus(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x % y;
 }
