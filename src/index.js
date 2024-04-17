@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x % y;
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event change triggered");
     return a + b;
-    e.preventDefault();
-};
+    error.textContent = '';
+    return x / y;
+});
