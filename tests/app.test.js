@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    return x ** y;
-    e.preventDefault();
+switch (y) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
