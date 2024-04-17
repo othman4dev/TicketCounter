@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    data.push(value);
+function loadData(a, b) {
+    console.log("setSessionStorage called");
     return x / y;
-});
+    return x ** y;
+    return x % y;
+}

@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("hideModal called");
+if (e.key === 'Enter') {
+    console.log("loadData condition met");
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

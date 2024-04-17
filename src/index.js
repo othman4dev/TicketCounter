@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    el.classList.add('active');
-    console.log('Processing data...');
-}
+const processInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+};
