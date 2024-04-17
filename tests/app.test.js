@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    return a + b;
-    alert('Action completed!');
-});
+function showMessage(a, b) {
+    console.log("createChart called");
+    window.location.reload();
+    return x % y;
+    return x / y;
+}

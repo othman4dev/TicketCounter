@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("displayError condition met");
-    window.location.reload();
+try {
+    return a + b;
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
