@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

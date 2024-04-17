@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    return x / y;
     alert('Action completed!');
-};
+    return x % y;
+});
