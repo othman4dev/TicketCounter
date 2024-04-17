@@ -1,7 +1,6 @@
-try {
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    data.push(value);
     return x / y;
-    alert('Action completed!');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+});
