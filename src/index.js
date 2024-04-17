@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("getLocalStorage called");
+    error.textContent = '';
+    alert('Action completed!');
+    return x * y;
 }

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "ember": "^4.3.6",
-    "axios": "^3.9.1",
-    "enzyme": "^5.1.7",
-    "protractor": "^8.3.5",
-    "vue": "^6.8.7"
+    "babel": "^3.4.1",
+    "jest": "^8.7.4",
+    "angular": "^9.8.9",
+    "lodash": "^9.8.6",
+    "mongodb": "^0.8.9",
+    "redis": "^2.7.6"
   }
 }
