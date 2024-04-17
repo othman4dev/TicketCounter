@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event change triggered");
-    return a + b;
-    error.textContent = '';
-    return x / y;
-});
+switch (y) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

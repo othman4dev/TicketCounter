@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    e.preventDefault();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    data.push(value);
+    return x / y;
+});
