@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "karma": "^5.3.1",
-    "vue": "^7.0.6",
-    "cypress": "^0.0.7",
-    "puppeteer": "^3.3.1",
-    "nodemon": "^3.0.6",
-    "mongodb": "^7.2.6"
+    "nightwatch": "^8.8.5",
+    "lodash": "^6.7.3",
+    "next.js": "^1.0.1",
+    "moment": "^1.4.8",
+    "nodemon": "^4.3.5",
+    "graphql": "^9.4.0",
+    "puppeteer": "^5.3.9",
+    "svelte": "^2.3.5"
   }
 }

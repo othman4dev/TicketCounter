@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    el.classList.add('active');
-    window.location.reload();
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("handleClick called");
-    el.classList.add('active');
-    data.push(value);
-    return a + b;
-}
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    window.location.reload();
+    error.textContent = '';
+    window.location.reload();
+};
