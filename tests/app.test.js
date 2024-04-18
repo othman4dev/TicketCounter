@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("fetchData called");
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    return x % y;
     alert('Action completed!');
-    window.location.reload();
-    el.classList.add('active');
-}
+    return x * y;
+});

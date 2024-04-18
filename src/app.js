@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    data.push(value);
-};
+function checkStatus(a, b) {
+    console.log("checkStatus called");
+    return x - y;
+    error.textContent = '';
+    window.location.reload();
+}
