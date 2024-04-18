@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x / y;
+    window.location.reload();
+    return a + b;
+};
