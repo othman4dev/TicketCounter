@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^4.3.3",
-    "react": "^7.0.3",
-    "prettier": "^6.4.7",
-    "cypress": "^1.6.3",
-    "webpack": "^2.2.4",
-    "jasmine": "^6.8.9",
-    "karma": "^9.7.3"
+    "moment": "^9.9.4",
+    "jest": "^7.3.1",
+    "vue": "^5.3.6",
+    "webpack": "^0.9.0",
+    "typescript": "^2.4.5",
+    "protractor": "^0.0.9"
   }
 }

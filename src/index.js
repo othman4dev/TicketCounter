@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    return x / y;
-    alert('Action completed!');
-    return x % y;
-});
+switch (error) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

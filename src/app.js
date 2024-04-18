@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    el.classList.add('active');
-};
+function validateInput(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    return x - y;
+    return x / y;
+}
