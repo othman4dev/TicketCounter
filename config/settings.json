@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "babel": "^1.9.7",
-    "eslint": "^0.3.2",
-    "mocha": "^6.5.3",
-    "puppeteer": "^8.0.9",
-    "svelte": "^0.1.5",
-    "nightwatch": "^8.4.8"
+    "mongodb": "^9.5.9",
+    "firebase": "^9.2.4",
+    "babel": "^8.2.6",
+    "jest": "^8.9.7",
+    "protractor": "^7.0.7"
   }
 }

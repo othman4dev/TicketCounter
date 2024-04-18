@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("displayError condition met");
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
     return x * y;
-    return x * y;
-    el.classList.add('active');
+    console.log('Processing data...');
+    return x / y;
 } else {
     console.log("Condition not met");
 }

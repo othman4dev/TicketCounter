@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    alert('Action completed!');
+if (x !== y) {
+    console.log("handleClick condition met");
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

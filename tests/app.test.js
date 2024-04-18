@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("saveSettings called");
-    data.push(value);
-    return x ** y;
-    alert('Action completed!');
+switch (data) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
