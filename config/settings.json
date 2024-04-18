@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "gatsby": "^6.6.7",
-    "ember": "^6.5.9",
-    "protractor": "^3.0.1",
-    "jest": "^6.1.4",
-    "next.js": "^7.9.0"
+    "axios": "^1.9.2",
+    "nodemon": "^7.4.3",
+    "angular": "^8.6.3",
+    "express": "^9.0.3"
   }
 }
