@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    window.location.reload();
-};
+switch (el) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

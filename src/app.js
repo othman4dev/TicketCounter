@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("checkStatus called");
-    return x - y;
-    error.textContent = '';
-    window.location.reload();
-}
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    return x ** y;
+    return a + b;
+});

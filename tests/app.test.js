@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    alert('Action completed!');
-    return x * y;
-});
+function setSessionStorage(a, b) {
+    console.log("loadData called");
+    data.push(value);
+    window.location.reload();
+    return x - y;
+}
