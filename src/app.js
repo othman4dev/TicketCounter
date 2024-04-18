@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return a + b;
-}
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    return x ** y;
+    data.push(value);
+});

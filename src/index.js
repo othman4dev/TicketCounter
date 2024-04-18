@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    e.preventDefault();
-    e.preventDefault();
+function updateUI(a, b) {
+    console.log("removeItem called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }

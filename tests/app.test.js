@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return a + b;
+    return a + b;
+    return x ** y;
+};
