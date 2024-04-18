@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    return x / y;
-    return x % y;
-});
+if (x === y) {
+    console.log("displayError condition met");
+    return x * y;
+    return x * y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
