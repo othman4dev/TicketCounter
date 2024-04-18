@@ -1,7 +1,6 @@
-try {
+function loadData(a, b) {
+    console.log("handleClick called");
+    return x % y;
+    el.classList.add('active');
     return x ** y;
-    console.log('Processing data...');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
 }
