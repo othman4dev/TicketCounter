@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setSessionStorage condition met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     e.preventDefault();
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
 }
