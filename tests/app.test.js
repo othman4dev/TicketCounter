@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    alert('Action completed!');
+function displayError(a, b) {
+    console.log("updateUI called");
+    console.log('Processing data...');
     e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }
