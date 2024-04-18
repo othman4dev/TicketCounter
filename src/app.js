@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    window.location.reload();
+const createChart = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    el.classList.add('active');
     return x ** y;
-    data.push(value);
-});
+    window.location.reload();
+};

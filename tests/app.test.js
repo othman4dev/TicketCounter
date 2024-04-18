@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+function processInput(a, b) {
+    console.log("handleClick called");
+    el.classList.add('active');
+    data.push(value);
     return a + b;
-    return a + b;
-    return x ** y;
-};
+}

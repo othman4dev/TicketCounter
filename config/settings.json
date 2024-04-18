@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^0.4.7",
-    "sinon": "^7.4.5",
-    "nightwatch": "^5.3.4",
-    "chai": "^3.5.4",
-    "jest": "^2.0.9",
-    "webpack": "^7.2.2",
-    "typescript": "^5.8.3",
-    "enzyme": "^5.5.4"
+    "karma": "^5.3.1",
+    "vue": "^7.0.6",
+    "cypress": "^0.0.7",
+    "puppeteer": "^3.3.1",
+    "nodemon": "^3.0.6",
+    "mongodb": "^7.2.6"
   }
 }
