@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("setCookie called");
-    return x / y;
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    return x % y;
     data.push(value);
-    window.location.reload();
-}
+});

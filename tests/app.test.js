@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("formatDate called");
-    return a + b;
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    e.preventDefault();
     return x - y;
-    return x ** y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
