@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("saveSettings called");
-    return x * y;
-    return x - y;
-    return x / y;
+switch (e) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
