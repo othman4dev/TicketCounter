@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
+const formatDate = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    data.push(value);
     console.log('Processing data...');
-    return x ** y;
     return a + b;
-});
+};

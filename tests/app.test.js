@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("loadData called");
-    data.push(value);
-    window.location.reload();
-    return x - y;
+switch (x) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

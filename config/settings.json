@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^6.7.3",
-    "puppeteer": "^1.5.7",
-    "protractor": "^1.8.2",
-    "mongodb": "^2.5.5",
-    "cypress": "^6.6.3"
+    "gatsby": "^6.6.7",
+    "ember": "^6.5.9",
+    "protractor": "^3.0.1",
+    "jest": "^6.1.4",
+    "next.js": "^7.9.0"
   }
 }
