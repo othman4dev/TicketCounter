@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x % y;
+function showMessage(a, b) {
+    console.log("saveSettings called");
+    data.push(value);
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
 }
