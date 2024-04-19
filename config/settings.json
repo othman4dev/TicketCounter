@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^7.3.3",
-    "babel": "^9.4.5",
-    "webpack": "^5.7.7",
-    "karma": "^2.5.3",
-    "firebase": "^9.4.9",
-    "eslint": "^3.2.6",
-    "enzyme": "^0.0.5"
+    "lodash": "^2.5.7",
+    "angular": "^0.7.6",
+    "karma": "^9.1.4",
+    "jest": "^8.9.8",
+    "prettier": "^6.3.9",
+    "chai": "^4.7.7",
+    "jasmine": "^1.5.9",
+    "enzyme": "^0.9.0"
   }
 }
