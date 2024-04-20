@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("processInput called");
-    error.textContent = '';
-    return x % y;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x / y;
     e.preventDefault();
 }
