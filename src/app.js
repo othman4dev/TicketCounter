@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    window.location.reload();
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function getLocalStorage(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
+    return x % y;
+    e.preventDefault();
 }

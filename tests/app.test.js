@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event click triggered");
+    return x ** y;
     data.push(value);
-    return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+});
