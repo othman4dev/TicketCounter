@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    console.log('Processing data...');
+const toggleMenu = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    return x ** y;
+};

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^0.5.4",
-    "puppeteer": "^4.8.3",
-    "chai": "^4.2.3",
-    "firebase": "^8.0.2",
-    "jasmine": "^4.6.2",
-    "angular": "^9.0.1",
-    "babel": "^5.3.5",
-    "sinon": "^1.7.1"
+    "jest": "^3.4.8",
+    "karma": "^5.1.1",
+    "axios": "^8.7.3",
+    "graphql": "^3.2.1",
+    "ember": "^7.1.4",
+    "jasmine": "^1.7.7"
   }
 }
