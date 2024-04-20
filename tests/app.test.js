@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    window.location.reload();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return a + b;
+    return x / y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

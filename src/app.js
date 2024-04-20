@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x ** y;
-};
+function processInput(a, b) {
+    console.log("displayError called");
+    return x * y;
+    return x - y;
+    console.log('Processing data...');
+}

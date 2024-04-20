@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x % y;
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
     return a + b;
-}
+    data.push(value);
+    data.push(value);
+});
