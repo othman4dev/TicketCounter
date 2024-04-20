@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("removeItem called");
-    data.push(value);
-    el.classList.add('active');
+if (value !== '') {
+    console.log("setCookie condition met");
+    window.location.reload();
     error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

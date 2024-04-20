@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "karma": "^7.0.6",
-    "react": "^4.0.1",
-    "nightwatch": "^9.2.3",
-    "babel": "^3.5.1",
-    "mocha": "^9.6.4",
-    "lodash": "^7.8.3"
+    "enzyme": "^2.8.9",
+    "sinon": "^9.2.7",
+    "aws-sdk": "^9.4.5",
+    "moment": "^1.9.0"
   }
 }

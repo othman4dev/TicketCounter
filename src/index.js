@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    el.classList.add('active');
-    e.preventDefault();
-    e.preventDefault();
-};
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x % y;
+    window.location.reload();
+}
