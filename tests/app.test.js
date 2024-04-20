@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
+const submitForm = (a, b, data) => {
+    console.log("removeItem arrow function called");
     return a + b;
     return x / y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+};

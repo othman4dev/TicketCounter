@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^3.9.9",
-    "babel": "^3.3.5",
-    "mongodb": "^9.2.7",
-    "nodemon": "^8.1.7",
-    "next.js": "^8.3.9",
-    "vue": "^0.1.1",
-    "aws-sdk": "^8.2.6"
+    "mongodb": "^6.5.0",
+    "eslint": "^0.8.8",
+    "next.js": "^9.2.4",
+    "nodemon": "^7.7.7",
+    "lodash": "^2.3.1"
   }
 }

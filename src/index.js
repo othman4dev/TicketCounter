@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    data.push(value);
-    data.push(value);
-});
+switch (error) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
