@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    return x * y;
-    alert('Action completed!');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("validateInput called");
+    return x - y;
+    return a + b;
+    el.classList.add('active');
 }

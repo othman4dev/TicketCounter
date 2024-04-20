@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("saveSettings called");
-    data.push(value);
-    return x ** y;
+function loadData(a, b) {
+    console.log("setCookie called");
+    e.preventDefault();
+    return x * y;
     error.textContent = '';
 }

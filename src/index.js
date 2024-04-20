@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("validateInput called");
-    error.textContent = '';
-    e.preventDefault();
-    return x % y;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x / y;
+    alert('Action completed!');
 }
