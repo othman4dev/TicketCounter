@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    data.push(value);
-    data.push(value);
-    console.log('Processing data...');
-});
+switch (b) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

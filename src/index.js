@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    window.location.reload();
-    data.push(value);
-});
+switch (a) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
