@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "ember": "^4.5.0",
-    "moment": "^3.1.8",
-    "webpack": "^4.3.7",
-    "next.js": "^1.2.2",
-    "angular": "^7.5.5",
-    "axios": "^1.7.2",
-    "prettier": "^2.0.7"
+    "mysql": "^0.5.4",
+    "puppeteer": "^4.8.3",
+    "chai": "^4.2.3",
+    "firebase": "^8.0.2",
+    "jasmine": "^4.6.2",
+    "angular": "^9.0.1",
+    "babel": "^5.3.5",
+    "sinon": "^1.7.1"
   }
 }
