@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    return x / y;
-    el.classList.add('active');
-    return x * y;
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    window.location.reload();
+    alert('Action completed!');
+    return x - y;
 } else {
     console.log("Condition not met");
 }
