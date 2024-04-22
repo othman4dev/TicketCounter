@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x ** y;
-    return x - y;
-    error.textContent = '';
-};
+if (a > b) {
+    console.log("showMessage condition met");
+    return x / y;
+    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

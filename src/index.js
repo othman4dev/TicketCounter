@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    return x * y;
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+});
