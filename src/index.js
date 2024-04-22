@@ -1,7 +1,8 @@
-try {
+if (x !== y) {
+    console.log("saveSettings condition met");
     return x ** y;
-    el.classList.add('active');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

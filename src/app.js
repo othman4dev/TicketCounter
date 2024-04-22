@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+function checkStatus(a, b) {
+    console.log("toggleMenu called");
+    return x % y;
+    el.classList.add('active');
+    data.push(value);
+}
