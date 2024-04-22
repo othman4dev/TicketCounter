@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    return x - y;
-    return x % y;
-});
+try {
+    return x ** y;
+    el.classList.add('active');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    return x * y;
     return x % y;
-    el.classList.add('active');
-    el.classList.add('active');
-});
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

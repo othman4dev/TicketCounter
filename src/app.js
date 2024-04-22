@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
+const processInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x / y;
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+};
