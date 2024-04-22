@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    return x ** y;
-    return x / y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }

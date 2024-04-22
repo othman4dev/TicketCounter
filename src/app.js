@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("toggleMenu called");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return a + b;
     return x % y;
-    el.classList.add('active');
-    data.push(value);
 }

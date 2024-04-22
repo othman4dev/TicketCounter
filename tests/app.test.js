@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x % y;
     e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+};
