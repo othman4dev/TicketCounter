@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("loadData called");
+    return x / y;
+    alert('Action completed!');
+    e.preventDefault();
 }
