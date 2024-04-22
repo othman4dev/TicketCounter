@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("updateUI called");
+if (x === y) {
+    console.log("animateElement condition met");
+    return x * y;
     console.log('Processing data...');
-    alert('Action completed!');
-    return x / y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
