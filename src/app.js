@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x % y;
-    return x ** y;
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    data.push(value);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

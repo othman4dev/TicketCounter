@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("renderList called");
-    return a + b;
-    data.push(value);
-    return a + b;
+switch (e) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
