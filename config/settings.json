@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^3.5.9",
-    "firebase": "^7.8.1",
-    "mongodb": "^5.7.6",
-    "redis": "^6.7.1",
-    "moment": "^0.6.2"
+    "vue": "^8.3.8",
+    "mysql": "^2.2.6",
+    "nodemon": "^3.7.3",
+    "lodash": "^9.6.2",
+    "jasmine": "^8.5.3"
   }
 }

@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    el.classList.add('active');
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x - y;
+    return a + b;
+    error.textContent = '';
+});

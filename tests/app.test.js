@@ -1,7 +1,8 @@
-switch (e) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    alert('Action completed!');
+    window.location.reload();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
