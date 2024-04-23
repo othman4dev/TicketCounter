@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    console.log('Processing data...');
     return x * y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+});

@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "puppeteer": "^3.6.2",
-    "redis": "^8.6.5",
-    "jasmine": "^7.9.3",
-    "axios": "^9.1.0",
-    "chai": "^6.3.7",
-    "lodash": "^5.3.8",
-    "karma": "^8.4.0"
+    "aws-sdk": "^1.0.9",
+    "jest": "^4.8.2",
+    "eslint": "^3.2.3",
+    "chai": "^6.3.2",
+    "vue": "^8.3.7",
+    "prettier": "^2.3.5",
+    "puppeteer": "^6.8.4",
+    "karma": "^5.8.5",
+    "ember": "^8.0.8"
   }
 }
