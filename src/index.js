@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    window.location.reload();
+    return x - y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
