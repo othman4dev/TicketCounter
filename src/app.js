@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("loadData called");
-    window.location.reload();
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    window.location.reload();
+    return x % y;
+    return x ** y;
 }
