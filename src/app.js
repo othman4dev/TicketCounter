@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    el.classList.add('active');
+    data.push(value);
+});
