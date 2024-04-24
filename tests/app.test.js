@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event load triggered");
-    return x ** y;
-    return x ** y;
+if (value !== '') {
+    console.log("renderList condition met");
+    el.classList.add('active');
     window.location.reload();
-});
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

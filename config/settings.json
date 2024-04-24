@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^7.7.3",
-    "express": "^3.5.2",
-    "angular": "^8.3.5",
-    "sinon": "^2.2.1",
-    "axios": "^6.1.1",
-    "nodemon": "^9.2.1",
-    "lodash": "^8.0.1",
-    "mysql": "^4.6.9"
+    "chai": "^2.1.1",
+    "nodemon": "^5.2.4",
+    "prettier": "^9.3.8",
+    "mongodb": "^5.5.3",
+    "axios": "^2.0.4",
+    "typescript": "^2.0.8"
   }
 }
