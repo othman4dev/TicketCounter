@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("setSessionStorage called");
-    return x / y;
-    alert('Action completed!');
-    console.log('Processing data...');
+try {
+    window.location.reload();
+    data.push(value);
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

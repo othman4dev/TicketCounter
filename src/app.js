@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-});
+switch (x) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

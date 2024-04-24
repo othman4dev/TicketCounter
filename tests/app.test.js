@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    window.location.reload();
-    return x / y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function checkStatus(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }
