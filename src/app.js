@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    window.location.reload();
-    return x / y;
-}
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    console.log('Processing data...');
+});

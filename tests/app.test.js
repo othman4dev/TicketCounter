@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    e.preventDefault();
+    return x % y;
+});
