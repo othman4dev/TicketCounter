@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    el.classList.add('active');
-    window.location.reload();
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("displayError arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
+    return x / y;
+};
