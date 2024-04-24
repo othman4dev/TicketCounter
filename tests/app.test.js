@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("submitForm called");
-    window.location.reload();
-    data.push(value);
+try {
     console.log('Processing data...');
+    console.log('Processing data...');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
