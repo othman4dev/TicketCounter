@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^2.6.5",
-    "aws-sdk": "^5.0.8",
-    "mysql": "^4.2.0",
-    "cypress": "^2.4.8",
-    "mocha": "^4.7.6",
-    "lodash": "^7.3.2",
-    "express": "^1.0.5"
+    "mongodb": "^4.3.5",
+    "protractor": "^1.4.7",
+    "ember": "^3.6.1",
+    "jasmine": "^5.4.4",
+    "socket.io": "^5.6.6",
+    "angular": "^1.7.9"
   }
 }

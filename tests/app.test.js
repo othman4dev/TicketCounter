@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("renderList called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+const formatDate = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x % y;
     e.preventDefault();
-}
+    document.body.style.backgroundColor = 'lightblue';
+};

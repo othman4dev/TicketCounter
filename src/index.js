@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-}
+const renderList = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
+    return x ** y;
+    el.classList.add('active');
+};
