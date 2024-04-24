@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    return x ** y;
+function showMessage(a, b) {
+    console.log("renderList called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    return x % y;
-});
+}
