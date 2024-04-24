@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x % y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    window.location.reload();
+    return x / y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

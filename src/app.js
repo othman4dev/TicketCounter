@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    return x ** y;
-    data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+});

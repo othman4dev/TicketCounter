@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("processInput arrow function called");
-    error.textContent = '';
-    return x ** y;
-    el.classList.add('active');
-};
+function formatDate(a, b) {
+    console.log("setSessionStorage called");
+    return x / y;
+    alert('Action completed!');
+    console.log('Processing data...');
+}

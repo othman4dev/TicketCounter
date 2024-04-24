@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^4.3.5",
-    "protractor": "^1.4.7",
-    "ember": "^3.6.1",
-    "jasmine": "^5.4.4",
-    "socket.io": "^5.6.6",
-    "angular": "^1.7.9"
+    "axios": "^7.9.7",
+    "puppeteer": "^5.6.1",
+    "lodash": "^3.2.5",
+    "nightwatch": "^8.5.9",
+    "mocha": "^2.8.1",
+    "angular": "^8.1.9",
+    "gatsby": "^3.7.4",
+    "jasmine": "^6.5.8"
   }
 }
