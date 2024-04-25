@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("checkStatus called");
-    return x - y;
+try {
+    return x * y;
+    alert('Action completed!');
     window.location.reload();
-    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

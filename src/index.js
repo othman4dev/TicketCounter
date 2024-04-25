@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    window.location.reload();
-    return x % y;
+function toggleMenu(a, b) {
+    console.log("displayError called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x ** y;
 }
