@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    return x / y;
-    return x % y;
-};
+function loadData(a, b) {
+    console.log("checkStatus called");
+    return x - y;
+    data.push(value);
+    data.push(value);
+}

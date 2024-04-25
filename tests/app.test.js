@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x % y;
-    error.textContent = '';
-    window.location.reload();
-};
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    return x * y;
+    alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
