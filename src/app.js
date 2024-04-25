@@ -1,6 +1,6 @@
 try {
-    data.push(value);
-    return x / y;
+    alert('Action completed!');
+    e.preventDefault();
     data.push(value);
 } catch (error) {
     console.error("Error:", error);

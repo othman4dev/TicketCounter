@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    data.push(value);
+    alert('Action completed!');
+});
