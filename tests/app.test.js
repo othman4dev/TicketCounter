@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    error.textContent = '';
-});
+function saveSettings(a, b) {
+    console.log("animateElement called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x / y;
+}

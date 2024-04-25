@@ -1,7 +1,8 @@
-switch (data) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("setCookie condition met");
+    e.preventDefault();
+    error.textContent = '';
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
