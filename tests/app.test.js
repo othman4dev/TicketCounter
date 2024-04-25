@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    return x * y;
+try {
+    data.push(value);
     alert('Action completed!');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

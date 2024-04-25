@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("checkStatus called");
-    return x - y;
-    data.push(value);
-    data.push(value);
-}
+const hideModal = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x % y;
+    return x / y;
+    el.classList.add('active');
+};
