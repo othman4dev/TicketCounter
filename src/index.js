@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
+    console.log('Processing data...');
+    error.textContent = '';
+});
