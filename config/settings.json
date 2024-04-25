@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^0.2.7",
-    "lodash": "^5.4.7",
-    "jasmine": "^3.2.7",
-    "gatsby": "^0.7.6",
-    "enzyme": "^6.2.6",
-    "karma": "^5.1.0"
+    "moment": "^9.0.1",
+    "jest": "^3.0.9",
+    "socket.io": "^6.8.4",
+    "lodash": "^5.9.1",
+    "cypress": "^9.5.0",
+    "next.js": "^4.5.1",
+    "gatsby": "^3.7.5",
+    "mysql": "^6.7.7"
   }
 }

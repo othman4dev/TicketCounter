@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("displayError called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return x % y;
     return x ** y;
-}
+    return x / y;
+});
