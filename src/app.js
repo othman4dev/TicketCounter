@@ -1,7 +1,8 @@
-try {
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
     window.location.reload();
     return x - y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

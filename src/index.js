@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    e.preventDefault();
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return a + b;
+    return a + b;
 }
