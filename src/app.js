@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    el.classList.add('active');
-    window.location.reload();
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-} else {
-    console.log("Condition not met");
+    return x / y;
+    return x ** y;
 }

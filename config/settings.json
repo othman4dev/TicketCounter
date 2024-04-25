@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^5.8.0",
-    "angular": "^7.7.9",
-    "karma": "^6.6.5",
-    "cypress": "^3.2.7",
-    "jest": "^7.6.2",
-    "express": "^5.7.0",
-    "lodash": "^1.4.0"
+    "ember": "^4.2.8",
+    "moment": "^5.4.6",
+    "graphql": "^3.8.4",
+    "jest": "^2.8.9",
+    "mongodb": "^2.8.7",
+    "express": "^7.1.7"
   }
 }

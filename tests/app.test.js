@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x % y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("saveSettings called");
+    return x / y;
+    data.push(value);
+    window.location.reload();
 }
