@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^3.0.9",
-    "prettier": "^4.8.1",
-    "axios": "^0.3.8",
-    "enzyme": "^7.2.2",
-    "babel": "^7.3.0",
-    "jasmine": "^3.9.8",
-    "cypress": "^1.0.3",
-    "jest": "^3.6.5"
+    "webpack": "^7.7.6",
+    "redis": "^9.4.6",
+    "protractor": "^2.9.0",
+    "react": "^3.4.9",
+    "socket.io": "^3.5.6",
+    "graphql": "^0.5.0",
+    "jest": "^0.1.5",
+    "nodemon": "^4.3.7"
   }
 }

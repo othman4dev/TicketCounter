@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("setSessionStorage called");
-    return a + b;
-    return x / y;
-    window.location.reload();
-}
+const formatDate = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x ** y;
+    return x ** y;
+    el.classList.add('active');
+};
