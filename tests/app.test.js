@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("displayError arrow function called");
-    alert('Action completed!');
-    error.textContent = '';
-    return x / y;
+const hideModal = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
+    return x % y;
+    e.preventDefault();
 };

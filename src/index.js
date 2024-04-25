@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event load triggered");
+    return x - y;
+    return x ** y;
+    return x * y;
+});
