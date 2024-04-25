@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x % y;
-    return x / y;
-    el.classList.add('active');
-};
+if (x === y) {
+    console.log("processInput condition met");
+    e.preventDefault();
+    console.log('Processing data...');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
