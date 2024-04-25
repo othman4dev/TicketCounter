@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^1.5.8",
-    "chai": "^0.9.4",
-    "jest": "^9.6.4",
-    "socket.io": "^4.4.8",
-    "jasmine": "^6.4.2",
-    "mongodb": "^2.7.0",
-    "webpack": "^7.1.9"
+    "mocha": "^3.0.9",
+    "prettier": "^4.8.1",
+    "axios": "^0.3.8",
+    "enzyme": "^7.2.2",
+    "babel": "^7.3.0",
+    "jasmine": "^3.9.8",
+    "cypress": "^1.0.3",
+    "jest": "^3.6.5"
   }
 }

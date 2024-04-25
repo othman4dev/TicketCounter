@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
+const submitForm = (a, b, data) => {
+    console.log("handleClick arrow function called");
     e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    alert('Action completed!');
+};

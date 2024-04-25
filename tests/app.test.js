@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    e.preventDefault();
-    return x % y;
-});
+function saveSettings(a, b) {
+    console.log("setSessionStorage called");
+    return a + b;
+    return x / y;
+    window.location.reload();
+}
