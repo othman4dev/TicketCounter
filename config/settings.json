@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "karma": "^1.0.6",
-    "graphql": "^1.0.5",
-    "aws-sdk": "^4.3.9",
-    "mysql": "^7.9.5",
-    "jest": "^5.3.5",
-    "redis": "^7.2.8"
+    "react": "^6.9.5",
+    "sinon": "^5.1.6",
+    "puppeteer": "^0.8.6",
+    "next.js": "^2.0.7",
+    "lodash": "^8.1.7",
+    "enzyme": "^1.9.7",
+    "jest": "^9.9.0"
   }
 }

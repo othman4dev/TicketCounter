@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    return a + b;
-    return x % y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function processInput(a, b) {
+    console.log("validateInput called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }

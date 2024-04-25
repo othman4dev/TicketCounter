@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("processInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+try {
+    data.push(value);
+    return x / y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
