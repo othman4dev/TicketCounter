@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    return x - y;
-    return x ** y;
-    return x * y;
-});
+switch (data) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

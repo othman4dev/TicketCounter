@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    e.preventDefault();
-    window.location.reload();
-}
+const loadData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    alert('Action completed!');
+};

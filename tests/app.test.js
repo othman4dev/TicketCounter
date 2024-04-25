@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    window.location.reload();
-    return x % y;
-    e.preventDefault();
-};
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    alert('Action completed!');
+    error.textContent = '';
+});
