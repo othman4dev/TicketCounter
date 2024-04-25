@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    return x / y;
+    return x % y;
+};

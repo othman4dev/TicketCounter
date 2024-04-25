@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("change", function() {
-    console.log("Event change triggered");
+try {
+    e.preventDefault();
     return x % y;
-    return x ** y;
-    return x / y;
-});
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
