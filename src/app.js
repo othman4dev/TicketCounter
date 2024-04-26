@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("processInput condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    e.preventDefault();
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
+    return x - y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }

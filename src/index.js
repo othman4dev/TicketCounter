@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    data.push(value);
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    return x % y;
+    return x / y;
+    alert('Action completed!');
+});

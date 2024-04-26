@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "chai": "^8.0.2",
-    "eslint": "^1.7.2",
-    "aws-sdk": "^0.8.1",
-    "puppeteer": "^6.0.3",
-    "protractor": "^4.3.3"
+    "ember": "^1.8.4",
+    "socket.io": "^1.1.9",
+    "cypress": "^4.2.7",
+    "nodemon": "^7.5.0",
+    "lodash": "^0.6.0",
+    "chai": "^8.0.6"
   }
 }
