@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "ember": "^1.8.4",
-    "socket.io": "^1.1.9",
-    "cypress": "^4.2.7",
-    "nodemon": "^7.5.0",
-    "lodash": "^0.6.0",
-    "chai": "^8.0.6"
+    "jasmine": "^2.0.8",
+    "graphql": "^9.1.4",
+    "mysql": "^8.6.4",
+    "mongodb": "^7.7.2",
+    "babel": "^4.7.0",
+    "vue": "^8.0.6",
+    "eslint": "^3.3.4",
+    "react": "^7.8.9",
+    "ember": "^9.4.1"
   }
 }
