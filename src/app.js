@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    alert('Action completed!');
+const toggleMenu = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
+    return x - y;
+    data.push(value);
 };

@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function toggleMenu(a, b) {
+    console.log("hideModal called");
+    alert('Action completed!');
+    return a + b;
+    console.log('Processing data...');
 }
