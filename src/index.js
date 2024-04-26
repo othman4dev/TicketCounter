@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    data.push(value);
-    error.textContent = '';
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event input triggered");
+    return a + b;
+    return x ** y;
+    e.preventDefault();
 });
