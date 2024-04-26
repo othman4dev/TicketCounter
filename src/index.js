@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    data.push(value);
+    error.textContent = '';
+});
