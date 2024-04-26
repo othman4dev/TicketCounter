@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("renderList called");
+    return x / y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }
