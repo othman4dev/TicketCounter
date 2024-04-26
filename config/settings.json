@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^6.5.2",
-    "redis": "^1.8.0",
-    "webpack": "^7.0.4",
-    "next.js": "^5.7.3",
-    "sinon": "^4.1.6",
-    "nightwatch": "^3.0.6"
+    "socket.io": "^8.5.9",
+    "moment": "^2.3.6",
+    "next.js": "^8.4.7",
+    "aws-sdk": "^9.3.7",
+    "babel": "^9.6.0",
+    "gatsby": "^2.1.9"
   }
 }

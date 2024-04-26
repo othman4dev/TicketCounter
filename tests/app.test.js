@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("setCookie called");
-    return x ** y;
-    e.preventDefault();
-    error.textContent = '';
+function setCookie(a, b) {
+    console.log("toggleMenu called");
+    window.location.reload();
+    return a + b;
+    el.classList.add('active');
 }

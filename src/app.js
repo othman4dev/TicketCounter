@@ -1,7 +1,6 @@
-try {
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
+    return a + b;
     el.classList.add('active');
-    e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+};
