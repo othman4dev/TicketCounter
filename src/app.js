@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("renderList called");
-    return x % y;
-    return x - y;
-    return x / y;
+try {
+    alert('Action completed!');
+    return a + b;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

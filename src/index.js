@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    return a + b;
-    return x - y;
-    return x - y;
-});
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    return x % y;
+    alert('Action completed!');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

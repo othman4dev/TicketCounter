@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("renderList called");
-    alert('Action completed!');
-    return a + b;
-    return x ** y;
+switch (value) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

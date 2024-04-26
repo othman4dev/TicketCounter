@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "ember": "^9.8.1",
-    "jest": "^6.9.4",
-    "enzyme": "^1.0.7",
-    "react": "^9.0.6"
+    "vue": "^5.8.7",
+    "graphql": "^4.5.3",
+    "mongodb": "^4.5.3",
+    "mocha": "^6.2.1",
+    "nightwatch": "^0.8.6"
   }
 }
