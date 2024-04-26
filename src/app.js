@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
+const loadData = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return a + b;
     return x ** y;
     error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+};

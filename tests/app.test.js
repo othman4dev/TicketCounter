@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    e.preventDefault();
+try {
+    return x - y;
     console.log('Processing data...');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

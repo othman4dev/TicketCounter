@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event scroll triggered");
+try {
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    return x % y;
-    return a + b;
-});
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
