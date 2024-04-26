@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
-    alert('Action completed!');
-    return a + b;
-    console.log('Processing data...');
+function removeItem(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    e.preventDefault();
+    error.textContent = '';
 }

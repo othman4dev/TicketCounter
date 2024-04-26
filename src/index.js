@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("checkStatus called");
-    return x * y;
-    el.classList.add('active');
-    data.push(value);
-}
+const formatDate = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x - y;
+    return a + b;
+    e.preventDefault();
+};
