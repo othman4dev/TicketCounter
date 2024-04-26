@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("toggleMenu called");
+if (value !== '') {
+    console.log("displayError condition met");
     window.location.reload();
-    return a + b;
-    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
