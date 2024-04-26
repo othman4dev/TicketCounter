@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^1.6.1",
-    "prettier": "^2.8.7",
-    "protractor": "^3.3.9",
-    "typescript": "^0.0.0"
+    "express": "^1.8.2",
+    "firebase": "^8.8.5",
+    "ember": "^4.5.4",
+    "babel": "^2.2.1",
+    "axios": "^0.4.3",
+    "eslint": "^4.9.0",
+    "webpack": "^2.3.7"
   }
 }

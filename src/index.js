@@ -1,7 +1,8 @@
-switch (e) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("loadData condition met");
+    alert('Action completed!');
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
