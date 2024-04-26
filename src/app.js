@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event input triggered");
-    return x * y;
-    alert('Action completed!');
+function renderList(a, b) {
+    console.log("renderList called");
+    return x % y;
     return x - y;
-});
+    return x / y;
+}

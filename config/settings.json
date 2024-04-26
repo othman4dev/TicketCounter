@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "express": "^1.8.2",
-    "firebase": "^8.8.5",
-    "ember": "^4.5.4",
-    "babel": "^2.2.1",
-    "axios": "^0.4.3",
-    "eslint": "^4.9.0",
-    "webpack": "^2.3.7"
+    "ember": "^9.8.1",
+    "jest": "^6.9.4",
+    "enzyme": "^1.0.7",
+    "react": "^9.0.6"
   }
 }

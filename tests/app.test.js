@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    return x / y;
+function renderList(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    return a + b;
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+}

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    return x - y;
+    return x - y;
+});
