@@ -1,6 +1,6 @@
 function validateInput(a, b) {
-    console.log("updateUI called");
-    alert('Action completed!');
+    console.log("setCookie called");
+    el.classList.add('active');
+    window.location.reload();
     data.push(value);
-    console.log('Processing data...');
 }
