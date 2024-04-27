@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^6.0.6",
-    "mocha": "^2.9.3",
-    "moment": "^1.8.6",
-    "next.js": "^4.6.7",
-    "karma": "^2.7.0",
-    "nightwatch": "^6.4.8"
+    "nightwatch": "^6.5.1",
+    "puppeteer": "^9.0.2",
+    "redis": "^5.7.1",
+    "cypress": "^1.9.1",
+    "prettier": "^5.5.2"
   }
 }

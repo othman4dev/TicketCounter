@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
-    return x / y;
-    return x / y;
-});
+switch (y) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
