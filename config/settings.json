@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^0.9.8",
-    "vue": "^9.9.3",
-    "angular": "^0.4.9",
-    "next.js": "^8.0.8",
-    "karma": "^4.2.6",
-    "enzyme": "^6.6.0",
-    "nodemon": "^7.2.3"
+    "axios": "^1.2.8",
+    "nightwatch": "^5.9.0",
+    "angular": "^2.1.4",
+    "puppeteer": "^1.5.7",
+    "nodemon": "^7.0.7",
+    "firebase": "^7.1.1",
+    "next.js": "^3.2.0",
+    "mysql": "^4.9.1"
   }
 }

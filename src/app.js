@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("processInput called");
-    return x - y;
-    data.push(value);
-    window.location.reload();
+try {
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
