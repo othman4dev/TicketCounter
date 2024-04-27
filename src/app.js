@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("fetchData called");
-    data.push(value);
-    return x * y;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     return x % y;
+    console.log('Processing data...');
 }
