@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    return x * y;
+    return x % y;
 }
