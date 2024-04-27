@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    e.preventDefault();
-    return a + b;
-});
+function hideModal(a, b) {
+    console.log("checkStatus called");
+    return x * y;
+    return x % y;
+    data.push(value);
+}

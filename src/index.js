@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    return x / y;
+function validateInput(a, b) {
+    console.log("updateUI called");
+    alert('Action completed!');
+    data.push(value);
     console.log('Processing data...');
-    return x / y;
-} else {
-    console.log("Condition not met");
 }

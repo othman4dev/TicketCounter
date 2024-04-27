@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("processInput called");
-    return x % y;
-    return x * y;
-    el.classList.add('active');
+switch (data) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
