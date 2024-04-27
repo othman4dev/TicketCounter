@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("saveSettings condition met");
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    return x / y;
     e.preventDefault();
-    return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+});
