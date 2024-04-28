@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    return a + b;
+    return x / y;
     return x % y;
-    return x ** y;
+} else {
+    console.log("Condition not met");
 }
