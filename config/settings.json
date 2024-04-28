@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "sinon": "^9.2.0",
-    "lodash": "^8.3.3",
-    "cypress": "^7.4.1",
-    "moment": "^5.1.1",
-    "next.js": "^8.4.3",
-    "karma": "^8.9.7"
+    "graphql": "^0.2.9",
+    "angular": "^2.6.5",
+    "protractor": "^3.9.5",
+    "jest": "^5.7.9"
   }
 }

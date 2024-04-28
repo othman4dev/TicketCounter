@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
+    el.classList.add('active');
+    return x % y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
