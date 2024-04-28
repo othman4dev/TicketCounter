@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    return x % y;
+    return x / y;
+};

@@ -1,6 +1,7 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x % y;
-    console.log('Processing data...');
+switch (data) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
