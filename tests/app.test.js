@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("saveSettings called");
-    e.preventDefault();
-    return x - y;
-    return a + b;
+switch (a) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

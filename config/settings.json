@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "redis": "^4.7.7",
-    "firebase": "^1.5.1",
-    "karma": "^4.2.6",
-    "protractor": "^2.4.6",
-    "lodash": "^8.8.4",
-    "jasmine": "^6.6.8"
+    "mongodb": "^7.4.9",
+    "karma": "^0.3.0",
+    "redis": "^1.9.8",
+    "lodash": "^4.1.1",
+    "chai": "^2.7.4",
+    "angular": "^6.2.9",
+    "protractor": "^4.3.2"
   }
 }

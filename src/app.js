@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("checkStatus called");
+const loadData = (a, b, data) => {
+    console.log("hideModal arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x % y;
-}
+    console.log('Processing data...');
+    el.classList.add('active');
+};

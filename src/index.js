@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    error.textContent = '';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    console.log('Processing data...');
+    alert('Action completed!');
+});
