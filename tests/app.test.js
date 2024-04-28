@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+function saveSettings(a, b) {
+    console.log("saveSettings called");
+    e.preventDefault();
+    return x - y;
+    return a + b;
 }

@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^0.2.9",
-    "angular": "^2.6.5",
-    "protractor": "^3.9.5",
-    "jest": "^5.7.9"
+    "redis": "^4.7.7",
+    "firebase": "^1.5.1",
+    "karma": "^4.2.6",
+    "protractor": "^2.4.6",
+    "lodash": "^8.8.4",
+    "jasmine": "^6.6.8"
   }
 }

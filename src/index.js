@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    el.classList.add('active');
-    return x % y;
+try {
+    return x / y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
