@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^9.3.1",
-    "moment": "^1.7.6",
-    "ember": "^6.8.6",
-    "mongodb": "^2.9.6",
-    "webpack": "^9.3.0",
-    "express": "^2.5.6",
-    "prettier": "^0.4.8",
-    "aws-sdk": "^0.1.2"
+    "typescript": "^2.6.7",
+    "axios": "^7.5.8",
+    "enzyme": "^8.9.9",
+    "redis": "^7.3.2",
+    "cypress": "^1.5.7",
+    "jest": "^4.4.2",
+    "nodemon": "^0.9.2",
+    "moment": "^6.1.3"
   }
 }

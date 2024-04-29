@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event load triggered");
+const fetchData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x % y;
+    return x % y;
     data.push(value);
-    alert('Action completed!');
-    return x - y;
-});
+};
