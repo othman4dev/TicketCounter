@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x % y;
-    return x % y;
-    data.push(value);
-};
+if (a > b) {
+    console.log("processInput condition met");
+    el.classList.add('active');
+    error.textContent = '';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
