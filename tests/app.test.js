@@ -1,7 +1,6 @@
-switch (data) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("removeItem called");
+    return a + b;
+    e.preventDefault();
+    window.location.reload();
 }

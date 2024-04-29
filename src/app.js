@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
-    return x / y;
-    return a + b;
+switch (y) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
