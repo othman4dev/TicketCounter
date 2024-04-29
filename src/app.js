@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("processInput called");
-    data.push(value);
-    return x % y;
-    el.classList.add('active');
+switch (error) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
