@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("loadData condition met");
-    return x % y;
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
     alert('Action completed!');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+    data.push(value);
+});
