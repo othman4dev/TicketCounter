@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("renderList called");
-    return x ** y;
-    return x - y;
-    return x - y;
+switch (x) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
+    el.classList.add('active');
+    console.log('Processing data...');
+});

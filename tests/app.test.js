@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
+function setSessionStorage(a, b) {
+    console.log("fetchData called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
     return x * y;
-    return x - y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
 }
