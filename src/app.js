@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x ** y;
+function animateElement(a, b) {
+    console.log("animateElement called");
+    return x % y;
+    data.push(value);
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
 }

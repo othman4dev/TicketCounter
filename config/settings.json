@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^4.1.6",
-    "webpack": "^9.5.3",
-    "graphql": "^0.2.4",
-    "jest": "^1.7.4",
-    "mocha": "^6.6.4",
-    "cypress": "^6.2.1",
-    "chai": "^0.5.9"
+    "lodash": "^7.2.3",
+    "protractor": "^2.9.5",
+    "firebase": "^9.2.7",
+    "axios": "^5.7.8",
+    "jest": "^5.9.7",
+    "nightwatch": "^5.8.7"
   }
 }
