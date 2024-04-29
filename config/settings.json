@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^7.4.9",
-    "karma": "^0.3.0",
-    "redis": "^1.9.8",
-    "lodash": "^4.1.1",
-    "chai": "^2.7.4",
-    "angular": "^6.2.9",
-    "protractor": "^4.3.2"
+    "mysql": "^9.3.1",
+    "moment": "^1.7.6",
+    "ember": "^6.8.6",
+    "mongodb": "^2.9.6",
+    "webpack": "^9.3.0",
+    "express": "^2.5.6",
+    "prettier": "^0.4.8",
+    "aws-sdk": "^0.1.2"
   }
 }
