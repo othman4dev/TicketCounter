@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("setSessionStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x ** y;
+try {
+    return x * y;
+    console.log('Processing data...');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
