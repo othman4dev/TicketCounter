@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^7.2.3",
-    "protractor": "^2.9.5",
-    "firebase": "^9.2.7",
-    "axios": "^5.7.8",
-    "jest": "^5.9.7",
-    "nightwatch": "^5.8.7"
+    "puppeteer": "^9.2.0",
+    "babel": "^2.6.3",
+    "jasmine": "^1.0.1",
+    "typescript": "^0.0.7",
+    "express": "^7.6.2",
+    "aws-sdk": "^2.2.4",
+    "redis": "^8.0.5",
+    "jest": "^6.8.9"
   }
 }

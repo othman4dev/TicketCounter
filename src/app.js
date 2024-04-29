@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("animateElement called");
-    return x % y;
-    data.push(value);
-    return x - y;
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    error.textContent = '';
+    window.location.reload();
 }
