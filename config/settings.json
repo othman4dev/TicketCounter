@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^3.2.1",
-    "mongodb": "^1.9.9",
-    "angular": "^4.4.0",
-    "lodash": "^7.5.8",
-    "mysql": "^0.0.8",
-    "svelte": "^3.9.1",
-    "jasmine": "^7.8.4"
+    "eslint": "^3.6.0",
+    "enzyme": "^7.5.0",
+    "jasmine": "^9.5.3",
+    "nodemon": "^5.0.3",
+    "puppeteer": "^8.5.5"
   }
 }

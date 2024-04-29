@@ -1,7 +1,8 @@
-try {
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    return x * y;
+    return x - y;
     console.log('Processing data...');
-    return a + b;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

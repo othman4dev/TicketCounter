@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
