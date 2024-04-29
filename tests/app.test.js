@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const showMessage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x * y;
+    data.push(value);
+    return x * y;
+};

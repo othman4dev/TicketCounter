@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    el.classList.add('active');
-    return x % y;
+function hideModal(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x ** y;
 }
