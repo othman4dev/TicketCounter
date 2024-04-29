@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
+document.querySelector(".container").addEventListener("mouseover", function() {
     console.log("Event keydown triggered");
-    el.classList.add('active');
-    alert('Action completed!');
-    console.log('Processing data...');
+    data.push(value);
+    return a + b;
+    return x * y;
 });
