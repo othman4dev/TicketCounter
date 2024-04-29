@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
-    el.classList.add('active');
-    data.push(value);
-});
+try {
+    return x / y;
+    return x / y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
