@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("removeItem called");
+try {
+    console.log('Processing data...');
     return a + b;
-    e.preventDefault();
-    window.location.reload();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

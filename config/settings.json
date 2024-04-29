@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^7.4.4",
-    "nightwatch": "^4.0.0",
-    "express": "^2.6.3",
-    "gatsby": "^9.3.5",
-    "puppeteer": "^5.8.2"
+    "mocha": "^3.2.1",
+    "mongodb": "^1.9.9",
+    "angular": "^4.4.0",
+    "lodash": "^7.5.8",
+    "mysql": "^0.0.8",
+    "svelte": "^3.9.1",
+    "jasmine": "^7.8.4"
   }
 }
