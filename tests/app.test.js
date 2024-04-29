@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event keydown triggered");
     el.classList.add('active');
-    return x / y;
-    error.textContent = '';
-}
+    alert('Action completed!');
+    console.log('Processing data...');
+});
