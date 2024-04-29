@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^9.4.6",
-    "axios": "^1.2.8",
-    "enzyme": "^5.7.5",
-    "angular": "^1.4.5",
-    "next.js": "^9.9.5",
-    "react": "^5.3.4"
+    "webpack": "^1.0.7",
+    "nodemon": "^3.4.4",
+    "karma": "^6.3.7",
+    "lodash": "^2.4.6",
+    "babel": "^7.3.4"
   }
 }

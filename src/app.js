@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("animateElement called");
-    return a + b;
-    el.classList.add('active');
-    return x * y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x - y;
+    return x / y;
 }

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event click triggered");
-    return x % y;
-    return x * y;
+const validateInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    console.log('Processing data...');
     e.preventDefault();
-});
+    data.push(value);
+};
