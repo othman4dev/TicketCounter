@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    return x ** y;
-    data.push(value);
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x / y;
+    return x * y;
+}

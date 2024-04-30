@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "ember": "^7.3.0",
-    "jest": "^9.4.6",
-    "next.js": "^1.9.1",
-    "karma": "^8.9.7",
-    "protractor": "^9.0.3",
-    "gatsby": "^6.4.2",
-    "aws-sdk": "^5.0.9",
-    "jasmine": "^7.1.7",
-    "axios": "^4.4.0"
+    "puppeteer": "^3.2.5",
+    "redis": "^9.3.2",
+    "aws-sdk": "^4.5.0",
+    "socket.io": "^9.8.8",
+    "express": "^8.8.5"
   }
 }

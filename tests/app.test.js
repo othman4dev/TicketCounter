@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    alert('Action completed!');
-};
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return x ** y;
+    el.classList.add('active');
+});
