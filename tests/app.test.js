@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("loadData condition met");
+    return x % y;
     alert('Action completed!');
-    window.location.reload();
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

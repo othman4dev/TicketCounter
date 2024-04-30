@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("toggleMenu condition met");
+const removeItem = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x % y;
+    window.location.reload();
     return x - y;
-    alert('Action completed!');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+};

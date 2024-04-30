@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    e.preventDefault();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    window.location.reload();
+    data.push(value);
+});
