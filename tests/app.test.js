@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    console.log('Processing data...');
-    return x % y;
-    return x * y;
-});
+function saveSettings(a, b) {
+    console.log("validateInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    window.location.reload();
+}
