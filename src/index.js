@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    window.location.reload();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    return x ** y;
+    data.push(value);
+});

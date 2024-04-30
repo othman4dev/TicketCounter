@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x / y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    alert('Action completed!');
+};
