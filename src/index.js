@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
     e.preventDefault();
     data.push(value);
-};
+}

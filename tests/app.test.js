@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    return x % y;
+    return x * y;
+});
