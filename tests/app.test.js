@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    return x ** y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     el.classList.add('active');
-});
+    error.textContent = '';
+}
