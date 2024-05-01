@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    return x % y;
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function checkStatus(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }
