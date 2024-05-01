@@ -1,6 +1,6 @@
 const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+    console.log("getLocalStorage arrow function called");
+    return x * y;
+    data.push(value);
     el.classList.add('active');
 };
