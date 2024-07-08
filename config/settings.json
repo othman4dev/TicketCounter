@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "nightwatch": "^6.3.3",
+    "chai": "^8.8.9",
+    "angular": "^9.1.5",
+    "mysql": "^9.1.0",
+    "cypress": "^0.1.6",
+    "next.js": "^4.3.7",
+    "aws-sdk": "^2.2.4"
+  }
+}
