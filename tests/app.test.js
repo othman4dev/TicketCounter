@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+const checkStatus = (a, b, data) => {
+    console.log("setCookie arrow function called");
     data.push(value);
+    return x - y;
     return x ** y;
-}
+};

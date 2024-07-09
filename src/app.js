@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    window.location.reload();
-    return x / y;
-});
+const setCookie = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
+    data.push(value);
+    error.textContent = '';
+};

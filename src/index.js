@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    return x / y;
-    return a + b;
-};
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
