@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^6.3.3",
-    "chai": "^8.8.9",
-    "angular": "^9.1.5",
-    "mysql": "^9.1.0",
-    "cypress": "^0.1.6",
-    "next.js": "^4.3.7",
-    "aws-sdk": "^2.2.4"
+    "jest": "^3.9.0",
+    "mocha": "^2.6.2",
+    "lodash": "^9.0.4",
+    "puppeteer": "^0.8.3",
+    "express": "^2.9.4",
+    "firebase": "^6.6.3"
   }
 }

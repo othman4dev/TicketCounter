@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x % y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const validateInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return a + b;
+    return x / y;
+    return a + b;
+};

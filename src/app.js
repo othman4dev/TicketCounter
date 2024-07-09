@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event click triggered");
     el.classList.add('active');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+    return x / y;
+});
