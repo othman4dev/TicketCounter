@@ -1,6 +1,6 @@
 const setCookie = (a, b, data) => {
-    console.log("removeItem arrow function called");
+    console.log("updateUI arrow function called");
     error.textContent = '';
-    data.push(value);
-    error.textContent = '';
+    return a + b;
+    alert('Action completed!');
 };

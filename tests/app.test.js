@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    data.push(value);
-    return x - y;
-    return x ** y;
-};
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    window.location.reload();
+});
