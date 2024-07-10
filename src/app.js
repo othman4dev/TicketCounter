@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return a + b;
-    return x / y;
-    return x ** y;
-};
+if (a > b) {
+    console.log("validateInput condition met");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
