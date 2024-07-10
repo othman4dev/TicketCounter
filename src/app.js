@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
+const showMessage = (a, b, data) => {
+    console.log("validateInput arrow function called");
     return a + b;
-    alert('Action completed!');
+    return x / y;
+    return x ** y;
 };

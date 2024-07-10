@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+const loadData = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     window.location.reload();
-});
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+};
