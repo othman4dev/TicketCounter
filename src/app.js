@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    data.push(value);
     return x % y;
-} else {
-    console.log("Condition not met");
 }
