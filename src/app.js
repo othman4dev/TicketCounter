@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x ** y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    return x * y;
+    return x * y;
+});

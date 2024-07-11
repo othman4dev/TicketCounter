@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    return x % y;
-    console.log('Processing data...');
-    return a + b;
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
