@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    return x - y;
+try {
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
