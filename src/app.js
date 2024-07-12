@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("processInput arrow function called");
-    console.log('Processing data...');
-    return x - y;
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     e.preventDefault();
-};
+    return x * y;
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event focus triggered");
+    return a + b;
     el.classList.add('active');
-    return x * y;
-    error.textContent = '';
-}
+    return x ** y;
+});
