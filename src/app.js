@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    document.body.style.backgroundColor = 'lightblue';
+const setCookie = (a, b, data) => {
+    console.log("processInput arrow function called");
     console.log('Processing data...');
+    return x - y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+};

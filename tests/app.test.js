@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    error.textContent = '';
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
 }
