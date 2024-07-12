@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event input triggered");
+try {
+    return x * y;
+    alert('Action completed!');
     return a + b;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-});
+} catch (error) {
+    console.error("Error:", error);
+}
