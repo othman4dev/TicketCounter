@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    alert('Action completed!');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    error.textContent = '';
+    return x % y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
