@@ -1,7 +1,6 @@
-try {
+function hideModal(a, b) {
+    console.log("handleClick called");
     return x - y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    return x % y;
 }

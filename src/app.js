@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    alert('Action completed!');
-    return x * y;
-    return x * y;
-});
+switch (y) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

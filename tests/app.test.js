@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
-    return x % y;
-    data.push(value);
-};
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    return a + b;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+});

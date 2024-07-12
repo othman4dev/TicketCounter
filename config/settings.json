@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^3.4.6",
-    "graphql": "^2.6.6",
-    "firebase": "^6.1.9",
-    "mongodb": "^3.8.5",
-    "react": "^5.3.6"
+    "chai": "^1.2.7",
+    "firebase": "^0.7.7",
+    "lodash": "^5.0.5",
+    "webpack": "^2.4.0",
+    "svelte": "^6.3.8",
+    "express": "^6.2.5",
+    "enzyme": "^2.4.3",
+    "nodemon": "^3.6.8"
   }
 }
