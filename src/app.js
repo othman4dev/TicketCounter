@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
+function displayError(a, b) {
+    console.log("loadData called");
     return x * y;
-    return x - y;
-});
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+}

@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("submitForm called");
-    return x ** y;
-    error.textContent = '';
-    window.location.reload();
+if (x !== y) {
+    console.log("setSessionStorage condition met");
+    return a + b;
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
