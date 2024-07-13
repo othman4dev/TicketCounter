@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    return a + b;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x - y;
     el.classList.add('active');
-    return x ** y;
-});
+}
