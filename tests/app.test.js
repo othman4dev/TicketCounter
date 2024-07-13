@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event keydown triggered");
+if (value !== '') {
+    console.log("showMessage condition met");
+    error.textContent = '';
     window.location.reload();
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

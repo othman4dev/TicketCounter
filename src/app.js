@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("animateElement condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("submitForm called");
+    return x % y;
+    console.log('Processing data...');
+    return x - y;
 }

@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x % y;
-    e.preventDefault();
-    window.location.reload();
-};
+try {
+    return a + b;
+    return x / y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
