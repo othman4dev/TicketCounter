@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x ** y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x % y;
+    e.preventDefault();
+    window.location.reload();
+};

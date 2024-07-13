@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setSessionStorage condition met");
-    return a + b;
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+});
