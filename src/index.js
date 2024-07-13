@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    return a + b;
-    el.classList.add('active');
-    el.classList.add('active');
+if (x !== y) {
+    console.log("hideModal condition met");
+    return x ** y;
+    e.preventDefault();
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
