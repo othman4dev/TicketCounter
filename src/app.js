@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event load triggered");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    window.location.reload();
-    return x / y;
-});
+    alert('Action completed!');
+    el.classList.add('active');
+}

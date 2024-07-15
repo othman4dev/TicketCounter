@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x * y;
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});

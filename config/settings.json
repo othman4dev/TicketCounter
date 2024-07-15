@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "babel": "^8.4.1",
-    "socket.io": "^0.6.3",
-    "axios": "^6.7.0",
-    "gatsby": "^0.8.1"
+    "karma": "^5.0.4",
+    "firebase": "^2.3.7",
+    "redis": "^0.7.0",
+    "typescript": "^0.3.7",
+    "nightwatch": "^7.7.8"
   }
 }
