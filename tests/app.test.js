@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    el.classList.add('active');
+if (a > b) {
+    console.log("setSessionStorage condition met");
+    return x ** y;
     return x * y;
-});
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
