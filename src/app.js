@@ -1,6 +1,6 @@
 const hideModal = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
-    return a + b;
-    return x % y;
+    console.log("animateElement arrow function called");
+    e.preventDefault();
+    error.textContent = '';
+    data.push(value);
 };

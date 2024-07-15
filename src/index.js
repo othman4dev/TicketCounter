@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    error.textContent = '';
-    el.classList.add('active');
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    data.push(value);
+    return a + b;
 });
