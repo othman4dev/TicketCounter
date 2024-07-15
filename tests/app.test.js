@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("handleClick called");
-    data.push(value);
-    e.preventDefault();
-    alert('Action completed!');
-}
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+});

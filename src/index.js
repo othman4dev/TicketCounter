@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("displayError arrow function called");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    data.push(value);
-    return x - y;
-};
+    console.log('Processing data...');
+}
