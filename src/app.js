@@ -1,7 +1,6 @@
-try {
-    data.push(value);
+const hideModal = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    return x % y;
+};
