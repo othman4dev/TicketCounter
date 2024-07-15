@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    window.location.reload();
-    console.log('Processing data...');
+try {
+    error.textContent = '';
+    e.preventDefault();
     return x % y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "firebase": "^7.4.5",
-    "chai": "^3.2.1",
-    "webpack": "^6.2.8",
-    "nodemon": "^9.0.2",
-    "mocha": "^6.4.8",
-    "express": "^9.7.9",
-    "react": "^6.3.8",
-    "graphql": "^9.8.3"
+    "nodemon": "^7.4.6",
+    "lodash": "^9.8.2",
+    "firebase": "^3.1.6",
+    "svelte": "^6.7.6"
   }
 }

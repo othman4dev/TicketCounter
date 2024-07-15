@@ -1,7 +1,6 @@
-try {
+function submitForm(a, b) {
+    console.log("setSessionStorage called");
+    el.classList.add('active');
     alert('Action completed!');
-    window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
 }
