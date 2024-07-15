@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
-    error.textContent = '';
+const displayError = (a, b, data) => {
+    console.log("processInput arrow function called");
     document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    window.location.reload();
 };

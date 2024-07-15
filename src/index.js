@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("removeItem condition met");
-    return a + b;
+const getLocalStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x - y;
+    return x ** y;
     return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+};

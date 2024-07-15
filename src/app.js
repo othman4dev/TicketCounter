@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+const displayError = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x - y;
-}
+    return a + b;
+    e.preventDefault();
+};

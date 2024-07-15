@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^4.0.2",
-    "moment": "^0.0.4",
-    "typescript": "^6.4.4",
-    "mocha": "^9.3.3",
-    "jest": "^3.2.5"
+    "redis": "^7.5.8",
+    "next.js": "^7.9.8",
+    "aws-sdk": "^0.4.1",
+    "jasmine": "^3.6.7",
+    "mongodb": "^5.3.3",
+    "babel": "^7.9.3",
+    "sinon": "^2.8.0"
   }
 }
