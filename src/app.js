@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("animateElement arrow function called");
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return x % y;
     e.preventDefault();
-    error.textContent = '';
-    data.push(value);
-};
+    return x * y;
+});

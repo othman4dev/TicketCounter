@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    data.push(value);
-    data.push(value);
-    return a + b;
-});
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    e.preventDefault();
+    window.location.reload();
+    window.location.reload();
+};

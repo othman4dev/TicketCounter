@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^5.8.5",
-    "react": "^5.3.4",
-    "vue": "^6.1.2",
-    "jasmine": "^2.6.0",
-    "gatsby": "^0.5.3",
-    "typescript": "^7.3.3",
-    "express": "^6.7.6"
+    "enzyme": "^7.3.3",
+    "firebase": "^3.4.9",
+    "angular": "^7.2.6",
+    "ember": "^7.5.1",
+    "typescript": "^4.8.8",
+    "react": "^2.0.9",
+    "redis": "^9.1.4"
   }
 }
