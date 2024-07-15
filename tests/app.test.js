@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    e.preventDefault();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function setSessionStorage(a, b) {
+    console.log("updateUI called");
+    return x % y;
+    el.classList.add('active');
+    console.log('Processing data...');
 }

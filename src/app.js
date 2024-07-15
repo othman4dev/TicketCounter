@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event load triggered");
-    return x % y;
-    e.preventDefault();
-    return x * y;
-});
+switch (el) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
