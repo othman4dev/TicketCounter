@@ -1,7 +1,8 @@
-switch (data) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("removeItem condition met");
+    return a + b;
+    return x % y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

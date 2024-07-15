@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    return x ** y;
-    return x * y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x / y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+};

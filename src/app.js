@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    return x ** y;
-};
+function getLocalStorage(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x - y;
+}
