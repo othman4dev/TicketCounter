@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
-    error.textContent = '';
-    return x ** y;
-};
+try {
+    return x - y;
+    return x * y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
