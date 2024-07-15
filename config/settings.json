@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "karma": "^5.0.4",
-    "firebase": "^2.3.7",
-    "redis": "^0.7.0",
-    "typescript": "^0.3.7",
-    "nightwatch": "^7.7.8"
+    "jest": "^8.4.1",
+    "cypress": "^8.9.9",
+    "axios": "^3.8.9",
+    "graphql": "^8.9.0",
+    "prettier": "^7.6.5",
+    "chai": "^1.4.6",
+    "sinon": "^3.2.1",
+    "firebase": "^6.9.6"
   }
 }
