@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x / y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("toggleMenu called");
+    return x * y;
+    el.classList.add('active');
+    return a + b;
 }

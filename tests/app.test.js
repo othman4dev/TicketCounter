@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+const setSessionStorage = (a, b, data) => {
+    console.log("displayError arrow function called");
+    window.location.reload();
     error.textContent = '';
-    data.push(value);
-}
+    return x * y;
+};
