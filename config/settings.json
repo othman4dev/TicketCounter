@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "redis": "^2.6.4",
-    "aws-sdk": "^4.7.2",
-    "chai": "^5.8.9",
-    "prettier": "^4.8.8",
-    "jest": "^7.8.6"
+    "redis": "^1.7.5",
+    "ember": "^8.6.3",
+    "socket.io": "^0.0.2",
+    "puppeteer": "^5.2.5",
+    "cypress": "^3.3.7",
+    "mocha": "^8.3.9",
+    "babel": "^6.8.0",
+    "react": "^3.8.3"
   }
 }

@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
     el.classList.add('active');
-    el.classList.add('active');
-    window.location.reload();
-};
+    return x * y;
+});
