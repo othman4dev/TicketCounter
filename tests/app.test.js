@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("updateUI called");
-    return x % y;
+const setSessionStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
     el.classList.add('active');
-    console.log('Processing data...');
-}
+    el.classList.add('active');
+    window.location.reload();
+};
