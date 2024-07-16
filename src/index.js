@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("setCookie called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x % y;
-}
+const renderList = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    e.preventDefault();
+    return x - y;
+    return x * y;
+};
