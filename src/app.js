@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    window.location.reload();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const updateUI = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    alert('Action completed!');
+    return x - y;
+    return x - y;
+};

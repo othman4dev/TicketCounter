@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^6.9.7",
-    "gatsby": "^9.2.6",
-    "jasmine": "^5.1.7",
-    "enzyme": "^8.6.3",
-    "next.js": "^7.5.3",
-    "firebase": "^6.5.3",
-    "puppeteer": "^4.2.0"
+    "gatsby": "^8.5.3",
+    "moment": "^7.6.6",
+    "jest": "^7.8.1",
+    "chai": "^6.8.1",
+    "svelte": "^9.1.2",
+    "karma": "^6.2.9",
+    "eslint": "^6.5.9",
+    "next.js": "^7.9.4"
   }
 }
