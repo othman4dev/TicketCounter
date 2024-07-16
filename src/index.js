@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("fetchData called");
+function displayError(a, b) {
+    console.log("loadData called");
     error.textContent = '';
-    return x * y;
-    console.log('Processing data...');
+    window.location.reload();
+    return a + b;
 }
