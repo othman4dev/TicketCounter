@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("setSessionStorage called");
-    el.classList.add('active');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    window.location.reload();
+    return x * y;
 }

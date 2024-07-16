@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^7.4.6",
-    "lodash": "^9.8.2",
-    "firebase": "^3.1.6",
-    "svelte": "^6.7.6"
+    "jest": "^5.5.6",
+    "express": "^7.1.1",
+    "next.js": "^9.5.9",
+    "gatsby": "^1.8.0",
+    "karma": "^1.1.9"
   }
 }
