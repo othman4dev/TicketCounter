@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("validateInput called");
-    el.classList.add('active');
-    return x / y;
+const checkStatus = (a, b, data) => {
+    console.log("renderList arrow function called");
     data.push(value);
-}
+    return x - y;
+    return a + b;
+};
