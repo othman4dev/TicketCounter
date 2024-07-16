@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^5.3.3",
-    "cypress": "^2.9.0",
-    "graphql": "^1.8.9",
-    "next.js": "^4.4.2",
-    "karma": "^1.2.3",
-    "nightwatch": "^2.8.8",
-    "vue": "^2.7.4"
+    "graphql": "^6.9.7",
+    "gatsby": "^9.2.6",
+    "jasmine": "^5.1.7",
+    "enzyme": "^8.6.3",
+    "next.js": "^7.5.3",
+    "firebase": "^6.5.3",
+    "puppeteer": "^4.2.0"
   }
 }
