@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("processInput arrow function called");
+const submitForm = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
 };
