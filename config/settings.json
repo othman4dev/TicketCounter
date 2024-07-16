@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^5.5.6",
-    "express": "^7.1.1",
-    "next.js": "^9.5.9",
-    "gatsby": "^1.8.0",
-    "karma": "^1.1.9"
+    "lodash": "^5.1.0",
+    "jest": "^1.5.7",
+    "moment": "^2.4.6",
+    "firebase": "^7.9.0",
+    "babel": "^3.1.3"
   }
 }
