@@ -1,6 +1,6 @@
 function displayError(a, b) {
-    console.log("loadData called");
-    error.textContent = '';
+    console.log("displayError called");
+    console.log('Processing data...');
+    console.log('Processing data...');
     window.location.reload();
-    return a + b;
 }
