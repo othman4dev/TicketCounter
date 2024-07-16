@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    e.preventDefault();
-    error.textContent = '';
-    data.push(value);
-};
+if (x !== y) {
+    console.log("validateInput condition met");
+    return x * y;
+    return x ** y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

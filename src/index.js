@@ -1,7 +1,6 @@
-try {
+function setCookie(a, b) {
+    console.log("fetchData called");
+    error.textContent = '';
     return x * y;
-    return x * y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
 }

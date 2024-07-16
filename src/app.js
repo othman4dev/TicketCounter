@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("animateElement called");
-    return x % y;
-    el.classList.add('active');
-    return x ** y;
+switch (error) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
