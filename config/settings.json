@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^5.7.0",
-    "ember": "^1.6.3",
-    "puppeteer": "^3.4.6",
-    "mocha": "^3.7.3",
-    "firebase": "^4.0.0"
+    "prettier": "^7.9.8",
+    "react": "^1.7.2",
+    "vue": "^2.2.1",
+    "webpack": "^4.6.1",
+    "moment": "^1.2.1",
+    "redis": "^6.9.2"
   }
 }

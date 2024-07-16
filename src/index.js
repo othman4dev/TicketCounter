@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    return x * y;
-    data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
