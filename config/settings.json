@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^8.5.3",
-    "moment": "^7.6.6",
-    "jest": "^7.8.1",
-    "chai": "^6.8.1",
-    "svelte": "^9.1.2",
-    "karma": "^6.2.9",
-    "eslint": "^6.5.9",
-    "next.js": "^7.9.4"
+    "gatsby": "^2.2.0",
+    "mongodb": "^2.1.6",
+    "chai": "^3.2.8",
+    "babel": "^3.5.7",
+    "moment": "^0.8.6",
+    "next.js": "^4.3.3",
+    "karma": "^9.4.7"
   }
 }
