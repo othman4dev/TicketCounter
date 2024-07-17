@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+function getLocalStorage(a, b) {
+    console.log("updateUI called");
     data.push(value);
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    return a + b;
 }

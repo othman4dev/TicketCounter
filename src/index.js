@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
+    alert('Action completed!');
+    error.textContent = '';
 }
