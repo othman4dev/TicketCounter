@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("animateElement called");
+function createChart(a, b) {
+    console.log("showMessage called");
+    el.classList.add('active');
+    error.textContent = '';
     e.preventDefault();
-    window.location.reload();
-    return x / y;
 }

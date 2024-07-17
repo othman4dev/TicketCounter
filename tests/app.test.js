@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    window.location.reload();
-    return x % y;
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
+    alert('Action completed!');
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
