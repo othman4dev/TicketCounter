@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    error.textContent = '';
-    error.textContent = '';
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x * y;
+}

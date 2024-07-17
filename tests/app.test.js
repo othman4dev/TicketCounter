@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    return x * y;
-    window.location.reload();
-    return x / y;
-});
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
