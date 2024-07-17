@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event input triggered");
+const renderList = (a, b, data) => {
+    console.log("updateUI arrow function called");
     data.push(value);
-    return a + b;
-    alert('Action completed!');
-});
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+};

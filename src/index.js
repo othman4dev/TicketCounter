@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("saveSettings called");
+    return x / y;
+    return x % y;
+    return x / y;
 }
