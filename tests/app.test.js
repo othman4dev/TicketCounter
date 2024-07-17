@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    alert('Action completed!');
+if (x !== y) {
+    console.log("setSessionStorage condition met");
+    el.classList.add('active');
     return x ** y;
-    e.preventDefault();
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

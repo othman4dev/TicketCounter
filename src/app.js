@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("showMessage called");
-    el.classList.add('active');
-    error.textContent = '';
-    e.preventDefault();
-}
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    return a + b;
+    alert('Action completed!');
+});
