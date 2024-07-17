@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("updateUI called");
-    data.push(value);
-    return a + b;
-    return a + b;
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    error.textContent = '';
+    error.textContent = '';
+});

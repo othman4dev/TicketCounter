@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    return x * y;
+    window.location.reload();
+    return x / y;
+});
