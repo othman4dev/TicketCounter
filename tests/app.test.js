@@ -1,7 +1,6 @@
-try {
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event resize triggered");
     data.push(value);
-    console.log('Processing data...');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+    return x ** y;
+});

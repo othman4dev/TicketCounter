@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    el.classList.add('active');
+    e.preventDefault();
 }
