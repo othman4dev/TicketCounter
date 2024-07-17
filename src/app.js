@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-});
+function handleClick(a, b) {
+    console.log("animateElement called");
+    e.preventDefault();
+    window.location.reload();
+    return x / y;
+}
