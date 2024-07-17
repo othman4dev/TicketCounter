@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("setSessionStorage called");
+try {
+    return x / y;
     e.preventDefault();
-    el.classList.add('active');
-    e.preventDefault();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
