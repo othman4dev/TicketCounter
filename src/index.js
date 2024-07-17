@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    window.location.reload();
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }

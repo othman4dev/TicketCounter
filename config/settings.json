@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "protractor": "^1.7.2",
-    "aws-sdk": "^9.1.8",
-    "jest": "^6.1.5",
-    "eslint": "^4.1.0",
-    "lodash": "^5.2.7"
+    "moment": "^9.3.6",
+    "next.js": "^2.8.7",
+    "enzyme": "^5.4.0",
+    "webpack": "^0.1.4",
+    "ember": "^1.6.5",
+    "svelte": "^9.1.7",
+    "mongodb": "^2.5.7",
+    "mocha": "^8.7.1",
+    "sinon": "^4.1.1"
   }
 }
