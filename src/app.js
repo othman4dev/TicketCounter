@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("updateUI arrow function called");
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
     data.push(value);
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-};
+    console.log('Processing data...');
+    e.preventDefault();
+});

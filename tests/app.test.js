@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    alert('Action completed!');
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    return a + b;
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

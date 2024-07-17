@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^6.3.9",
-    "jasmine": "^6.3.6",
-    "sinon": "^7.6.1",
-    "mongodb": "^8.5.4",
-    "nodemon": "^6.9.8"
+    "eslint": "^6.0.1",
+    "babel": "^8.0.6",
+    "next.js": "^7.7.3",
+    "mocha": "^8.0.8",
+    "webpack": "^1.9.3",
+    "enzyme": "^4.3.7",
+    "mongodb": "^6.4.7",
+    "aws-sdk": "^5.5.1"
   }
 }
