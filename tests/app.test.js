@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
+    alert('Action completed!');
     window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+});
