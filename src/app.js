@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    return a + b;
-    return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

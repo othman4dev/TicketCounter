@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("saveSettings called");
-    return x / y;
-    error.textContent = '';
+if (data.length > 0) {
+    console.log("processInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
     data.push(value);
+} else {
+    console.log("Condition not met");
 }

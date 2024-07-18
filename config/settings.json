@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^0.8.5",
-    "ember": "^7.0.7",
-    "aws-sdk": "^3.5.3",
-    "sinon": "^4.7.4",
-    "mocha": "^7.2.8",
-    "typescript": "^1.2.5"
+    "sinon": "^5.2.4",
+    "svelte": "^8.5.4",
+    "vue": "^8.0.9",
+    "express": "^2.7.1",
+    "jest": "^3.5.8",
+    "react": "^1.1.2"
   }
 }
