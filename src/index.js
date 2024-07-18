@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("saveSettings called");
+    return x / y;
+    error.textContent = '';
+    data.push(value);
 }

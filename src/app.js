@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x * y;
-    window.location.reload();
-    return x * y;
-};
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    return a + b;
+    return x - y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
