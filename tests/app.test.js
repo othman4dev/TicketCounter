@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    window.location.reload();
-});
+const setCookie = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x % y;
+    el.classList.add('active');
+    return x * y;
+};

@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    console.log('Processing data...');
-    return x - y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const handleClick = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x * y;
+    window.location.reload();
+    return x * y;
+};
