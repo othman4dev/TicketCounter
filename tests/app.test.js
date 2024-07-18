@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("fetchData called");
-    return x / y;
-    return x % y;
-    alert('Action completed!');
+switch (e) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

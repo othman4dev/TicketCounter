@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "vue": "^9.9.6",
-    "jest": "^1.6.2",
-    "sinon": "^9.5.0",
-    "webpack": "^3.0.2",
-    "karma": "^0.7.7",
-    "express": "^9.9.1"
+    "express": "^5.9.9",
+    "puppeteer": "^1.6.3",
+    "webpack": "^6.2.8",
+    "typescript": "^3.9.2",
+    "mocha": "^1.7.6",
+    "eslint": "^1.1.6",
+    "moment": "^8.0.2"
   }
 }

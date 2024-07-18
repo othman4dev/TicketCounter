@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    return x % y;
+const submitForm = (a, b, data) => {
+    console.log("handleClick arrow function called");
     return x ** y;
-});
+    return x ** y;
+    return x - y;
+};

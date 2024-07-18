@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
+    e.preventDefault();
+    return x / y;
+});
