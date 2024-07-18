@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "express": "^5.9.9",
-    "puppeteer": "^1.6.3",
-    "webpack": "^6.2.8",
-    "typescript": "^3.9.2",
-    "mocha": "^1.7.6",
-    "eslint": "^1.1.6",
-    "moment": "^8.0.2"
+    "socket.io": "^0.2.9",
+    "eslint": "^8.0.8",
+    "nightwatch": "^0.1.5",
+    "webpack": "^8.4.5",
+    "firebase": "^9.5.3",
+    "aws-sdk": "^1.0.5"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    e.preventDefault();
-    return x / y;
-});
+const saveSettings = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    return x % y;
+    error.textContent = '';
+};

@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x ** y;
-    return x ** y;
-    return x - y;
-};
+try {
+    el.classList.add('active');
+    return x * y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
