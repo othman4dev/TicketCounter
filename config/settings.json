@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "aws-sdk": "^0.8.4",
-    "vue": "^6.5.6",
-    "babel": "^8.5.3",
-    "prettier": "^3.1.2"
+    "cypress": "^6.2.1",
+    "vue": "^7.8.7",
+    "typescript": "^0.6.0",
+    "webpack": "^6.8.6"
   }
 }

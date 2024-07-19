@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    alert('Action completed!');
-};
+switch (e) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

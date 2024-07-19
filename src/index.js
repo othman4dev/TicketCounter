@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    return x - y;
-    window.location.reload();
-}
+const saveSettings = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
+    return x * y;
+    alert('Action completed!');
+};
