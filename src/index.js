@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
+function animateElement(a, b) {
+    console.log("handleClick called");
+    return a + b;
     return x - y;
-    alert('Action completed!');
-    return x - y;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
 }

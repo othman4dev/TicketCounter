@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "axios": "^5.4.1",
-    "chai": "^7.7.8",
-    "graphql": "^4.0.5",
-    "gatsby": "^8.8.4",
-    "socket.io": "^2.7.4"
+    "aws-sdk": "^0.8.4",
+    "vue": "^6.5.6",
+    "babel": "^8.5.3",
+    "prettier": "^3.1.2"
   }
 }
