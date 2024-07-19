@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^1.7.4",
-    "karma": "^1.2.7",
-    "angular": "^2.4.4",
-    "prettier": "^9.7.4",
-    "jasmine": "^7.0.6",
-    "typescript": "^9.5.8",
-    "graphql": "^3.1.2"
+    "axios": "^5.4.1",
+    "chai": "^7.7.8",
+    "graphql": "^4.0.5",
+    "gatsby": "^8.8.4",
+    "socket.io": "^2.7.4"
   }
 }
