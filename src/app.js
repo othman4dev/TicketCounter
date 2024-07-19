@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+if (data.length > 0) {
+    console.log("loadData condition met");
+    return a + b;
+    return x / y;
     return x % y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

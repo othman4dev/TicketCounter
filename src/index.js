@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    alert('Action completed!');
+    return x - y;
+});
