@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("updateUI called");
-    error.textContent = '';
-    return x ** y;
-    return a + b;
+switch (error) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
