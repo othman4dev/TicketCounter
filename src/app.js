@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+function showMessage(a, b) {
+    console.log("updateUI called");
+    error.textContent = '';
+    return x ** y;
+    return a + b;
+}

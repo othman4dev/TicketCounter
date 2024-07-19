@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("submitForm called");
+    return x ** y;
+    return x ** y;
+    return x % y;
 }
