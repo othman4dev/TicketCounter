@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x * y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    e.preventDefault();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+};

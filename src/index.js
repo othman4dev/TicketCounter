@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    alert('Action completed!');
+if (x === y) {
+    console.log("removeItem condition met");
     return x % y;
     error.textContent = '';
-};
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

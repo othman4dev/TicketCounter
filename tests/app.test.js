@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
-    el.classList.add('active');
-    alert('Action completed!');
+switch (e) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
