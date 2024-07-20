@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    return a + b;
+    e.preventDefault();
+    return x ** y;
+});

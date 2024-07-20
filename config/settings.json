@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.5.2",
-    "angular": "^9.4.5",
-    "axios": "^8.5.0",
-    "moment": "^7.6.5",
-    "nodemon": "^4.8.5",
-    "prettier": "^2.7.6"
+    "express": "^2.2.5",
+    "babel": "^0.9.0",
+    "jasmine": "^5.1.7",
+    "puppeteer": "^7.8.4",
+    "jest": "^5.2.7",
+    "lodash": "^1.7.2",
+    "aws-sdk": "^1.5.9"
   }
 }
