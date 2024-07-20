@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    return x / y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (document.readyState === 'complete') {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    alert('Action completed!');
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

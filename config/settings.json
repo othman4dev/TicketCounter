@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^6.2.5",
-    "axios": "^6.0.3",
-    "aws-sdk": "^9.4.0",
-    "webpack": "^9.6.8",
-    "nightwatch": "^5.4.5"
+    "graphql": "^3.8.2",
+    "jest": "^8.6.1",
+    "lodash": "^4.7.3",
+    "vue": "^3.0.7",
+    "mongodb": "^4.2.9",
+    "socket.io": "^7.0.3",
+    "jasmine": "^1.5.2",
+    "protractor": "^9.6.1"
   }
 }
