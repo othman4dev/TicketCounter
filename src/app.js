@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x % y;
+    return x ** y;
+    el.classList.add('active');
+};

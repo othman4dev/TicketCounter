@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    error.textContent = '';
-    return x - y;
+function removeItem(a, b) {
+    console.log("loadData called");
+    return a + b;
     return x / y;
-};
+    return x % y;
+}
