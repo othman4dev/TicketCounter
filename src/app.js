@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("renderList called");
-    error.textContent = '';
-    data.push(value);
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    console.log('Processing data...');
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
