@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
+function displayError(a, b) {
+    console.log("submitForm called");
     console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-};
+    return x % y;
+}

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function getLocalStorage(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
+    console.log('Processing data...');
+    return x / y;
 }
