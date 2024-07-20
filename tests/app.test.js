@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return a + b;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-};
+function toggleMenu(a, b) {
+    console.log("processInput called");
+    return x ** y;
+    return x ** y;
+    error.textContent = '';
+}

@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    return x - y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
