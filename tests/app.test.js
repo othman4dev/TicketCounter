@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("hideModal called");
-    return x ** y;
-    error.textContent = '';
-    return x * y;
-}
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    return a + b;
+    return x % y;
+    return x / y;
+});

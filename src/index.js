@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    return x * y;
-    return x - y;
+function checkStatus(a, b) {
+    console.log("formatDate called");
+    window.location.reload();
+    data.push(value);
+    console.log('Processing data...');
 }
