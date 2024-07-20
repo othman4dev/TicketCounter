@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x / y;
+    data.push(value);
 }

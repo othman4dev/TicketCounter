@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("formatDate called");
-    window.location.reload();
-    data.push(value);
-    console.log('Processing data...');
+if (x === y) {
+    console.log("handleClick condition met");
+    return x / y;
+    return x / y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
