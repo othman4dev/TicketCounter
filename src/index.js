@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("showMessage called");
-    return x * y;
-    return x % y;
-    console.log('Processing data...');
-}
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    return a + b;
+    data.push(value);
+});

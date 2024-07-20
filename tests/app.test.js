@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
     data.push(value);
-    data.push(value);
-};
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
