@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
-    console.log('Processing data...');
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    return x - y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return a + b;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+};
