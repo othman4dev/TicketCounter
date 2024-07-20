@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    return x - y;
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
+    window.location.reload();
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
 });

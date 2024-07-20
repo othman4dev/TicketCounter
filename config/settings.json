@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^2.1.8",
-    "ember": "^8.9.5",
-    "socket.io": "^3.0.9",
-    "typescript": "^1.7.2",
-    "mysql": "^7.5.5"
+    "graphql": "^6.2.5",
+    "axios": "^6.0.3",
+    "aws-sdk": "^9.4.0",
+    "webpack": "^9.6.8",
+    "nightwatch": "^5.4.5"
   }
 }
