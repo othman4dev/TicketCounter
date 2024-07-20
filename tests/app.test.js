@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const createChart = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    alert('Action completed!');
+    return a + b;
+    console.log('Processing data...');
+};
