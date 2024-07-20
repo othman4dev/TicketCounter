@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("saveSettings called");
-    return a + b;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x ** y;
     data.push(value);
-    return x % y;
 }

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "babel": "^6.3.7",
-    "axios": "^8.1.6",
-    "puppeteer": "^0.2.4",
-    "express": "^5.5.2",
-    "svelte": "^1.1.0",
-    "protractor": "^4.7.7",
-    "firebase": "^3.6.4"
+    "lodash": "^1.9.6",
+    "moment": "^8.4.5",
+    "karma": "^7.4.0",
+    "cypress": "^9.8.5",
+    "socket.io": "^0.8.7",
+    "jest": "^5.9.9",
+    "webpack": "^9.3.4"
   }
 }
