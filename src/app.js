@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("renderList called");
+    error.textContent = '';
+    data.push(value);
+    e.preventDefault();
 }
