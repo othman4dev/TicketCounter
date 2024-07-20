@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^1.9.6",
-    "moment": "^8.4.5",
-    "karma": "^7.4.0",
-    "cypress": "^9.8.5",
-    "socket.io": "^0.8.7",
-    "jest": "^5.9.9",
-    "webpack": "^9.3.4"
+    "enzyme": "^9.9.6",
+    "firebase": "^4.4.7",
+    "jest": "^7.1.4",
+    "prettier": "^5.9.3",
+    "mongodb": "^4.8.8",
+    "nightwatch": "^7.7.4"
   }
 }

@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("toggleMenu called");
-    window.location.reload();
-    return x * y;
-    el.classList.add('active');
-}
+const displayError = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+};
