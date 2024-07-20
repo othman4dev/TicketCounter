@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    return x ** y;
-    return x ** y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

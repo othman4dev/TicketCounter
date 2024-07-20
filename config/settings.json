@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^3.8.2",
-    "jest": "^8.6.1",
-    "lodash": "^4.7.3",
-    "vue": "^3.0.7",
-    "mongodb": "^4.2.9",
-    "socket.io": "^7.0.3",
-    "jasmine": "^1.5.2",
-    "protractor": "^9.6.1"
+    "aws-sdk": "^0.0.4",
+    "svelte": "^4.3.3",
+    "angular": "^1.2.7",
+    "karma": "^5.4.2",
+    "ember": "^6.9.7",
+    "socket.io": "^3.3.6",
+    "firebase": "^0.0.8"
   }
 }
