@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    alert('Action completed!');
-    e.preventDefault();
-});
+function removeItem(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
+    return x * y;
+    return x - y;
+}

@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
-    return x % y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+try {
+    el.classList.add('active');
+    return a + b;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

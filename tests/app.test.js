@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    return x % y;
-} else {
-    console.log("Condition not met");
+function saveSettings(a, b) {
+    console.log("hideModal called");
+    return x ** y;
+    error.textContent = '';
+    return x * y;
 }
