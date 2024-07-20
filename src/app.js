@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    e.preventDefault();
+    return x * y;
     console.log('Processing data...');
-    return x / y;
+} else {
+    console.log("Condition not met");
 }

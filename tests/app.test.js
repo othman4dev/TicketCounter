@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+switch (el) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.0.2",
-    "jest": "^0.7.6",
-    "protractor": "^4.2.0",
-    "karma": "^0.8.7",
-    "eslint": "^2.3.4",
-    "vue": "^7.3.0",
-    "svelte": "^1.5.8"
+    "ember": "^8.1.5",
+    "vue": "^1.5.5",
+    "protractor": "^2.9.3",
+    "next.js": "^6.6.4",
+    "chai": "^6.6.3",
+    "mongodb": "^6.0.2",
+    "nodemon": "^2.8.1",
+    "mocha": "^8.3.8",
+    "socket.io": "^4.5.7"
   }
 }
