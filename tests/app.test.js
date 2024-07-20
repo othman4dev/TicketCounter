@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("processInput called");
-    return x ** y;
-    return x ** y;
-    error.textContent = '';
-}
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    return x * y;
+    alert('Action completed!');
+});
