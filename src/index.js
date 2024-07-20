@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event change triggered");
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    e.preventDefault();
     error.textContent = '';
-    return a + b;
-    data.push(value);
-});
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

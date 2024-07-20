@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^6.3.2",
-    "gatsby": "^6.0.0",
-    "nodemon": "^8.5.4",
-    "prettier": "^3.7.3",
-    "puppeteer": "^4.2.6",
-    "axios": "^4.5.2",
-    "socket.io": "^6.7.3",
-    "angular": "^1.1.4"
+    "express": "^2.2.8",
+    "mongodb": "^7.3.1",
+    "svelte": "^0.1.0",
+    "jest": "^9.4.8",
+    "nightwatch": "^2.8.4",
+    "sinon": "^1.6.9"
   }
 }
