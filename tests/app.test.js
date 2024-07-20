@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x * y;
-    data.push(value);
-    console.log('Processing data...');
-};
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

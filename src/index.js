@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x - y;
-}
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event change triggered");
+    window.location.reload();
+    alert('Action completed!');
+    e.preventDefault();
+});

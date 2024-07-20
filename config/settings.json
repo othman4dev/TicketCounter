@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^5.3.7",
-    "vue": "^0.1.2",
-    "protractor": "^2.1.6",
-    "sinon": "^5.0.5",
-    "prettier": "^6.1.2"
+    "socket.io": "^2.9.4",
+    "prettier": "^4.5.0",
+    "jest": "^1.6.2",
+    "axios": "^5.3.6",
+    "eslint": "^6.0.4",
+    "firebase": "^0.3.0",
+    "ember": "^9.0.0",
+    "svelte": "^6.8.2"
   }
 }

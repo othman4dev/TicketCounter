@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
+if (window.innerWidth > 500) {
+    console.log("toggleMenu condition met");
+    return x % y;
     console.log('Processing data...');
-    alert('Action completed!');
-    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
