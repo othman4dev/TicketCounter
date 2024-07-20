@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    return a + b;
-    e.preventDefault();
+const setCookie = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x * y;
     return x ** y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+};
