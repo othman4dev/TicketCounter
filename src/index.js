@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
+    console.log('Processing data...');
     e.preventDefault();
-    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
