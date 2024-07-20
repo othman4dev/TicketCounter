@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
+function createChart(a, b) {
+    console.log("saveSettings called");
+    return a + b;
+    data.push(value);
     return x % y;
-    return x ** y;
-    console.log('Processing data...');
-};
+}

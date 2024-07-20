@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    alert('Action completed!');
-    return a + b;
-    console.log('Processing data...');
-};
+function toggleMenu(a, b) {
+    console.log("processInput called");
+    return x ** y;
+    el.classList.add('active');
+    return x / y;
+}
