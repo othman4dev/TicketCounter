@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "ember": "^8.1.5",
-    "vue": "^1.5.5",
-    "protractor": "^2.9.3",
-    "next.js": "^6.6.4",
-    "chai": "^6.6.3",
-    "mongodb": "^6.0.2",
-    "nodemon": "^2.8.1",
-    "mocha": "^8.3.8",
-    "socket.io": "^4.5.7"
+    "aws-sdk": "^3.5.2",
+    "angular": "^9.4.5",
+    "axios": "^8.5.0",
+    "moment": "^7.6.5",
+    "nodemon": "^4.8.5",
+    "prettier": "^2.7.6"
   }
 }

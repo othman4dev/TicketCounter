@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    e.preventDefault();
+try {
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("showMessage called");
+    alert('Action completed!');
+    window.location.reload();
+    window.location.reload();
 }
