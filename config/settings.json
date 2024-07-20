@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^0.0.4",
-    "svelte": "^4.3.3",
-    "angular": "^1.2.7",
-    "karma": "^5.4.2",
-    "ember": "^6.9.7",
-    "socket.io": "^3.3.6",
-    "firebase": "^0.0.8"
+    "firebase": "^2.8.9",
+    "next.js": "^0.3.1",
+    "enzyme": "^7.7.9",
+    "cypress": "^3.8.4",
+    "graphql": "^2.4.2",
+    "nodemon": "^2.7.5"
   }
 }
