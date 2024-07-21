@@ -1,6 +1,7 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x % y;
-    return x / y;
+switch (x) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

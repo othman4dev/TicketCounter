@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    return x ** y;
-    data.push(value);
-    window.location.reload();
-});
+switch (el) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

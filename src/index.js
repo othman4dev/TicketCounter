@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    return x / y;
-    return x - y;
-    return a + b;
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    window.location.reload();
+    return x % y;
 });

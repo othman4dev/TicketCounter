@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^3.0.7",
-    "jest": "^9.3.8",
-    "nightwatch": "^5.9.8",
-    "jasmine": "^7.3.4",
-    "puppeteer": "^8.9.9",
-    "vue": "^2.7.7"
+    "redis": "^6.8.4",
+    "nightwatch": "^1.8.8",
+    "sinon": "^7.7.3",
+    "express": "^0.4.8",
+    "eslint": "^9.0.9"
   }
 }
