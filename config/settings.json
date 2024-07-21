@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "redis": "^6.8.4",
-    "nightwatch": "^1.8.8",
-    "sinon": "^7.7.3",
-    "express": "^0.4.8",
-    "eslint": "^9.0.9"
+    "lodash": "^0.7.6",
+    "jasmine": "^9.4.3",
+    "react": "^9.4.7",
+    "moment": "^0.5.3",
+    "aws-sdk": "^2.2.4"
   }
 }

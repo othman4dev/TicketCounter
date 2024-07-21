@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
-    window.location.reload();
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
     return x % y;
+    window.location.reload();
 });
