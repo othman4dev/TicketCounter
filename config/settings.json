@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^1.6.3",
-    "jest": "^5.3.8",
-    "nodemon": "^0.8.4",
-    "mysql": "^5.9.7",
-    "puppeteer": "^8.2.3",
-    "typescript": "^4.0.4"
+    "next.js": "^3.0.7",
+    "jest": "^9.3.8",
+    "nightwatch": "^5.9.8",
+    "jasmine": "^7.3.4",
+    "puppeteer": "^8.9.9",
+    "vue": "^2.7.7"
   }
 }

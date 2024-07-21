@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x / y;
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    window.location.reload();
+});
