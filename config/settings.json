@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^7.0.1",
-    "prettier": "^6.6.1",
-    "ember": "^4.3.5",
-    "redis": "^7.1.4",
-    "moment": "^2.2.5",
-    "mongodb": "^2.4.6",
-    "nodemon": "^4.5.1"
+    "eslint": "^9.3.9",
+    "axios": "^6.6.6",
+    "typescript": "^0.7.1",
+    "gatsby": "^9.6.7",
+    "karma": "^3.8.4"
   }
 }
