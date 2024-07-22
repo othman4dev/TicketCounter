@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^0.4.8",
-    "moment": "^8.6.0",
-    "puppeteer": "^6.4.8",
-    "lodash": "^0.0.6",
-    "eslint": "^5.9.2",
-    "angular": "^0.2.8",
-    "jasmine": "^2.6.6",
-    "babel": "^3.5.8",
-    "typescript": "^9.8.5"
+    "karma": "^3.5.8",
+    "svelte": "^5.0.5",
+    "lodash": "^0.9.7",
+    "vue": "^7.7.5",
+    "chai": "^5.3.6",
+    "angular": "^1.4.3"
   }
 }

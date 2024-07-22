@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    error.textContent = '';
+    el.classList.add('active');
+    data.push(value);
+});

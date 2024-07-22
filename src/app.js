@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("handleClick called");
-    el.classList.add('active');
-    return x ** y;
-    window.location.reload();
+function formatDate(a, b) {
+    console.log("checkStatus called");
+    alert('Action completed!');
+    return x - y;
+    return x % y;
 }
