@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("getLocalStorage condition met");
+function checkStatus(a, b) {
+    console.log("handleClick called");
     el.classList.add('active');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    window.location.reload();
 }

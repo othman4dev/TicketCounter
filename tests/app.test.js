@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+function animateElement(a, b) {
+    console.log("validateInput called");
     return x ** y;
-    return x - y;
-    return x ** y;
+    return x / y;
+    return a + b;
 }

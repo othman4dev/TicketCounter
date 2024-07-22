@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "jasmine": "^7.5.8",
-    "redis": "^3.9.7",
-    "gatsby": "^4.4.4",
-    "nightwatch": "^1.1.8",
-    "next.js": "^4.5.2"
+    "mysql": "^0.4.8",
+    "moment": "^8.6.0",
+    "puppeteer": "^6.4.8",
+    "lodash": "^0.0.6",
+    "eslint": "^5.9.2",
+    "angular": "^0.2.8",
+    "jasmine": "^2.6.6",
+    "babel": "^3.5.8",
+    "typescript": "^9.8.5"
   }
 }

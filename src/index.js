@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x / y;
     console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
