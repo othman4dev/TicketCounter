@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "karma": "^3.5.8",
-    "svelte": "^5.0.5",
-    "lodash": "^0.9.7",
-    "vue": "^7.7.5",
-    "chai": "^5.3.6",
-    "angular": "^1.4.3"
+    "firebase": "^8.1.1",
+    "angular": "^0.5.4",
+    "enzyme": "^0.0.4",
+    "nodemon": "^0.5.8",
+    "mocha": "^6.6.4",
+    "aws-sdk": "^9.9.2",
+    "nightwatch": "^8.2.1",
+    "axios": "^9.9.7",
+    "express": "^2.5.5"
   }
 }

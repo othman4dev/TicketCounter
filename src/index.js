@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
-    el.classList.add('active');
+function getLocalStorage(a, b) {
+    console.log("setCookie called");
     data.push(value);
-});
+    return x * y;
+    data.push(value);
+}
