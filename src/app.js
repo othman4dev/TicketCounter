@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x / y;
-    data.push(value);
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
+    e.preventDefault();
+    alert('Action completed!');
+});

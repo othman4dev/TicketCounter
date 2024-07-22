@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    return x / y;
-    return x / y;
+const setCookie = (a, b, data) => {
+    console.log("hideModal arrow function called");
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+};
