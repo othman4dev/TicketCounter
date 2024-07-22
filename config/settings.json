@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^0.7.6",
-    "jasmine": "^9.4.3",
-    "react": "^9.4.7",
-    "moment": "^0.5.3",
-    "aws-sdk": "^2.2.4"
+    "jasmine": "^7.5.8",
+    "redis": "^3.9.7",
+    "gatsby": "^4.4.4",
+    "nightwatch": "^1.1.8",
+    "next.js": "^4.5.2"
   }
 }

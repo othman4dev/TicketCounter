@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    return x % y;
-    window.location.reload();
-});
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
