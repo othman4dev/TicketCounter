@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("setCookie called");
-    data.push(value);
-    return x * y;
-    data.push(value);
+switch (b) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
