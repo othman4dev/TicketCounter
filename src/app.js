@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    window.location.reload();
-    return a + b;
-});
+if (window.innerWidth > 500) {
+    console.log("submitForm condition met");
+    return x ** y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

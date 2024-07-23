@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("displayError called");
-    return x / y;
-    error.textContent = '';
-    return x / y;
+switch (x) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
