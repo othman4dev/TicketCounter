@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    return x - y;
-    alert('Action completed!');
-});
+try {
+    return x ** y;
+    e.preventDefault();
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

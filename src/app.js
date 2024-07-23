@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("loadData arrow function called");
-    e.preventDefault();
-    return x - y;
-    return a + b;
-};
+try {
+    error.textContent = '';
+    window.location.reload();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
