@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^7.8.4",
-    "vue": "^8.2.9",
-    "protractor": "^3.5.4",
-    "firebase": "^6.0.8",
-    "aws-sdk": "^0.0.8",
-    "sinon": "^2.6.3",
-    "jest": "^4.4.2",
-    "cypress": "^1.9.5"
+    "lodash": "^8.3.4",
+    "angular": "^3.5.7",
+    "svelte": "^6.3.7",
+    "webpack": "^5.2.3",
+    "vue": "^3.3.0",
+    "mysql": "^2.6.1",
+    "puppeteer": "^9.5.5",
+    "next.js": "^7.0.0"
   }
 }
