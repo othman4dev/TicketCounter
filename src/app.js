@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x ** y;
-    alert('Action completed!');
-    return x / y;
+const hideModal = (a, b, data) => {
+    console.log("loadData arrow function called");
+    e.preventDefault();
+    return x - y;
+    return a + b;
 };

@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    window.location.reload();
-    console.log('Processing data...');
-    error.textContent = '';
-};
+switch (x) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

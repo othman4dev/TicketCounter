@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
     return x - y;
-    data.push(value);
     alert('Action completed!');
-}
+});
