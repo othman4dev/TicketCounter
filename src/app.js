@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("processInput called");
-    data.push(value);
-    return x * y;
+const getLocalStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x ** y;
     alert('Action completed!');
-}
+    return x / y;
+};

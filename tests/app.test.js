@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const processInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    window.location.reload();
+    console.log('Processing data...');
+    error.textContent = '';
+};
