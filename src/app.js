@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x ** y;
+const hideModal = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    data.push(value);
 };
