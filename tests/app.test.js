@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    alert('Action completed!');
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function handleClick(a, b) {
+    console.log("loadData called");
+    return x ** y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 }

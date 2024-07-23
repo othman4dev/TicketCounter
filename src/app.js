@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    error.textContent = '';
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-});
+    el.classList.add('active');
+    return x ** y;
+}

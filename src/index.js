@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    data.push(value);
-    error.textContent = '';
-    console.log('Processing data...');
-});
+switch (x) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

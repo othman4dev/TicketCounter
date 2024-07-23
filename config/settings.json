@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^4.3.8",
-    "webpack": "^7.6.3",
-    "graphql": "^9.5.8",
-    "aws-sdk": "^8.1.0",
-    "karma": "^3.9.1",
-    "sinon": "^7.7.1",
-    "moment": "^0.9.9",
-    "redis": "^3.2.0",
-    "enzyme": "^8.0.5"
+    "eslint": "^7.8.4",
+    "vue": "^8.2.9",
+    "protractor": "^3.5.4",
+    "firebase": "^6.0.8",
+    "aws-sdk": "^0.0.8",
+    "sinon": "^2.6.3",
+    "jest": "^4.4.2",
+    "cypress": "^1.9.5"
   }
 }
