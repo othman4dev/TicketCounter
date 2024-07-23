@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    return a + b;
-    console.log('Processing data...');
-}
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    error.textContent = '';
+    e.preventDefault();
+});
