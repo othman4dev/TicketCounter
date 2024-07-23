@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^4.0.2",
-    "svelte": "^9.7.4",
-    "nodemon": "^9.9.2",
-    "next.js": "^7.5.3",
-    "webpack": "^4.9.0",
-    "mongodb": "^4.2.2"
+    "redis": "^7.3.9",
+    "react": "^0.0.6",
+    "puppeteer": "^9.6.7",
+    "karma": "^1.8.9",
+    "prettier": "^2.1.3"
   }
 }

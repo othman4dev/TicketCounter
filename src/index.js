@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    e.preventDefault();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (b) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

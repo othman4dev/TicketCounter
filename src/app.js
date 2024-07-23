@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event resize triggered");
+const animateElement = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
     alert('Action completed!');
-    e.preventDefault();
-    alert('Action completed!');
-});
+    return x ** y;
+};
