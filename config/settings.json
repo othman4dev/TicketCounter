@@ -1,12 +1,7 @@
 {
   "dependencies": {
-    "express": "^2.5.1",
-    "nodemon": "^8.5.7",
-    "moment": "^7.5.0",
-    "nightwatch": "^4.8.4",
-    "redis": "^2.5.9",
-    "lodash": "^6.7.5",
-    "eslint": "^3.4.2",
-    "puppeteer": "^3.0.2"
+    "prettier": "^6.6.8",
+    "jest": "^6.3.5",
+    "babel": "^8.3.7"
   }
 }

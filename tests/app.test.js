@@ -1,7 +1,8 @@
-switch (x) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("loadData condition met");
+    alert('Action completed!');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
