@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x / y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event input triggered");
+    e.preventDefault();
+    window.location.reload();
+    return a + b;
+});

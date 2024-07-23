@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("toggleMenu called");
-    return x ** y;
-    e.preventDefault();
-    window.location.reload();
+function hideModal(a, b) {
+    console.log("displayError called");
+    return x / y;
+    error.textContent = '';
+    return x / y;
 }
