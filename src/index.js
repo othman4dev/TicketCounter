@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x / y;
+function displayError(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
 }

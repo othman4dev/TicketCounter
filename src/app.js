@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    e.preventDefault();
+const removeItem = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 };
