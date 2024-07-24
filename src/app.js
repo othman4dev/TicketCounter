@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    return x - y;
+    e.preventDefault();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

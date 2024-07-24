@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("displayError called");
-    window.location.reload();
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    data.push(value);
+    return x - y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

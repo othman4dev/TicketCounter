@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x / y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const processInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    window.location.reload();
+    window.location.reload();
+    e.preventDefault();
+};
