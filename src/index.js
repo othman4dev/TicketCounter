@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("checkStatus called");
+    return x * y;
+    return x % y;
+    return x - y;
 }

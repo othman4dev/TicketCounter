@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    data.push(value);
-};
+if (x !== y) {
+    console.log("handleClick condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
