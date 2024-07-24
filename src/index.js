@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    return x % y;
-    window.location.reload();
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }
