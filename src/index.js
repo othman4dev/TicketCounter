@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    data.push(value);
-    return x - y;
+const animateElement = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x ** y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
