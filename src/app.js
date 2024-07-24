@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+const setSessionStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
     console.log('Processing data...');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    console.log('Processing data...');
+    data.push(value);
+};
