@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("showMessage arrow function called");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    return a + b;
-    data.push(value);
-};
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+}
