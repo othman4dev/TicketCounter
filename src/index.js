@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("fetchData called");
-    data.push(value);
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("loadData condition met");
+    alert('Action completed!');
+    return x % y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
