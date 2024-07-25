@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "vue": "^8.5.8",
-    "next.js": "^1.4.0",
-    "mongodb": "^8.8.3",
-    "protractor": "^4.3.7",
-    "ember": "^7.9.3",
-    "sinon": "^6.0.3",
-    "nodemon": "^8.4.8",
-    "svelte": "^7.1.4"
+    "jest": "^8.9.7",
+    "jasmine": "^7.3.1",
+    "ember": "^0.3.1",
+    "nodemon": "^4.0.2",
+    "puppeteer": "^9.5.9"
   }
 }

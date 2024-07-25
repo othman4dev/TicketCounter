@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x % y;
+function hideModal(a, b) {
+    console.log("removeItem called");
     return a + b;
-    return x ** y;
-};
+    return x * y;
+    alert('Action completed!');
+}
