@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "axios": "^8.7.6",
-    "webpack": "^7.4.8",
-    "vue": "^9.9.7",
-    "socket.io": "^8.9.5",
-    "nodemon": "^6.3.8",
-    "karma": "^4.8.4",
-    "express": "^8.2.7"
+    "jest": "^6.3.2",
+    "ember": "^6.6.6",
+    "next.js": "^5.6.1",
+    "protractor": "^4.4.3",
+    "cypress": "^5.5.6",
+    "webpack": "^5.8.5"
   }
 }

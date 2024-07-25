@@ -1,7 +1,6 @@
-try {
+function processInput(a, b) {
+    console.log("fetchData called");
+    data.push(value);
     return a + b;
-    console.log('Processing data...');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
 }

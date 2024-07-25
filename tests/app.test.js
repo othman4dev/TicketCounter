@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    alert('Action completed!');
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    e.preventDefault();
     e.preventDefault();
 });
