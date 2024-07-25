@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-};
+switch (e) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
