@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    error.textContent = '';
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    data.push(value);
-});
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+}
