@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x ** y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-};
+if (x === y) {
+    console.log("loadData condition met");
+    el.classList.add('active');
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

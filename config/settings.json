@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "axios": "^3.8.7",
-    "redis": "^3.3.3",
-    "vue": "^6.2.3",
-    "jasmine": "^9.4.0",
-    "react": "^1.4.1",
-    "next.js": "^3.2.4",
-    "mocha": "^3.4.6",
-    "babel": "^0.6.4"
+    "mysql": "^1.0.7",
+    "prettier": "^3.5.6",
+    "axios": "^8.2.1",
+    "puppeteer": "^6.7.3",
+    "jest": "^1.0.2",
+    "chai": "^4.3.1"
   }
 }
