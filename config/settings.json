@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^3.3.2",
-    "moment": "^3.9.6",
-    "angular": "^0.6.3",
-    "svelte": "^7.5.8",
-    "karma": "^2.2.8"
+    "gatsby": "^5.5.7",
+    "react": "^5.1.4",
+    "mocha": "^7.6.5",
+    "express": "^7.9.5",
+    "babel": "^5.1.9",
+    "enzyme": "^9.8.2"
   }
 }
