@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    el.classList.add('active');
-    return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return x ** y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+});

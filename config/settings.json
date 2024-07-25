@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^1.0.7",
-    "prettier": "^3.5.6",
-    "axios": "^8.2.1",
-    "puppeteer": "^6.7.3",
-    "jest": "^1.0.2",
-    "chai": "^4.3.1"
+    "vue": "^5.5.8",
+    "lodash": "^9.3.5",
+    "express": "^8.1.5",
+    "protractor": "^6.6.2",
+    "nightwatch": "^7.1.4"
   }
 }

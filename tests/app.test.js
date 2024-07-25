@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event click triggered");
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
+    return x ** y;
     return x * y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
 });
