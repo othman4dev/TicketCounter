@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "express": "^1.5.7",
-    "vue": "^7.7.8",
-    "moment": "^8.3.6",
-    "prettier": "^8.5.9",
-    "typescript": "^1.5.8",
-    "eslint": "^7.0.0",
-    "react": "^6.6.7",
-    "cypress": "^3.8.9",
-    "sinon": "^9.5.3"
+    "redis": "^1.5.1",
+    "lodash": "^8.7.0",
+    "ember": "^6.4.0",
+    "protractor": "^3.1.1",
+    "svelte": "^5.2.0",
+    "babel": "^0.7.7"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x * y;
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-});
+}
