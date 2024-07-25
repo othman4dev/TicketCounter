@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
-    return x / y;
-    return x % y;
+const processInput = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x ** y;
+    return x * y;
+    window.location.reload();
 };

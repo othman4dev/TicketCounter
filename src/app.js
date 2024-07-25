@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x * y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    return x / y;
+    return x - y;
+});
