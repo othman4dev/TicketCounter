@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^9.8.0",
-    "protractor": "^5.5.2",
-    "nodemon": "^0.1.0",
-    "karma": "^8.6.2"
+    "vue": "^8.5.8",
+    "next.js": "^1.4.0",
+    "mongodb": "^8.8.3",
+    "protractor": "^4.3.7",
+    "ember": "^7.9.3",
+    "sinon": "^6.0.3",
+    "nodemon": "^8.4.8",
+    "svelte": "^7.1.4"
   }
 }

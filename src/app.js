@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x % y;
+    return a + b;
+    return x ** y;
+};
