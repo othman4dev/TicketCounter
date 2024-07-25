@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    window.location.reload();
-    return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+});

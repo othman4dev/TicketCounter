@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^7.1.6",
-    "svelte": "^6.2.8",
-    "mongodb": "^8.2.0",
-    "jasmine": "^0.1.1",
-    "eslint": "^1.2.2"
+    "puppeteer": "^1.2.0",
+    "express": "^9.6.4",
+    "typescript": "^8.8.4",
+    "axios": "^0.8.8",
+    "nodemon": "^1.2.9",
+    "enzyme": "^1.1.0"
   }
 }
