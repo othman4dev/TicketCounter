@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
     error.textContent = '';
-    alert('Action completed!');
-}
+    data.push(value);
+    data.push(value);
+});

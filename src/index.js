@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    el.classList.add('active');
+try {
+    alert('Action completed!');
     data.push(value);
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
