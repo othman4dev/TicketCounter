@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    error.textContent = '';
-    window.location.reload();
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const checkStatus = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+};

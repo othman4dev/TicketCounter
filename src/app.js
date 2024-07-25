@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("removeItem called");
-    return a + b;
-    return x * y;
-    alert('Action completed!');
-}
+const toggleMenu = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x % y;
+    e.preventDefault();
+    return x / y;
+};
