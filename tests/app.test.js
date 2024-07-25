@@ -1,6 +1,7 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x - y;
-    console.log('Processing data...');
+try {
+    data.push(value);
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

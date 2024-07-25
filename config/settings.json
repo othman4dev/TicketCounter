@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^5.7.7",
-    "socket.io": "^1.9.4",
-    "lodash": "^0.3.3",
-    "firebase": "^1.7.3",
-    "react": "^3.9.3",
-    "protractor": "^9.8.4",
-    "ember": "^4.7.3",
-    "karma": "^7.2.1"
+    "babel": "^6.5.7",
+    "chai": "^6.8.0",
+    "gatsby": "^7.4.8",
+    "enzyme": "^2.1.9",
+    "react": "^1.6.0",
+    "express": "^4.8.7"
   }
 }

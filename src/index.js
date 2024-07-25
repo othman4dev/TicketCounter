@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x - y;
-    window.location.reload();
-    window.location.reload();
-};
+if (value !== '') {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
