@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x - y;
+    window.location.reload();
+    window.location.reload();
+};
