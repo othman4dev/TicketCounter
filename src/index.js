@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("checkStatus called");
-    return x * y;
-    return x % y;
-    return x - y;
-}
+const fetchData = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    e.preventDefault();
+    e.preventDefault();
+};

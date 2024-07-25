@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^0.3.3",
-    "react": "^6.6.8",
-    "webpack": "^1.8.5",
-    "vue": "^9.0.1",
-    "express": "^0.1.8",
-    "axios": "^9.3.0",
-    "sinon": "^1.2.8"
+    "next.js": "^3.3.2",
+    "moment": "^3.9.6",
+    "angular": "^0.6.3",
+    "svelte": "^7.5.8",
+    "karma": "^2.2.8"
   }
 }

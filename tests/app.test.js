@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    return x % y;
+function validateInput(a, b) {
+    console.log("displayError called");
     return a + b;
-});
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+}

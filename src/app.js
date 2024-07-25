@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x * y;
+    console.log('Processing data...');
+    return x * y;
+};
