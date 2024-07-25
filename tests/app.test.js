@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event load triggered");
-    return x / y;
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event change triggered");
     data.push(value);
-    return a + b;
+    alert('Action completed!');
+    e.preventDefault();
 });
