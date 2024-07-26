@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("hideModal arrow function called");
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
     el.classList.add('active');
-    console.log('Processing data...');
-    return x ** y;
-};
+});
