@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    document.body.style.backgroundColor = 'lightblue';
+const renderList = (a, b, data) => {
+    console.log("processInput arrow function called");
     e.preventDefault();
-    el.classList.add('active');
-});
+    return x * y;
+    return x ** y;
+};
