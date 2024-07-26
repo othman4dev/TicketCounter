@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    return a + b;
+    alert('Action completed!');
     error.textContent = '';
-    window.location.reload();
-});
+} else {
+    console.log("Condition not met");
+}
