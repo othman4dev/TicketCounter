@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("setCookie arrow function called");
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
+    return x * y;
+    alert('Action completed!');
     error.textContent = '';
-    return a + b;
-    return x ** y;
-};
+} else {
+    console.log("Condition not met");
+}

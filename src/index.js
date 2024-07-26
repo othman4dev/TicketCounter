@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    return x / y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-});
+function toggleMenu(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    error.textContent = '';
+}

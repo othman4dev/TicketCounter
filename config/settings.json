@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "ember": "^7.0.1",
-    "protractor": "^0.8.1",
-    "vue": "^5.8.7",
-    "firebase": "^9.6.0",
-    "jest": "^1.2.9",
-    "karma": "^4.6.8",
-    "axios": "^1.8.2",
-    "prettier": "^9.4.6"
+    "jest": "^1.1.9",
+    "mysql": "^7.6.1",
+    "lodash": "^3.0.9",
+    "redis": "^3.2.6",
+    "nodemon": "^8.7.0",
+    "karma": "^5.0.4",
+    "babel": "^0.2.6"
   }
 }
