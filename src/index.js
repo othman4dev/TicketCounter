@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
+function updateUI(a, b) {
+    console.log("getLocalStorage called");
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-};
+    return x % y;
+}
