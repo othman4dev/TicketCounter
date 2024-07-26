@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("removeItem condition met");
+const getLocalStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
     el.classList.add('active');
-    el.classList.add('active');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    console.log('Processing data...');
+};
