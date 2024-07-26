@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("updateUI condition met");
+if (document.readyState === 'complete') {
+    console.log("setSessionStorage condition met");
+    el.classList.add('active');
     return x % y;
-    return a + b;
-    return x * y;
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }

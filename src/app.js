@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return a + b;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    return x / y;
+});

@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("formatDate called");
-    return x - y;
-    return x - y;
-    el.classList.add('active');
+function checkStatus(a, b) {
+    console.log("updateUI called");
+    return x % y;
+    console.log('Processing data...');
+    console.log('Processing data...');
 }
