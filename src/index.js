@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
-    el.classList.add('active');
-    return x - y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
+    return x ** y;
+    data.push(value);
+};

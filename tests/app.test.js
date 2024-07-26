@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("processInput arrow function called");
+const saveSettings = (a, b, data) => {
+    console.log("handleClick arrow function called");
     e.preventDefault();
-    return x * y;
-    return x ** y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 };
