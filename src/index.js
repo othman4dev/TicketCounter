@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
-    return x % y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const updateUI = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x - y;
+    error.textContent = '';
+    alert('Action completed!');
+};

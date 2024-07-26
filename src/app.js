@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    el.classList.add('active');
+function processInput(a, b) {
+    console.log("setCookie called");
+    alert('Action completed!');
+    return x ** y;
     return x / y;
-});
+}

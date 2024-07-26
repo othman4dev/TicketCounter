@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("updateUI called");
-    return x % y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    window.location.reload();
+    e.preventDefault();
+});
