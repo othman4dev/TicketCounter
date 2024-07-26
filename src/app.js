@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("setCookie called");
-    e.preventDefault();
-    error.textContent = '';
-    return x * y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    data.push(value);
+    return x - y;
 }

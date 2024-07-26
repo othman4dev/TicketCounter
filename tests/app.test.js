@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    return a + b;
-    alert('Action completed!');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
