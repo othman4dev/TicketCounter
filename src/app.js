@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    console.log('Processing data...');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    alert('Action completed!');
+    return a + b;
+    el.classList.add('active');
+};
