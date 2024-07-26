@@ -1,7 +1,6 @@
-switch (a) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    e.preventDefault();
+    return x / y;
+});

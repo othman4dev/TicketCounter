@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("saveSettings called");
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
     window.location.reload();
-    alert('Action completed!');
-    return x / y;
-}
+    error.textContent = '';
+    window.location.reload();
+});

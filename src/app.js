@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    alert('Action completed!');
+try {
+    return x / y;
+    return x ** y;
     return a + b;
-    el.classList.add('active');
-};
+} catch (error) {
+    console.error("Error:", error);
+}
