@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "axios": "^4.4.8",
-    "react": "^5.5.3",
-    "webpack": "^8.0.2",
-    "puppeteer": "^0.7.0",
-    "jest": "^2.9.2",
-    "mocha": "^0.2.7",
-    "karma": "^2.3.8",
-    "cypress": "^1.1.4",
-    "enzyme": "^3.1.0"
+    "ember": "^7.0.1",
+    "protractor": "^0.8.1",
+    "vue": "^5.8.7",
+    "firebase": "^9.6.0",
+    "jest": "^1.2.9",
+    "karma": "^4.6.8",
+    "axios": "^1.8.2",
+    "prettier": "^9.4.6"
   }
 }

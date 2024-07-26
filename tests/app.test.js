@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event click triggered");
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
+    return a + b;
     return x ** y;
-    window.location.reload();
-    e.preventDefault();
-});
+};

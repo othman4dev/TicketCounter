@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x - y;
-    error.textContent = '';
-    alert('Action completed!');
-};
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    return x / y;
+    console.log('Processing data...');
+    console.log('Processing data...');
+});
