@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    return x / y;
-    return x - y;
-});
+switch (y) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

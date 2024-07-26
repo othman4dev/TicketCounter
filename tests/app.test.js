@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x ** y;
-    return x * y;
-    window.location.reload();
-};
+if (x !== y) {
+    console.log("removeItem condition met");
+    el.classList.add('active');
+    el.classList.add('active');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

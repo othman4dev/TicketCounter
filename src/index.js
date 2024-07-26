@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    return a + b;
-    el.classList.add('active');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x - y;
+    window.location.reload();
 }
