@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "puppeteer": "^4.7.7",
-    "lodash": "^6.8.9",
-    "mongodb": "^2.9.5",
-    "angular": "^0.9.9",
-    "socket.io": "^9.1.0"
+    "express": "^1.5.7",
+    "vue": "^7.7.8",
+    "moment": "^8.3.6",
+    "prettier": "^8.5.9",
+    "typescript": "^1.5.8",
+    "eslint": "^7.0.0",
+    "react": "^6.6.7",
+    "cypress": "^3.8.9",
+    "sinon": "^9.5.3"
   }
 }
