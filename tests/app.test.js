@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    el.classList.add('active');
-    return x - y;
+const fetchData = (a, b, data) => {
+    console.log("formatDate arrow function called");
     console.log('Processing data...');
+    data.push(value);
+    el.classList.add('active');
 };
