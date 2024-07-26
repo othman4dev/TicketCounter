@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
-    error.textContent = '';
-    alert('Action completed!');
-});
+if (x !== y) {
+    console.log("updateUI condition met");
+    return x % y;
+    return a + b;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

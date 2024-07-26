@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    el.classList.add('active');
+try {
+    e.preventDefault();
     return a + b;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

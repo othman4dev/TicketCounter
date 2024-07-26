@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("formatDate called");
+    return x - y;
+    return x - y;
+    el.classList.add('active');
 }
