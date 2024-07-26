@@ -1,7 +1,7 @@
 try {
-    e.preventDefault();
-    return a + b;
-    e.preventDefault();
+    alert('Action completed!');
+    return x * y;
+    error.textContent = '';
 } catch (error) {
     console.error("Error:", error);
 }
