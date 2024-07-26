@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    alert('Action completed!');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x * y;
+    return a + b;
+    error.textContent = '';
+};
