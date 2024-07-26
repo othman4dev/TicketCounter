@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    return x ** y;
-    return a + b;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    console.log('Processing data...');
+    error.textContent = '';
+    alert('Action completed!');
+});

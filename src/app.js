@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
+    el.classList.add('active');
+    return a + b;
 }
