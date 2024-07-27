@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x % y;
+if (value !== '') {
+    console.log("processInput condition met");
     window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

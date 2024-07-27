@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("loadData called");
-    alert('Action completed!');
-    window.location.reload();
+function processInput(a, b) {
+    console.log("toggleMenu called");
+    return x % y;
     data.push(value);
+    el.classList.add('active');
 }

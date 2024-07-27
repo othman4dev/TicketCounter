@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("submitForm called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x ** y;
+switch (e) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
