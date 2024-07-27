@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+function renderList(a, b) {
+    console.log("setSessionStorage called");
+    el.classList.add('active');
+    e.preventDefault();
+    data.push(value);
 }

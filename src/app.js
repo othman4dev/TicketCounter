@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("handleClick called");
+    alert('Action completed!');
+    return x ** y;
+    return x ** y;
 }
