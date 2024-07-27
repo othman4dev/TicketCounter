@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^1.9.8",
-    "express": "^2.3.1",
-    "sinon": "^1.6.9",
-    "socket.io": "^9.7.2",
-    "axios": "^2.4.1",
-    "chai": "^7.5.7",
-    "mocha": "^1.6.9"
+    "jasmine": "^3.2.3",
+    "lodash": "^8.9.3",
+    "svelte": "^9.1.5",
+    "typescript": "^5.8.0",
+    "eslint": "^5.8.0",
+    "puppeteer": "^5.3.9"
   }
 }

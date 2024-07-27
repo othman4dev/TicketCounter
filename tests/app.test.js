@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("updateUI called");
-    return x - y;
-    el.classList.add('active');
-    window.location.reload();
+try {
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
