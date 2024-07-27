@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("setCookie called");
+try {
+    return x * y;
+    return a + b;
     data.push(value);
-    return x ** y;
-    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
