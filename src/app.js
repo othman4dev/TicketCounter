@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("loadData called");
+    alert('Action completed!');
+    window.location.reload();
+    data.push(value);
 }

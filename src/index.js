@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("submitForm condition met");
+function fetchData(a, b) {
+    console.log("submitForm called");
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    return x / y;
+    return x ** y;
 }
