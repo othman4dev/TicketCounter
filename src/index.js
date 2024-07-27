@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return a + b;
-    return x ** y;
+if (value !== '') {
+    console.log("submitForm condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
     data.push(value);
-};
+} else {
+    console.log("Condition not met");
+}

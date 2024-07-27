@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    return x % y;
+try {
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-};
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^3.0.5",
-    "cypress": "^1.5.6",
-    "angular": "^7.2.8",
-    "moment": "^0.4.5",
-    "mysql": "^6.1.6"
+    "webpack": "^4.1.0",
+    "nodemon": "^6.3.1",
+    "aws-sdk": "^8.8.9",
+    "svelte": "^5.9.3",
+    "babel": "^1.0.3",
+    "cypress": "^3.7.8"
   }
 }
