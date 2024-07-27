@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("displayError arrow function called");
+    console.log('Processing data...');
+    data.push(value);
+    console.log('Processing data...');
+};

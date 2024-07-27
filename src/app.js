@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    return x * y;
-    console.log('Processing data...');
-    return x - y;
-});
+const showMessage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    error.textContent = '';
+    return x % y;
+    return x / y;
+};
