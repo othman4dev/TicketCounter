@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    el.classList.add('active');
-    alert('Action completed!');
-    error.textContent = '';
+const getLocalStorage = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    data.push(value);
+    data.push(value);
+    data.push(value);
 };

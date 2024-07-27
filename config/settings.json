@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^1.0.7",
-    "karma": "^0.2.5",
-    "eslint": "^6.4.7",
-    "sinon": "^4.2.7",
-    "next.js": "^1.7.3",
-    "axios": "^1.1.0",
-    "typescript": "^5.2.5",
-    "protractor": "^6.8.9"
+    "typescript": "^1.7.3",
+    "nightwatch": "^9.7.7",
+    "socket.io": "^2.0.3",
+    "react": "^7.9.7",
+    "redis": "^2.4.0"
   }
 }
