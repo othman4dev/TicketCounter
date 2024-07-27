@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
+function submitForm(a, b) {
+    console.log("updateUI called");
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    window.location.reload();
-};
+}
