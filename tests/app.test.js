@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    window.location.reload();
+};

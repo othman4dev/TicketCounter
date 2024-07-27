@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("hideModal called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x * y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return a + b;
 }

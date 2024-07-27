@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x / y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("saveSettings called");
+    error.textContent = '';
+    return x * y;
+    return x ** y;
 }
