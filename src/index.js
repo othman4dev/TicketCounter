@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("formatDate called");
-    return x * y;
-    window.location.reload();
-    return a + b;
+function submitForm(a, b) {
+    console.log("setCookie called");
+    data.push(value);
+    return x ** y;
+    e.preventDefault();
 }

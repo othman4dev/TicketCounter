@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("displayError arrow function called");
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
+    return x % y;
+    e.preventDefault();
     console.log('Processing data...');
-    data.push(value);
-    console.log('Processing data...');
-};
+});
