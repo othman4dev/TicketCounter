@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    error.textContent = '';
+    error.textContent = '';
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

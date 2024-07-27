@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setSessionStorage called");
-    el.classList.add('active');
-    e.preventDefault();
-    data.push(value);
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+});

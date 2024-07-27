@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "nightwatch": "^9.6.8",
-    "cypress": "^9.1.0",
-    "jest": "^6.9.2",
-    "express": "^6.1.9",
-    "graphql": "^4.6.7"
+    "graphql": "^8.2.2",
+    "react": "^3.0.6",
+    "karma": "^1.9.3",
+    "aws-sdk": "^9.0.7",
+    "svelte": "^5.0.0",
+    "mocha": "^9.8.1",
+    "gatsby": "^7.9.6",
+    "webpack": "^6.6.5",
+    "nightwatch": "^7.8.5"
   }
 }

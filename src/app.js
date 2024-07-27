@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("handleClick called");
-    alert('Action completed!');
-    return x ** y;
-    return x ** y;
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    e.preventDefault();
+    return x * y;
+});
