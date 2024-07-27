@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("formatDate arrow function called");
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    return x * y;
     console.log('Processing data...');
-    return x ** y;
-    error.textContent = '';
-};
+    return x - y;
+});
