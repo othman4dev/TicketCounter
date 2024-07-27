@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    error.textContent = '';
-    error.textContent = '';
-    return a + b;
+if (value !== '') {
+    console.log("formatDate condition met");
+    return x / y;
+    data.push(value);
+    return x * y;
 } else {
     console.log("Condition not met");
 }
