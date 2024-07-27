@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("setCookie called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+switch (x) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

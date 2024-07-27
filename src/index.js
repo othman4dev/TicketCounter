@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("formatDate condition met");
-    return x / y;
-    data.push(value);
+if (data.length > 0) {
+    console.log("checkStatus condition met");
+    error.textContent = '';
     return x * y;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
