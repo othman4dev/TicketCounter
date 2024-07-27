@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("renderList condition met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    el.classList.add('active');
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} else {
-    console.log("Condition not met");
 }

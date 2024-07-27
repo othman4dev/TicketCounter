@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    console.log('Processing data...');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    error.textContent = '';
+    alert('Action completed!');
 }
