@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    return x - y;
-    data.push(value);
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

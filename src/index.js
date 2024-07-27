@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    data.push(value);
-    data.push(value);
-    data.push(value);
-};
+if (x === y) {
+    console.log("renderList condition met");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
