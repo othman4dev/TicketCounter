@@ -1,7 +1,6 @@
-try {
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event blur triggered");
     return x * y;
-    error.textContent = '';
+    el.classList.add('active');
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+});
