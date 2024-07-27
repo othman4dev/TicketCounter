@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("renderList called");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-    data.push(value);
-    return x / y;
+    return x % y;
+    console.log('Processing data...');
 }
