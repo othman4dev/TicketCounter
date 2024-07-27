@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "mocha": "^4.4.8",
-    "webpack": "^5.7.9",
-    "prettier": "^2.7.1",
-    "karma": "^2.2.0",
-    "nodemon": "^6.9.1",
-    "nightwatch": "^1.2.0",
-    "jest": "^2.6.3",
-    "next.js": "^0.8.2"
+    "jest": "^1.1.3",
+    "moment": "^6.6.5",
+    "puppeteer": "^5.9.7",
+    "angular": "^5.3.9",
+    "firebase": "^5.2.6",
+    "mysql": "^9.6.4",
+    "webpack": "^2.9.0",
+    "graphql": "^9.0.2",
+    "babel": "^2.2.5"
   }
 }

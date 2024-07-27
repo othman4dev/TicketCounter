@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x / y;
-    error.textContent = '';
-    console.log('Processing data...');
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
