@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+const setCookie = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    el.classList.add('active');
     alert('Action completed!');
-    return x % y;
-    console.log('Processing data...');
-}
+    error.textContent = '';
+};
