@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return a + b;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("removeItem called");
+    alert('Action completed!');
+    return x % y;
+    window.location.reload();
 }

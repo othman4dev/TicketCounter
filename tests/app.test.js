@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    error.textContent = '';
-    return x % y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
+    alert('Action completed!');
+    return x / y;
+});
