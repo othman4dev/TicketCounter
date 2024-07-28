@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
     return x / y;
-    data.push(value);
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+});

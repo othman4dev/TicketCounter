@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^9.5.9",
-    "socket.io": "^7.3.6",
-    "enzyme": "^2.5.9",
-    "puppeteer": "^2.4.5",
-    "axios": "^5.1.7",
-    "angular": "^1.4.5",
-    "express": "^1.6.2",
-    "lodash": "^1.9.9",
-    "vue": "^7.7.7"
+    "prettier": "^2.4.5",
+    "gatsby": "^3.5.8",
+    "chai": "^1.5.2",
+    "webpack": "^4.1.6",
+    "typescript": "^6.4.9",
+    "babel": "^7.3.1",
+    "ember": "^0.5.9"
   }
 }

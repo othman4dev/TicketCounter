@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
     alert('Action completed!');
-    return a + b;
+    return x % y;
 });
