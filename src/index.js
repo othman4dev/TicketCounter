@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+switch (x) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
