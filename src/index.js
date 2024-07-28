@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
+document.querySelector(".modal").addEventListener("keydown", function() {
     console.log("Event change triggered");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+    window.location.reload();
+    return x - y;
+    return x ** y;
 });

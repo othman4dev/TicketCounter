@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^7.9.0",
-    "moment": "^5.8.5",
-    "prettier": "^4.5.8",
-    "enzyme": "^8.0.9",
-    "sinon": "^9.5.5"
+    "jest": "^0.9.7",
+    "jasmine": "^3.3.5",
+    "vue": "^8.0.7",
+    "mongodb": "^9.0.0"
   }
 }
