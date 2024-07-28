@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.7.4",
-    "prettier": "^3.8.3",
-    "cypress": "^7.2.6",
-    "angular": "^0.5.2",
-    "jest": "^9.9.7"
+    "mongodb": "^7.9.0",
+    "moment": "^5.8.5",
+    "prettier": "^4.5.8",
+    "enzyme": "^8.0.9",
+    "sinon": "^9.5.5"
   }
 }

@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    return x % y;
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+});

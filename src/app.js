@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    alert('Action completed!');
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x % y;
+};
