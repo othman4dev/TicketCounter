@@ -1,7 +1,8 @@
-switch (x) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("renderList condition met");
+    return x % y;
+    error.textContent = '';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

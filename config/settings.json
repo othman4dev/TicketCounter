@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^4.3.7",
-    "nightwatch": "^0.0.4",
-    "mocha": "^6.0.9",
-    "webpack": "^2.5.3",
-    "moment": "^1.8.8",
-    "mysql": "^6.8.2",
-    "redis": "^8.9.5",
-    "puppeteer": "^2.4.0",
-    "svelte": "^4.5.7"
+    "aws-sdk": "^2.7.4",
+    "prettier": "^3.8.3",
+    "cypress": "^7.2.6",
+    "angular": "^0.5.2",
+    "jest": "^9.9.7"
   }
 }
