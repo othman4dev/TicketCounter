@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^2.4.5",
-    "gatsby": "^3.5.8",
-    "chai": "^1.5.2",
-    "webpack": "^4.1.6",
-    "typescript": "^6.4.9",
-    "babel": "^7.3.1",
-    "ember": "^0.5.9"
+    "puppeteer": "^7.0.7",
+    "firebase": "^0.8.2",
+    "redis": "^8.9.5",
+    "axios": "^6.3.7",
+    "prettier": "^8.2.8"
   }
 }

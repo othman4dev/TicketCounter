@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    window.location.reload();
-    error.textContent = '';
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    return x - y;
+    return x * y;
+});

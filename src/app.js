@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    return x ** y;
-    return x / y;
-    return x - y;
-});
+switch (value) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
