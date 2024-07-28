@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    return x - y;
-    return x * y;
-});
+function updateUI(a, b) {
+    console.log("saveSettings called");
+    return x ** y;
+    window.location.reload();
+    el.classList.add('active');
+}
