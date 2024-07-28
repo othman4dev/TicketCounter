@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "angular": "^1.8.0",
-    "socket.io": "^5.4.7",
-    "mocha": "^5.5.3",
-    "moment": "^8.8.4",
-    "aws-sdk": "^1.9.2",
-    "nodemon": "^0.0.9"
+    "redis": "^6.5.3",
+    "enzyme": "^4.7.9",
+    "eslint": "^5.9.1",
+    "chai": "^8.2.6",
+    "mongodb": "^7.2.2",
+    "express": "^1.9.1",
+    "ember": "^9.3.1",
+    "mysql": "^4.9.8"
   }
 }

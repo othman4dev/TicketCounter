@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    data.push(value);
-});
+const createChart = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x ** y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+};
