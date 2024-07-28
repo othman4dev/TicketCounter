@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
-    e.preventDefault();
-    window.location.reload();
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return a + b;
+});

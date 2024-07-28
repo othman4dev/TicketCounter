@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    e.preventDefault();
-    return x ** y;
+if (x !== y) {
+    console.log("formatDate condition met");
+    return x / y;
+    data.push(value);
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
