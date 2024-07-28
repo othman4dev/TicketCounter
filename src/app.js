@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    window.location.reload();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function submitForm(a, b) {
+    console.log("removeItem called");
+    e.preventDefault();
+    e.preventDefault();
+    return x ** y;
 }
