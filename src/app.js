@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    console.log('Processing data...');
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    return x - y;
+    window.location.reload();
+    window.location.reload();
 });

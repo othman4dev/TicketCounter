@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("saveSettings called");
-    return x ** y;
-    window.location.reload();
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
     el.classList.add('active');
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

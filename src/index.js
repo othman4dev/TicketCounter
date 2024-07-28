@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    error.textContent = '';
-    console.log('Processing data...');
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
