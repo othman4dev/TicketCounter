@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    alert('Action completed!');
+    data.push(value);
+});
