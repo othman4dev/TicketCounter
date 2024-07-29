@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("displayError called");
-    return x * y;
-    return x ** y;
-    console.log('Processing data...');
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    return x / y;
+    e.preventDefault();
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

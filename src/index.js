@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    return x / y;
+const fetchData = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return a + b;
+    return x * y;
     e.preventDefault();
-});
+};
