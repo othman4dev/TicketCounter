@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "babel": "^3.2.2",
-    "typescript": "^9.8.5",
-    "eslint": "^2.6.8",
-    "prettier": "^3.7.7",
-    "moment": "^1.7.5",
-    "lodash": "^6.0.6",
-    "mysql": "^9.4.6"
+    "jest": "^3.9.7",
+    "vue": "^9.9.3",
+    "chai": "^8.0.4",
+    "firebase": "^5.0.1",
+    "prettier": "^5.8.2"
   }
 }

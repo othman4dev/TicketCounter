@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    return x - y;
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    return x / y;
+    return x ** y;
+});
