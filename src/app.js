@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-});
+const processInput = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x - y;
+    return a + b;
+    console.log('Processing data...');
+};
