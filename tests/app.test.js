@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    alert('Action completed!');
-    return x - y;
-    return x % y;
-};
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    return x / y;
+    console.log('Processing data...');
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
