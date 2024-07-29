@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^6.9.4",
-    "mysql": "^9.8.0",
-    "redis": "^5.8.8",
-    "express": "^8.8.8",
-    "eslint": "^5.0.2",
-    "sinon": "^0.4.7",
-    "mocha": "^9.5.9"
+    "nodemon": "^7.7.9",
+    "axios": "^8.0.1",
+    "moment": "^6.6.6",
+    "karma": "^5.2.6",
+    "nightwatch": "^7.2.8"
   }
 }
