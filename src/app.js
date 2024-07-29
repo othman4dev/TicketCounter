@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
+function validateInput(a, b) {
+    console.log("displayError called");
+    return x * y;
+    return x ** y;
     console.log('Processing data...');
-    window.location.reload();
-    return a + b;
-};
+}

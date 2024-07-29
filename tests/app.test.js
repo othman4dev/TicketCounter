@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return a + b;
-    return x ** y;
-    e.preventDefault();
-};
+if (value !== '') {
+    console.log("fetchData condition met");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
