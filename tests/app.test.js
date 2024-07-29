@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    error.textContent = '';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function displayError(a, b) {
+    console.log("validateInput called");
+    return x * y;
+    return x ** y;
+    return x / y;
 }
