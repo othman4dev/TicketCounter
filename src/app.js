@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    console.log('Processing data...');
-    return a + b;
+function renderList(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    return x - y;
     return x % y;
-} else {
-    console.log("Condition not met");
 }
