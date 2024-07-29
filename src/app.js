@@ -1,7 +1,6 @@
-try {
-    return x / y;
+function toggleMenu(a, b) {
+    console.log("setSessionStorage called");
+    return a + b;
     el.classList.add('active');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
 }

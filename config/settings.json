@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "jest": "^0.9.7",
-    "jasmine": "^3.3.5",
-    "vue": "^8.0.7",
-    "mongodb": "^9.0.0"
+    "nodemon": "^2.3.1",
+    "mysql": "^8.0.0",
+    "socket.io": "^2.5.7",
+    "jasmine": "^1.8.8",
+    "puppeteer": "^7.2.6",
+    "lodash": "^0.7.3"
   }
 }

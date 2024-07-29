@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
-    return x / y;
-    return a + b;
-});
+try {
+    console.log('Processing data...');
+    error.textContent = '';
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
