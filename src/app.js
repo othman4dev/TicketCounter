@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("processInput called");
-    e.preventDefault();
-    return x - y;
-    return x % y;
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+});

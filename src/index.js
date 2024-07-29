@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("checkStatus called");
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("validateInput condition met");
     return x - y;
-    return a + b;
+    data.push(value);
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("getLocalStorage condition met");
-    window.location.reload();
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("submitForm called");
+    return a + b;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
