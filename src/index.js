@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    error.textContent = '';
+function handleClick(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }

@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    return x - y;
-    return x / y;
-    error.textContent = '';
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
+    return a + b;
+};

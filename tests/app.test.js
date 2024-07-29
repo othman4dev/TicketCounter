@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    return x - y;
-    return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    return x ** y;
+    e.preventDefault();
+};
