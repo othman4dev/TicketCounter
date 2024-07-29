@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("displayError called");
+if (x === y) {
+    console.log("processInput condition met");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    return x * y;
-    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
