@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    return x / y;
-    console.log('Processing data...');
-    return x / y;
+if (a > b) {
+    console.log("setSessionStorage condition met");
+    return x - y;
+    return x * y;
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
