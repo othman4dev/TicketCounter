@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
-    console.log('Processing data...');
+if (value !== '') {
+    console.log("validateInput condition met");
+    return x - y;
     error.textContent = '';
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

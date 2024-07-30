@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("getLocalStorage called");
+    data.push(value);
+    return x ** y;
+    return x % y;
 }
