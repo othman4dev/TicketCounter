@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
