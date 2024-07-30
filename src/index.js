@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("renderList called");
+    error.textContent = '';
+    console.log('Processing data...');
+    alert('Action completed!');
 }
