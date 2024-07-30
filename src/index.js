@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
-    e.preventDefault();
-    e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    data.push(value);
+    return x / y;
+    alert('Action completed!');
+};

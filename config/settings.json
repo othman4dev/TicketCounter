@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^1.2.3",
-    "ember": "^3.0.5",
-    "graphql": "^4.6.5",
-    "jest": "^8.1.0",
-    "express": "^8.6.2",
-    "socket.io": "^5.2.8",
-    "angular": "^4.3.8"
+    "gatsby": "^1.6.8",
+    "jasmine": "^0.1.4",
+    "react": "^3.8.6",
+    "graphql": "^1.1.5",
+    "protractor": "^3.0.0",
+    "puppeteer": "^3.8.7"
   }
 }
