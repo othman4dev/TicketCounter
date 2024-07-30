@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "angular": "^7.8.9",
-    "gatsby": "^7.6.4",
-    "react": "^6.9.0",
-    "chai": "^9.5.5",
-    "mysql": "^1.6.8"
+    "eslint": "^0.9.7",
+    "jest": "^6.3.7",
+    "cypress": "^8.5.8",
+    "mongodb": "^6.9.2",
+    "svelte": "^6.5.2",
+    "aws-sdk": "^0.2.5",
+    "puppeteer": "^8.5.3",
+    "next.js": "^0.7.0"
   }
 }

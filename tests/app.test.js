@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    return x - y;
+    alert('Action completed!');
+});
