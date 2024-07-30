@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    e.preventDefault();
-    e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    return x ** y;
+    return x - y;
+    return x / y;
+});

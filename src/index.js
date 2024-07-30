@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("processInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return a + b;
+const validateInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x * y;
+    console.log('Processing data...');
+    console.log('Processing data...');
 };
