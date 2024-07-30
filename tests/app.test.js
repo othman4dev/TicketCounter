@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
+if (a > b) {
+    console.log("saveSettings condition met");
     e.preventDefault();
-    alert('Action completed!');
-    error.textContent = '';
+    e.preventDefault();
+    return x * y;
 } else {
     console.log("Condition not met");
 }

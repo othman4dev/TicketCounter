@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    data.push(value);
-    return x / y;
-    alert('Action completed!');
+const displayError = (a, b, data) => {
+    console.log("processInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return a + b;
 };
