@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+switch (y) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
