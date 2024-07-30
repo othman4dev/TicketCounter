@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    return x / y;
-    return x - y;
-});
+try {
+    console.log('Processing data...');
+    alert('Action completed!');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
