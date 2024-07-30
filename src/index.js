@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    data.push(value);
+    data.push(value);
+    return x / y;
+});
