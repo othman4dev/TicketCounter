@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    window.location.reload();
-    data.push(value);
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x ** y;
+};

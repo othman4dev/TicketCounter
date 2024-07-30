@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    return x ** y;
-    return x - y;
-    return x / y;
-});
+if (window.innerWidth > 500) {
+    console.log("getLocalStorage condition met");
+    error.textContent = '';
+    alert('Action completed!');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
