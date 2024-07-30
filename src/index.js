@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    window.location.reload();
-    data.push(value);
-    console.log('Processing data...');
-};
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    el.classList.add('active');
+    return x - y;
+}

@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    el.classList.add('active');
+try {
+    console.log('Processing data...');
     e.preventDefault();
-    e.preventDefault();
-};
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

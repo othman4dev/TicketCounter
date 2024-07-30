@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("loadData called");
+    return x - y;
+    console.log('Processing data...');
+    window.location.reload();
 }
