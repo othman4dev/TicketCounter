@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function toggleMenu(a, b) {
+    console.log("fetchData called");
+    return x / y;
+    window.location.reload();
+    el.classList.add('active');
 }

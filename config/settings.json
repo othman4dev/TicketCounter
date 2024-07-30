@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^7.4.5",
-    "moment": "^3.0.5",
-    "firebase": "^0.3.1",
-    "enzyme": "^5.1.9",
-    "mysql": "^7.7.6",
-    "ember": "^6.8.2",
-    "redis": "^8.8.8",
-    "chai": "^6.6.6"
+    "next.js": "^1.2.3",
+    "ember": "^3.0.5",
+    "graphql": "^4.6.5",
+    "jest": "^8.1.0",
+    "express": "^8.6.2",
+    "socket.io": "^5.2.8",
+    "angular": "^4.3.8"
   }
 }

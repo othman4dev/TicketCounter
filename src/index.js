@@ -1,7 +1,8 @@
-switch (value) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    e.preventDefault();
+    e.preventDefault();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
