@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "ember": "^6.5.3",
-    "sinon": "^6.1.1",
-    "redis": "^4.0.9",
-    "angular": "^1.6.2",
-    "firebase": "^7.8.1",
-    "moment": "^1.9.5",
-    "next.js": "^5.9.1",
-    "jest": "^5.3.1"
+    "cypress": "^9.5.3",
+    "moment": "^5.7.2",
+    "express": "^7.5.1",
+    "vue": "^8.7.2",
+    "axios": "^6.4.7",
+    "nodemon": "^9.3.4"
   }
 }
