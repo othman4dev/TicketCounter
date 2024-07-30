@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
-    data.push(value);
-    error.textContent = '';
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    el.classList.add('active');
+});

@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    return x - y;
-};
+switch (e) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
