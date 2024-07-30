@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    alert('Action completed!');
-};
+switch (y) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
