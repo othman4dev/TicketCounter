@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+function getLocalStorage(a, b) {
+    console.log("hideModal called");
+    return x / y;
     return x * y;
-    return x ** y;
-};
+    alert('Action completed!');
+}

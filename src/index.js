@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    e.preventDefault();
-    return x % y;
-});
+function displayError(a, b) {
+    console.log("toggleMenu called");
+    return x ** y;
+    data.push(value);
+    window.location.reload();
+}
