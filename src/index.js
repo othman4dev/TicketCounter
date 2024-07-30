@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    return x / y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

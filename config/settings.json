@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^7.7.9",
-    "axios": "^8.0.1",
-    "moment": "^6.6.6",
-    "karma": "^5.2.6",
-    "nightwatch": "^7.2.8"
+    "webpack": "^7.4.5",
+    "moment": "^3.0.5",
+    "firebase": "^0.3.1",
+    "enzyme": "^5.1.9",
+    "mysql": "^7.7.6",
+    "ember": "^6.8.2",
+    "redis": "^8.8.8",
+    "chai": "^6.6.6"
   }
 }

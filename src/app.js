@@ -1,7 +1,7 @@
 try {
-    el.classList.add('active');
-    return x % y;
-    alert('Action completed!');
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 } catch (error) {
     console.error("Error:", error);
 }

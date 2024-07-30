@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
-    return x % y;
-    return x ** y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    return x * y;
+    alert('Action completed!');
+});
