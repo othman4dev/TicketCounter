@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("toggleMenu condition met");
-    data.push(value);
-    return x / y;
+const removeItem = (a, b, data) => {
+    console.log("handleClick arrow function called");
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    e.preventDefault();
+};

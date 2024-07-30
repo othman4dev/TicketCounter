@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^9.5.3",
-    "moment": "^5.7.2",
-    "express": "^7.5.1",
-    "vue": "^8.7.2",
-    "axios": "^6.4.7",
-    "nodemon": "^9.3.4"
+    "mongodb": "^5.1.0",
+    "firebase": "^4.0.1",
+    "sinon": "^5.9.0",
+    "gatsby": "^4.5.7",
+    "angular": "^4.2.0",
+    "express": "^3.6.7",
+    "eslint": "^4.0.6"
   }
 }
