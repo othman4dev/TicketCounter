@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^1.4.2",
-    "axios": "^9.5.0",
-    "vue": "^7.1.4",
-    "express": "^4.0.3",
-    "nightwatch": "^0.3.4",
-    "moment": "^9.7.7",
-    "webpack": "^5.9.8",
-    "mocha": "^1.4.1",
-    "next.js": "^6.8.9"
+    "gatsby": "^1.4.7",
+    "jest": "^8.4.7",
+    "svelte": "^9.6.3",
+    "prettier": "^5.3.1",
+    "lodash": "^5.0.9",
+    "babel": "^8.8.2",
+    "mongodb": "^6.5.3",
+    "sinon": "^7.5.3"
   }
 }
