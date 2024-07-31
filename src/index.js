@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    el.classList.add('active');
-};
+switch (b) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

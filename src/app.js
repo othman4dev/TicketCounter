@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("handleClick called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x ** y;
+switch (error) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

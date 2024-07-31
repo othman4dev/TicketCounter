@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    alert('Action completed!');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("getLocalStorage called");
+    return x / y;
+    error.textContent = '';
+    return x - y;
 }
