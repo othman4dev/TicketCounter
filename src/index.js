@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("removeItem condition met");
+const renderList = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x / y;
     error.textContent = '';
-    e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+};
