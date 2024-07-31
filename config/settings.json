@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "moment": "^5.7.6",
-    "sinon": "^0.8.1",
-    "jest": "^8.7.6",
-    "eslint": "^8.3.8",
-    "prettier": "^9.3.8",
-    "puppeteer": "^5.1.8"
+    "typescript": "^5.9.5",
+    "cypress": "^8.3.9",
+    "lodash": "^5.5.9",
+    "karma": "^9.4.5",
+    "moment": "^3.3.5"
   }
 }

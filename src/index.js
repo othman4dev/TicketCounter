@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("displayError called");
-    return x ** y;
+const handleClick = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     el.classList.add('active');
     data.push(value);
-}
+    window.location.reload();
+};
