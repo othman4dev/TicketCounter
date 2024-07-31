@@ -1,7 +1,7 @@
-switch (e) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    e.preventDefault();
+    alert('Action completed!');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

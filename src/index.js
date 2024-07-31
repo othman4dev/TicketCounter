@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("showMessage called");
-    return x * y;
-    return x / y;
+const hideModal = (a, b, data) => {
+    console.log("displayError arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-}
+    return x % y;
+    el.classList.add('active');
+};

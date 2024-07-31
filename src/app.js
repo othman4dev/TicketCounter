@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
-    console.log('Processing data...');
-    alert('Action completed!');
-    el.classList.add('active');
-});
+function setSessionStorage(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return x ** y;
+}
