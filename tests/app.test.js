@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+});
