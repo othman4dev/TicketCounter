@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
+try {
+    console.log('Processing data...');
     return x / y;
-    return x - y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
