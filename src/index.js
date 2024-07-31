@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+const setSessionStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x * y;
     data.push(value);
-    data.push(value);
-    return x % y;
-}
+    el.classList.add('active');
+};

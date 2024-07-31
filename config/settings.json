@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^3.9.1",
-    "angular": "^3.1.0",
-    "eslint": "^4.1.5",
-    "mocha": "^7.1.1",
-    "babel": "^1.6.0"
+    "redis": "^8.9.5",
+    "graphql": "^6.4.9",
+    "karma": "^7.6.7",
+    "enzyme": "^0.3.4",
+    "lodash": "^9.0.4",
+    "nodemon": "^2.9.4",
+    "moment": "^4.2.1",
+    "eslint": "^1.0.8"
   }
 }

@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("showMessage called");
+const checkStatus = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
     console.log('Processing data...');
-}
+};
