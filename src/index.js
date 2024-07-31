@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    alert('Action completed!');
-    alert('Action completed!');
-}
+const showMessage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x % y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+};

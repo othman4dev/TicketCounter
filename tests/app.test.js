@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
+if (x !== y) {
+    console.log("showMessage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
     data.push(value);
-    window.location.reload();
-};
+} else {
+    console.log("Condition not met");
+}
