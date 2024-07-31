@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
+if (x !== y) {
+    console.log("removeItem condition met");
+    error.textContent = '';
+    e.preventDefault();
     return x * y;
-    data.push(value);
-    el.classList.add('active');
-};
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    data.push(value);
-    e.preventDefault();
-    console.log('Processing data...');
-};
+switch (b) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
