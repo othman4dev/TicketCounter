@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^3.5.8",
-    "graphql": "^1.7.1",
-    "redis": "^6.4.0",
-    "nodemon": "^5.4.3",
-    "gatsby": "^3.4.1"
+    "graphql": "^4.8.2",
+    "gatsby": "^2.8.7",
+    "vue": "^3.3.5",
+    "express": "^8.7.1",
+    "babel": "^2.3.5"
   }
 }

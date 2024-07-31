@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
-    el.classList.add('active');
-    return x % y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const updateUI = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+};
