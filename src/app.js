@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    window.location.reload();
-    e.preventDefault();
+function hideModal(a, b) {
+    console.log("showMessage called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }
