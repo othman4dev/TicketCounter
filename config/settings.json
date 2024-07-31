@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^4.9.5",
-    "moment": "^6.3.2",
-    "graphql": "^9.2.8",
-    "babel": "^3.4.4",
-    "enzyme": "^2.0.6",
-    "socket.io": "^9.6.5",
-    "jasmine": "^7.2.6"
+    "mongodb": "^4.4.4",
+    "lodash": "^9.4.0",
+    "mocha": "^6.4.5",
+    "karma": "^8.5.2",
+    "ember": "^2.5.9",
+    "mysql": "^5.4.0"
   }
 }
