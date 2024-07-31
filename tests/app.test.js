@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    console.log('Processing data...');
-    el.classList.add('active');
+if (data.length > 0) {
+    console.log("loadData condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

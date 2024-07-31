@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    error.textContent = '';
-});
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    window.location.reload();
+    e.preventDefault();
+}
