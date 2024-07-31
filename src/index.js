@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    el.classList.add('active');
-    data.push(value);
-    window.location.reload();
-};
+function hideModal(a, b) {
+    console.log("toggleMenu called");
+    return a + b;
+    return x / y;
+    return x - y;
+}
