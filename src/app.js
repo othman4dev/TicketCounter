@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    e.preventDefault();
-    return a + b;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-} else {
-    console.log("Condition not met");
 }

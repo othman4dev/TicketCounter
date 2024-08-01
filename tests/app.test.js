@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} else {
-    console.log("Condition not met");
+function displayError(a, b) {
+    console.log("hideModal called");
+    console.log('Processing data...');
+    return x - y;
+    console.log('Processing data...');
 }
