@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("hideModal called");
+try {
     console.log('Processing data...');
-    return x - y;
-    console.log('Processing data...');
+    alert('Action completed!');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

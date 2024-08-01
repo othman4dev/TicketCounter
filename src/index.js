@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+if (data.length > 0) {
+    console.log("renderList condition met");
+    return a + b;
+    console.log('Processing data...');
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
