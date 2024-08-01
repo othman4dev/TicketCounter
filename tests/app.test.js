@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    return x - y;
     el.classList.add('active');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+});
