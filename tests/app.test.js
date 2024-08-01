@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("formatDate called");
-    return x / y;
-    return x / y;
-    e.preventDefault();
+if (x !== y) {
+    console.log("validateInput condition met");
+    return x - y;
+    el.classList.add('active');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

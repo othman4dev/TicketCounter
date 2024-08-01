@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^8.5.4",
-    "ember": "^9.3.8",
-    "mongodb": "^8.9.4",
-    "prettier": "^4.0.1",
-    "axios": "^4.1.3",
-    "graphql": "^6.7.8",
-    "firebase": "^2.4.9"
+    "gatsby": "^9.1.1",
+    "jest": "^2.4.0",
+    "protractor": "^5.9.6",
+    "enzyme": "^6.0.2",
+    "vue": "^1.4.0",
+    "puppeteer": "^9.2.6"
   }
 }
