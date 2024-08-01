@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "mysql": "^7.9.0",
-    "gatsby": "^0.0.0",
-    "nodemon": "^7.6.9",
-    "svelte": "^7.8.4",
-    "jest": "^7.2.4",
-    "chai": "^7.4.3"
+    "webpack": "^8.8.8",
+    "aws-sdk": "^8.4.8",
+    "typescript": "^9.0.9",
+    "jasmine": "^0.1.6"
   }
 }
