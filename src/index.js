@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    return x / y;
-    window.location.reload();
+if (value !== '') {
+    console.log("checkStatus condition met");
     el.classList.add('active');
+    return x ** y;
+    return x * y;
 } else {
     console.log("Condition not met");
 }

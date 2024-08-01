@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^4.8.1",
-    "graphql": "^2.3.1",
-    "webpack": "^9.1.6",
-    "mocha": "^0.8.8",
-    "jest": "^6.6.7"
+    "mysql": "^7.9.0",
+    "gatsby": "^0.0.0",
+    "nodemon": "^7.6.9",
+    "svelte": "^7.8.4",
+    "jest": "^7.2.4",
+    "chai": "^7.4.3"
   }
 }

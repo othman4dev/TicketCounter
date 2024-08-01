@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x * y;
-    return a + b;
-    return a + b;
-};
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    el.classList.add('active');
+    error.textContent = '';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
