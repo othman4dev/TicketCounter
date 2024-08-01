@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^1.4.7",
-    "jest": "^8.4.7",
-    "svelte": "^9.6.3",
-    "prettier": "^5.3.1",
-    "lodash": "^5.0.9",
-    "babel": "^8.8.2",
-    "mongodb": "^6.5.3",
-    "sinon": "^7.5.3"
+    "redis": "^3.6.5",
+    "firebase": "^7.7.2",
+    "nodemon": "^6.1.6",
+    "babel": "^8.3.5",
+    "mocha": "^0.1.7",
+    "puppeteer": "^0.0.4"
   }
 }
