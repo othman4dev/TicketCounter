@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("setCookie called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+try {
+    console.log('Processing data...');
+    el.classList.add('active');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

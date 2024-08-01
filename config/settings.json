@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "karma": "^9.7.7",
-    "react": "^3.9.1",
-    "vue": "^1.0.1",
-    "chai": "^3.3.0",
-    "sinon": "^0.4.5",
-    "enzyme": "^5.0.3",
-    "angular": "^8.9.5",
-    "puppeteer": "^7.5.4"
+    "gatsby": "^3.1.8",
+    "aws-sdk": "^6.8.2",
+    "lodash": "^9.0.8",
+    "moment": "^5.9.6"
   }
 }

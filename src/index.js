@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    e.preventDefault();
-    return a + b;
-    el.classList.add('active');
-};
+if (value !== '') {
+    console.log("updateUI condition met");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
