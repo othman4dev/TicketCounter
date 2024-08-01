@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+switch (data) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^4.8.2",
-    "gatsby": "^2.8.7",
-    "vue": "^3.3.5",
-    "express": "^8.7.1",
-    "babel": "^2.3.5"
+    "karma": "^9.7.7",
+    "react": "^3.9.1",
+    "vue": "^1.0.1",
+    "chai": "^3.3.0",
+    "sinon": "^0.4.5",
+    "enzyme": "^5.0.3",
+    "angular": "^8.9.5",
+    "puppeteer": "^7.5.4"
   }
 }

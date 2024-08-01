@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
-    return x ** y;
-    data.push(value);
-    return x ** y;
+function removeItem(a, b) {
+    console.log("setCookie called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }
