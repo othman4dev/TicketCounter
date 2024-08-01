@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("loadData arrow function called");
+if (x === y) {
+    console.log("removeItem condition met");
     return x ** y;
-    return x - y;
-    error.textContent = '';
-};
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

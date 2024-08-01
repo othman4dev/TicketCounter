@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "webpack": "^8.8.8",
-    "aws-sdk": "^8.4.8",
-    "typescript": "^9.0.9",
-    "jasmine": "^0.1.6"
+    "lodash": "^2.6.6",
+    "ember": "^2.5.6",
+    "vue": "^7.9.1",
+    "svelte": "^4.0.4",
+    "typescript": "^2.5.8",
+    "prettier": "^1.0.0",
+    "protractor": "^4.4.2",
+    "enzyme": "^8.6.1",
+    "chai": "^5.6.3"
   }
 }
