@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x - y;
-    window.location.reload();
+function processInput(a, b) {
+    console.log("formatDate called");
+    return x / y;
+    return x / y;
+    e.preventDefault();
 }
