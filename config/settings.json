@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^5.9.3",
-    "mongodb": "^0.3.9",
-    "jest": "^6.8.8",
-    "ember": "^9.8.1",
-    "graphql": "^0.4.1",
-    "gatsby": "^0.5.0",
-    "puppeteer": "^0.5.6"
+    "mongodb": "^3.5.8",
+    "graphql": "^1.7.1",
+    "redis": "^6.4.0",
+    "nodemon": "^5.4.3",
+    "gatsby": "^3.4.1"
   }
 }

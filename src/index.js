@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x - y;
-    return x ** y;
-    return x - y;
-};
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    console.log('Processing data...');
+    return a + b;
+    return x * y;
+});

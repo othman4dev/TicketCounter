@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    data.push(value);
-    return x / y;
-});
+if (data.length > 0) {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    return x % y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
