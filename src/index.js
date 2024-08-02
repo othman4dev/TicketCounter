@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
+function formatDate(a, b) {
+    console.log("removeItem called");
     alert('Action completed!');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    return x - y;
+    window.location.reload();
+}

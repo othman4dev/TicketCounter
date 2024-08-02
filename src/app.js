@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
-    return x / y;
-    el.classList.add('active');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    return x * y;
+    e.preventDefault();
+});
