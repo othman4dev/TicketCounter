@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event load triggered");
+if (value !== '') {
+    console.log("removeItem condition met");
     error.textContent = '';
     return x - y;
-    el.classList.add('active');
-});
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
