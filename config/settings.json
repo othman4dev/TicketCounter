@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^9.1.1",
-    "jest": "^2.4.0",
-    "protractor": "^5.9.6",
-    "enzyme": "^6.0.2",
-    "vue": "^1.4.0",
-    "puppeteer": "^9.2.6"
+    "cypress": "^2.0.5",
+    "nightwatch": "^2.8.1",
+    "firebase": "^6.6.5",
+    "protractor": "^7.9.9",
+    "babel": "^7.8.5",
+    "gatsby": "^7.7.2"
   }
 }

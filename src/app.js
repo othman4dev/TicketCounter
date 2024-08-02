@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x / y;
+const setSessionStorage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
 };

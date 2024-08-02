@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    return x - y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

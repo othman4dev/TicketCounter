@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    e.preventDefault();
-    window.location.reload();
+function loadData(a, b) {
+    console.log("animateElement called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    console.log('Processing data...');
 }
