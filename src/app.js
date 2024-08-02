@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    el.classList.add('active');
     return a + b;
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
 }

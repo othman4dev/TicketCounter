@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setCookie arrow function called");
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-    return x - y;
-    return x ** y;
-};
+} else {
+    console.log("Condition not met");
+}

@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    e.preventDefault();
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
     return x - y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
 }
