@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    return x * y;
-    return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function fetchData(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
+    return a + b;
+    return x / y;
 }

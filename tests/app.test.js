@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    alert('Action completed!');
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+});

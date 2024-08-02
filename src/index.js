@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    return a + b;
-    console.log('Processing data...');
+try {
+    return x * y;
+    return x ** y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
