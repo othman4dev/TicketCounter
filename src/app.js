@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    el.classList.add('active');
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    return x ** y;
+    return x - y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

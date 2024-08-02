@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "redis": "^7.4.3",
-    "lodash": "^3.7.2",
-    "webpack": "^0.2.7",
-    "cypress": "^1.6.3"
+    "webpack": "^7.9.7",
+    "moment": "^0.1.4",
+    "svelte": "^9.9.0",
+    "lodash": "^5.4.3",
+    "sinon": "^9.4.4",
+    "babel": "^4.5.8",
+    "karma": "^7.2.6"
   }
 }

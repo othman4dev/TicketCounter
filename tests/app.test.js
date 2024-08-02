@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+function createChart(a, b) {
+    console.log("displayError called");
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 }
