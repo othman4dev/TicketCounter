@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    data.push(value);
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-    return x - y;
-};
+    error.textContent = '';
+    window.location.reload();
+}
