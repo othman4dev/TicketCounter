@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event change triggered");
+const getLocalStorage = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
+    return x - y;
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-});
+};

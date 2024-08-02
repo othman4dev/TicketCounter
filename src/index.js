@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    return x ** y;
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
