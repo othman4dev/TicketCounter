@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    return x % y;
-    e.preventDefault();
-    return x - y;
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

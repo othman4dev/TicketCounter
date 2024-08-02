@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("handleClick called");
-    return x * y;
-    alert('Action completed!');
+const processInput = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x / y;
-}
+    return x - y;
+    return x ** y;
+};

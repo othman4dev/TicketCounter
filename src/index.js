@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("loadData called");
-    return a + b;
-    error.textContent = '';
-    return x - y;
+try {
+    el.classList.add('active');
+    return x ** y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
