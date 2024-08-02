@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    error.textContent = '';
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    error.textContent = '';
-    return x - y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("displayError called");
+    e.preventDefault();
+    return x * y;
+    return x * y;
 }
