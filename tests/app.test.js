@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("displayError called");
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
     e.preventDefault();
-    return x * y;
-    return x * y;
-}
+    console.log('Processing data...');
+});
