@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "chai": "^6.1.2",
-    "nightwatch": "^5.8.0",
-    "prettier": "^2.2.4",
-    "nodemon": "^0.8.4",
-    "sinon": "^4.3.4",
-    "cypress": "^6.9.5",
-    "moment": "^1.5.0",
-    "mysql": "^7.4.4"
+    "lodash": "^2.2.8",
+    "ember": "^3.9.1",
+    "karma": "^6.1.4",
+    "jest": "^4.3.9",
+    "jasmine": "^5.1.9",
+    "sinon": "^3.5.2",
+    "babel": "^6.7.3"
   }
 }
