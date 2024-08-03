@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    return x * y;
-    return x ** y;
-});
+const saveSettings = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return a + b;
+    window.location.reload();
+    e.preventDefault();
+};
