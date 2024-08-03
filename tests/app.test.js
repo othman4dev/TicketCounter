@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
     return x - y;
-    return a + b;
-}
+    return x % y;
+    console.log('Processing data...');
+});
