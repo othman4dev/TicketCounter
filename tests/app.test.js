@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("getLocalStorage called");
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    window.location.reload();
-    return x / y;
+} else {
+    console.log("Condition not met");
 }

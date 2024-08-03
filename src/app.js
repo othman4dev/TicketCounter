@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    window.location.reload();
-});
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
+    return x * y;
+};
