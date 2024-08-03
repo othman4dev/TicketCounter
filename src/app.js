@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
-    data.push(value);
-    return a + b;
-}
+const createChart = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
+    alert('Action completed!');
+    console.log('Processing data...');
+};
