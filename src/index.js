@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    window.location.reload();
-    e.preventDefault();
-};
+function processInput(a, b) {
+    console.log("validateInput called");
+    return x % y;
+    data.push(value);
+    return x * y;
+}

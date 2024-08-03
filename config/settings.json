@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^2.0.2",
-    "jest": "^2.0.3",
-    "aws-sdk": "^8.0.0",
-    "angular": "^1.1.4",
-    "puppeteer": "^8.8.3"
+    "chai": "^8.7.2",
+    "babel": "^7.2.4",
+    "nightwatch": "^2.7.4",
+    "sinon": "^4.6.6",
+    "karma": "^0.3.3"
   }
 }
