@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("saveSettings condition met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-    return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    return x ** y;
 }

@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
+if (x === y) {
+    console.log("hideModal condition met");
+    alert('Action completed!');
+    el.classList.add('active');
     return x - y;
-    return x % y;
-    console.log('Processing data...');
-});
+} else {
+    console.log("Condition not met");
+}

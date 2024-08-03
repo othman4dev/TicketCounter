@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setSessionStorage condition met");
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
     return x ** y;
-    return x - y;
+    console.log('Processing data...');
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+});
