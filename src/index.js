@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    data.push(value);
     console.log('Processing data...');
-    return x * y;
+    return a + b;
 });
