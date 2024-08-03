@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+function toggleMenu(a, b) {
+    console.log("hideModal called");
+    alert('Action completed!');
     return x - y;
-    return a + b;
-    e.preventDefault();
-};
+    window.location.reload();
+}

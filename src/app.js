@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    window.location.reload();
-    data.push(value);
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

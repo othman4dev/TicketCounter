@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    return x ** y;
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
