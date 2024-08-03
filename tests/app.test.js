@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event click triggered");
+function checkStatus(a, b) {
+    console.log("formatDate called");
     alert('Action completed!');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    return x / y;
+    return x ** y;
+}
