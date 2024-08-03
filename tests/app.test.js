@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    data.push(value);
-    return x / y;
-    return x % y;
+const handleClick = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
+    return a + b;
+    e.preventDefault();
 };

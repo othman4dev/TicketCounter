@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    window.location.reload();
     data.push(value);
-    return x * y;
-    e.preventDefault();
-});
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
