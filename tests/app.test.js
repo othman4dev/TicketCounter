@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x * y;
-    error.textContent = '';
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+});

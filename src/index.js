@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    console.log('Processing data...');
+    e.preventDefault();
+    return x - y;
+});

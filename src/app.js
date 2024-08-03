@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x / y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x * y;
     alert('Action completed!');
-    console.log('Processing data...');
-};
+}
