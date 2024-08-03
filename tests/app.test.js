@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event click triggered");
     alert('Action completed!');
-    return x - y;
-    window.location.reload();
-}
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+});

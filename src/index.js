@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    return x ** y;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     el.classList.add('active');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
 }
