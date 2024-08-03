@@ -1,7 +1,8 @@
-switch (data) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    return x % y;
+    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

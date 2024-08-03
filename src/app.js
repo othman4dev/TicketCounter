@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x - y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("handleClick called");
+    return x * y;
+    alert('Action completed!');
+    return x / y;
 }

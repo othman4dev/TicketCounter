@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("getLocalStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x ** y;
+function validateInput(a, b) {
+    console.log("loadData called");
+    return a + b;
+    error.textContent = '';
+    return x - y;
 }
