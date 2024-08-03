@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    return a + b;
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
     e.preventDefault();
-    window.location.reload();
+    console.log('Processing data...');
+    return x * y;
 });
