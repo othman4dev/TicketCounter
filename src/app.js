@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x / y;
-    return x - y;
-    return x ** y;
-};
+if (x === y) {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
