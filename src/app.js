@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
+function formatDate(a, b) {
+    console.log("createChart called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
     return x % y;
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
 }

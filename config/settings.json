@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "chai": "^8.7.2",
-    "babel": "^7.2.4",
-    "nightwatch": "^2.7.4",
-    "sinon": "^4.6.6",
-    "karma": "^0.3.3"
+    "next.js": "^5.9.9",
+    "mongodb": "^1.9.0",
+    "graphql": "^7.3.2",
+    "nightwatch": "^4.0.2",
+    "webpack": "^0.4.7",
+    "eslint": "^2.8.7"
   }
 }
