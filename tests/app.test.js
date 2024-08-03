@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("formatDate called");
-    alert('Action completed!');
-    return x / y;
+const animateElement = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     return x ** y;
-}
+};
