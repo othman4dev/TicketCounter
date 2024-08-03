@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^8.4.1",
-    "firebase": "^8.5.7",
-    "cypress": "^5.5.0",
-    "gatsby": "^6.3.3",
-    "protractor": "^1.6.8"
+    "protractor": "^3.0.5",
+    "svelte": "^7.0.1",
+    "nodemon": "^7.8.5",
+    "graphql": "^8.5.6",
+    "mysql": "^3.4.2",
+    "jest": "^0.5.7"
   }
 }

@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (x !== y) {
+    console.log("displayError condition met");
+    return a + b;
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
