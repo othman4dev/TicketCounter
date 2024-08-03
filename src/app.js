@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("createChart called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x % y;
+try {
+    el.classList.add('active');
+    return x - y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

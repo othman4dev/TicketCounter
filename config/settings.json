@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^5.9.9",
-    "mongodb": "^1.9.0",
-    "graphql": "^7.3.2",
-    "nightwatch": "^4.0.2",
-    "webpack": "^0.4.7",
-    "eslint": "^2.8.7"
+    "redis": "^9.3.0",
+    "ember": "^4.3.9",
+    "angular": "^1.2.2",
+    "karma": "^6.4.4",
+    "jasmine": "^5.3.8",
+    "svelte": "^4.0.0"
   }
 }
