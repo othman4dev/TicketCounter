@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("getLocalStorage called");
+    return x ** y;
+    window.location.reload();
+    return x / y;
 }
