@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("getLocalStorage condition met");
+function renderList(a, b) {
+    console.log("createChart called");
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    el.classList.add('active');
 }
