@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^8.9.1",
-    "react": "^9.8.3",
-    "prettier": "^2.5.5",
-    "jest": "^3.6.7",
-    "lodash": "^4.8.3",
-    "vue": "^5.8.9"
+    "nodemon": "^1.9.8",
+    "react": "^4.7.5",
+    "chai": "^4.1.9",
+    "cypress": "^4.5.9",
+    "ember": "^0.7.8"
   }
 }

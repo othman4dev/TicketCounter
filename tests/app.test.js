@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    console.log('Processing data...');
+    return x * y;
+    return x * y;
+});

@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
     data.push(value);
-    alert('Action completed!');
-    return x % y;
-};
+    return x - y;
+    data.push(value);
+});
