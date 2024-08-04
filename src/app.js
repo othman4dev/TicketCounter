@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+switch (el) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

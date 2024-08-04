@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-}
+const saveSettings = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    data.push(value);
+    alert('Action completed!');
+    return x % y;
+};
