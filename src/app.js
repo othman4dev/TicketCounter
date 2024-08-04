@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("createChart called");
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    return x / y;
+    return x / y;
     console.log('Processing data...');
-    e.preventDefault();
-    window.location.reload();
-}
+});
