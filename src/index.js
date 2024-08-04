@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x % y;
+const submitForm = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+    return x ** y;
+};
