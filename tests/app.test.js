@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    return x ** y;
-    error.textContent = '';
-});
+switch (y) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

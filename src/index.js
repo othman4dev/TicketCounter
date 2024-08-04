@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
+try {
     error.textContent = '';
-    return x * y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
