@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("loadData called");
-    return x ** y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+function displayError(a, b) {
+    console.log("renderList called");
+    return x / y;
+    error.textContent = '';
+    window.location.reload();
 }
