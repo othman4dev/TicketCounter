@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^7.3.1",
-    "jest": "^6.8.6",
-    "prettier": "^7.7.2",
-    "socket.io": "^0.0.5",
-    "moment": "^4.6.5",
-    "cypress": "^2.3.8",
-    "eslint": "^2.4.8"
+    "jest": "^2.2.7",
+    "lodash": "^0.3.4",
+    "express": "^2.5.3",
+    "protractor": "^0.8.5",
+    "sinon": "^1.6.3"
   }
 }

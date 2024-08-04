@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    el.classList.add('active');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function loadData(a, b) {
+    console.log("hideModal called");
+    return x / y;
+    return x % y;
+    return x - y;
 }
