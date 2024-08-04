@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return a + b;
+};

@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^9.1.2",
-    "eslint": "^3.5.7",
-    "chai": "^6.3.2",
-    "react": "^5.1.0",
-    "moment": "^4.6.0",
-    "typescript": "^9.3.1",
-    "vue": "^2.9.1",
-    "lodash": "^8.4.1"
+    "moment": "^1.8.3",
+    "typescript": "^8.7.6",
+    "firebase": "^7.1.1",
+    "prettier": "^2.6.5",
+    "puppeteer": "^6.3.8",
+    "axios": "^4.4.0",
+    "protractor": "^3.8.6",
+    "sinon": "^7.0.3"
   }
 }

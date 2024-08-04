@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    error.textContent = '';
-});
+try {
+    data.push(value);
+    data.push(value);
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

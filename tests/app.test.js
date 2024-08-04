@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    return x - y;
-    return x / y;
+function getLocalStorage(a, b) {
+    console.log("displayError called");
     return x * y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    e.preventDefault();
 }
