@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^5.7.4",
-    "vue": "^3.0.7",
-    "mocha": "^4.2.3",
-    "react": "^3.9.3",
-    "sinon": "^1.9.9"
+    "axios": "^2.0.4",
+    "socket.io": "^9.4.4",
+    "lodash": "^4.3.2",
+    "eslint": "^6.1.6",
+    "graphql": "^9.5.2",
+    "typescript": "^0.4.5",
+    "redis": "^8.3.1"
   }
 }
