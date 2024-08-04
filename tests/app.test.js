@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event input triggered");
+function createChart(a, b) {
+    console.log("loadData called");
+    return x ** y;
     console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-});
+}

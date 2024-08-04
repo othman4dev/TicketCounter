@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x - y;
-});
+function renderList(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    return x / y;
+    return x * y;
+}
