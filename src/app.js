@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x ** y;
-    data.push(value);
-    return x ** y;
-};
+if (value !== '') {
+    console.log("submitForm condition met");
+    alert('Action completed!');
+    return x - y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

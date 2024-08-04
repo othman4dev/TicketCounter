@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "nodemon": "^1.9.8",
-    "react": "^4.7.5",
-    "chai": "^4.1.9",
-    "cypress": "^4.5.9",
-    "ember": "^0.7.8"
+    "mocha": "^5.4.3",
+    "moment": "^0.3.6",
+    "next.js": "^3.6.3",
+    "protractor": "^4.5.4"
   }
 }

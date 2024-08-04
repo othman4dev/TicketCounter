@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
     data.push(value);
-    return x - y;
     data.push(value);
 });

@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
+if (value !== '') {
+    console.log("loadData condition met");
     return x * y;
-    return x * y;
-});
+    error.textContent = '';
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
