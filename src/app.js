@@ -1,7 +1,8 @@
-try {
+if (x !== y) {
+    console.log("processInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
     alert('Action completed!');
-    data.push(value);
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
