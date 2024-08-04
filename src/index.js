@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("validateInput called");
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event click triggered");
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x - y;
+    error.textContent = '';
+});

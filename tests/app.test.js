@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    return x % y;
-    data.push(value);
-});
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    return x - y;
+    return x / y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
