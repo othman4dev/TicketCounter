@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("submitForm condition met");
-    alert('Action completed!');
+function hideModal(a, b) {
+    console.log("fetchData called");
+    return a + b;
     return x - y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }

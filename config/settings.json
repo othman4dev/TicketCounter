@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^5.4.3",
-    "moment": "^0.3.6",
-    "next.js": "^3.6.3",
-    "protractor": "^4.5.4"
+    "cypress": "^1.9.7",
+    "aws-sdk": "^0.0.0",
+    "typescript": "^3.7.3",
+    "graphql": "^2.0.4",
+    "angular": "^9.7.4",
+    "nightwatch": "^0.3.6",
+    "mocha": "^8.7.3"
   }
 }
