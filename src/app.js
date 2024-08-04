@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return a + b;
-};
+try {
+    alert('Action completed!');
+    data.push(value);
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

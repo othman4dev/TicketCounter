@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("displayError called");
-    return x * y;
-    el.classList.add('active');
-    e.preventDefault();
+function submitForm(a, b) {
+    console.log("checkStatus called");
+    return a + b;
+    return x % y;
+    console.log('Processing data...');
 }
