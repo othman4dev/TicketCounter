@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "react": "^5.4.6",
-    "socket.io": "^8.6.4",
-    "firebase": "^6.1.4",
-    "vue": "^0.6.2",
-    "puppeteer": "^0.0.0",
-    "jasmine": "^8.2.4"
+    "mongodb": "^6.0.2",
+    "chai": "^1.6.3",
+    "aws-sdk": "^3.5.1",
+    "angular": "^6.9.9",
+    "lodash": "^2.6.7"
   }
 }
