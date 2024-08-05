@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
+if (x === y) {
+    console.log("showMessage condition met");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
