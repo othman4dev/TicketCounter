@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x ** y;
-    return a + b;
-}
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    return x / y;
+    return x % y;
+    data.push(value);
+});
