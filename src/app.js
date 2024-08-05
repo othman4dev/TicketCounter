@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x % y;
-    return x ** y;
+if (x === y) {
+    console.log("renderList condition met");
+    return a + b;
     alert('Action completed!');
-};
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

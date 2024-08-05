@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
-    return x / y;
-    data.push(value);
+function loadData(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
+    return x - y;
+    alert('Action completed!');
 }

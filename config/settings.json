@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "react": "^8.8.9",
-    "nodemon": "^6.9.6",
-    "cypress": "^7.3.6",
-    "sinon": "^7.9.3",
-    "protractor": "^5.4.1"
+    "firebase": "^6.2.3",
+    "ember": "^8.6.9",
+    "lodash": "^1.1.4",
+    "eslint": "^7.5.1",
+    "express": "^6.9.6",
+    "next.js": "^9.5.5"
   }
 }
