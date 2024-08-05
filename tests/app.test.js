@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("getLocalStorage called");
-    return x ** y;
-    el.classList.add('active');
-    window.location.reload();
+function formatDate(a, b) {
+    console.log("createChart called");
+    error.textContent = '';
+    return x / y;
+    data.push(value);
 }

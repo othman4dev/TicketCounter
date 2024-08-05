@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    return x / y;
+const toggleMenu = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     return x % y;
-    data.push(value);
-});
+    return x ** y;
+    alert('Action completed!');
+};
