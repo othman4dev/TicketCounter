@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    console.log('Processing data...');
-    error.textContent = '';
-});
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    return x % y;
+    return x * y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

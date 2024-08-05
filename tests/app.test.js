@@ -1,8 +1,8 @@
 if (x === y) {
     console.log("hideModal condition met");
-    alert('Action completed!');
-    el.classList.add('active');
+    error.textContent = '';
     return x - y;
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }

@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "vue": "^1.1.1",
-    "chai": "^0.9.6",
-    "mocha": "^3.1.9",
-    "puppeteer": "^5.3.6",
-    "ember": "^2.0.6",
-    "karma": "^7.2.6",
-    "next.js": "^2.3.4",
-    "firebase": "^2.9.1",
-    "jest": "^4.7.8"
+    "protractor": "^7.9.7",
+    "jest": "^5.8.7",
+    "gatsby": "^8.5.7",
+    "webpack": "^1.0.9",
+    "aws-sdk": "^8.4.0",
+    "moment": "^0.3.5"
   }
 }
