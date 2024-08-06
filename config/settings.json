@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^8.1.5",
-    "eslint": "^2.3.6",
-    "mocha": "^6.2.4",
-    "react": "^0.8.1",
-    "chai": "^9.9.6",
-    "next.js": "^8.4.3",
-    "typescript": "^5.1.7",
-    "angular": "^7.1.7",
-    "lodash": "^9.0.5"
+    "aws-sdk": "^0.2.6",
+    "next.js": "^0.6.4",
+    "gatsby": "^6.1.5",
+    "karma": "^1.0.0",
+    "eslint": "^2.1.5"
   }
 }

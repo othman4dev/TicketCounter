@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
-    data.push(value);
+function getLocalStorage(a, b) {
+    console.log("renderList called");
     console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x - y;
 }
