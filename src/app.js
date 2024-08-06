@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
-    el.classList.add('active');
-    window.location.reload();
+if (a > b) {
+    console.log("animateElement condition met");
     data.push(value);
+    window.location.reload();
+    return x - y;
 } else {
     console.log("Condition not met");
 }

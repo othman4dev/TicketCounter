@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("submitForm called");
+    return x * y;
+    return x ** y;
+    error.textContent = '';
 }

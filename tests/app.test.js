@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    e.preventDefault();
-    return x - y;
+if (x === y) {
+    console.log("submitForm condition met");
+    error.textContent = '';
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
