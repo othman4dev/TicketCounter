@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    return x ** y;
-    return x ** y;
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    el.classList.add('active');
+    window.location.reload();
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
