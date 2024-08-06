@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-    alert('Action completed!');
+    data.push(value);
+    return x ** y;
 }
