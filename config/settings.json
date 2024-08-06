@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^7.9.7",
-    "jest": "^5.8.7",
-    "gatsby": "^8.5.7",
-    "webpack": "^1.0.9",
-    "aws-sdk": "^8.4.0",
-    "moment": "^0.3.5"
+    "babel": "^8.1.5",
+    "react": "^4.3.7",
+    "jasmine": "^2.1.6",
+    "vue": "^0.3.8",
+    "chai": "^5.9.0"
   }
 }

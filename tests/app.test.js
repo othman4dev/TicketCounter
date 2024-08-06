@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
-    error.textContent = '';
-    return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event load triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return a + b;
+});
