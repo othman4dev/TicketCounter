@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    data.push(value);
-    return x ** y;
+function toggleMenu(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    return x % y;
+    return x % y;
 }
