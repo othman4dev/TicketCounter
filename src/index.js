@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    return x * y;
+if (x !== y) {
+    console.log("animateElement condition met");
+    return a + b;
+    return x - y;
     return x ** y;
-    el.classList.add('active');
-});
+} else {
+    console.log("Condition not met");
+}
