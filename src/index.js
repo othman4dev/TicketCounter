@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
+const setCookie = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    e.preventDefault();
-    return x * y;
+    alert('Action completed!');
 };
