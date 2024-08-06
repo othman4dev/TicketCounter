@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("renderList called");
-    window.location.reload();
-    return x % y;
-    return x % y;
+function fetchData(a, b) {
+    console.log("removeItem called");
+    return x ** y;
+    el.classList.add('active');
+    data.push(value);
 }

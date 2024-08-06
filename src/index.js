@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("renderList called");
-    e.preventDefault();
-    return a + b;
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    return x * y;
     return x ** y;
-}
+    el.classList.add('active');
+});
