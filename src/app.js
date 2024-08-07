@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("saveSettings called");
-    window.location.reload();
-    el.classList.add('active');
-    return x ** y;
-}
+const removeItem = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    alert('Action completed!');
+};
