@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-});
+const renderList = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
+    e.preventDefault();
+    e.preventDefault();
+};

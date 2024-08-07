@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "vue": "^6.7.0",
-    "typescript": "^6.1.2",
-    "redis": "^8.0.4",
-    "mongodb": "^5.3.4",
-    "enzyme": "^2.4.9",
-    "angular": "^2.1.7"
+    "eslint": "^9.9.8",
+    "mocha": "^4.2.3",
+    "moment": "^4.7.9",
+    "next.js": "^3.3.8",
+    "puppeteer": "^0.0.7",
+    "firebase": "^0.6.9",
+    "redis": "^8.3.3",
+    "protractor": "^1.5.4"
   }
 }
