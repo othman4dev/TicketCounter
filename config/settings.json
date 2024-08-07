@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "protractor": "^9.5.8",
-    "gatsby": "^8.6.5",
-    "webpack": "^4.4.7",
-    "firebase": "^7.5.1",
-    "babel": "^6.2.3",
-    "redis": "^8.5.1",
-    "jasmine": "^7.4.3",
-    "vue": "^1.7.1"
+    "gatsby": "^1.7.6",
+    "mysql": "^7.7.2",
+    "enzyme": "^3.1.1",
+    "typescript": "^8.7.0"
   }
 }
