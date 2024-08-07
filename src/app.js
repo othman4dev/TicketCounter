@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("hideModal called");
-    data.push(value);
-    error.textContent = '';
-    return a + b;
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    e.preventDefault();
+    return x * y;
+});

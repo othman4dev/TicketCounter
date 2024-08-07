@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("validateInput condition met");
+function removeItem(a, b) {
+    console.log("removeItem called");
+    return x ** y;
+    return x * y;
     console.log('Processing data...');
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
 }
