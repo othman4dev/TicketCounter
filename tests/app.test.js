@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("submitForm condition met");
-    error.textContent = '';
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
