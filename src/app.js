@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    return x - y;
+function validateInput(a, b) {
+    console.log("saveSettings called");
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-});
+    el.classList.add('active');
+    return x ** y;
+}
