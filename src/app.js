@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    el.classList.add('active');
-    return x * y;
-    return x * y;
-};
+try {
+    error.textContent = '';
+    return a + b;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
