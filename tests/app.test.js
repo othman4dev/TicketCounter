@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("toggleMenu called");
+    window.location.reload();
+    return x / y;
+    error.textContent = '';
 }

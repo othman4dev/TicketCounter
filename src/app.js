@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    el.classList.add('active');
-    alert('Action completed!');
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+}
