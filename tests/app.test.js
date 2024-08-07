@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
     return x / y;
-    return a + b;
-    return x ** y;
-});
+    return x % y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
