@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("toggleMenu called");
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
+    alert('Action completed!');
+    return x % y;
     return x / y;
-    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
