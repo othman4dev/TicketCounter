@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^8.2.2",
-    "jest": "^0.8.1",
-    "lodash": "^3.8.6",
-    "eslint": "^6.2.0",
-    "mongodb": "^2.7.5",
-    "karma": "^2.1.9",
-    "protractor": "^4.6.3"
+    "sinon": "^2.9.5",
+    "vue": "^7.6.3",
+    "enzyme": "^5.3.4",
+    "svelte": "^8.2.3",
+    "mysql": "^4.7.5"
   }
 }
