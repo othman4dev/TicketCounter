@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x ** y;
-    return x * y;
-    e.preventDefault();
-};
+if (window.innerWidth > 500) {
+    console.log("validateInput condition met");
+    console.log('Processing data...');
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
