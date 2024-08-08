@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    return x / y;
-    e.preventDefault();
-    window.location.reload();
-});
+try {
+    error.textContent = '';
+    data.push(value);
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
