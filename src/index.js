@@ -1,7 +1,8 @@
-try {
-    data.push(value);
+if (a > b) {
+    console.log("renderList condition met");
     return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
