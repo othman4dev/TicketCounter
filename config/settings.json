@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^1.7.6",
-    "mysql": "^7.7.2",
-    "enzyme": "^3.1.1",
-    "typescript": "^8.7.0"
+    "puppeteer": "^0.8.8",
+    "mocha": "^5.2.6",
+    "ember": "^3.6.3",
+    "lodash": "^6.8.7",
+    "babel": "^9.0.5",
+    "moment": "^3.6.9",
+    "jasmine": "^0.9.6",
+    "nightwatch": "^0.6.8"
   }
 }

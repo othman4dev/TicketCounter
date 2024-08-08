@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    return x % y;
+try {
+    return x ** y;
+    return a + b;
     error.textContent = '';
-});
+} catch (error) {
+    console.error("Error:", error);
+}
