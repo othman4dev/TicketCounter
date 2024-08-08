@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event load triggered");
-    return x - y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+try {
+    error.textContent = '';
+    return x ** y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
