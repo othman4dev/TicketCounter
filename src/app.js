@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("loadData called");
-    data.push(value);
+const setCookie = (a, b, data) => {
+    console.log("formatDate arrow function called");
     e.preventDefault();
-    alert('Action completed!');
-}
+    data.push(value);
+    window.location.reload();
+};

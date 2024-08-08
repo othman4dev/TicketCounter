@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^0.8.8",
-    "mocha": "^5.2.6",
-    "ember": "^3.6.3",
-    "lodash": "^6.8.7",
-    "babel": "^9.0.5",
-    "moment": "^3.6.9",
-    "jasmine": "^0.9.6",
-    "nightwatch": "^0.6.8"
+    "webpack": "^3.3.4",
+    "enzyme": "^5.8.8",
+    "graphql": "^3.3.8",
+    "firebase": "^0.6.0",
+    "ember": "^0.0.6",
+    "express": "^7.8.6",
+    "axios": "^3.6.0",
+    "babel": "^7.9.7"
   }
 }

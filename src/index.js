@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
-    return x - y;
-    alert('Action completed!');
-    alert('Action completed!');
-});
+switch (b) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
