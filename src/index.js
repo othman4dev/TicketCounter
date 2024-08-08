@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x - y;
+function showMessage(a, b) {
+    console.log("setSessionStorage called");
     return x / y;
-    e.preventDefault();
-};
+    el.classList.add('active');
+    el.classList.add('active');
+}
