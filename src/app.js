@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    e.preventDefault();
-    data.push(value);
-    window.location.reload();
-};
+if (x === y) {
+    console.log("handleClick condition met");
+    return x % y;
+    el.classList.add('active');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
