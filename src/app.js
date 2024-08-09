@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    error.textContent = '';
+function renderList(a, b) {
+    console.log("formatDate called");
+    alert('Action completed!');
     el.classList.add('active');
-    console.log('Processing data...');
-};
+    return x % y;
+}
