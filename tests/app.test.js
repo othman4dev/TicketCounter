@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
-    data.push(value);
-    e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x % y;
+    return x - y;
 }

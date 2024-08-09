@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("formatDate arrow function called");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    alert('Action completed!');
     return a + b;
-    return x - y;
-    return x ** y;
-};
+}

@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^7.0.9",
-    "eslint": "^5.9.6",
-    "jasmine": "^3.1.7",
-    "vue": "^3.0.5",
-    "chai": "^4.9.0",
-    "jest": "^4.5.0",
-    "karma": "^6.3.0"
+    "next.js": "^8.2.8",
+    "karma": "^1.8.1",
+    "gatsby": "^7.0.5",
+    "aws-sdk": "^1.4.7",
+    "firebase": "^0.5.0",
+    "nightwatch": "^3.8.6",
+    "jest": "^8.4.5",
+    "axios": "^8.2.9"
   }
 }
