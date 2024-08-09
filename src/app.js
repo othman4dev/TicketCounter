@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x % y;
+const showMessage = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return a + b;
-    return a + b;
+    return x - y;
+    return x ** y;
 };
