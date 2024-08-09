@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("loadData called");
-    return x * y;
-    e.preventDefault();
-    data.push(value);
+switch (data) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

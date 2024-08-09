@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x * y;
+const displayError = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x / y;
+    window.location.reload();
     return x ** y;
-}
+};

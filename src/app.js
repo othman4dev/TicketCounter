@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
     e.preventDefault();
-}
+    error.textContent = '';
+    console.log('Processing data...');
+});
