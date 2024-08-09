@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "vue": "^7.7.9",
-    "aws-sdk": "^0.1.1",
-    "axios": "^9.4.0",
-    "chai": "^1.8.2",
-    "nightwatch": "^2.0.8"
+    "socket.io": "^5.3.6",
+    "babel": "^9.6.3",
+    "vue": "^7.3.5",
+    "gatsby": "^4.8.5",
+    "mongodb": "^4.2.5",
+    "prettier": "^8.5.7"
   }
 }
