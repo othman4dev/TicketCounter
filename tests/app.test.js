@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    console.log('Processing data...');
-    return x ** y;
-});
+function setSessionStorage(a, b) {
+    console.log("setCookie called");
+    return a + b;
+    return x / y;
+    e.preventDefault();
+}

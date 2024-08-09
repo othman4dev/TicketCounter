@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "graphql": "^4.9.5",
-    "moment": "^5.7.5",
-    "express": "^9.7.2",
-    "redis": "^9.7.7",
-    "vue": "^9.3.6",
-    "typescript": "^9.2.8",
-    "puppeteer": "^9.7.5",
-    "ember": "^4.8.6"
+    "jest": "^9.6.7",
+    "svelte": "^7.0.5",
+    "lodash": "^2.8.2",
+    "cypress": "^2.7.3"
   }
 }
