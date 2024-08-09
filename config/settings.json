@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^6.5.8",
-    "jasmine": "^8.7.9",
-    "mocha": "^5.3.5",
-    "ember": "^0.6.5",
-    "puppeteer": "^8.3.7",
-    "mysql": "^3.5.6",
-    "redis": "^9.4.0",
-    "aws-sdk": "^1.0.3",
-    "vue": "^2.6.6"
+    "babel": "^1.0.5",
+    "typescript": "^8.4.2",
+    "gatsby": "^4.1.6",
+    "express": "^1.5.4",
+    "mongodb": "^4.7.1",
+    "protractor": "^4.8.0"
   }
 }

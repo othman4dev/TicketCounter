@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    console.log('Processing data...');
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x / y;
     return x * y;
-});
+    el.classList.add('active');
+};

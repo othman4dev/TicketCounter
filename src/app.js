@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+const removeItem = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
     console.log('Processing data...');
-    return a + b;
     alert('Action completed!');
 };
