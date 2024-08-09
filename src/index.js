@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("createChart condition met");
-    alert('Action completed!');
-    return x ** y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     return x * y;
-} else {
-    console.log("Condition not met");
+    return x * y;
+    error.textContent = '';
 }
