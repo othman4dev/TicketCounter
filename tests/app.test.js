@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    e.preventDefault();
-    data.push(value);
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
 } else {
     console.log("Condition not met");
 }

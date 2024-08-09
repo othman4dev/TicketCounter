@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    return x - y;
+    e.preventDefault();
     return x / y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
