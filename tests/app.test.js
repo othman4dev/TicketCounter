@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
-    return x % y;
-    el.classList.add('active');
-});
+const removeItem = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x * y;
+    return a + b;
+    return a + b;
+};
