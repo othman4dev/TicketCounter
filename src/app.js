@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    window.location.reload();
-    el.classList.add('active');
-}
+const fetchData = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    alert('Action completed!');
+};
