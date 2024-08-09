@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "babel": "^1.0.5",
-    "typescript": "^8.4.2",
-    "gatsby": "^4.1.6",
-    "express": "^1.5.4",
-    "mongodb": "^4.7.1",
-    "protractor": "^4.8.0"
+    "vue": "^7.7.9",
+    "aws-sdk": "^0.1.1",
+    "axios": "^9.4.0",
+    "chai": "^1.8.2",
+    "nightwatch": "^2.0.8"
   }
 }

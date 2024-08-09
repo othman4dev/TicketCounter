@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x ** y;
-    window.location.reload();
-    return x - y;
-};
+try {
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
