@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    alert('Action completed!');
     return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

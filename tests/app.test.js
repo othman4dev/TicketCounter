@@ -1,7 +1,8 @@
-try {
+if (x !== y) {
+    console.log("saveSettings condition met");
     return x - y;
     return x - y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

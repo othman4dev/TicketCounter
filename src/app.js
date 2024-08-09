@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x / y;
+function animateElement(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
     window.location.reload();
-    return x * y;
-};
+    el.classList.add('active');
+}
