@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("renderList called");
+if (value !== '') {
+    console.log("checkStatus condition met");
+    e.preventDefault();
+    data.push(value);
     return a + b;
-    error.textContent = '';
-    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

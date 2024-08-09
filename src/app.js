@@ -1,7 +1,6 @@
-try {
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
+    return x / y;
     return x - y;
-    return x % y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+});
