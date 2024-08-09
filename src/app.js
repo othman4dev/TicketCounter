@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("handleClick called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+try {
     return x - y;
+    return x % y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
