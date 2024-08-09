@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    return x / y;
-    return x - y;
-});
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
+    return a + b;
+    return x % y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

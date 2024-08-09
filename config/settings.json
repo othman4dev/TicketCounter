@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^9.5.4",
-    "eslint": "^3.7.7",
-    "karma": "^4.0.1",
-    "angular": "^2.0.9",
-    "jest": "^1.7.3",
-    "moment": "^4.8.4"
+    "redis": "^2.0.3",
+    "jest": "^9.2.6",
+    "mysql": "^8.5.5",
+    "axios": "^8.6.5",
+    "ember": "^5.2.0"
   }
 }
