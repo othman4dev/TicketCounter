@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
+if (a > b) {
+    console.log("getLocalStorage condition met");
     return x * y;
-    return x - y;
-});
+    e.preventDefault();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
