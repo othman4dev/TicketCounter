@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("submitForm condition met");
-    return x * y;
-    return x / y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};

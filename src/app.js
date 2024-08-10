@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    return x % y;
+    window.location.reload();
+});

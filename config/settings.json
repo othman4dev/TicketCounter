@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "vue": "^7.0.9",
-    "jest": "^6.3.1",
-    "protractor": "^6.9.4",
-    "sinon": "^3.7.7"
+    "gatsby": "^4.2.3",
+    "axios": "^0.2.5",
+    "sinon": "^6.0.4",
+    "angular": "^9.3.4",
+    "ember": "^4.5.8",
+    "cypress": "^4.5.3"
   }
 }
