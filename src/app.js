@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
+if (value !== '') {
+    console.log("setCookie condition met");
+    return x ** y;
     e.preventDefault();
-    error.textContent = '';
-    console.log('Processing data...');
-});
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
