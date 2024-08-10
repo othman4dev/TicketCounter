@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "vue": "^2.9.9",
-    "ember": "^4.1.1",
-    "next.js": "^8.5.7",
-    "react": "^6.6.8",
-    "redis": "^6.4.8",
-    "cypress": "^0.7.9",
-    "gatsby": "^2.8.7"
+    "ember": "^7.8.1",
+    "cypress": "^0.2.7",
+    "puppeteer": "^2.3.8",
+    "protractor": "^5.5.8",
+    "eslint": "^3.2.1",
+    "angular": "^7.4.2"
   }
 }

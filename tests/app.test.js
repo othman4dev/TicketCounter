@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("displayError called");
-    return x % y;
-    return x / y;
+try {
     alert('Action completed!');
+    return a + b;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
