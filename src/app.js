@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x / y;
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    return x % y;
+    console.log('Processing data...');
+    data.push(value);
+});

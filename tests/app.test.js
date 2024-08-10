@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    e.preventDefault();
-    return x / y;
-    el.classList.add('active');
+const setCookie = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    alert('Action completed!');
+    return a + b;
+    data.push(value);
 };
