@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x ** y;
+    window.location.reload();
+    data.push(value);
+};
