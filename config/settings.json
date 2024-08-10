@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "jest": "^9.6.7",
-    "svelte": "^7.0.5",
-    "lodash": "^2.8.2",
-    "cypress": "^2.7.3"
+    "jest": "^8.0.7",
+    "next.js": "^7.3.6",
+    "gatsby": "^0.5.7",
+    "socket.io": "^5.0.3",
+    "graphql": "^9.5.3",
+    "mongodb": "^7.6.2"
   }
 }

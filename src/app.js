@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x / y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    data.push(value);
+    alert('Action completed!');
 }
