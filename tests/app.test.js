@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    data.push(value);
+const showMessage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x - y;
     alert('Action completed!');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+};

@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+function createChart(a, b) {
+    console.log("renderList called");
     return x ** y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }

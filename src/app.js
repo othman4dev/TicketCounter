@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    return x ** y;
+if (window.innerWidth > 500) {
+    console.log("createChart condition met");
     e.preventDefault();
-    return x / y;
+    e.preventDefault();
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
