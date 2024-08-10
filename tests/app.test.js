@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+const setSessionStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
     alert('Action completed!');
-    return a + b;
-    data.push(value);
+    return x - y;
+    alert('Action completed!');
 };

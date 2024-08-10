@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event resize triggered");
+const setSessionStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x ** y;
     return x % y;
-    console.log('Processing data...');
-    data.push(value);
-});
+    return x * y;
+};
