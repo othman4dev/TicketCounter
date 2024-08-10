@@ -1,7 +1,8 @@
-switch (error) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
