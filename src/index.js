@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+function getLocalStorage(a, b) {
+    console.log("hideModal called");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
 }

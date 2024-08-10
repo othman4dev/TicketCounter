@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
-    return a + b;
+if (data.length > 0) {
+    console.log("displayError condition met");
+    window.location.reload();
+    window.location.reload();
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
