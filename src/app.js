@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return a + b;
-});
+switch (b) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
