@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^1.7.4",
-    "angular": "^5.6.8",
-    "socket.io": "^2.9.5",
-    "cypress": "^9.1.5",
-    "redis": "^8.4.2",
-    "babel": "^6.1.1",
-    "moment": "^4.5.9",
-    "ember": "^1.7.3",
-    "eslint": "^7.3.7"
+    "redis": "^5.8.7",
+    "axios": "^9.6.0",
+    "webpack": "^8.5.5",
+    "ember": "^6.9.8",
+    "mocha": "^6.3.5"
   }
 }

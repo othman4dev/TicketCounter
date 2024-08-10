@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    error.textContent = '';
+const renderList = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x ** y;
+    data.push(value);
+    e.preventDefault();
 };
