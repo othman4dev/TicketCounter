@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("hideModal called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
     console.log('Processing data...');
-    return x ** y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

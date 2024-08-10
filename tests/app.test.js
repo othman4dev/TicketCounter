@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    window.location.reload();
-    window.location.reload();
-    return x - y;
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
