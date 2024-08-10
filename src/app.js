@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    return a + b;
+function renderList(a, b) {
+    console.log("handleClick called");
     return x % y;
-    window.location.reload();
-});
+    console.log('Processing data...');
+    alert('Action completed!');
+}
