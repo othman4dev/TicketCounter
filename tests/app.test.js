@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    alert('Action completed!');
-    return x - y;
-    alert('Action completed!');
-};
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    return x / y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
