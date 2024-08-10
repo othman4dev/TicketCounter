@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event scroll triggered");
+try {
     alert('Action completed!');
-    alert('Action completed!');
-    return x - y;
-});
+    data.push(value);
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

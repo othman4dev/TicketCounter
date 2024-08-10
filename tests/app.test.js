@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
+function showMessage(a, b) {
+    console.log("hideModal called");
     el.classList.add('active');
-    error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return x / y;
+    return a + b;
 }
