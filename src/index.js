@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+if (value !== '') {
+    console.log("submitForm condition met");
+    return x * y;
+    return x / y;
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

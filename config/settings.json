@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "express": "^4.4.5",
-    "eslint": "^8.6.5",
-    "mysql": "^9.2.4",
-    "jest": "^7.9.7",
-    "karma": "^2.0.2",
-    "graphql": "^3.2.9",
-    "next.js": "^3.3.1",
-    "typescript": "^6.4.5"
+    "vue": "^7.0.9",
+    "jest": "^6.3.1",
+    "protractor": "^6.9.4",
+    "sinon": "^3.7.7"
   }
 }

@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("displayError called");
-    return x % y;
-    return x % y;
-    return x * y;
+switch (el) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
