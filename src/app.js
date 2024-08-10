@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    e.preventDefault();
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    window.location.reload();
+    return x - y;
+    return x / y;
+});

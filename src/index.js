@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("renderList called");
-    return x ** y;
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    return x - y;
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x - y;
+});

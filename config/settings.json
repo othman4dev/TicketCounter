@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "babel": "^9.5.8",
-    "eslint": "^1.6.2",
-    "express": "^8.2.0",
-    "graphql": "^1.1.6",
-    "enzyme": "^1.2.0",
-    "cypress": "^1.4.8",
-    "firebase": "^9.2.1"
+    "graphql": "^9.5.4",
+    "eslint": "^3.7.7",
+    "karma": "^4.0.1",
+    "angular": "^2.0.9",
+    "jest": "^1.7.3",
+    "moment": "^4.8.4"
   }
 }
