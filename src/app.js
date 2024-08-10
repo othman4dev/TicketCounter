@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    data.push(value);
-    alert('Action completed!');
+if (a > b) {
+    console.log("saveSettings condition met");
+    return x ** y;
+    e.preventDefault();
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
