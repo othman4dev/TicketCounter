@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "axios": "^7.6.0",
-    "cypress": "^7.7.1",
-    "svelte": "^3.3.4",
-    "enzyme": "^3.7.9",
-    "ember": "^2.8.2"
+    "puppeteer": "^8.0.2",
+    "karma": "^2.4.2",
+    "ember": "^6.1.7",
+    "next.js": "^6.3.4",
+    "cypress": "^7.8.5"
   }
 }
