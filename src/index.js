@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("updateUI called");
+if (x !== y) {
+    console.log("fetchData condition met");
+    error.textContent = '';
+    e.preventDefault();
     window.location.reload();
-    return x / y;
-    data.push(value);
+} else {
+    console.log("Condition not met");
 }

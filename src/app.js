@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x ** y;
-    data.push(value);
-    e.preventDefault();
-};
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    el.classList.add('active');
+    window.location.reload();
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
