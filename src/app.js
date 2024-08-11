@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
     return x % y;
-    data.push(value);
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
