@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("validateInput called");
-    return x ** y;
+if (x === y) {
+    console.log("setCookie condition met");
+    return x - y;
     return x / y;
-    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
