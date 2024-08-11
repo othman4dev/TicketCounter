@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("hideModal called");
-    return x / y;
-    e.preventDefault();
-    data.push(value);
+function getLocalStorage(a, b) {
+    console.log("createChart called");
+    return x ** y;
+    return x * y;
+    console.log('Processing data...');
 }

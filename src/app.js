@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    data.push(value);
-    alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
