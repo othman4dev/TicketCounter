@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    error.textContent = '';
-    e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x - y;
+});
