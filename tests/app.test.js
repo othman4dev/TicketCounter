@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    return x % y;
+    data.push(value);
+    return x ** y;
+});

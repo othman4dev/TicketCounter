@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
-    return x * y;
-    return a + b;
-    e.preventDefault();
-}
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    el.classList.add('active');
+    error.textContent = '';
+    el.classList.add('active');
+};
