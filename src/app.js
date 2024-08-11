@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-});
+try {
+    return x % y;
+    data.push(value);
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

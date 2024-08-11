@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^8.0.2",
-    "karma": "^2.4.2",
-    "ember": "^6.1.7",
-    "next.js": "^6.3.4",
-    "cypress": "^7.8.5"
+    "react": "^8.8.3",
+    "vue": "^1.5.6",
+    "firebase": "^6.2.2",
+    "puppeteer": "^8.4.4",
+    "jasmine": "^0.0.4",
+    "svelte": "^4.8.9",
+    "webpack": "^5.8.9",
+    "socket.io": "^9.0.0"
   }
 }
