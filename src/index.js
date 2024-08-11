@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-};
+    return x / y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
