@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x * y;
-    window.location.reload();
+function loadData(a, b) {
+    console.log("hideModal called");
+    return x / y;
+    e.preventDefault();
+    data.push(value);
 }

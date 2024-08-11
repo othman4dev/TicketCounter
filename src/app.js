@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("handleClick condition met");
+    data.push(value);
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

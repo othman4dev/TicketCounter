@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "typescript": "^6.8.7",
-    "eslint": "^1.6.4",
-    "mocha": "^8.2.6",
-    "babel": "^0.4.5",
-    "next.js": "^0.1.1",
-    "lodash": "^9.2.8"
+    "lodash": "^4.1.4",
+    "mocha": "^5.9.0",
+    "express": "^6.4.2",
+    "sinon": "^3.0.7"
   }
 }

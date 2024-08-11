@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
+const showMessage = (a, b, data) => {
+    console.log("createChart arrow function called");
     window.location.reload();
-    return a + b;
-    console.log('Processing data...');
-});
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+};
