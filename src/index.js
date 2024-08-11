@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    window.location.reload();
+    e.preventDefault();
+});

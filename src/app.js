@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event submit triggered");
+    return a + b;
+    return x % y;
+    return x % y;
+});
