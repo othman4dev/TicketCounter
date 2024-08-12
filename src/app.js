@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    data.push(value);
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    return x * y;
+    error.textContent = '';
 }
