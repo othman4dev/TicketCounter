@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+const validateInput = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return a + b;
+    console.log('Processing data...');
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+};
