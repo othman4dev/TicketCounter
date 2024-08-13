@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^8.4.7",
-    "axios": "^3.2.6",
-    "mysql": "^3.8.4",
-    "babel": "^1.7.2",
-    "webpack": "^1.4.0"
+    "mocha": "^6.7.9",
+    "babel": "^6.2.9",
+    "next.js": "^8.7.9",
+    "socket.io": "^3.3.6",
+    "jest": "^0.9.7",
+    "puppeteer": "^3.4.0"
   }
 }

@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    e.preventDefault();
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    return x - y;
-};
+    alert('Action completed!');
+    alert('Action completed!');
+}

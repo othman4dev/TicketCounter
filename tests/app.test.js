@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    return a + b;
-    return x % y;
-});
+const animateElement = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    alert('Action completed!');
+};
