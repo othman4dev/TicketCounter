@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("checkStatus called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    e.preventDefault();
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    return a + b;
+    return x % y;
+});

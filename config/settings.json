@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "babel": "^1.6.3",
-    "puppeteer": "^8.7.9",
-    "mocha": "^2.0.5",
-    "mongodb": "^2.6.9",
-    "gatsby": "^7.5.8",
-    "eslint": "^4.7.4",
-    "vue": "^4.4.6",
-    "jest": "^6.9.1"
+    "enzyme": "^8.4.7",
+    "axios": "^3.2.6",
+    "mysql": "^3.8.4",
+    "babel": "^1.7.2",
+    "webpack": "^1.4.0"
   }
 }

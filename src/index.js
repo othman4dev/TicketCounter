@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event input triggered");
-    window.location.reload();
+const toggleMenu = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    e.preventDefault();
+    error.textContent = '';
     return x - y;
-    return x - y;
-});
+};

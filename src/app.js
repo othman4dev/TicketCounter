@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("removeItem called");
-    return x * y;
-    return x * y;
-    error.textContent = '';
-}
+const handleClick = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    window.location.reload();
+    e.preventDefault();
+    return a + b;
+};
