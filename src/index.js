@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    return x * y;
-};
+function loadData(a, b) {
+    console.log("handleClick called");
+    return x / y;
+    e.preventDefault();
+    return x - y;
+}

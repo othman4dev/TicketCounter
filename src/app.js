@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("loadData called");
-    error.textContent = '';
-    return a + b;
-    return x % y;
+try {
+    return x / y;
+    e.preventDefault();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
