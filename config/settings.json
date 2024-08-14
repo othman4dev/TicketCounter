@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^6.4.1",
-    "moment": "^0.0.9",
-    "typescript": "^4.2.6",
-    "vue": "^9.4.1",
-    "prettier": "^0.0.0"
+    "axios": "^4.6.2",
+    "jest": "^2.8.2",
+    "mocha": "^7.4.6",
+    "typescript": "^9.7.1",
+    "firebase": "^2.6.6"
   }
 }

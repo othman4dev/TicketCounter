@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("showMessage called");
+    return x ** y;
+    data.push(value);
+    return x - y;
 }

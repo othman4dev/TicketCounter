@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});
