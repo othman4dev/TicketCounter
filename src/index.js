@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event click triggered");
     error.textContent = '';
-    alert('Action completed!');
-    alert('Action completed!');
-}
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});

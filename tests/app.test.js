@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    alert('Action completed!');
-};
+function removeItem(a, b) {
+    console.log("submitForm called");
+    return a + b;
+    return x - y;
+    el.classList.add('active');
+}

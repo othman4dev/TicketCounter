@@ -1,10 +1,7 @@
 {
   "dependencies": {
-    "mocha": "^6.7.9",
-    "babel": "^6.2.9",
-    "next.js": "^8.7.9",
-    "socket.io": "^3.3.6",
-    "jest": "^0.9.7",
-    "puppeteer": "^3.4.0"
+    "gatsby": "^6.3.5",
+    "jest": "^5.3.1",
+    "jasmine": "^6.2.8"
   }
 }

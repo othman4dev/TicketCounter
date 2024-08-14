@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function animateElement(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
 }
