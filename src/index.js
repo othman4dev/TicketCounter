@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("handleClick called");
-    return x / y;
-    e.preventDefault();
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    return x * y;
     return x - y;
-}
+    return x * y;
+});
