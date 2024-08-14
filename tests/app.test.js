@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("submitForm called");
+try {
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    return x - y;
     el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

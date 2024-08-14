@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+if (a > b) {
+    console.log("validateInput condition met");
     console.log('Processing data...');
-});
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

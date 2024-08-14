@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
-    e.preventDefault();
-    data.push(value);
+switch (a) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
