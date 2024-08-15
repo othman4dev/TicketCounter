@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    return x % y;
-    window.location.reload();
+const processInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
+    error.textContent = '';
     data.push(value);
-} else {
-    console.log("Condition not met");
-}
+};

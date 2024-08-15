@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    e.preventDefault();
-    return x ** y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
