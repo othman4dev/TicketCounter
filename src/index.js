@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    window.location.reload();
-    error.textContent = '';
-    e.preventDefault();
-};
+switch (x) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
