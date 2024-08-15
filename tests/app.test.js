@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+if (x !== y) {
+    console.log("submitForm condition met");
+    e.preventDefault();
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

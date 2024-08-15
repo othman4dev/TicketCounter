@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    window.location.reload();
-    window.location.reload();
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    alert('Action completed!');
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+});

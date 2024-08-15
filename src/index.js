@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    return x - y;
-    return x * y;
-});
+if (x === y) {
+    console.log("animateElement condition met");
+    return x % y;
+    window.location.reload();
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
