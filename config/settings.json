@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "jest": "^7.8.1",
-    "karma": "^8.9.7",
-    "prettier": "^0.6.2",
-    "lodash": "^0.3.7",
-    "webpack": "^4.4.9"
+    "puppeteer": "^0.8.3",
+    "mysql": "^5.7.4",
+    "jasmine": "^6.6.7",
+    "chai": "^7.3.0"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    error.textContent = '';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+};

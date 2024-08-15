@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    window.location.reload();
-    e.preventDefault();
+try {
     return x ** y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
