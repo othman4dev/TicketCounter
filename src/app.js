@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    window.location.reload();
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
     el.classList.add('active');
-    return x ** y;
-} else {
-    console.log("Condition not met");
 }

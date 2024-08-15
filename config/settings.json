@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "express": "^6.9.3",
-    "react": "^9.6.1",
-    "svelte": "^4.4.0",
-    "puppeteer": "^1.2.5",
-    "mocha": "^0.3.8"
+    "redis": "^2.2.7",
+    "karma": "^9.6.2",
+    "axios": "^7.4.2",
+    "eslint": "^2.5.3",
+    "cypress": "^3.7.1"
   }
 }

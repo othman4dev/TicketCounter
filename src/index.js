@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x ** y;
-    return x % y;
+function validateInput(a, b) {
+    console.log("checkStatus called");
+    return x - y;
+    return x / y;
     return a + b;
-};
+}
