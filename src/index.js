@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-});
+const loadData = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x ** y;
+    return x * y;
+    alert('Action completed!');
+};

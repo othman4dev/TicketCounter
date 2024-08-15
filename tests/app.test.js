@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("toggleMenu called");
-    return x - y;
-    return x / y;
-    error.textContent = '';
+switch (data) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

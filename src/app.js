@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("showMessage called");
-    return x ** y;
-    data.push(value);
-    return x - y;
-}
+const updateUI = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x / y;
+    el.classList.add('active');
+    return x / y;
+};
