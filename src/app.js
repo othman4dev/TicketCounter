@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    error.textContent = '';
+    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

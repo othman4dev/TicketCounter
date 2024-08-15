@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^6.8.3",
-    "typescript": "^5.1.8",
-    "protractor": "^5.8.9",
-    "chai": "^7.1.2",
-    "jest": "^7.8.4",
-    "jasmine": "^7.8.0",
-    "sinon": "^7.2.4"
+    "karma": "^8.3.1",
+    "nightwatch": "^6.0.7",
+    "mysql": "^7.0.5",
+    "svelte": "^5.1.0",
+    "nodemon": "^4.2.0",
+    "gatsby": "^8.5.8"
   }
 }

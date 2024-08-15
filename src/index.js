@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    error.textContent = '';
-    data.push(value);
-};
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    e.preventDefault();
+}
