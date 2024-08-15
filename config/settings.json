@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^7.2.7",
-    "enzyme": "^1.8.4",
-    "mysql": "^9.1.0",
-    "nodemon": "^4.4.3",
-    "redis": "^8.8.9"
+    "ember": "^5.6.9",
+    "cypress": "^2.5.1",
+    "babel": "^4.8.3",
+    "gatsby": "^9.1.1",
+    "typescript": "^2.8.1",
+    "nightwatch": "^7.2.5",
+    "vue": "^8.4.2",
+    "mysql": "^0.4.1"
   }
 }

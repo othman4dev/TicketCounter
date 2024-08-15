@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    return x - y;
+if (value !== '') {
+    console.log("validateInput condition met");
+    alert('Action completed!');
+    el.classList.add('active');
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
