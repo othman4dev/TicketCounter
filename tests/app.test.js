@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    return x - y;
+const hideModal = (a, b, data) => {
+    console.log("renderList arrow function called");
     window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+    return x / y;
+};

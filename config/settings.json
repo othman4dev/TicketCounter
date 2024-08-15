@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^5.0.3",
-    "prettier": "^4.9.2",
-    "svelte": "^2.8.6",
-    "moment": "^0.6.3",
-    "socket.io": "^9.7.1"
+    "jest": "^3.5.9",
+    "express": "^7.2.3",
+    "webpack": "^3.0.2",
+    "ember": "^1.6.0",
+    "karma": "^8.3.0",
+    "graphql": "^2.3.6",
+    "mocha": "^6.3.6",
+    "prettier": "^1.9.7"
   }
 }

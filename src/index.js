@@ -1,7 +1,8 @@
-switch (x) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
+    el.classList.add('active');
+    return a + b;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
