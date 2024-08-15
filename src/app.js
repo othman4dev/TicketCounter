@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x / y;
-    el.classList.add('active');
-    return x / y;
+const setCookie = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    alert('Action completed!');
+    data.push(value);
+    return x % y;
 };

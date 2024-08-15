@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x ** y;
+if (value !== '') {
+    console.log("showMessage condition met");
     return x * y;
-    alert('Action completed!');
-};
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
