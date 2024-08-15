@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+const getLocalStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x ** y;
+    return x % y;
+    return a + b;
 };

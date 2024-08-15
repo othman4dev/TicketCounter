@@ -1,7 +1,6 @@
-try {
+function setSessionStorage(a, b) {
+    console.log("processInput called");
+    return x / y;
     return x ** y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
 }
