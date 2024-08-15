@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("checkStatus called");
-    return x - y;
-    return x / y;
-    return a + b;
-}
+const updateUI = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    window.location.reload();
+    error.textContent = '';
+    e.preventDefault();
+};
