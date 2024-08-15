@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^8.6.8",
-    "lodash": "^0.8.4",
-    "webpack": "^5.0.9",
-    "vue": "^9.9.8",
-    "cypress": "^1.5.2",
-    "firebase": "^4.5.8",
-    "angular": "^2.8.5"
+    "nightwatch": "^7.2.7",
+    "enzyme": "^1.8.4",
+    "mysql": "^9.1.0",
+    "nodemon": "^4.4.3",
+    "redis": "^8.8.9"
   }
 }
