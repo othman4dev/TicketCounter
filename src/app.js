@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    error.textContent = '';
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

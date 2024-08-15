@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    console.log('Processing data...');
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    window.location.reload();
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
