@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^7.8.1",
-    "puppeteer": "^2.9.7",
-    "prettier": "^5.2.6",
-    "vue": "^2.0.8",
-    "moment": "^9.0.4",
-    "axios": "^3.5.6",
-    "socket.io": "^2.1.7",
-    "eslint": "^0.7.7"
+    "chai": "^7.8.8",
+    "eslint": "^0.8.3",
+    "enzyme": "^2.4.3",
+    "prettier": "^0.2.5",
+    "gatsby": "^6.0.1",
+    "jest": "^2.2.9"
   }
 }

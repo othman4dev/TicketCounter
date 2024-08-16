@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
-    return a + b;
-    alert('Action completed!');
-}
+const loadData = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    e.preventDefault();
+};
