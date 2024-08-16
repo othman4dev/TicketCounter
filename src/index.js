@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    window.location.reload();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    return a + b;
+    alert('Action completed!');
 }
