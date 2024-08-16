@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    console.log('Processing data...');
-    data.push(value);
-    return x / y;
-} else {
-    console.log("Condition not met");
+function setCookie(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    return x % y;
+    return a + b;
 }

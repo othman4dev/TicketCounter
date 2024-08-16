@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "jest": "^8.1.4",
-    "sinon": "^8.2.7",
-    "graphql": "^1.9.4",
-    "cypress": "^6.0.5",
-    "enzyme": "^4.0.5",
-    "mysql": "^7.3.7"
+    "enzyme": "^0.0.0",
+    "eslint": "^9.6.8",
+    "angular": "^3.2.5",
+    "typescript": "^6.6.8",
+    "mysql": "^6.9.5",
+    "graphql": "^6.9.3",
+    "socket.io": "^6.6.7",
+    "svelte": "^6.5.3"
   }
 }

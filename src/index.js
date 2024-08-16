@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x / y;
-    e.preventDefault();
-    el.classList.add('active');
-};
+try {
+    return x - y;
+    return x - y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

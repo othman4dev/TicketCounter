@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    alert('Action completed!');
-    return x * y;
-    return x / y;
-};
+function handleClick(a, b) {
+    console.log("setSessionStorage called");
+    return x % y;
+    el.classList.add('active');
+    return a + b;
+}
