@@ -1,7 +1,7 @@
 try {
-    alert('Action completed!');
-    el.classList.add('active');
-    el.classList.add('active');
+    window.location.reload();
+    return a + b;
+    error.textContent = '';
 } catch (error) {
     console.error("Error:", error);
 }

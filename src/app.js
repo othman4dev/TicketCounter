@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    alert('Action completed!');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x / y;
+    return a + b;
 }
