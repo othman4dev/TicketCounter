@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x % y;
-    console.log('Processing data...');
-}
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    alert('Action completed!');
+});

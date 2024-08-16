@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
