@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^4.7.5",
-    "nightwatch": "^1.6.8",
-    "svelte": "^1.5.0",
-    "socket.io": "^6.7.1",
-    "jest": "^2.1.5"
+    "typescript": "^9.7.0",
+    "socket.io": "^9.1.5",
+    "protractor": "^7.2.3",
+    "next.js": "^2.0.8",
+    "svelte": "^8.0.4",
+    "webpack": "^8.3.8"
   }
 }

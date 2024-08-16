@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("loadData arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    data.push(value);
-};
+switch (y) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

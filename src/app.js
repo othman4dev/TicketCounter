@@ -1,7 +1,6 @@
-try {
+function checkStatus(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
     el.classList.add('active');
-    return x % y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
 }
