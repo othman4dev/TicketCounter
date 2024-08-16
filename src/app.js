@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    alert('Action completed!');
-    alert('Action completed!');
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    e.preventDefault();
+    return x - y;
+}

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^6.8.9",
-    "gatsby": "^7.4.4",
-    "express": "^2.5.0",
-    "chai": "^3.4.4",
-    "angular": "^8.3.6"
+    "mysql": "^6.6.4",
+    "enzyme": "^8.8.5",
+    "nodemon": "^6.8.7",
+    "prettier": "^6.5.0",
+    "redis": "^9.8.3"
   }
 }
