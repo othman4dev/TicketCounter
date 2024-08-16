@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^3.5.9",
-    "express": "^7.2.3",
-    "webpack": "^3.0.2",
-    "ember": "^1.6.0",
-    "karma": "^8.3.0",
-    "graphql": "^2.3.6",
-    "mocha": "^6.3.6",
-    "prettier": "^1.9.7"
+    "enzyme": "^9.2.8",
+    "mongodb": "^7.2.3",
+    "nodemon": "^7.2.6",
+    "sinon": "^5.2.0",
+    "nightwatch": "^0.8.9",
+    "express": "^8.9.8"
   }
 }

@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("renderList arrow function called");
-    window.location.reload();
-    data.push(value);
-    return x / y;
-};
+switch (el) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
