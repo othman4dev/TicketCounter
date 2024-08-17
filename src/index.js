@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    window.location.reload();
-    return x - y;
-    alert('Action completed!');
+if (value !== '') {
+    console.log("formatDate condition met");
+    el.classList.add('active');
+    return x ** y;
+    return x / y;
 } else {
     console.log("Condition not met");
 }

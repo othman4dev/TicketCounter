@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("showMessage called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    el.classList.add('active');
+if (x === y) {
+    console.log("toggleMenu condition met");
+    e.preventDefault();
+    return x - y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

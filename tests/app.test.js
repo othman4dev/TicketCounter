@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    el.classList.add('active');
+};
