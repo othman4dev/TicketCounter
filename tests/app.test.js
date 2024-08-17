@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("loadData called");
-    e.preventDefault();
-    return a + b;
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    error.textContent = '';
     data.push(value);
 }
