@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("setSessionStorage called");
-    return x % y;
-    el.classList.add('active');
-    return a + b;
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

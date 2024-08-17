@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^0.0.0",
-    "eslint": "^9.6.8",
-    "angular": "^3.2.5",
-    "typescript": "^6.6.8",
-    "mysql": "^6.9.5",
-    "graphql": "^6.9.3",
-    "socket.io": "^6.6.7",
-    "svelte": "^6.5.3"
+    "prettier": "^5.8.2",
+    "axios": "^8.0.3",
+    "cypress": "^6.3.0",
+    "karma": "^8.2.3",
+    "vue": "^3.2.3"
   }
 }

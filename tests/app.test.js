@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("saveSettings called");
+try {
+    data.push(value);
+    alert('Action completed!');
     el.classList.add('active');
-    return x % y;
-    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
