@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    console.log('Processing data...');
-    data.push(value);
-    error.textContent = '';
-};
+if (a > b) {
+    console.log("setSessionStorage condition met");
+    el.classList.add('active');
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

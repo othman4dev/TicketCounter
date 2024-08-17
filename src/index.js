@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    window.location.reload();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("formatDate condition met");
+    alert('Action completed!');
+    console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
