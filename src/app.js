@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    e.preventDefault();
-    return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    console.log('Processing data...');
+    data.push(value);
+    error.textContent = '';
+};

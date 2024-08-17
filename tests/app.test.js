@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("fetchData arrow function called");
+function processInput(a, b) {
+    console.log("updateUI called");
     return a + b;
-    console.log('Processing data...');
-    el.classList.add('active');
-};
+    e.preventDefault();
+    return x % y;
+}
