@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const showMessage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
+    e.preventDefault();
+    el.classList.add('active');
+};

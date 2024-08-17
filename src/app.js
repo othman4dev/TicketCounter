@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const updateUI = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    alert('Action completed!');
+    return x * y;
+    return x / y;
+};

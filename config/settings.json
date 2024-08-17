@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.3.1",
-    "eslint": "^1.8.2",
-    "vue": "^1.4.4",
-    "protractor": "^7.6.6"
+    "jest": "^8.1.4",
+    "sinon": "^8.2.7",
+    "graphql": "^1.9.4",
+    "cypress": "^6.0.5",
+    "enzyme": "^4.0.5",
+    "mysql": "^7.3.7"
   }
 }
