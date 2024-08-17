@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+function getLocalStorage(a, b) {
+    console.log("loadData called");
+    e.preventDefault();
     return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
 }

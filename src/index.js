@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("removeItem arrow function called");
+if (x === y) {
+    console.log("updateUI condition met");
+    window.location.reload();
     alert('Action completed!');
-    error.textContent = '';
-    alert('Action completed!');
-};
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
