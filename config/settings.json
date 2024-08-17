@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^4.2.5",
-    "moment": "^4.4.0",
-    "jest": "^3.7.6",
-    "angular": "^5.3.8",
-    "webpack": "^5.7.5",
-    "ember": "^5.6.8"
+    "webpack": "^0.7.9",
+    "jest": "^7.0.7",
+    "babel": "^4.2.5",
+    "gatsby": "^5.3.1",
+    "typescript": "^1.2.6"
   }
 }

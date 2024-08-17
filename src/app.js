@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    error.textContent = '';
+    e.preventDefault();
     return x % y;
-    return x - y;
-};
+} else {
+    console.log("Condition not met");
+}

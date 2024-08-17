@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    window.location.reload();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    alert('Action completed!');
+    error.textContent = '';
+    data.push(value);
+});
