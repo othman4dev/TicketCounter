@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("displayError called");
-    return x ** y;
-    return x ** y;
+try {
     return x * y;
+    el.classList.add('active');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
