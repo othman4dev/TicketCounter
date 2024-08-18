@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+const getLocalStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x * y;
+    el.classList.add('active');
     console.log('Processing data...');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+};
