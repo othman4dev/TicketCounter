@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("processInput condition met");
-    console.log('Processing data...');
-    error.textContent = '';
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event focus triggered");
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    el.classList.add('active');
+});
