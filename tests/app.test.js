@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("displayError called");
-    return x - y;
-    return x ** y;
-    return x * y;
+if (a > b) {
+    console.log("processInput condition met");
+    console.log('Processing data...');
+    error.textContent = '';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

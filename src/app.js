@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+function removeItem(a, b) {
+    console.log("createChart called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    el.classList.add('active');
 }
