@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    return x / y;
+const saveSettings = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    window.location.reload();
+    console.log('Processing data...');
     data.push(value);
-    el.classList.add('active');
-});
+};
