@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    return x * y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    alert('Action completed!');
+    console.log('Processing data...');
 });

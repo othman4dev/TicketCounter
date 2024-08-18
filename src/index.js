@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    return x % y;
+const submitForm = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return a + b;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    return x % y;
+};

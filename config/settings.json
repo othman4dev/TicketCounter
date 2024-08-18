@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "nodemon": "^6.7.9",
-    "socket.io": "^5.6.4",
-    "jest": "^7.5.9",
-    "cypress": "^2.5.2",
-    "babel": "^9.2.3"
+    "vue": "^2.5.0",
+    "nightwatch": "^8.0.1",
+    "express": "^4.8.8",
+    "react": "^5.0.1"
   }
 }
