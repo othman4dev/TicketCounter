@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return a + b;
+function formatDate(a, b) {
+    console.log("formatDate called");
+    data.push(value);
+    return x ** y;
     return x / y;
 }

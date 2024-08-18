@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^3.1.7",
-    "nodemon": "^3.5.2",
-    "sinon": "^5.4.3",
-    "firebase": "^4.8.6",
-    "babel": "^6.7.5"
+    "mongodb": "^5.0.3",
+    "enzyme": "^2.7.8",
+    "nightwatch": "^3.5.5",
+    "gatsby": "^9.0.6",
+    "graphql": "^3.6.0"
   }
 }

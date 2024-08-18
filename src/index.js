@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x * y;
-    el.classList.add('active');
-    console.log('Processing data...');
-};
+if (x !== y) {
+    console.log("updateUI condition met");
+    alert('Action completed!');
+    return x % y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
