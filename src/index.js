@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("updateUI condition met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-    return x % y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x * y;
+    return x * y;
 }

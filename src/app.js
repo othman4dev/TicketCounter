@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("formatDate called");
-    data.push(value);
-    return x ** y;
-    return x / y;
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+});

@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^5.0.3",
-    "enzyme": "^2.7.8",
-    "nightwatch": "^3.5.5",
-    "gatsby": "^9.0.6",
-    "graphql": "^3.6.0"
+    "enzyme": "^4.0.9",
+    "protractor": "^6.9.7",
+    "socket.io": "^8.9.8",
+    "mongodb": "^4.3.0",
+    "mocha": "^7.3.1",
+    "sinon": "^6.3.2",
+    "jest": "^9.9.5"
   }
 }
