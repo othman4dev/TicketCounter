@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
+    data.push(value);
     el.classList.add('active');
-});
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
