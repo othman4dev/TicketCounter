@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("processInput condition met");
-    error.textContent = '';
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
