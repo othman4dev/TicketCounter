@@ -1,7 +1,8 @@
-try {
+if (a > b) {
+    console.log("processInput condition met");
+    error.textContent = '';
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

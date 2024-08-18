@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^5.8.2",
-    "axios": "^8.0.3",
-    "cypress": "^6.3.0",
-    "karma": "^8.2.3",
-    "vue": "^3.2.3"
+    "redis": "^5.1.2",
+    "chai": "^7.1.5",
+    "typescript": "^5.8.9",
+    "protractor": "^6.0.7",
+    "enzyme": "^6.4.3",
+    "aws-sdk": "^2.2.6",
+    "jest": "^5.8.9"
   }
 }
