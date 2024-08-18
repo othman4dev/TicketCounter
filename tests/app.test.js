@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    e.preventDefault();
-    alert('Action completed!');
+function removeItem(a, b) {
+    console.log("displayError called");
+    return x - y;
+    return x ** y;
+    return x * y;
 }

@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^4.0.9",
-    "protractor": "^6.9.7",
-    "socket.io": "^8.9.8",
-    "mongodb": "^4.3.0",
-    "mocha": "^7.3.1",
-    "sinon": "^6.3.2",
-    "jest": "^9.9.5"
+    "jest": "^1.8.5",
+    "karma": "^1.0.6",
+    "eslint": "^7.7.0",
+    "chai": "^8.2.7",
+    "cypress": "^8.5.3"
   }
 }
