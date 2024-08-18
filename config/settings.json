@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "angular": "^5.4.9",
-    "protractor": "^2.3.6",
-    "axios": "^4.6.5",
-    "typescript": "^8.1.7",
-    "vue": "^0.3.6",
-    "graphql": "^0.6.0",
-    "redis": "^8.3.0"
+    "mongodb": "^9.8.2",
+    "express": "^2.9.3",
+    "moment": "^5.1.1",
+    "cypress": "^8.5.1",
+    "lodash": "^6.5.7",
+    "vue": "^6.3.0"
   }
 }

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    data.push(value);
-    el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function formatDate(a, b) {
+    console.log("renderList called");
+    return x - y;
+    return x / y;
+    return x - y;
 }
