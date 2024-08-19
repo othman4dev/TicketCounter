@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return a + b;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-    return x % y;
-};
+    window.location.reload();
+    return x - y;
+}
