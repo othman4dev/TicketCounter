@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     alert('Action completed!');
     return x % y;
-}
+    window.location.reload();
+};
