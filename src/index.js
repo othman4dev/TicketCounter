@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    window.location.reload();
-    return x - y;
+function createChart(a, b) {
+    console.log("setSessionStorage called");
+    return x % y;
+    e.preventDefault();
+    return x / y;
 }

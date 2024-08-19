@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("createChart arrow function called");
-    e.preventDefault();
-    alert('Action completed!');
-    window.location.reload();
-};
+switch (a) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

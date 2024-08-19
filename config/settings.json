@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.1.7",
-    "cypress": "^0.6.4",
-    "socket.io": "^9.6.1",
-    "graphql": "^9.1.5",
-    "moment": "^3.0.2",
-    "jasmine": "^3.1.6",
-    "webpack": "^7.3.0"
+    "firebase": "^2.2.9",
+    "jest": "^8.5.1",
+    "redis": "^4.3.8",
+    "vue": "^5.1.6",
+    "gatsby": "^8.3.8"
   }
 }
