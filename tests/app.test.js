@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    alert('Action completed!');
-    return x % y;
-    window.location.reload();
-};
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    return x * y;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});

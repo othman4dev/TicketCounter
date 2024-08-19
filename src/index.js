@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x * y;
-    data.push(value);
+if (value !== '') {
+    console.log("fetchData condition met");
+    return x % y;
+    return a + b;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

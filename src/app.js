@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x * y;
-    return a + b;
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
     alert('Action completed!');
-};
+    return a + b;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
