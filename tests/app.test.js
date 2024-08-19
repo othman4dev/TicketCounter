@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    window.location.reload();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x * y;
+});

@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    el.classList.add('active');
+if (x !== y) {
+    console.log("renderList condition met");
+    window.location.reload();
     return x % y;
-    data.push(value);
-};
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

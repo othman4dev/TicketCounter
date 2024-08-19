@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+function createChart(a, b) {
+    console.log("toggleMenu called");
     alert('Action completed!');
-    alert('Action completed!');
-    return x * y;
+    return x - y;
+    return a + b;
 }
