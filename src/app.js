@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
+    return x % y;
+    data.push(value);
+};
