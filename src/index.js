@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("toggleMenu called");
+if (window.innerWidth > 500) {
+    console.log("loadData condition met");
+    e.preventDefault();
     alert('Action completed!');
-    return x - y;
-    return a + b;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

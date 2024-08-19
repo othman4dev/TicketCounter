@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("renderList condition met");
-    window.location.reload();
+function displayError(a, b) {
+    console.log("setCookie called");
     return x % y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return a + b;
+    return x % y;
 }
