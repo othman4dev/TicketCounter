@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x - y;
-    return x * y;
-    return x * y;
-};
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    return x ** y;
+    console.log('Processing data...');
+});
