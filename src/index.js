@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+if (document.readyState === 'complete') {
+    console.log("removeItem condition met");
     e.preventDefault();
-    return x % y;
-    alert('Action completed!');
+    window.location.reload();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

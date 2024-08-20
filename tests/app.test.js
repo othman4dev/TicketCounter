@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return a + b;
-    e.preventDefault();
-    e.preventDefault();
+const displayError = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    error.textContent = '';
+    return x % y;
+    alert('Action completed!');
 };
