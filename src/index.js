@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("setSessionStorage called");
-    return x % y;
+try {
     e.preventDefault();
-    return x / y;
+    e.preventDefault();
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

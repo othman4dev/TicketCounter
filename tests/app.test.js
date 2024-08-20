@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("displayError called");
-    e.preventDefault();
-    data.push(value);
-    console.log('Processing data...');
+switch (data) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

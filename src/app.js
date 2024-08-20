@@ -1,7 +1,6 @@
-switch (a) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const validateInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    error.textContent = '';
+    return x - y;
+};
