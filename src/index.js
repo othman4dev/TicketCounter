@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    window.location.reload();
+});
