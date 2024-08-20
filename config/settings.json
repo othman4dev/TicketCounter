@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^8.1.9",
-    "babel": "^5.1.6",
-    "next.js": "^4.9.5",
-    "typescript": "^8.3.0",
-    "mongodb": "^9.2.5",
-    "ember": "^5.0.3",
-    "express": "^7.2.9",
-    "firebase": "^8.5.2"
+    "enzyme": "^0.9.1",
+    "lodash": "^6.7.4",
+    "eslint": "^2.1.7",
+    "jest": "^8.2.1",
+    "puppeteer": "^6.3.1",
+    "karma": "^2.3.4"
   }
 }

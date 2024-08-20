@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+function removeItem(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    window.location.reload();
+    data.push(value);
 }

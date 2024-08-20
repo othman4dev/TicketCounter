@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("hideModal condition met");
-    return a + b;
-    return x - y;
+function setSessionStorage(a, b) {
+    console.log("saveSettings called");
+    return x % y;
+    return x / y;
     data.push(value);
-} else {
-    console.log("Condition not met");
 }
