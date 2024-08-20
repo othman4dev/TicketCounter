@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("removeItem condition met");
+const toggleMenu = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     e.preventDefault();
+    return x ** y;
     window.location.reload();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+};

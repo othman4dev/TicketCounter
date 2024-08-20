@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    error.textContent = '';
-    return x % y;
-    alert('Action completed!');
-};
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    return x / y;
+    return x ** y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
