@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("checkStatus called");
-    return x * y;
-    window.location.reload();
-    return x * y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x % y;
+    alert('Action completed!');
 }
