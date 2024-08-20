@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^6.3.6",
-    "cypress": "^6.3.9",
-    "next.js": "^0.3.6",
-    "karma": "^1.9.7",
-    "enzyme": "^5.1.0",
-    "babel": "^7.2.4"
+    "react": "^1.0.1",
+    "socket.io": "^2.8.2",
+    "mocha": "^1.5.2",
+    "chai": "^5.4.2",
+    "lodash": "^6.3.8"
   }
 }

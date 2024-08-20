@@ -1,7 +1,8 @@
-switch (y) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("hideModal condition met");
+    return x % y;
+    alert('Action completed!');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
