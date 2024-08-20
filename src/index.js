@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("submitForm called");
-    return x * y;
+function setCookie(a, b) {
+    console.log("renderList called");
+    data.push(value);
+    e.preventDefault();
     console.log('Processing data...');
-    return x % y;
 }

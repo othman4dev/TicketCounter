@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("displayError condition met");
-    alert('Action completed!');
-    return a + b;
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    return x / y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+});
