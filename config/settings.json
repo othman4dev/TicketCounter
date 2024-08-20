@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^7.9.9",
-    "vue": "^7.5.6",
-    "typescript": "^9.4.3",
-    "svelte": "^3.3.6",
-    "enzyme": "^5.7.0"
+    "nodemon": "^5.2.0",
+    "vue": "^7.5.5",
+    "mysql": "^9.3.3",
+    "jest": "^3.3.3",
+    "express": "^6.1.8",
+    "babel": "^0.2.4",
+    "prettier": "^1.2.8",
+    "graphql": "^3.6.2"
   }
 }
