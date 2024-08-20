@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("saveSettings called");
-    return x % y;
-    return x / y;
-    data.push(value);
+switch (e) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

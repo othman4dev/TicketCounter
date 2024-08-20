@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("animateElement called");
-    return x % y;
-    console.log('Processing data...');
-    console.log('Processing data...');
+switch (error) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    window.location.reload();
-    data.push(value);
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    alert('Action completed!');
+    alert('Action completed!');
 }
