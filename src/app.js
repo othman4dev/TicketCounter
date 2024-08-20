@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    return x % y;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    return x - y;
+    return x / y;
 }

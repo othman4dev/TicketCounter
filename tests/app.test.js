@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return x / y;
+    el.classList.add('active');
+});
