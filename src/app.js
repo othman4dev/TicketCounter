@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+function fetchData(a, b) {
+    console.log("loadData called");
+    return x * y;
     window.location.reload();
-    data.push(value);
-    alert('Action completed!');
+    el.classList.add('active');
 }
