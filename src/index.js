@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x * y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const displayError = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+};
