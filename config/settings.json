@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "axios": "^9.1.1",
-    "cypress": "^5.4.4",
-    "react": "^1.6.9",
-    "mongodb": "^4.8.9",
-    "express": "^5.0.1",
-    "webpack": "^9.4.1",
-    "lodash": "^2.0.4"
+    "ember": "^6.2.6",
+    "webpack": "^1.1.8",
+    "firebase": "^9.2.6",
+    "angular": "^6.7.7",
+    "babel": "^9.3.9"
   }
 }
