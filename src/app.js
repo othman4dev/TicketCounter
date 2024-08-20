@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    return x - y;
+    return x ** y;
+};

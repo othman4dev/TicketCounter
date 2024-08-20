@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^0.5.4",
-    "graphql": "^6.2.9",
-    "mocha": "^8.1.7",
-    "webpack": "^3.3.9",
-    "socket.io": "^2.4.8",
-    "karma": "^9.3.5"
+    "mocha": "^6.3.6",
+    "cypress": "^6.3.9",
+    "next.js": "^0.3.6",
+    "karma": "^1.9.7",
+    "enzyme": "^5.1.0",
+    "babel": "^7.2.4"
   }
 }

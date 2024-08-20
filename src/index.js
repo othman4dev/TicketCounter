@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
+function toggleMenu(a, b) {
+    console.log("renderList called");
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+}
