@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^3.8.8",
-    "react": "^2.7.3",
-    "babel": "^5.5.1",
-    "puppeteer": "^3.7.5",
-    "firebase": "^1.6.5",
-    "jest": "^2.8.4",
-    "mocha": "^3.4.7"
+    "firebase": "^7.9.9",
+    "vue": "^7.5.6",
+    "typescript": "^9.4.3",
+    "svelte": "^3.3.6",
+    "enzyme": "^5.7.0"
   }
 }
