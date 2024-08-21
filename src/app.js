@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event click triggered");
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    console.log('Processing data...');
     return x / y;
-    return a + b;
-    return x / y;
+    e.preventDefault();
 });
