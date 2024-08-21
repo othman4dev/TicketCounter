@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
-    data.push(value);
-    data.push(value);
+switch (el) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
