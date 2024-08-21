@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const showMessage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
+    data.push(value);
+    data.push(value);
+};

@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "svelte": "^9.0.8",
-    "graphql": "^1.7.1",
-    "react": "^5.6.9",
-    "axios": "^5.7.9",
-    "next.js": "^7.7.0"
+    "express": "^2.7.3",
+    "webpack": "^8.0.8",
+    "mysql": "^0.2.0",
+    "chai": "^8.1.0"
   }
 }
