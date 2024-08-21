@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^4.3.9",
-    "angular": "^2.6.4",
-    "mongodb": "^7.0.9",
-    "ember": "^3.7.1",
-    "express": "^1.1.1",
-    "webpack": "^8.2.7",
-    "nodemon": "^2.9.1",
-    "typescript": "^2.6.1",
-    "mysql": "^8.4.5"
+    "lodash": "^0.6.8",
+    "jest": "^4.9.6",
+    "puppeteer": "^7.8.1",
+    "nightwatch": "^2.3.5",
+    "webpack": "^8.0.9",
+    "svelte": "^2.3.5"
   }
 }

@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("createChart arrow function called");
-    el.classList.add('active');
-    return x * y;
+function validateInput(a, b) {
+    console.log("createChart called");
     error.textContent = '';
-};
+    data.push(value);
+    data.push(value);
+}

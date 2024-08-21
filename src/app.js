@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    data.push(value);
+    return x % y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
