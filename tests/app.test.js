@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    return x - y;
-    window.location.reload();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("createChart arrow function called");
+    el.classList.add('active');
+    return x * y;
+    error.textContent = '';
+};

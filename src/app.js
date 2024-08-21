@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x - y;
-    e.preventDefault();
-}
+const checkStatus = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+};
