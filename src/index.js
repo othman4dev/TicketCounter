@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    alert('Action completed!');
-    alert('Action completed!');
-}
+const loadData = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x % y;
+    console.log('Processing data...');
+    return a + b;
+};
