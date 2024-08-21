@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "express": "^2.7.3",
-    "webpack": "^8.0.8",
-    "mysql": "^0.2.0",
-    "chai": "^8.1.0"
+    "ember": "^4.5.0",
+    "redis": "^5.9.4",
+    "jest": "^3.2.5",
+    "graphql": "^2.7.6",
+    "vue": "^6.8.8",
+    "mysql": "^3.3.7"
   }
 }

@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x - y;
-    data.push(value);
-    data.push(value);
+const getLocalStorage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 };
