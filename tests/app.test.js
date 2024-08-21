@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("fetchData called");
-    error.textContent = '';
-    el.classList.add('active');
-    error.textContent = '';
+switch (value) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

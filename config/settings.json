@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "moment": "^4.5.0",
-    "axios": "^5.8.9",
-    "webpack": "^0.1.0",
-    "jest": "^8.4.4",
-    "jasmine": "^0.7.3",
-    "express": "^7.7.8",
-    "lodash": "^2.6.9"
+    "ember": "^7.6.3",
+    "graphql": "^0.1.4",
+    "next.js": "^0.2.0",
+    "nightwatch": "^2.5.4",
+    "redis": "^2.6.0",
+    "jasmine": "^1.9.9"
   }
 }
