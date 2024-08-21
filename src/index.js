@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    e.preventDefault();
-    data.push(value);
-    el.classList.add('active');
-};
+if (a > b) {
+    console.log("renderList condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
