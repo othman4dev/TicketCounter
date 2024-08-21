@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "ember": "^7.6.3",
-    "graphql": "^0.1.4",
-    "next.js": "^0.2.0",
-    "nightwatch": "^2.5.4",
-    "redis": "^2.6.0",
-    "jasmine": "^1.9.9"
+    "jasmine": "^1.9.3",
+    "jest": "^9.5.2",
+    "puppeteer": "^3.3.4",
+    "redis": "^8.2.8",
+    "webpack": "^0.4.1",
+    "cypress": "^7.4.9",
+    "mongodb": "^3.0.1",
+    "mocha": "^1.4.4"
   }
 }
