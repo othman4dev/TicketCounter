@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-};
+function displayError(a, b) {
+    console.log("saveSettings called");
+    e.preventDefault();
+    return x % y;
+    return x / y;
+}
