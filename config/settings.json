@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.1.9",
-    "gatsby": "^2.5.4",
-    "aws-sdk": "^3.2.0",
-    "nodemon": "^4.5.2",
-    "next.js": "^3.3.2",
-    "graphql": "^0.3.4",
-    "react": "^0.3.3",
-    "socket.io": "^4.2.0"
+    "babel": "^7.8.3",
+    "redis": "^8.2.7",
+    "jasmine": "^8.3.6",
+    "karma": "^1.4.3",
+    "mongodb": "^8.3.1"
   }
 }
