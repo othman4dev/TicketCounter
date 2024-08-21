@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    el.classList.add('active');
-    error.textContent = '';
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-};
+    alert('Action completed!');
+});

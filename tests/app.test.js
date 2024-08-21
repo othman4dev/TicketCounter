@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    error.textContent = '';
-    e.preventDefault();
-    data.push(value);
-};
+if (x === y) {
+    console.log("updateUI condition met");
+    return x / y;
+    el.classList.add('active');
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
