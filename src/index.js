@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    window.location.reload();
-});
+switch (b) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

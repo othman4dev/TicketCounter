@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^1.2.4",
-    "gatsby": "^4.7.9",
-    "firebase": "^6.5.9",
-    "vue": "^7.9.2"
+    "moment": "^4.5.0",
+    "axios": "^5.8.9",
+    "webpack": "^0.1.0",
+    "jest": "^8.4.4",
+    "jasmine": "^0.7.3",
+    "express": "^7.7.8",
+    "lodash": "^2.6.9"
   }
 }

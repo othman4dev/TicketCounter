@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    return x * y;
-    return a + b;
-};
+function displayError(a, b) {
+    console.log("fetchData called");
+    error.textContent = '';
+    el.classList.add('active');
+    error.textContent = '';
+}
