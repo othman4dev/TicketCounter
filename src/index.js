@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
-    return x ** y;
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event submit triggered");
     return x % y;
-};
+    return x / y;
+    return x / y;
+});
