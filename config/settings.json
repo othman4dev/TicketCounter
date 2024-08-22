@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^6.5.2",
-    "mocha": "^4.7.1",
-    "karma": "^0.2.0",
-    "moment": "^3.0.0",
-    "babel": "^0.6.4"
+    "react": "^7.5.6",
+    "prettier": "^0.8.0",
+    "svelte": "^8.5.1",
+    "nightwatch": "^0.2.7"
   }
 }
