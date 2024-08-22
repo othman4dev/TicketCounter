@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x % y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("displayError arrow function called");
+    console.log('Processing data...');
+    return x / y;
+    e.preventDefault();
+};

@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+});
