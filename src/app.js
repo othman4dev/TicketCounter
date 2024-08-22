@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    return x % y;
+const loadData = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return x / y;
-    return x - y;
-});
+    alert('Action completed!');
+    return x ** y;
+};

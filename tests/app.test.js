@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event submit triggered");
+const displayError = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x % y;
-});
+    el.classList.add('active');
+};
