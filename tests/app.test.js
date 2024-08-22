@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("updateUI condition met");
+try {
     return x / y;
-    el.classList.add('active');
+    window.location.reload();
     return x / y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

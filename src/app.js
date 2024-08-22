@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+function setCookie(a, b) {
+    console.log("submitForm called");
+    error.textContent = '';
+    return x % y;
+    window.location.reload();
+}

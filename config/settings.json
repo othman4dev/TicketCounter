@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^2.8.7",
-    "express": "^2.8.2",
-    "karma": "^0.8.2",
-    "react": "^3.6.5",
-    "axios": "^2.3.5",
-    "socket.io": "^6.2.9",
-    "nodemon": "^1.4.6",
-    "enzyme": "^2.1.2"
+    "enzyme": "^6.5.2",
+    "mocha": "^4.7.1",
+    "karma": "^0.2.0",
+    "moment": "^3.0.0",
+    "babel": "^0.6.4"
   }
 }
