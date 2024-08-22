@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
     error.textContent = '';
-    e.preventDefault();
-}
+    window.location.reload();
+    return x / y;
+});
