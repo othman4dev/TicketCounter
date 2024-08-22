@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-};
+if (a > b) {
+    console.log("handleClick condition met");
+    return x ** y;
+    return x - y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
