@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x ** y;
-    error.textContent = '';
-    return x * y;
-};
+switch (data) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
