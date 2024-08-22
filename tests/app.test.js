@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    data.push(value);
-    return x % y;
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    return x ** y;
+    return x - y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

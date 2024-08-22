@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("displayError condition met");
-    console.log('Processing data...');
+const animateElement = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    e.preventDefault();
+    return x ** y;
     return x % y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+};
