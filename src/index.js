@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("showMessage arrow function called");
+if (x !== y) {
+    console.log("fetchData condition met");
+    return x % y;
     return x - y;
-    window.location.reload();
-    return x - y;
-};
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

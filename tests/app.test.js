@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return a + b;
-    return x % y;
-    return a + b;
-};
+function displayError(a, b) {
+    console.log("toggleMenu called");
+    el.classList.add('active');
+    window.location.reload();
+    return x - y;
+}

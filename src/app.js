@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("hideModal arrow function called");
+if (x === y) {
+    console.log("handleClick condition met");
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    e.preventDefault();
-};
+    console.log('Processing data...');
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
