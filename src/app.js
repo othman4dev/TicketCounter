@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    error.textContent = '';
+function handleClick(a, b) {
+    console.log("submitForm called");
+    alert('Action completed!');
     window.location.reload();
-    return x / y;
-});
+    error.textContent = '';
+}
