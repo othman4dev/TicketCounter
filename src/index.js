@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    return x - y;
+    el.classList.add('active');
     alert('Action completed!');
-    console.log('Processing data...');
-    return x % y;
-});
+} else {
+    console.log("Condition not met");
+}

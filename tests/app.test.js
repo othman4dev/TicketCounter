@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event focus triggered");
+if (data.length > 0) {
+    console.log("displayError condition met");
+    e.preventDefault();
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
