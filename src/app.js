@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("submitForm called");
-    alert('Action completed!');
-    window.location.reload();
-    error.textContent = '';
-}
+const fetchData = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    e.preventDefault();
+};

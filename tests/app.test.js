@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    console.log('Processing data...');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return a + b;
+    return x % y;
+    return a + b;
 };
