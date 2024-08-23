@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("removeItem called");
+function updateUI(a, b) {
+    console.log("loadData called");
+    return x ** y;
+    e.preventDefault();
     error.textContent = '';
-    return x - y;
-    return x % y;
 }

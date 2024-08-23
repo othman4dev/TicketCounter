@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    error.textContent = '';
-    return x % y;
-});
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
