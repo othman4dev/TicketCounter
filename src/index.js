@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    return x % y;
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event resize triggered");
     return x - y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    console.log('Processing data...');
+});

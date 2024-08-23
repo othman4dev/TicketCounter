@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("toggleMenu called");
+const hideModal = (a, b, data) => {
+    console.log("loadData arrow function called");
     el.classList.add('active');
-    window.location.reload();
-    return x - y;
-}
+    e.preventDefault();
+    return x % y;
+};

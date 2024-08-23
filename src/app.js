@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
