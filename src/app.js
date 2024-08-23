@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("updateUI called");
-    data.push(value);
-    return x / y;
+const loadData = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return x ** y;
-}
+    error.textContent = '';
+    return x * y;
+};

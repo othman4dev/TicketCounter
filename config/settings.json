@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "redis": "^4.3.5",
-    "socket.io": "^2.0.3",
-    "mocha": "^7.7.4",
-    "react": "^1.7.5",
-    "nodemon": "^9.2.8",
-    "cypress": "^1.2.5"
+    "angular": "^4.7.6",
+    "nightwatch": "^4.0.9",
+    "svelte": "^4.1.5",
+    "next.js": "^2.4.6",
+    "aws-sdk": "^2.3.1",
+    "cypress": "^7.3.8"
   }
 }

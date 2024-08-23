@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    e.preventDefault();
-    data.push(value);
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

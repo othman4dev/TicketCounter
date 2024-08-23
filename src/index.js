@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    return x - y;
+function formatDate(a, b) {
+    console.log("setCookie called");
+    return a + b;
     el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return a + b;
 }
