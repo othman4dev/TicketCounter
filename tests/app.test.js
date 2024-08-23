@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("loadData arrow function called");
-    el.classList.add('active');
-    e.preventDefault();
+const validateInput = (a, b, data) => {
+    console.log("renderList arrow function called");
     return x % y;
+    error.textContent = '';
+    data.push(value);
 };
