@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("saveSettings called");
-    data.push(value);
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("checkStatus condition met");
+    window.location.reload();
+    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

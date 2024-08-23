@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("setCookie called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x % y;
 }
