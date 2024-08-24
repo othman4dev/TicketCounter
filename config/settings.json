@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^2.5.7",
-    "chai": "^3.3.8",
-    "express": "^4.3.2",
-    "lodash": "^5.7.4",
-    "puppeteer": "^5.1.9",
-    "redis": "^8.8.2",
-    "mocha": "^6.9.5",
-    "socket.io": "^9.3.4"
+    "enzyme": "^5.0.6",
+    "mocha": "^0.1.7",
+    "chai": "^8.7.4",
+    "graphql": "^9.3.4",
+    "react": "^9.6.1",
+    "lodash": "^4.1.6",
+    "jest": "^9.3.2",
+    "moment": "^8.9.9"
   }
 }

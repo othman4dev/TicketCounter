@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
 }
