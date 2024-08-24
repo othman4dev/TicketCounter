@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("removeItem condition met");
-    return x % y;
-    return a + b;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    el.classList.add('active');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
