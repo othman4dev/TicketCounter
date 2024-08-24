@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+if (a > b) {
+    console.log("removeItem condition met");
+    return x % y;
     return a + b;
-    e.preventDefault();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
