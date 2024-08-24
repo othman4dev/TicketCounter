@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    data.push(value);
+    e.preventDefault();
+    return x - y;
+};
