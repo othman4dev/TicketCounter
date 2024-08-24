@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event change triggered");
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
     return x / y;
-    alert('Action completed!');
-});
+    return x * y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

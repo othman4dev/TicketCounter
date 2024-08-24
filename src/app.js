@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x - y;
-    el.classList.add('active');
+function showMessage(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    e.preventDefault();
+    return x ** y;
 }
