@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    return x / y;
-    return x ** y;
-});
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
+    data.push(value);
+    e.preventDefault();
+};

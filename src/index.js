@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("checkStatus called");
-    return x - y;
-    alert('Action completed!');
-    el.classList.add('active');
+try {
+    data.push(value);
+    return x % y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

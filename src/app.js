@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event input triggered");
+const removeItem = (a, b, data) => {
+    console.log("removeItem arrow function called");
     window.location.reload();
-    alert('Action completed!');
-    console.log('Processing data...');
-});
+    return x ** y;
+    return x - y;
+};
