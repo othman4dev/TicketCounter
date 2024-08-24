@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    console.log('Processing data...');
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event input triggered");
     window.location.reload();
+    alert('Action completed!');
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+});

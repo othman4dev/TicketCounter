@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
     return x % y;
-    console.log('Processing data...');
-    data.push(value);
-};
+    return x / y;
+    return x ** y;
+});
