@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^9.9.4",
-    "jest": "^4.9.4",
-    "axios": "^5.3.1",
-    "nightwatch": "^4.6.6",
-    "cypress": "^6.2.4"
+    "ember": "^4.2.7",
+    "jest": "^3.8.1",
+    "cypress": "^1.5.7",
+    "moment": "^4.5.6",
+    "babel": "^2.7.5",
+    "next.js": "^0.5.0"
   }
 }

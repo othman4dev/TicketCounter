@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    console.log('Processing data...');
+    return x - y;
+});
