@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    window.location.reload();
+const loadData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
     return x ** y;
-    return x - y;
+    alert('Action completed!');
 };

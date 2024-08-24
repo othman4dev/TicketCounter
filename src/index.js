@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x % y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    return x ** y;
+    return a + b;
+});
