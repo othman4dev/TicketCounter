@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("processInput called");
-    return x % y;
+const animateElement = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    e.preventDefault();
+    data.push(value);
     error.textContent = '';
-    return x ** y;
-}
+};

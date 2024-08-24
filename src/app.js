@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("renderList arrow function called");
+function submitForm(a, b) {
+    console.log("saveSettings called");
+    return x / y;
+    el.classList.add('active');
     return a + b;
-    return x ** y;
-    alert('Action completed!');
-};
+}
