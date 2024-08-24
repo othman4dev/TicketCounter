@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x / y;
+    return x / y;
 }

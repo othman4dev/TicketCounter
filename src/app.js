@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("loadData arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-};
+switch (value) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
