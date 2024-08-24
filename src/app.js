@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("renderList called");
-    window.location.reload();
+const formatDate = (a, b, data) => {
+    console.log("loadData arrow function called");
     e.preventDefault();
-    return x ** y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+};
