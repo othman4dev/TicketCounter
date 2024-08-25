@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^0.3.6",
-    "next.js": "^6.1.5",
-    "moment": "^2.9.6",
-    "jasmine": "^0.5.1",
-    "mocha": "^5.4.0",
-    "svelte": "^8.8.6"
+    "mocha": "^0.6.9",
+    "aws-sdk": "^0.0.3",
+    "protractor": "^9.8.2",
+    "sinon": "^8.3.7",
+    "axios": "^2.4.8"
   }
 }

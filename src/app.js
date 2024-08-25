@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    return x * y;
-    el.classList.add('active');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+try {
+    return a + b;
+    return x % y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
