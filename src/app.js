@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    alert('Action completed!');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function submitForm(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    el.classList.add('active');
 }

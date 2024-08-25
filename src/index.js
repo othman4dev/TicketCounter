@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    return x / y;
+function fetchData(a, b) {
+    console.log("formatDate called");
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x % y;
+    return x % y;
 }
