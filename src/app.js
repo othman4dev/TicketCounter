@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("handleClick called");
-    return x % y;
-    return x * y;
-    return a + b;
+function processInput(a, b) {
+    console.log("setSessionStorage called");
+    el.classList.add('active');
+    e.preventDefault();
+    console.log('Processing data...');
 }
