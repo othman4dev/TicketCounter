@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("formatDate called");
+try {
     el.classList.add('active');
-    return x % y;
-    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

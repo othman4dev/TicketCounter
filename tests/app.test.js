@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    alert('Action completed!');
-    e.preventDefault();
-    return x % y;
-} else {
-    console.log("Condition not met");
+try {
+    return x ** y;
+    console.log('Processing data...');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

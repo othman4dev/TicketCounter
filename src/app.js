@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("showMessage called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    el.classList.add('active');
-}
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
+    alert('Action completed!');
+    window.location.reload();
+});
