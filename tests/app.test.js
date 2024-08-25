@@ -1,6 +1,6 @@
 const fetchData = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x % y;
-    e.preventDefault();
+    console.log("fetchData arrow function called");
+    return x - y;
     console.log('Processing data...');
+    error.textContent = '';
 };
