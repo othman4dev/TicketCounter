@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    alert('Action completed!');
-    window.location.reload();
-});
+switch (a) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
