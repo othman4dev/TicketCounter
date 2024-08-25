@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("showMessage called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+function handleClick(a, b) {
+    console.log("handleClick called");
+    return x % y;
+    return x * y;
     return a + b;
 }
