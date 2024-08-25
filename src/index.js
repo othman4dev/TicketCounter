@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
+try {
     document.body.style.backgroundColor = 'lightblue';
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} else {
-    console.log("Condition not met");
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

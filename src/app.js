@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("setSessionStorage called");
-    el.classList.add('active');
-    e.preventDefault();
-    console.log('Processing data...');
+function updateUI(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    data.push(value);
+    return a + b;
 }

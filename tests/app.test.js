@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    window.location.reload();
-    window.location.reload();
+const handleClick = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+};

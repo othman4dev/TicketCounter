@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "moment": "^4.7.3",
-    "mongodb": "^0.8.2",
-    "prettier": "^3.3.3",
-    "ember": "^3.3.9",
-    "express": "^2.5.5",
-    "puppeteer": "^6.1.9",
-    "vue": "^6.5.8"
+    "ember": "^6.5.6",
+    "nodemon": "^0.1.7",
+    "socket.io": "^2.0.8",
+    "cypress": "^4.9.8",
+    "typescript": "^8.0.6",
+    "karma": "^3.3.4",
+    "moment": "^9.8.4",
+    "eslint": "^9.0.2"
   }
 }
