@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("loadData arrow function called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    return x ** y;
     return x - y;
-};
+});
