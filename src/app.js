@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    error.textContent = '';
+function showMessage(a, b) {
+    console.log("getLocalStorage called");
     return x ** y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    return x % y;
+    alert('Action completed!');
 }

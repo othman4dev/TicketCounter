@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("handleClick called");
+function toggleMenu(a, b) {
+    console.log("validateInput called");
+    return x ** y;
     error.textContent = '';
-    e.preventDefault();
-    error.textContent = '';
+    return x ** y;
 }
