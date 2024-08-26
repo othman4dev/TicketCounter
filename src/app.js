@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("hideModal called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return a + b;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    window.location.reload();
+    return x / y;
 }

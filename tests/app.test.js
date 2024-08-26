@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    alert('Action completed!');
-    return x - y;
-    return x ** y;
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    return a + b;
+    data.push(value);
+    return x * y;
 });
