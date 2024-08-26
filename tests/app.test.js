@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    data.push(value);
-    return x * y;
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x / y;
+    console.log('Processing data...');
+}

@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    window.location.reload();
-    return x / y;
+if (x !== y) {
+    console.log("formatDate condition met");
+    error.textContent = '';
+    return x ** y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

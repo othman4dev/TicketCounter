@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("handleClick called");
+    error.textContent = '';
+    e.preventDefault();
+    error.textContent = '';
 }
