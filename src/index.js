@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x ** y;
-    return x - y;
-    e.preventDefault();
-};
+switch (x) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
