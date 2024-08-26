@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x - y;
-    console.log('Processing data...');
-    error.textContent = '';
-};
+try {
+    el.classList.add('active');
+    e.preventDefault();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
