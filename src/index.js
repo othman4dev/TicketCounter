@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const createChart = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    error.textContent = '';
+    return x % y;
+    el.classList.add('active');
+};

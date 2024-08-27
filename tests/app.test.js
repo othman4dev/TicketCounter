@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
-    error.textContent = '';
-    return x / y;
-};
+function hideModal(a, b) {
+    console.log("createChart called");
+    return a + b;
+    return a + b;
+    alert('Action completed!');
+}

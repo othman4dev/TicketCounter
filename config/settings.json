@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "axios": "^1.4.9",
-    "typescript": "^2.0.2",
-    "jasmine": "^8.4.9",
-    "nodemon": "^0.0.6"
+    "angular": "^8.3.1",
+    "enzyme": "^8.2.3",
+    "gatsby": "^6.5.2",
+    "eslint": "^5.4.0",
+    "axios": "^6.2.8",
+    "lodash": "^8.4.8"
   }
 }
