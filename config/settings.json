@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "angular": "^8.3.1",
-    "enzyme": "^8.2.3",
-    "gatsby": "^6.5.2",
-    "eslint": "^5.4.0",
-    "axios": "^6.2.8",
-    "lodash": "^8.4.8"
+    "mocha": "^5.1.0",
+    "webpack": "^1.4.7",
+    "nodemon": "^0.7.6",
+    "socket.io": "^3.5.2"
   }
 }

@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event load triggered");
     error.textContent = '';
-    return x % y;
     el.classList.add('active');
-};
+    window.location.reload();
+});
