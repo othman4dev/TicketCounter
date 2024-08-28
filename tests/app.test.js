@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+const submitForm = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x % y;
+    error.textContent = '';
     return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+};
