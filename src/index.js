@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    error.textContent = '';
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    return x - y;
-});
+    data.push(value);
+    return a + b;
+}
