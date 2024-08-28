@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    return x * y;
+    return x ** y;
+    error.textContent = '';
+});
