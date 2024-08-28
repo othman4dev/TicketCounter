@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    return x ** y;
-    el.classList.add('active');
-});
+function createChart(a, b) {
+    console.log("loadData called");
+    e.preventDefault();
+    e.preventDefault();
+    return x / y;
+}

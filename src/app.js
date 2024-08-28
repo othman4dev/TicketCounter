@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("getLocalStorage called");
-    return x ** y;
-    return x % y;
-    alert('Action completed!');
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
