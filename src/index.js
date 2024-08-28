@@ -1,7 +1,7 @@
-switch (b) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    return a + b;
+    error.textContent = '';
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

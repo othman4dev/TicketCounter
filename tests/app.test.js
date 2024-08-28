@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    data.push(value);
-    error.textContent = '';
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+}
