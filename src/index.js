@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+    return x - y;
+});

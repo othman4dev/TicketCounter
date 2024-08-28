@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    e.preventDefault();
-};
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    error.textContent = '';
+    console.log('Processing data...');
+}
