@@ -1,6 +1,6 @@
 const renderList = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    window.location.reload();
+    console.log("formatDate arrow function called");
+    error.textContent = '';
+    return x - y;
+    return x % y;
 };

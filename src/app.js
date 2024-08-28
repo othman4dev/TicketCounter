@@ -1,7 +1,8 @@
-switch (data) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("setSessionStorage condition met");
+    alert('Action completed!');
+    return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
