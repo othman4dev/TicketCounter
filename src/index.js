@@ -1,7 +1,8 @@
-switch (x) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("hideModal condition met");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    return x * y;
-    return x ** y;
-    error.textContent = '';
-});
+const removeItem = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    e.preventDefault();
+};
