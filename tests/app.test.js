@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("updateUI called");
-    data.push(value);
-    console.log('Processing data...');
-    data.push(value);
-}
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    e.preventDefault();
+});

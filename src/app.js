@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("displayError called");
+if (a > b) {
+    console.log("checkStatus condition met");
     error.textContent = '';
-    return x * y;
-    return x / y;
+    error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
