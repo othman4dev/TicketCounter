@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return a + b;
-    window.location.reload();
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
+    data.push(value);
+    error.textContent = '';
+});

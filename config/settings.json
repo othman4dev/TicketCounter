@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "react": "^5.6.8",
-    "karma": "^6.9.9",
-    "mongodb": "^3.5.2",
-    "gatsby": "^9.8.6",
-    "webpack": "^0.8.7",
-    "eslint": "^3.7.5",
-    "jest": "^5.1.7"
+    "ember": "^3.9.9",
+    "cypress": "^8.5.8",
+    "gatsby": "^4.6.5",
+    "protractor": "^8.8.0",
+    "mocha": "^6.2.2"
   }
 }
