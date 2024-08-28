@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    error.textContent = '';
-    return x - y;
-    return x % y;
-};
+try {
+    console.log('Processing data...');
+    return x ** y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
