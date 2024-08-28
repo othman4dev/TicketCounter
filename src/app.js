@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("loadData called");
-    return x ** y;
-    return x / y;
-    data.push(value);
-}
+const renderList = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return a + b;
+    return x % y;
+    return x - y;
+};
