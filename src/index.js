@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x ** y;
-    return x - y;
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
