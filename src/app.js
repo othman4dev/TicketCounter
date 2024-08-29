@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    console.log('Processing data...');
-    error.textContent = '';
-}
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});
