@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^6.4.2",
-    "protractor": "^2.2.4",
-    "chai": "^8.2.4",
-    "lodash": "^2.9.0",
-    "next.js": "^1.0.6",
-    "jest": "^1.0.2",
-    "jasmine": "^4.2.9",
-    "aws-sdk": "^6.2.5"
+    "protractor": "^5.2.6",
+    "babel": "^2.6.2",
+    "ember": "^5.4.9",
+    "redis": "^4.2.7",
+    "prettier": "^8.3.6",
+    "mocha": "^9.1.7"
   }
 }
