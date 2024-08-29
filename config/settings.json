@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "vue": "^0.7.8",
-    "axios": "^3.9.2",
-    "protractor": "^6.7.5",
-    "prettier": "^3.4.0"
+    "redis": "^3.2.7",
+    "socket.io": "^0.6.4",
+    "axios": "^4.3.5",
+    "gatsby": "^8.3.1",
+    "firebase": "^4.8.9",
+    "moment": "^1.4.7",
+    "vue": "^2.1.2",
+    "jasmine": "^4.0.9"
   }
 }

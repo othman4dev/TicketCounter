@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    return x - y;
+try {
+    error.textContent = '';
+    el.classList.add('active');
     e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

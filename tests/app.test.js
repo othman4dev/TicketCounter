@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    e.preventDefault();
-});
+const setCookie = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return a + b;
+    return x - y;
+    return x * y;
+};

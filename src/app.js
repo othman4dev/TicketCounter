@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    error.textContent = '';
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
