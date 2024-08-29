@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    e.preventDefault();
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+});
