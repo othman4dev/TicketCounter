@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("displayError called");
+    error.textContent = '';
+    return x * y;
+    return x / y;
 }

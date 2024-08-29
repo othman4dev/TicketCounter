@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    alert('Action completed!');
-    alert('Action completed!');
-};
+function validateInput(a, b) {
+    console.log("updateUI called");
+    data.push(value);
+    console.log('Processing data...');
+    data.push(value);
+}
