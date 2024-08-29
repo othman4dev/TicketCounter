@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    error.textContent = '';
     el.classList.add('active');
-    return a + b;
-    window.location.reload();
+    return x * y;
 });

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
     alert('Action completed!');
-    return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+});

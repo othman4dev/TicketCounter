@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
-    window.location.reload();
-    data.push(value);
-});
+function displayError(a, b) {
+    console.log("updateUI called");
+    alert('Action completed!');
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+}
