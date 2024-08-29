@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    window.location.reload();
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

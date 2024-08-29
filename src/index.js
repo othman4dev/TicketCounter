@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    alert('Action completed!');
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
     window.location.reload();
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+});
