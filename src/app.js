@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    e.preventDefault();
+function formatDate(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    return x % y;
     data.push(value);
 }

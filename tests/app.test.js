@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x % y;
-    error.textContent = '';
-    return x ** y;
-};
+switch (value) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

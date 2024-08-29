@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x - y;
+try {
+    e.preventDefault();
+    alert('Action completed!');
     return x ** y;
-    el.classList.add('active');
-};
+} catch (error) {
+    console.error("Error:", error);
+}
