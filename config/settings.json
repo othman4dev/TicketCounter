@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "express": "^1.6.9",
-    "svelte": "^6.5.5",
-    "puppeteer": "^3.4.4",
-    "cypress": "^0.9.9",
-    "sinon": "^4.2.0"
+    "sinon": "^5.7.9",
+    "mysql": "^3.0.6",
+    "typescript": "^4.5.1",
+    "graphql": "^1.8.1",
+    "chai": "^7.2.3"
   }
 }

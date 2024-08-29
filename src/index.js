@@ -1,7 +1,8 @@
-switch (el) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("showMessage condition met");
+    alert('Action completed!');
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
