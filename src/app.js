@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const hideModal = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    data.push(value);
+    return x * y;
+    return a + b;
+};

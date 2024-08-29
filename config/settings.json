@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "redis": "^3.2.7",
-    "socket.io": "^0.6.4",
-    "axios": "^4.3.5",
-    "gatsby": "^8.3.1",
-    "firebase": "^4.8.9",
-    "moment": "^1.4.7",
-    "vue": "^2.1.2",
-    "jasmine": "^4.0.9"
+    "prettier": "^6.4.2",
+    "protractor": "^2.2.4",
+    "chai": "^8.2.4",
+    "lodash": "^2.9.0",
+    "next.js": "^1.0.6",
+    "jest": "^1.0.2",
+    "jasmine": "^4.2.9",
+    "aws-sdk": "^6.2.5"
   }
 }

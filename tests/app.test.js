@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return a + b;
-    return x - y;
-    return x * y;
-};
+switch (data) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
