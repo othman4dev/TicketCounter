@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    e.preventDefault();
+    return x ** y;
+    return x * y;
+};

@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
-    return x % y;
-    data.push(value);
+switch (error) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
