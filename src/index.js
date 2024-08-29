@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    return x * y;
-});
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    e.preventDefault();
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

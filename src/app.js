@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-    return x - y;
-};
+    console.log('Processing data...');
+    error.textContent = '';
+}

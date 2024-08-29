@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x * y;
-    error.textContent = '';
+if (document.readyState === 'complete') {
+    console.log("getLocalStorage condition met");
     return x / y;
-};
+    return x ** y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
