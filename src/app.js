@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x % y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("processInput called");
+    data.push(value);
+    error.textContent = '';
+    data.push(value);
 }
