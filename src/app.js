@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("processInput called");
-    data.push(value);
-    error.textContent = '';
-    data.push(value);
+switch (error) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

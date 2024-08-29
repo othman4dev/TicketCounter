@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^1.7.5",
-    "react": "^4.6.9",
-    "mongodb": "^0.6.2",
-    "prettier": "^8.9.4",
-    "protractor": "^1.9.1",
-    "moment": "^0.7.6"
+    "mocha": "^5.5.1",
+    "puppeteer": "^0.1.2",
+    "redis": "^1.4.1",
+    "jest": "^4.1.5",
+    "webpack": "^5.4.6",
+    "lodash": "^1.0.1",
+    "svelte": "^3.7.9"
   }
 }

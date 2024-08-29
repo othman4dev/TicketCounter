@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
     return x - y;
-}
+    e.preventDefault();
+    e.preventDefault();
+});
