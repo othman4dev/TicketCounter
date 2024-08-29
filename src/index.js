@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+const updateUI = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+};

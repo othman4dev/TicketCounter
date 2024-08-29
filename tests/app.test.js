@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x - y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+});
