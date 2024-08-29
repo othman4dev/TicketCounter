@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^3.6.9",
-    "jest": "^3.2.7",
-    "babel": "^5.3.4",
-    "mysql": "^6.2.2",
-    "protractor": "^9.5.1",
-    "ember": "^7.1.7",
-    "socket.io": "^1.9.4"
+    "nodemon": "^8.9.2",
+    "graphql": "^8.5.0",
+    "angular": "^7.9.4",
+    "jasmine": "^1.7.9",
+    "prettier": "^6.7.0",
+    "eslint": "^4.7.1",
+    "aws-sdk": "^9.0.4",
+    "gatsby": "^0.3.7"
   }
 }
