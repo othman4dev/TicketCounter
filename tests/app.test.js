@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+const submitForm = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
     e.preventDefault();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+};

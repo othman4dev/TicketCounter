@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x ** y;
-    el.classList.add('active');
-    return a + b;
+const loadData = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    data.push(value);
+    error.textContent = '';
+    window.location.reload();
 };
