@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    data.push(value);
+    data.push(value);
+});
