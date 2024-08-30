@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "chai": "^5.7.3",
-    "ember": "^1.6.3",
-    "graphql": "^7.4.8",
-    "prettier": "^2.9.4",
-    "firebase": "^2.3.1",
-    "socket.io": "^3.3.9",
-    "gatsby": "^8.3.7",
-    "jest": "^0.9.3",
-    "react": "^7.6.7"
+    "lodash": "^5.9.7",
+    "angular": "^8.3.1",
+    "mocha": "^6.5.4",
+    "axios": "^3.8.9",
+    "enzyme": "^9.5.2",
+    "aws-sdk": "^3.7.2"
   }
 }

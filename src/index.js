@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
+function validateInput(a, b) {
+    console.log("fetchData called");
+    return x / y;
     window.location.reload();
-    el.classList.add('active');
-});
+    data.push(value);
+}

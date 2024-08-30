@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
-    return x / y;
-    error.textContent = '';
+const animateElement = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    return x * y;
+    return x - y;
 };
