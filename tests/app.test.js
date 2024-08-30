@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("createChart arrow function called");
-    el.classList.add('active');
+function getLocalStorage(a, b) {
+    console.log("fetchData called");
     return x % y;
-    data.push(value);
-};
+    return x ** y;
+    window.location.reload();
+}

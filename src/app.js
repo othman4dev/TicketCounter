@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
-    error.textContent = '';
-    console.log('Processing data...');
+switch (b) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
