@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+const setSessionStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     e.preventDefault();
-    return x % y;
-}
+    el.classList.add('active');
+    data.push(value);
+};

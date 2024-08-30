@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
+function animateElement(a, b) {
+    console.log("hideModal called");
     el.classList.add('active');
-    el.classList.add('active');
-});
+    return a + b;
+    return a + b;
+}
