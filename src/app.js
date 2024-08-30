@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    error.textContent = '';
+    console.log('Processing data...');
 }
