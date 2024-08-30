@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     e.preventDefault();
-    el.classList.add('active');
-    data.push(value);
-};
+    alert('Action completed!');
+}

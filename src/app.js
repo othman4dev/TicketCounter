@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("processInput called");
-    return x % y;
-    return x * y;
-    error.textContent = '';
+switch (e) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
