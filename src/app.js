@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    return x * y;
-    return x - y;
-};
+switch (y) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
