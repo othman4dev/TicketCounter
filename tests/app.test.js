@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
-    return x * y;
-    console.log('Processing data...');
-};
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event change triggered");
+    return x % y;
+    return x / y;
+    return x ** y;
+});
