@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("updateUI called");
-    alert('Action completed!');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("submitForm condition met");
+    window.location.reload();
+    e.preventDefault();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
