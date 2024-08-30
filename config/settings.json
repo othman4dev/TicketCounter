@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^9.7.2",
-    "eslint": "^6.2.2",
-    "react": "^9.6.5",
-    "socket.io": "^5.4.7",
-    "jasmine": "^1.1.4"
+    "cypress": "^3.1.5",
+    "firebase": "^4.9.3",
+    "babel": "^2.6.6",
+    "typescript": "^0.1.1",
+    "angular": "^6.1.0",
+    "prettier": "^5.9.8"
   }
 }

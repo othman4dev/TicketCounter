@@ -1,6 +1,7 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    data.push(value);
-    return a + b;
+switch (e) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

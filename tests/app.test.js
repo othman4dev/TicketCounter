@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event change triggered");
-    return x % y;
-    return x / y;
-    return x ** y;
-});
+const updateUI = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    return a + b;
+};
