@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    return a + b;
-    console.log('Processing data...');
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

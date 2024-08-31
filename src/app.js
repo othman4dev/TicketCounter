@@ -1,7 +1,8 @@
-switch (x) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
