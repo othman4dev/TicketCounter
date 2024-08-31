@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    error.textContent = '';
-    data.push(value);
-    return x * y;
-};
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event blur triggered");
+    alert('Action completed!');
+    return x ** y;
+    return x - y;
+});

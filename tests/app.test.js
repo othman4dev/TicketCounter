@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+const saveSettings = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    window.location.reload();
-    return x / y;
+    console.log('Processing data...');
 };
