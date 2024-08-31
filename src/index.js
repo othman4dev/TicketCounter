@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    return a + b;
-    return x ** y;
-});
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    console.log('Processing data...');
+}

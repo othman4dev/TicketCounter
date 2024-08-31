@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^6.2.7",
-    "jest": "^4.3.7",
-    "cypress": "^6.5.9",
-    "socket.io": "^5.1.0",
-    "mocha": "^7.1.1",
-    "nightwatch": "^9.8.9",
-    "babel": "^7.1.1",
-    "eslint": "^4.6.2"
+    "cypress": "^0.6.0",
+    "next.js": "^6.5.0",
+    "socket.io": "^7.5.8",
+    "gatsby": "^0.8.0",
+    "mocha": "^1.5.3",
+    "lodash": "^8.6.7"
   }
 }

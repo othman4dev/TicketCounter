@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
+    return x ** y;
+    data.push(value);
+};
