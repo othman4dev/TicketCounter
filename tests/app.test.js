@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
+const formatDate = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-}
+};
