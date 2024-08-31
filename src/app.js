@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x % y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("animateElement called");
+    return a + b;
+    el.classList.add('active');
+    return x ** y;
 }

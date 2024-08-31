@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "axios": "^6.6.8",
-    "karma": "^2.6.9",
-    "webpack": "^3.9.8",
-    "mocha": "^0.7.7",
-    "vue": "^6.0.4",
-    "protractor": "^1.4.8"
+    "svelte": "^0.4.9",
+    "mongodb": "^6.2.5",
+    "prettier": "^2.9.3",
+    "nightwatch": "^1.4.9",
+    "eslint": "^3.6.6",
+    "typescript": "^6.1.7",
+    "protractor": "^3.2.6",
+    "jest": "^9.4.4"
   }
 }

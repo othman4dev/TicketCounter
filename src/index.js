@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    return x - y;
-    return x ** y;
-});
+switch (a) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

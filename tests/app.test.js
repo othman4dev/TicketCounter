@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    return x ** y;
-    return a + b;
-    e.preventDefault();
-});
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+}
