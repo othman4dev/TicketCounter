@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^6.0.0",
-    "webpack": "^1.8.7",
-    "jest": "^4.4.8",
-    "express": "^9.3.4",
-    "sinon": "^2.7.0",
-    "nightwatch": "^9.8.5"
+    "jasmine": "^2.4.4",
+    "express": "^7.0.5",
+    "puppeteer": "^8.8.6",
+    "nightwatch": "^0.3.8"
   }
 }
