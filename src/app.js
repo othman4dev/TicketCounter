@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("processInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+const hideModal = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    error.textContent = '';
+    data.push(value);
     return x * y;
-    console.log('Processing data...');
 };

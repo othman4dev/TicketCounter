@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
+const loadData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
+    e.preventDefault();
     return x * y;
-    console.log('Processing data...');
-}
+};
