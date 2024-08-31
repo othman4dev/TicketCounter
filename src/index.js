@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("processInput arrow function called");
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event submit triggered");
     return x * y;
-    e.preventDefault();
-};
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+});
