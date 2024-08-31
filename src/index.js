@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    error.textContent = '';
-    return x / y;
-    data.push(value);
-});
+try {
+    return x % y;
+    return x * y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

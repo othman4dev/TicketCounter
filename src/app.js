@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    return x % y;
-    return a + b;
-    error.textContent = '';
-});
+if (x === y) {
+    console.log("validateInput condition met");
+    return x * y;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

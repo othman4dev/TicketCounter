@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "prettier": "^5.3.3",
-    "mysql": "^5.5.2",
-    "mongodb": "^7.8.2",
-    "jest": "^6.8.3",
-    "axios": "^0.1.2"
+    "jest": "^1.0.2",
+    "mysql": "^0.6.9",
+    "graphql": "^8.1.1",
+    "aws-sdk": "^4.8.4"
   }
 }
