@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("removeItem called");
-    error.textContent = '';
+try {
+    window.location.reload();
+    console.log('Processing data...');
     return x % y;
-    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
