@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^5.3.1",
-    "graphql": "^9.0.1",
-    "express": "^2.4.1",
-    "socket.io": "^4.9.4",
-    "firebase": "^1.6.6",
-    "mongodb": "^3.6.3",
-    "enzyme": "^4.4.5",
-    "eslint": "^3.3.3",
-    "redis": "^4.9.7"
+    "axios": "^6.6.8",
+    "karma": "^2.6.9",
+    "webpack": "^3.9.8",
+    "mocha": "^0.7.7",
+    "vue": "^6.0.4",
+    "protractor": "^1.4.8"
   }
 }

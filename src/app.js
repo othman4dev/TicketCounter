@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
+try {
+    e.preventDefault();
     return x % y;
-    return x * y;
-    data.push(value);
-});
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
