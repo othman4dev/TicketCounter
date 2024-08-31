@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    el.classList.add('active');
-};
+switch (value) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

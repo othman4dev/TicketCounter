@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    window.location.reload();
-    return x % y;
-    data.push(value);
-};
+if (x !== y) {
+    console.log("formatDate condition met");
+    console.log('Processing data...');
+    return a + b;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
