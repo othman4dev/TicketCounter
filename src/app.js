@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("validateInput condition met");
-    return x * y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

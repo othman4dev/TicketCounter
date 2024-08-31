@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "jest": "^1.0.2",
-    "mysql": "^0.6.9",
-    "graphql": "^8.1.1",
-    "aws-sdk": "^4.8.4"
+    "lodash": "^6.0.3",
+    "jasmine": "^3.0.1",
+    "enzyme": "^0.8.3",
+    "typescript": "^9.7.0",
+    "socket.io": "^9.9.3",
+    "ember": "^9.8.4"
   }
 }
