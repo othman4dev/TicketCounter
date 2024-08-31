@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    window.location.reload();
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    error.textContent = '';
+    return x / y;
+    data.push(value);
+});

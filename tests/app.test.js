@@ -1,7 +1,6 @@
-try {
+const validateInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     window.location.reload();
-    console.log('Processing data...');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+    return x - y;
+};
