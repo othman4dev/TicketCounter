@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("fetchData called");
+function animateElement(a, b) {
+    console.log("removeItem called");
+    error.textContent = '';
     return x % y;
-    return x ** y;
-    window.location.reload();
+    alert('Action completed!');
 }
