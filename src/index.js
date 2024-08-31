@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("loadData arrow function called");
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
     data.push(value);
-    return x ** y;
-};
+    el.classList.add('active');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

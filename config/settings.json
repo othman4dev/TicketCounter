@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "angular": "^4.8.4",
-    "graphql": "^0.1.2",
-    "svelte": "^8.2.2",
-    "next.js": "^5.9.0",
-    "babel": "^3.9.8"
+    "enzyme": "^6.0.0",
+    "webpack": "^1.8.7",
+    "jest": "^4.4.8",
+    "express": "^9.3.4",
+    "sinon": "^2.7.0",
+    "nightwatch": "^9.8.5"
   }
 }

@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    console.log('Processing data...');
-};
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    el.classList.add('active');
+    return x * y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
