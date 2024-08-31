@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^7.2.7",
-    "socket.io": "^3.8.0",
-    "moment": "^6.7.3",
-    "firebase": "^3.5.1",
-    "jasmine": "^2.1.5",
-    "karma": "^1.5.3",
-    "puppeteer": "^4.9.6",
-    "svelte": "^3.8.9"
+    "prettier": "^4.6.0",
+    "jest": "^5.8.0",
+    "mongodb": "^4.5.8",
+    "ember": "^0.4.6",
+    "redis": "^4.5.3",
+    "next.js": "^6.8.0",
+    "mocha": "^0.0.2"
   }
 }

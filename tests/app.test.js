@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("toggleMenu called");
-    el.classList.add('active');
-    error.textContent = '';
-    e.preventDefault();
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    return x % y;
+    return x % y;
+    data.push(value);
+});
