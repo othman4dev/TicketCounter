@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "moment": "^0.2.8",
-    "mysql": "^7.4.2",
-    "firebase": "^6.6.4",
-    "chai": "^9.5.8",
-    "jest": "^3.6.8",
-    "webpack": "^0.1.1",
-    "svelte": "^0.5.8"
+    "mocha": "^2.4.6",
+    "moment": "^7.9.9",
+    "next.js": "^9.7.9",
+    "jasmine": "^3.0.5",
+    "webpack": "^0.1.0"
   }
 }
