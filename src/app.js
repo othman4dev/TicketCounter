@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event resize triggered");
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event change triggered");
     return x / y;
-    error.textContent = '';
     data.push(value);
+    el.classList.add('active');
 });

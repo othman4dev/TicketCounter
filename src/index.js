@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
+    alert('Action completed!');
+    return a + b;
+    return x % y;
+});

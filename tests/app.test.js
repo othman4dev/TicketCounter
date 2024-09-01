@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    return x - y;
-    return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+try {
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
