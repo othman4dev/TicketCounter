@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    return a + b;
-    return x % y;
-});
+switch (el) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

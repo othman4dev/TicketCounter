@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event change triggered");
-    return x / y;
-    data.push(value);
-    el.classList.add('active');
-});
+switch (a) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
