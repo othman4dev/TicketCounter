@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    window.location.reload();
+    alert('Action completed!');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

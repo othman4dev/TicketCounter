@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+switch (x) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
