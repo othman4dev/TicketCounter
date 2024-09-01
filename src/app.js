@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("validateInput called");
-    el.classList.add('active');
-    data.push(value);
-    el.classList.add('active');
+if (a > b) {
+    console.log("showMessage condition met");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
