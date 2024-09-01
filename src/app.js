@@ -1,6 +1,6 @@
 function processInput(a, b) {
-    console.log("setCookie called");
-    return x / y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+    console.log("validateInput called");
+    el.classList.add('active');
+    data.push(value);
+    el.classList.add('active');
 }

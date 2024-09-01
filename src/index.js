@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("processInput called");
-    window.location.reload();
-    return x / y;
-    e.preventDefault();
+switch (error) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
