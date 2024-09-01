@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
-    return x % y;
-    return a + b;
-    data.push(value);
+if (x !== y) {
+    console.log("formatDate condition met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
