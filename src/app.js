@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    return x / y;
     error.textContent = '';
-    el.classList.add('active');
-}
+    data.push(value);
+});
