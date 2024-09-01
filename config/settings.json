@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^7.7.2",
-    "gatsby": "^2.8.5",
-    "chai": "^4.0.5",
-    "mongodb": "^8.8.8"
+    "webpack": "^0.7.9",
+    "svelte": "^1.5.8",
+    "mysql": "^6.5.9",
+    "react": "^6.4.3",
+    "jest": "^8.9.8",
+    "next.js": "^5.6.4"
   }
 }

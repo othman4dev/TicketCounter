@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    return a + b;
-    e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    error.textContent = '';
+    el.classList.add('active');
 }
