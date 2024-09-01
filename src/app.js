@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+if (x !== y) {
+    console.log("validateInput condition met");
+    error.textContent = '';
+    window.location.reload();
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

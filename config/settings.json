@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^0.0.7",
-    "moment": "^3.2.2",
-    "puppeteer": "^6.7.2",
-    "mocha": "^9.9.2",
-    "mongodb": "^0.4.3",
-    "next.js": "^9.2.9",
-    "express": "^2.7.7"
+    "mocha": "^9.2.6",
+    "axios": "^1.9.9",
+    "typescript": "^2.1.8",
+    "react": "^5.0.0",
+    "firebase": "^4.1.0",
+    "ember": "^1.9.3"
   }
 }

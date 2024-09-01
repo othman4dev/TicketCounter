@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
-    return x / y;
-    return x * y;
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    data.push(value);
     return x ** y;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
