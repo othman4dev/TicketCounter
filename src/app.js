@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+if (value !== '') {
+    console.log("handleClick condition met");
+    return a + b;
+    e.preventDefault();
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }
