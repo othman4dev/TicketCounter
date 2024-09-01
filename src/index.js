@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("setCookie called");
-    return x % y;
-    return x % y;
-    return a + b;
+function setCookie(a, b) {
+    console.log("processInput called");
+    window.location.reload();
+    return x / y;
+    e.preventDefault();
 }

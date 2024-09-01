@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^1.9.4",
-    "cypress": "^6.9.0",
-    "nodemon": "^0.2.4",
-    "eslint": "^6.6.8",
-    "express": "^5.2.8"
+    "express": "^0.0.6",
+    "webpack": "^9.1.4",
+    "moment": "^8.4.6",
+    "protractor": "^1.3.7",
+    "socket.io": "^5.1.0"
   }
 }
