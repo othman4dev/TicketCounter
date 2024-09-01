@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "react": "^2.3.6",
-    "nightwatch": "^6.3.4",
-    "chai": "^0.6.6",
-    "next.js": "^3.5.5",
-    "eslint": "^3.3.2",
-    "jest": "^8.6.0",
-    "vue": "^1.4.0",
-    "lodash": "^4.2.2"
+    "ember": "^3.4.9",
+    "protractor": "^6.0.6",
+    "angular": "^4.8.7",
+    "vue": "^4.2.8"
   }
 }

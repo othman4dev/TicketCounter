@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("renderList called");
-    window.location.reload();
+try {
     e.preventDefault();
+    return x ** y;
     return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
