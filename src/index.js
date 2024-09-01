@@ -1,7 +1,6 @@
-try {
-    return x % y;
+function updateUI(a, b) {
+    console.log("renderList called");
+    window.location.reload();
     e.preventDefault();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
 }
