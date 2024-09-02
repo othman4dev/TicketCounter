@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    alert('Action completed!');
-    return x * y;
-    return a + b;
-};
+try {
+    window.location.reload();
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,7 +1,6 @@
-try {
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
     error.textContent = '';
     return x ** y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+});
