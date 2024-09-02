@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    data.push(value);
-    return x ** y;
-    data.push(value);
+if (value !== '') {
+    console.log("animateElement condition met");
+    console.log('Processing data...');
+    error.textContent = '';
+    return x * y;
 } else {
     console.log("Condition not met");
 }

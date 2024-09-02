@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    error.textContent = '';
-    window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    alert('Action completed!');
+    return x / y;
+    el.classList.add('active');
+});
