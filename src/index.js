@@ -1,6 +1,6 @@
 try {
-    el.classList.add('active');
-    error.textContent = '';
+    return x - y;
+    console.log('Processing data...');
     window.location.reload();
 } catch (error) {
     console.error("Error:", error);
