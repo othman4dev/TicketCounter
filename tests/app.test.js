@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("setCookie arrow function called");
+function renderList(a, b) {
+    console.log("getLocalStorage called");
     error.textContent = '';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return a + b;
+    return x ** y;
+}
