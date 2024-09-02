@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x * y;
+function processInput(a, b) {
+    console.log("renderList called");
+    return x ** y;
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-};
+}

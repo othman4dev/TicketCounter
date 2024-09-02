@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jest": "^5.7.2",
-    "cypress": "^4.3.1",
-    "react": "^6.2.3",
-    "enzyme": "^7.5.3",
-    "babel": "^6.4.4"
+    "mocha": "^5.5.2",
+    "gatsby": "^6.3.2",
+    "babel": "^7.6.3",
+    "lodash": "^2.9.5",
+    "jasmine": "^9.9.4",
+    "vue": "^7.1.8",
+    "eslint": "^3.3.3",
+    "svelte": "^1.2.6"
   }
 }
