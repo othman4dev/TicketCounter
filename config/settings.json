@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^9.5.7",
-    "mongodb": "^6.4.2",
-    "protractor": "^4.2.8",
-    "jasmine": "^7.9.1",
-    "moment": "^5.5.3"
+    "svelte": "^1.5.3",
+    "mysql": "^3.6.1",
+    "redis": "^2.6.1",
+    "moment": "^3.9.3",
+    "jest": "^3.8.6",
+    "axios": "^8.3.9"
   }
 }

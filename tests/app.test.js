@@ -1,6 +1,6 @@
 function saveSettings(a, b) {
-    console.log("setCookie called");
-    return x * y;
+    console.log("displayError called");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    data.push(value);
 }
