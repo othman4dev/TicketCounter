@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("processInput arrow function called");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     return x % y;
-    data.push(value);
-    alert('Action completed!');
-};
+    document.body.style.backgroundColor = 'lightblue';
+}

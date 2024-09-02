@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    el.classList.add('active');
+const submitForm = (a, b, data) => {
+    console.log("processInput arrow function called");
+    window.location.reload();
     console.log('Processing data...');
-    el.classList.add('active');
-});
+    alert('Action completed!');
+};

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    return a + b;
+const handleClick = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+};
