@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("displayError called");
-    return x - y;
-    e.preventDefault();
+function displayError(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
     data.push(value);
+    return x % y;
 }
