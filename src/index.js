@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("saveSettings condition met");
-    data.push(value);
-    return x * y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return a + b;
+    alert('Action completed!');
+    window.location.reload();
+};

@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("loadData arrow function called");
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    console.log('Processing data...');
+    alert('Action completed!');
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+} else {
+    console.log("Condition not met");
+}

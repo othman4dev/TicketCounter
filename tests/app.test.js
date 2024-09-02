@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("renderList called");
-    return x ** y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+switch (x) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
