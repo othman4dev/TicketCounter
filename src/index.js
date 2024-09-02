@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    console.log('Processing data...');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    alert('Action completed!');
+    return x * y;
+    return a + b;
+};
