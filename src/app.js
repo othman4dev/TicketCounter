@@ -1,7 +1,8 @@
-switch (data) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("checkStatus condition met");
+    return a + b;
+    return x / y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

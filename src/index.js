@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
-    window.location.reload();
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event blur triggered");
     el.classList.add('active');
-};
+    console.log('Processing data...');
+    el.classList.add('active');
+});
