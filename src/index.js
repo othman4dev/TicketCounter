@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    console.log('Processing data...');
+try {
+    el.classList.add('active');
     error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
