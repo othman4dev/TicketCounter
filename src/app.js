@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
+function displayError(a, b) {
+    console.log("removeItem called");
+    el.classList.add('active');
     console.log('Processing data...');
-    alert('Action completed!');
-    return x % y;
-} else {
-    console.log("Condition not met");
+    return x ** y;
 }

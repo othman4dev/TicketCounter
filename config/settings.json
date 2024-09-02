@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "moment": "^3.4.9",
-    "mocha": "^6.9.7",
-    "gatsby": "^2.7.6",
-    "angular": "^6.4.2",
-    "chai": "^2.2.7",
-    "ember": "^3.8.7",
-    "nodemon": "^4.1.8"
+    "jest": "^9.5.7",
+    "mongodb": "^6.4.2",
+    "protractor": "^4.2.8",
+    "jasmine": "^7.9.1",
+    "moment": "^5.5.3"
   }
 }

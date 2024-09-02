@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("setCookie arrow function called");
+function saveSettings(a, b) {
+    console.log("getLocalStorage called");
     return a + b;
-    alert('Action completed!');
     window.location.reload();
-};
+    window.location.reload();
+}

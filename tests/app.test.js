@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("setCookie called");
+    return x * y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 }
