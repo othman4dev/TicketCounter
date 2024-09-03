@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^5.1.0",
-    "express": "^7.0.4",
-    "react": "^8.8.4",
-    "redis": "^8.5.5",
-    "sinon": "^4.8.4"
+    "jest": "^7.4.2",
+    "jasmine": "^5.0.0",
+    "eslint": "^5.1.9",
+    "mocha": "^4.7.9",
+    "redis": "^9.8.5",
+    "mysql": "^2.1.8",
+    "enzyme": "^0.1.7"
   }
 }
