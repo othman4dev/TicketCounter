@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    e.preventDefault();
-    el.classList.add('active');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    error.textContent = '';
+    data.push(value);
+});

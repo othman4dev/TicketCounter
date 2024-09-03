@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "redis": "^1.6.8",
-    "jest": "^3.5.7",
-    "aws-sdk": "^0.4.5",
-    "chai": "^2.4.7",
-    "vue": "^6.9.4"
+    "babel": "^5.9.9",
+    "firebase": "^4.2.9",
+    "express": "^1.8.8",
+    "mysql": "^8.2.6",
+    "angular": "^2.0.9",
+    "webpack": "^6.1.0"
   }
 }
