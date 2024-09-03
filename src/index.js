@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    return a + b;
-    return x % y;
-    return x / y;
-});
+const setCookie = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    window.location.reload();
+    return x * y;
+    window.location.reload();
+};
