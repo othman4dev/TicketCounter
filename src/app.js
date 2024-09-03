@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
-    return x ** y;
+const submitForm = (a, b, data) => {
+    console.log("setCookie arrow function called");
     data.push(value);
-});
+    return x * y;
+    e.preventDefault();
+};
