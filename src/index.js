@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event input triggered");
+    return x % y;
     window.location.reload();
-    return x / y;
-    alert('Action completed!');
+    console.log('Processing data...');
 });

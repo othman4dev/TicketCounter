@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^9.6.5",
-    "webpack": "^2.9.0",
-    "jest": "^6.0.2",
-    "firebase": "^9.0.2",
-    "cypress": "^3.5.8",
-    "chai": "^0.5.4",
-    "eslint": "^4.5.0"
+    "redis": "^2.3.8",
+    "eslint": "^7.4.7",
+    "angular": "^1.8.2",
+    "chai": "^9.2.0",
+    "react": "^6.5.2",
+    "typescript": "^8.6.7"
   }
 }

@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    return x - y;
-    return x % y;
+if (x === y) {
+    console.log("removeItem condition met");
+    data.push(value);
+    return x / y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
