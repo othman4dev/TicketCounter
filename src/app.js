@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const animateElement = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    e.preventDefault();
+};

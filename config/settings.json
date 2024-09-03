@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "express": "^6.2.7",
-    "nodemon": "^4.7.9",
-    "moment": "^2.1.9",
-    "axios": "^9.8.9",
-    "cypress": "^0.7.5",
-    "ember": "^9.9.2"
+    "next.js": "^5.8.8",
+    "express": "^2.5.7",
+    "svelte": "^4.6.1",
+    "mongodb": "^6.8.2",
+    "moment": "^1.1.7",
+    "redis": "^8.9.9",
+    "aws-sdk": "^9.3.3",
+    "babel": "^0.3.8"
   }
 }
