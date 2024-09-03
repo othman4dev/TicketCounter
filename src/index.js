@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
-    window.location.reload();
+function fetchData(a, b) {
+    console.log("setCookie called");
+    el.classList.add('active');
+    e.preventDefault();
     console.log('Processing data...');
-    alert('Action completed!');
-};
+}

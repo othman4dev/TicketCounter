@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x % y;
+function showMessage(a, b) {
+    console.log("displayError called");
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-};
+    e.preventDefault();
+    return x ** y;
+}
