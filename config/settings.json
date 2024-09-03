@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^8.5.2",
-    "aws-sdk": "^3.0.3",
-    "moment": "^9.6.9",
-    "ember": "^9.2.0",
-    "sinon": "^6.9.9",
-    "nightwatch": "^6.0.3"
+    "cypress": "^1.1.4",
+    "webpack": "^9.9.3",
+    "puppeteer": "^4.1.7",
+    "axios": "^9.8.5",
+    "firebase": "^2.6.3",
+    "mysql": "^0.6.4"
   }
 }

@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    window.location.reload();
-    return x * y;
-    window.location.reload();
-};
+switch (el) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
