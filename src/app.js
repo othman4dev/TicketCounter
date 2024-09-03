@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event input triggered");
-    return x / y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     return x - y;
-    return x * y;
-});
+    el.classList.add('active');
+}

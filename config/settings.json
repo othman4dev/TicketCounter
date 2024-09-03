@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^0.2.6",
-    "nightwatch": "^6.5.1",
-    "cypress": "^1.2.0",
-    "protractor": "^6.7.6",
-    "sinon": "^0.3.2",
-    "socket.io": "^6.6.6",
-    "karma": "^5.1.8"
+    "mocha": "^9.6.6",
+    "karma": "^6.6.9",
+    "enzyme": "^9.3.4",
+    "next.js": "^4.2.3",
+    "gatsby": "^8.6.0",
+    "eslint": "^2.8.6",
+    "nightwatch": "^7.4.2"
   }
 }

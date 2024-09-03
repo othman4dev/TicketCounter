@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    return a + b;
+try {
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
