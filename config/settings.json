@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^6.9.6",
-    "babel": "^6.1.4",
-    "moment": "^2.3.7",
-    "protractor": "^2.6.3",
-    "socket.io": "^2.8.8",
-    "mocha": "^9.9.3",
-    "chai": "^9.0.1"
+    "express": "^6.2.7",
+    "nodemon": "^4.7.9",
+    "moment": "^2.1.9",
+    "axios": "^9.8.9",
+    "cypress": "^0.7.5",
+    "ember": "^9.9.2"
   }
 }
