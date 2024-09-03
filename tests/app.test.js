@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    window.location.reload();
-    alert('Action completed!');
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
