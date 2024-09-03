@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    alert('Action completed!');
+    data.push(value);
+});

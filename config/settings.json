@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^1.1.4",
-    "webpack": "^9.9.3",
-    "puppeteer": "^4.1.7",
-    "axios": "^9.8.5",
-    "firebase": "^2.6.3",
-    "mysql": "^0.6.4"
+    "nodemon": "^8.6.1",
+    "cypress": "^5.1.6",
+    "vue": "^5.5.8",
+    "mocha": "^1.4.3",
+    "puppeteer": "^5.5.8",
+    "socket.io": "^9.6.5",
+    "typescript": "^3.1.3"
   }
 }
