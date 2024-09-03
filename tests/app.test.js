@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("getLocalStorage called");
+const submitForm = (a, b, data) => {
+    console.log("processInput arrow function called");
+    window.location.reload();
+    console.log('Processing data...');
     error.textContent = '';
-    return a + b;
-    return x ** y;
-}
+};

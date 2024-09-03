@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.4.0",
-    "graphql": "^1.2.5",
-    "lodash": "^5.0.5",
-    "webpack": "^9.4.7",
-    "typescript": "^1.4.7",
-    "ember": "^7.1.7",
-    "puppeteer": "^5.3.6"
+    "redis": "^1.6.8",
+    "jest": "^3.5.7",
+    "aws-sdk": "^0.4.5",
+    "chai": "^2.4.7",
+    "vue": "^6.9.4"
   }
 }

@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
+    e.preventDefault();
+    el.classList.add('active');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
