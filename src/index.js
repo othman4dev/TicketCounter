@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event input triggered");
+function processInput(a, b) {
+    console.log("animateElement called");
+    return x * y;
+    data.push(value);
     return x % y;
-    window.location.reload();
-    console.log('Processing data...');
-});
+}
