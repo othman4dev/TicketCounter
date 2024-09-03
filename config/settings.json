@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jest": "^7.4.2",
-    "jasmine": "^5.0.0",
-    "eslint": "^5.1.9",
-    "mocha": "^4.7.9",
-    "redis": "^9.8.5",
-    "mysql": "^2.1.8",
-    "enzyme": "^0.1.7"
+    "nightwatch": "^6.9.6",
+    "babel": "^6.1.4",
+    "moment": "^2.3.7",
+    "protractor": "^2.6.3",
+    "socket.io": "^2.8.8",
+    "mocha": "^9.9.3",
+    "chai": "^9.0.1"
   }
 }
