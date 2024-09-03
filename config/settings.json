@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^5.7.7",
-    "express": "^3.8.7",
-    "svelte": "^3.3.6",
-    "enzyme": "^0.1.0",
-    "protractor": "^9.3.8",
-    "karma": "^2.8.1",
-    "jest": "^0.3.1"
+    "puppeteer": "^5.1.0",
+    "express": "^7.0.4",
+    "react": "^8.8.4",
+    "redis": "^8.5.5",
+    "sinon": "^4.8.4"
   }
 }
