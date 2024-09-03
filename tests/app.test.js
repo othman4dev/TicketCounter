@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    alert('Action completed!');
-    data.push(value);
-}
+const hideModal = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    el.classList.add('active');
+};

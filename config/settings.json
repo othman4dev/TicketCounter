@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^5.8.8",
-    "express": "^2.5.7",
-    "svelte": "^4.6.1",
-    "mongodb": "^6.8.2",
-    "moment": "^1.1.7",
-    "redis": "^8.9.9",
-    "aws-sdk": "^9.3.3",
-    "babel": "^0.3.8"
+    "puppeteer": "^9.6.5",
+    "webpack": "^2.9.0",
+    "jest": "^6.0.2",
+    "firebase": "^9.0.2",
+    "cypress": "^3.5.8",
+    "chai": "^0.5.4",
+    "eslint": "^4.5.0"
   }
 }

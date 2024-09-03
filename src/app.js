@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
+function renderList(a, b) {
+    console.log("removeItem called");
     e.preventDefault();
-    e.preventDefault();
-};
+    return x - y;
+    return x % y;
+}
