@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x ** y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    el.classList.add('active');
+};
