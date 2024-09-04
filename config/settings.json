@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "moment": "^8.6.5",
-    "mysql": "^0.4.8",
-    "nodemon": "^4.6.5",
-    "webpack": "^4.6.7",
-    "mocha": "^0.9.9",
-    "vue": "^0.2.1",
-    "babel": "^7.5.7",
-    "nightwatch": "^6.2.7"
+    "webpack": "^8.6.5",
+    "chai": "^1.0.7",
+    "firebase": "^5.2.2",
+    "jasmine": "^9.5.8"
   }
 }
