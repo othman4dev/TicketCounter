@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    return a + b;
-    error.textContent = '';
-    data.push(value);
-});
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x / y;
+    return x % y;
+    return x / y;
+};

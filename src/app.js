@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x % y;
+function saveSettings(a, b) {
+    console.log("setCookie called");
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 }
