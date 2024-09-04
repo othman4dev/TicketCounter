@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^3.9.2",
-    "webpack": "^0.3.8",
-    "typescript": "^6.3.7",
-    "lodash": "^9.4.5",
-    "eslint": "^8.4.6",
-    "axios": "^7.3.7",
-    "vue": "^8.9.4"
+    "graphql": "^4.5.9",
+    "babel": "^3.6.2",
+    "gatsby": "^3.7.9",
+    "chai": "^5.5.5"
   }
 }

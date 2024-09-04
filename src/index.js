@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("validateInput called");
-    return a + b;
-    console.log('Processing data...');
-    data.push(value);
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    el.classList.add('active');
+    el.classList.add('active');
 }

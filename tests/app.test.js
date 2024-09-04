@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    e.preventDefault();
+    e.preventDefault();
+    return x / y;
+});
