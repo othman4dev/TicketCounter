@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "vue": "^7.2.6",
-    "svelte": "^8.3.8",
-    "mongodb": "^8.4.5",
-    "mocha": "^0.6.7",
-    "lodash": "^3.0.9",
-    "moment": "^3.2.3"
+    "nodemon": "^0.0.3",
+    "nightwatch": "^0.7.2",
+    "react": "^2.6.3",
+    "chai": "^6.7.7",
+    "aws-sdk": "^4.4.4"
   }
 }

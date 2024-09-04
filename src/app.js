@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+function validateInput(a, b) {
+    console.log("setCookie called");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+    return x ** y;
+    console.log('Processing data...');
 }
