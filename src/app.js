@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x - y;
-    el.classList.add('active');
+function saveSettings(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    return x * y;
+    console.log('Processing data...');
 }

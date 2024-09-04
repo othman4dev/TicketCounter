@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^9.6.6",
-    "karma": "^6.6.9",
-    "enzyme": "^9.3.4",
-    "next.js": "^4.2.3",
-    "gatsby": "^8.6.0",
-    "eslint": "^2.8.6",
-    "nightwatch": "^7.4.2"
+    "typescript": "^8.9.8",
+    "axios": "^3.0.5",
+    "mocha": "^0.8.4",
+    "karma": "^1.9.1",
+    "graphql": "^5.6.2",
+    "react": "^5.4.4",
+    "enzyme": "^3.5.3",
+    "webpack": "^6.7.5"
   }
 }
