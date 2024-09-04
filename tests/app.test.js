@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
+function submitForm(a, b) {
     console.log("hideModal called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+    el.classList.add('active');
     data.push(value);
+    window.location.reload();
 }

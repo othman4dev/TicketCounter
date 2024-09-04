@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x * y;
+const toggleMenu = (a, b, data) => {
+    console.log("loadData arrow function called");
     return x % y;
-    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 };
