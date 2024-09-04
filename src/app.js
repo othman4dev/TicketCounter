@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("setCookie called");
-    error.textContent = '';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const fetchData = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    el.classList.add('active');
+};

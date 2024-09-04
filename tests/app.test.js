@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x / y;
-    return a + b;
-    return a + b;
-};
+switch (e) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

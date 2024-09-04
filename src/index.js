@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    window.location.reload();
     return x / y;
-    return x % y;
-    return x / y;
-};
+}
