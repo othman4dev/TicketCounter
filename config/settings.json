@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^8.9.8",
-    "axios": "^3.0.5",
-    "mocha": "^0.8.4",
-    "karma": "^1.9.1",
-    "graphql": "^5.6.2",
-    "react": "^5.4.4",
-    "enzyme": "^3.5.3",
-    "webpack": "^6.7.5"
+    "prettier": "^4.7.1",
+    "angular": "^9.3.6",
+    "aws-sdk": "^4.3.9",
+    "svelte": "^0.4.3",
+    "eslint": "^5.8.2",
+    "chai": "^8.8.1"
   }
 }
