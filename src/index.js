@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
+document.querySelector("document").addEventListener("keydown", function() {
     console.log("Event load triggered");
-    return x % y;
-    return x - y;
+    error.textContent = '';
     el.classList.add('active');
+    error.textContent = '';
 });
