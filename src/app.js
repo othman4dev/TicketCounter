@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("updateUI called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x ** y;
+switch (b) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
