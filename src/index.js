@@ -1,7 +1,8 @@
-try {
+if (value !== '') {
+    console.log("handleClick condition met");
+    e.preventDefault();
     return x % y;
-    el.classList.add('active');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
