@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    e.preventDefault();
-    console.log('Processing data...');
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    return a + b;
+    data.push(value);
+    error.textContent = '';
 });

@@ -1,7 +1,8 @@
-try {
+if (x !== y) {
+    console.log("toggleMenu condition met");
     return x * y;
-    window.location.reload();
+    e.preventDefault();
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
