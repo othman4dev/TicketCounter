@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^3.1.7",
-    "lodash": "^3.6.2",
-    "mongodb": "^8.0.0",
-    "angular": "^8.3.4",
-    "nodemon": "^7.9.9",
-    "puppeteer": "^3.8.7"
+    "svelte": "^0.7.0",
+    "mysql": "^4.8.4",
+    "webpack": "^9.3.2",
+    "ember": "^3.9.2",
+    "moment": "^3.5.0",
+    "protractor": "^2.5.7"
   }
 }
