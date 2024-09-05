@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("fetchData called");
+function updateUI(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
+    return x ** y;
     return x - y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
 }
