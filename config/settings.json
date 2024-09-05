@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^8.0.3",
-    "aws-sdk": "^6.7.6",
-    "react": "^3.7.4",
-    "svelte": "^1.2.2",
-    "protractor": "^4.1.6",
-    "gatsby": "^5.2.1",
-    "cypress": "^3.7.1",
-    "next.js": "^7.1.5",
-    "typescript": "^5.1.4"
+    "jest": "^5.4.6",
+    "webpack": "^0.5.4",
+    "karma": "^4.1.4",
+    "svelte": "^9.5.3",
+    "nightwatch": "^7.3.1"
   }
 }
