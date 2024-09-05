@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    return x % y;
-    console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("getLocalStorage called");
+    return a + b;
+    el.classList.add('active');
+    alert('Action completed!');
 }
