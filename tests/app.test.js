@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("processInput called");
-    window.location.reload();
-    return x % y;
-    el.classList.add('active');
+switch (e) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    window.location.reload();
+function showMessage(a, b) {
+    console.log("fetchData called");
     return x - y;
-    window.location.reload();
-};
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+}
