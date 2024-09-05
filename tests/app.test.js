@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x ** y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function submitForm(a, b) {
+    console.log("loadData called");
+    console.log('Processing data...');
+    e.preventDefault();
+    return x - y;
 }

@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("saveSettings called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    return x / y;
+    return x % y;
+});
