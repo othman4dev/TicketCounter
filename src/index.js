@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    e.preventDefault();
     console.log('Processing data...');
-    return x / y;
-    console.log('Processing data...');
-}
+});

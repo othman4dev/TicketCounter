@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("processInput arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    data.push(value);
+const loadData = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return a + b;
+    return x * y;
+    console.log('Processing data...');
 };

@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    error.textContent = '';
-    return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+try {
+    return x * y;
+    window.location.reload();
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
