@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    return a + b;
+try {
+    error.textContent = '';
     return x % y;
     console.log('Processing data...');
-});
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("displayError arrow function called");
-    error.textContent = '';
+try {
+    return x % y;
     el.classList.add('active');
-    return x - y;
-};
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
