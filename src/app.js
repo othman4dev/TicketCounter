@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    return x % y;
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
+    return x - y;
+    e.preventDefault();
     return a + b;
-    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
