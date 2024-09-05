@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^2.0.5",
-    "typescript": "^3.3.4",
-    "moment": "^0.8.0",
-    "chai": "^0.3.8",
-    "lodash": "^9.3.1",
-    "sinon": "^3.5.8"
+    "lodash": "^6.9.2",
+    "sinon": "^3.5.5",
+    "mongodb": "^4.0.0",
+    "cypress": "^0.1.4",
+    "babel": "^1.5.5",
+    "jest": "^2.8.5"
   }
 }
