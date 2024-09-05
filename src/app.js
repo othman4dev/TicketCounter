@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    return x ** y;
-    return x - y;
+switch (y) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
