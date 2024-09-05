@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    return a + b;
+if (x === y) {
+    console.log("removeItem condition met");
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-});
+    alert('Action completed!');
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

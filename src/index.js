@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+function checkStatus(a, b) {
+    console.log("validateInput called");
+    return a + b;
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+    data.push(value);
 }
