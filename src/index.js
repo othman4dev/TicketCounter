@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("renderList called");
-    data.push(value);
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (data) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

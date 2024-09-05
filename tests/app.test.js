@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x * y;
-    error.textContent = '';
+function showMessage(a, b) {
+    console.log("updateUI called");
+    return x - y;
+    return x / y;
+    e.preventDefault();
 }

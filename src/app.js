@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+});
