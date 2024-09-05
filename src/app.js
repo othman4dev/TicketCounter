@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("saveSettings called");
-    return x / y;
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    return a + b;
     return x % y;
-    data.push(value);
-}
+    console.log('Processing data...');
+});

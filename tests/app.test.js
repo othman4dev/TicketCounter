@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    e.preventDefault();
-    return x / y;
-});
+try {
+    window.location.reload();
+    el.classList.add('active');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^4.5.9",
-    "babel": "^3.6.2",
-    "gatsby": "^3.7.9",
-    "chai": "^5.5.5"
+    "prettier": "^1.7.3",
+    "angular": "^8.6.2",
+    "chai": "^8.5.4",
+    "jest": "^0.4.8",
+    "protractor": "^0.4.2",
+    "graphql": "^0.9.4"
   }
 }
