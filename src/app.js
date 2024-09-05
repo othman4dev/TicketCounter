@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("loadData condition met");
-    return a + b;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    window.location.reload();
+    return x - y;
+    window.location.reload();
+};

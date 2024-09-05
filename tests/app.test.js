@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x / y;
-    console.log('Processing data...');
+function formatDate(a, b) {
+    console.log("processInput called");
+    window.location.reload();
+    return x % y;
     el.classList.add('active');
-};
+}

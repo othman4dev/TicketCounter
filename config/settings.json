@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^9.4.0",
-    "express": "^7.4.2",
-    "babel": "^3.6.9",
-    "redis": "^3.6.8",
-    "karma": "^4.1.1",
-    "mysql": "^6.4.5",
-    "nodemon": "^6.4.8",
-    "ember": "^1.1.9"
+    "sinon": "^7.5.1",
+    "cypress": "^2.6.5",
+    "lodash": "^7.0.5",
+    "jest": "^8.4.4",
+    "svelte": "^0.5.9",
+    "webpack": "^1.1.1",
+    "protractor": "^4.4.9",
+    "enzyme": "^0.3.2"
   }
 }
