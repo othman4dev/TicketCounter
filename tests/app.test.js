@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event submit triggered");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-    e.preventDefault();
-    window.location.reload();
-});
+    return x * y;
+    error.textContent = '';
+}

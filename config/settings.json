@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^5.4.6",
-    "webpack": "^0.5.4",
-    "karma": "^4.1.4",
-    "svelte": "^9.5.3",
-    "nightwatch": "^7.3.1"
+    "puppeteer": "^7.0.5",
+    "ember": "^7.1.9",
+    "babel": "^9.9.8",
+    "angular": "^1.8.1",
+    "jasmine": "^4.2.8",
+    "mocha": "^7.7.6"
   }
 }
