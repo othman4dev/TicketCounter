@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("updateUI called");
-    return x - y;
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    return x % y;
     return x / y;
-    e.preventDefault();
-}
+    window.location.reload();
+});
