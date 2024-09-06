@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "moment": "^2.7.3",
-    "mocha": "^5.3.7",
-    "next.js": "^8.0.0",
-    "webpack": "^4.6.5",
-    "jest": "^3.2.4"
+    "chai": "^7.9.2",
+    "eslint": "^3.0.1",
+    "react": "^0.7.7",
+    "graphql": "^6.4.0",
+    "typescript": "^7.7.7"
   }
 }
