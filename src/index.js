@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
-    el.classList.add('active');
-    error.textContent = '';
-});
+try {
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
