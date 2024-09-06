@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x - y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("getLocalStorage called");
+    window.location.reload();
+    return x / y;
+    data.push(value);
 }
