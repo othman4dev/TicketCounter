@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    window.location.reload();
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    return x ** y;
     return x % y;
-    window.location.reload();
-};
+});

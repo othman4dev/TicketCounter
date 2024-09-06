@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
-    error.textContent = '';
-    data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function getLocalStorage(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
+    alert('Action completed!');
+    return x % y;
 }

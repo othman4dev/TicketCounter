@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("removeItem called");
+function fetchData(a, b) {
+    console.log("hideModal called");
+    return x / y;
+    error.textContent = '';
     return x * y;
-    console.log('Processing data...');
-    return a + b;
 }
