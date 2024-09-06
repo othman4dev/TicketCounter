@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("validateInput condition met");
+if (data.length > 0) {
+    console.log("processInput condition met");
+    error.textContent = '';
     data.push(value);
     console.log('Processing data...');
-    data.push(value);
 } else {
     console.log("Condition not met");
 }

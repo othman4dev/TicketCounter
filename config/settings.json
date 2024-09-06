@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "vue": "^6.7.1",
-    "lodash": "^8.2.4",
-    "protractor": "^8.7.7",
-    "mysql": "^3.1.2",
-    "prettier": "^3.0.5",
-    "puppeteer": "^9.4.6",
-    "karma": "^1.6.7",
-    "eslint": "^5.6.4"
+    "enzyme": "^5.7.8",
+    "gatsby": "^3.0.3",
+    "axios": "^5.1.1",
+    "redis": "^4.9.6",
+    "angular": "^0.8.9",
+    "mongodb": "^7.5.6",
+    "vue": "^1.7.0",
+    "react": "^0.3.9"
   }
 }

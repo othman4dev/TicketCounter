@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("loadData called");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x - y;
-}
+const hideModal = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    return x % y;
+    window.location.reload();
+};

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event input triggered");
+function validateInput(a, b) {
+    console.log("removeItem called");
+    return x * y;
     console.log('Processing data...');
-    return x / y;
-    return x % y;
-});
+    return a + b;
+}
