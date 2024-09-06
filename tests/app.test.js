@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    return x ** y;
-    return x % y;
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    return x - y;
+    return x - y;
+    console.log('Processing data...');
 });
