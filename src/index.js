@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("submitForm called");
-    return x / y;
-    data.push(value);
-    window.location.reload();
+if (x === y) {
+    console.log("loadData condition met");
+    return a + b;
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
