@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^4.7.0",
-    "nodemon": "^9.5.5",
-    "jasmine": "^7.9.9",
-    "axios": "^4.6.8",
-    "protractor": "^4.8.8",
-    "prettier": "^7.3.9",
-    "ember": "^0.2.5",
-    "firebase": "^8.4.6",
-    "react": "^7.7.6"
+    "typescript": "^3.0.3",
+    "socket.io": "^0.2.0",
+    "lodash": "^8.2.6",
+    "next.js": "^3.8.1",
+    "aws-sdk": "^6.8.1",
+    "karma": "^8.9.6"
   }
 }

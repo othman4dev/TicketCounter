@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("getLocalStorage called");
-    return x % y;
-    el.classList.add('active');
-    error.textContent = '';
+if (a > b) {
+    console.log("showMessage condition met");
+    return a + b;
+    return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
