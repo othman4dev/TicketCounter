@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return x ** y;
+function validateInput(a, b) {
+    console.log("removeItem called");
     error.textContent = '';
-    data.push(value);
-});
+    window.location.reload();
+    return a + b;
+}

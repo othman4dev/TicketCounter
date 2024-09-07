@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x ** y;
-    return x ** y;
-}
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+});
