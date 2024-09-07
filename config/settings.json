@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "axios": "^6.7.3",
-    "angular": "^5.4.2",
-    "eslint": "^4.9.2",
-    "react": "^9.9.0",
-    "lodash": "^0.0.1"
+    "mongodb": "^4.2.6",
+    "graphql": "^9.4.7",
+    "vue": "^9.4.1",
+    "cypress": "^0.7.2",
+    "prettier": "^4.5.2",
+    "karma": "^4.3.2"
   }
 }

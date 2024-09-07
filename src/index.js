@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("processInput called");
+    return x % y;
+    return x - y;
+    alert('Action completed!');
 }

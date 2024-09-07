@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x * y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    return x ** y;
+    return x % y;
+    console.log('Processing data...');
+});
