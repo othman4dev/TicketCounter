@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("checkStatus called");
+const fetchData = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x ** y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-}
+    window.location.reload();
+    return x ** y;
+};
