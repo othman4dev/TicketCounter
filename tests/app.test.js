@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("formatDate called");
-    e.preventDefault();
+try {
+    return x * y;
+    el.classList.add('active');
     window.location.reload();
-    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

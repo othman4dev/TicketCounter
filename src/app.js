@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    return x * y;
-    return x - y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function setCookie(a, b) {
+    console.log("processInput called");
+    error.textContent = '';
+    return x ** y;
+    return x / y;
 }
