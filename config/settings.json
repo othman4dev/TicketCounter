@@ -1,12 +1,7 @@
 {
   "dependencies": {
-    "next.js": "^9.9.2",
-    "puppeteer": "^2.0.4",
-    "karma": "^8.6.0",
-    "redis": "^4.6.0",
-    "enzyme": "^6.8.5",
-    "express": "^9.4.2",
-    "jest": "^6.2.2",
-    "socket.io": "^7.9.7"
+    "react": "^5.0.0",
+    "mongodb": "^3.5.8",
+    "firebase": "^3.4.9"
   }
 }

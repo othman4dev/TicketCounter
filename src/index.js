@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("displayError arrow function called");
+function animateElement(a, b) {
+    console.log("submitForm called");
+    el.classList.add('active');
+    return x - y;
     return x ** y;
-    window.location.reload();
-    return x ** y;
-};
+}
