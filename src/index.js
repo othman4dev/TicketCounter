@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("processInput called");
-    return x % y;
+function renderList(a, b) {
+    console.log("setCookie called");
     return x - y;
-    alert('Action completed!');
+    data.push(value);
+    el.classList.add('active');
 }

@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^4.2.6",
-    "graphql": "^9.4.7",
-    "vue": "^9.4.1",
-    "cypress": "^0.7.2",
-    "prettier": "^4.5.2",
-    "karma": "^4.3.2"
+    "nodemon": "^5.0.2",
+    "mongodb": "^3.5.8",
+    "webpack": "^9.8.2",
+    "puppeteer": "^4.7.6"
   }
 }
