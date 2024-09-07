@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x % y;
-    return x % y;
-    e.preventDefault();
-};
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    return x * y;
+    return x - y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^9.3.0",
-    "protractor": "^3.0.1",
-    "jest": "^6.2.7",
-    "lodash": "^8.7.9",
-    "next.js": "^7.1.6"
+    "nodemon": "^5.5.9",
+    "vue": "^0.3.3",
+    "mongodb": "^5.3.6",
+    "typescript": "^5.9.8",
+    "mysql": "^8.5.0"
   }
 }

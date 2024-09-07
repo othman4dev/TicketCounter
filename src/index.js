@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    return a + b;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (x) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
