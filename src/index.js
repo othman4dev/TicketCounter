@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    return a + b;
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+});
