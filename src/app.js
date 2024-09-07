@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("loadData called");
-    error.textContent = '';
-    return x / y;
-    console.log('Processing data...');
+switch (e) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
