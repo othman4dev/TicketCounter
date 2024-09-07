@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    e.preventDefault();
-    e.preventDefault();
+function setCookie(a, b) {
+    console.log("checkStatus called");
+    return x ** y;
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-};
+}

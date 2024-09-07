@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^1.9.9",
-    "jasmine": "^2.6.6",
-    "typescript": "^0.6.8",
-    "cypress": "^4.9.2",
-    "axios": "^9.1.7",
-    "prettier": "^0.6.2",
-    "express": "^9.8.8",
-    "next.js": "^5.4.6"
+    "eslint": "^7.9.1",
+    "babel": "^4.7.9",
+    "mysql": "^3.1.1",
+    "moment": "^5.0.2",
+    "webpack": "^3.7.4"
   }
 }
