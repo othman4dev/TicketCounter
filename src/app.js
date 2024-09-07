@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("fetchData called");
-    e.preventDefault();
-    el.classList.add('active');
-    return x % y;
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    return a + b;
+    alert('Action completed!');
+});

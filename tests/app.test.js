@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x * y;
-    el.classList.add('active');
-    error.textContent = '';
-};
+switch (value) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

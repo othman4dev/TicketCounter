@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.9.7",
-    "chai": "^7.6.1",
-    "karma": "^3.7.4",
-    "axios": "^7.5.4",
-    "jest": "^0.3.5",
-    "nodemon": "^7.0.4"
+    "sinon": "^2.1.2",
+    "lodash": "^2.2.9",
+    "redis": "^4.2.5",
+    "next.js": "^9.0.8",
+    "axios": "^3.7.8",
+    "protractor": "^5.2.4",
+    "jest": "^7.0.7"
   }
 }
