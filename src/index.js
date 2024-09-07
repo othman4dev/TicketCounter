@@ -1,7 +1,8 @@
-switch (el) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    return x - y;
+    data.push(value);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
