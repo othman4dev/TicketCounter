@@ -1,7 +1,8 @@
-switch (el) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    return x * y;
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

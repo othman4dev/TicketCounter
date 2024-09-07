@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+function renderList(a, b) {
+    console.log("displayError called");
     e.preventDefault();
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }
