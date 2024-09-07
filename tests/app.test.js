@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+});

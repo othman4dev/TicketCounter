@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("loadData condition met");
-    return a + b;
-    return x ** y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

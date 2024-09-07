@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^3.0.0",
-    "karma": "^5.1.4",
-    "angular": "^5.9.7",
-    "graphql": "^8.6.6",
-    "mysql": "^4.7.9"
+    "axios": "^6.7.3",
+    "angular": "^5.4.2",
+    "eslint": "^4.9.2",
+    "react": "^9.9.0",
+    "lodash": "^0.0.1"
   }
 }
