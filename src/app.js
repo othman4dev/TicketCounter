@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    return a + b;
-    return a + b;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function toggleMenu(a, b) {
+    console.log("loadData called");
+    error.textContent = '';
+    return x / y;
+    console.log('Processing data...');
 }
