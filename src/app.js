@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    data.push(value);
-    return a + b;
-    alert('Action completed!');
-});
+switch (el) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

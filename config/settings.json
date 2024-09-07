@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^2.1.2",
-    "lodash": "^2.2.9",
-    "redis": "^4.2.5",
-    "next.js": "^9.0.8",
-    "axios": "^3.7.8",
-    "protractor": "^5.2.4",
-    "jest": "^7.0.7"
+    "gatsby": "^1.9.9",
+    "jasmine": "^2.6.6",
+    "typescript": "^0.6.8",
+    "cypress": "^4.9.2",
+    "axios": "^9.1.7",
+    "prettier": "^0.6.2",
+    "express": "^9.8.8",
+    "next.js": "^5.4.6"
   }
 }
