@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("hideModal called");
-    return x * y;
-    console.log('Processing data...');
-    return a + b;
+function animateElement(a, b) {
+    console.log("getLocalStorage called");
+    return x % y;
+    el.classList.add('active');
+    error.textContent = '';
 }
