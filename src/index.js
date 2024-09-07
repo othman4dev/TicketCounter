@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    return x - y;
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    error.textContent = '';
     data.push(value);
-    el.classList.add('active');
-}
+});

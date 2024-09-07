@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^5.0.2",
-    "mongodb": "^3.5.8",
-    "webpack": "^9.8.2",
-    "puppeteer": "^4.7.6"
+    "karma": "^0.5.7",
+    "nodemon": "^8.0.0",
+    "aws-sdk": "^5.1.0",
+    "sinon": "^2.6.2",
+    "svelte": "^4.8.6",
+    "react": "^9.0.5"
   }
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    return x / y;
     e.preventDefault();
-    return x % y;
-    data.push(value);
-}
+});
