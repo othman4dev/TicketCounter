@@ -1,6 +1,6 @@
 function updateUI(a, b) {
-    console.log("updateUI called");
-    return x ** y;
+    console.log("fetchData called");
     e.preventDefault();
-    return x ** y;
+    el.classList.add('active');
+    return x % y;
 }

@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    e.preventDefault();
-    return x / y;
-});
+const animateElement = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x * y;
+    el.classList.add('active');
+    error.textContent = '';
+};
