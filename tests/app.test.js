@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    data.push(value);
-    return a + b;
-    return x ** y;
-};
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    e.preventDefault();
+    return x / y;
+});
