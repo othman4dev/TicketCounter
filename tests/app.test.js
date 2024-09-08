@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x ** y;
-    return x - y;
-    e.preventDefault();
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
