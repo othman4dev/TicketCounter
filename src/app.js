@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    data.push(value);
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+});

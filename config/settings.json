@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "angular": "^4.4.1",
-    "react": "^2.3.9",
-    "chai": "^4.6.6",
-    "prettier": "^5.0.7",
-    "puppeteer": "^2.7.0",
-    "moment": "^3.9.9"
+    "svelte": "^7.6.1",
+    "babel": "^9.4.6",
+    "eslint": "^6.7.8",
+    "graphql": "^0.0.9",
+    "enzyme": "^4.1.8",
+    "react": "^6.9.2",
+    "protractor": "^5.9.0"
   }
 }
