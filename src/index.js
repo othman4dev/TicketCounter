@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("displayError condition met");
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+});
