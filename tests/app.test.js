@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("validateInput called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+try {
+    console.log('Processing data...');
+    return x ** y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

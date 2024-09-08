@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("displayError condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
