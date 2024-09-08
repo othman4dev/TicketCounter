@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^6.7.7",
-    "protractor": "^3.4.0",
-    "vue": "^1.9.4",
-    "svelte": "^0.3.1",
-    "eslint": "^4.9.9",
-    "graphql": "^8.9.7",
-    "react": "^9.3.5"
+    "eslint": "^3.1.5",
+    "vue": "^9.1.9",
+    "nightwatch": "^8.7.7",
+    "svelte": "^8.4.2",
+    "webpack": "^7.8.6",
+    "aws-sdk": "^7.1.6"
   }
 }
