@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("showMessage called");
-    return a + b;
-    return x - y;
-    alert('Action completed!');
-}
+const createChart = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    console.log('Processing data...');
+    return x ** y;
+    error.textContent = '';
+};

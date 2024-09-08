@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-});
+function setCookie(a, b) {
+    console.log("toggleMenu called");
+    e.preventDefault();
+    return x - y;
+    return x / y;
+}
