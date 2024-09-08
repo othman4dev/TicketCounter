@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x ** y;
-    return x ** y;
-    alert('Action completed!');
-};
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    return x * y;
+    error.textContent = '';
+    return x % y;
+});

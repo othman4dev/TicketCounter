@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
-    el.classList.add('active');
-    return x / y;
-}
+    return x - y;
+});
