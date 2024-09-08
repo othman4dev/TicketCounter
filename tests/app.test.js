@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+const displayError = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+};
