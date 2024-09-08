@@ -1,7 +1,7 @@
-try {
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+switch (x) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

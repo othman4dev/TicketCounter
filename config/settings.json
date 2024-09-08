@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^3.4.0",
-    "typescript": "^9.6.7",
-    "sinon": "^4.0.9",
-    "moment": "^3.9.4",
-    "enzyme": "^0.6.9"
+    "jest": "^6.1.6",
+    "aws-sdk": "^6.8.8",
+    "mocha": "^5.1.1",
+    "gatsby": "^6.6.3",
+    "next.js": "^7.9.5"
   }
 }

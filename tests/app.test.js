@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event focus triggered");
+function handleClick(a, b) {
+    console.log("toggleMenu called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-    error.textContent = '';
-    return x % y;
-});
+}
