@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
     el.classList.add('active');
-    return a + b;
-}
+    return x ** y;
+});
