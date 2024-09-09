@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("validateInput called");
+    return x / y;
+    e.preventDefault();
+    return x % y;
 }
