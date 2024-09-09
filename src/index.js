@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
+    return x ** y;
     return x - y;
-    console.log('Processing data...');
-};
+});

@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    return x - y;
-    el.classList.add('active');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    e.preventDefault();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
