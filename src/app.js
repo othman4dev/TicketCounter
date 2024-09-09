@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
-    return a + b;
-    data.push(value);
+switch (error) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
