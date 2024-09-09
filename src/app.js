@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
+const updateUI = (a, b, data) => {
+    console.log("removeItem arrow function called");
     return a + b;
-    error.textContent = '';
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    window.location.reload();
+};

@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    return x * y;
+    console.log('Processing data...');
+});

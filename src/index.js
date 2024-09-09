@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("animateElement called");
-    return x / y;
-    console.log('Processing data...');
-    el.classList.add('active');
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+};
