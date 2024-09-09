@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^0.6.0",
-    "ember": "^1.6.5",
-    "sinon": "^4.6.2",
-    "jasmine": "^9.4.9",
-    "vue": "^1.6.0",
-    "chai": "^6.8.6",
-    "enzyme": "^9.7.9",
-    "eslint": "^0.9.5"
+    "socket.io": "^3.2.9",
+    "graphql": "^3.5.9",
+    "typescript": "^7.8.5",
+    "protractor": "^3.0.8",
+    "firebase": "^5.1.4"
   }
 }
