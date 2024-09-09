@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("validateInput called");
-    return x / y;
-    e.preventDefault();
-    return x % y;
+try {
+    el.classList.add('active');
+    data.push(value);
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

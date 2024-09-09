@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (e) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
