@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+if (data.length > 0) {
+    console.log("displayError condition met");
     return a + b;
-    e.preventDefault();
-    window.location.reload();
+    error.textContent = '';
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

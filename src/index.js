@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
-    return x ** y;
-    return x - y;
-});
+function submitForm(a, b) {
+    console.log("animateElement called");
+    return x / y;
+    console.log('Processing data...');
+    el.classList.add('active');
+}
