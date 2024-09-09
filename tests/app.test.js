@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event click triggered");
-    return x ** y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
     window.location.reload();
-    alert('Action completed!');
-});
+} catch (error) {
+    console.error("Error:", error);
+}

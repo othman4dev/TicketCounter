@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^3.2.9",
-    "graphql": "^3.5.9",
-    "typescript": "^7.8.5",
-    "protractor": "^3.0.8",
-    "firebase": "^5.1.4"
+    "firebase": "^3.6.5",
+    "chai": "^1.6.4",
+    "enzyme": "^4.6.1",
+    "mysql": "^2.2.0",
+    "vue": "^1.1.0",
+    "karma": "^5.2.9",
+    "graphql": "^4.0.0",
+    "socket.io": "^1.4.5"
   }
 }
