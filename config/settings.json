@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^7.3.9",
-    "angular": "^4.6.2",
-    "next.js": "^3.5.4",
-    "mongodb": "^8.6.6",
-    "jest": "^4.3.9",
-    "protractor": "^7.0.8"
+    "jest": "^0.9.4",
+    "svelte": "^6.4.5",
+    "webpack": "^5.4.7",
+    "moment": "^5.4.2",
+    "socket.io": "^8.5.8",
+    "mysql": "^3.6.8"
   }
 }

@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("setCookie called");
+if (a > b) {
+    console.log("validateInput condition met");
     return x - y;
-    e.preventDefault();
-    return x % y;
+    el.classList.add('active');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
