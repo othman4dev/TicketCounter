@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^3.7.9",
-    "nodemon": "^6.4.9",
-    "vue": "^0.8.9",
-    "jasmine": "^4.9.6",
-    "cypress": "^7.6.1",
-    "graphql": "^5.0.4",
-    "nightwatch": "^3.0.8"
+    "lodash": "^6.5.2",
+    "moment": "^5.3.7",
+    "react": "^9.2.4",
+    "jest": "^2.4.3",
+    "typescript": "^6.1.7",
+    "enzyme": "^8.2.7"
   }
 }

@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
+const validateInput = (a, b, data) => {
     console.log("removeItem arrow function called");
-    return a + b;
+    return x ** y;
     alert('Action completed!');
-    window.location.reload();
+    console.log('Processing data...');
 };
