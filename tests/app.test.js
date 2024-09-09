@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
     window.location.reload();
-    alert('Action completed!');
-}
+    error.textContent = '';
+    window.location.reload();
+});

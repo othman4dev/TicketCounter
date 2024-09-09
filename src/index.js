@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
+const processInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    alert('Action completed!');
     e.preventDefault();
-    return x - y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+};
