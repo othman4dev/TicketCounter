@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("toggleMenu called");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+    alert('Action completed!');
 }

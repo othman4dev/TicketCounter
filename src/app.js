@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("showMessage called");
+    return x - y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }
