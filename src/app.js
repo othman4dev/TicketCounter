@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    error.textContent = '';
-    data.push(value);
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x % y;
+    alert('Action completed!');
 }

@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-};
+function hideModal(a, b) {
+    console.log("setCookie called");
+    return x - y;
+    e.preventDefault();
+    return x % y;
+}
