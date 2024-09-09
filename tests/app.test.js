@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
-    return a + b;
-    window.location.reload();
-}
+const hideModal = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x * y;
+    return x ** y;
+    return x / y;
+};
