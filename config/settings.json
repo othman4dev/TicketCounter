@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^3.8.2",
-    "angular": "^7.3.5",
-    "svelte": "^2.2.1",
-    "express": "^5.3.9",
-    "mocha": "^6.0.0"
+    "angular": "^0.4.5",
+    "sinon": "^6.7.5",
+    "nodemon": "^7.3.3",
+    "moment": "^8.5.7",
+    "prettier": "^1.7.6"
   }
 }

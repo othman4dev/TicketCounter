@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    return x / y;
-};
+function displayError(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
+    el.classList.add('active');
+    return a + b;
+}

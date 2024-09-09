@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    error.textContent = '';
-    window.location.reload();
-});
+switch (x) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
