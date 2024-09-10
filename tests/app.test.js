@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x / y;
-    window.location.reload();
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return x * y;
+    el.classList.add('active');
+});

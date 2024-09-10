@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    e.preventDefault();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const removeItem = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    data.push(value);
+    el.classList.add('active');
+    data.push(value);
+};
