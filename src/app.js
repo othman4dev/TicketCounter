@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x * y;
-    el.classList.add('active');
-    return x - y;
-};
+try {
+    window.location.reload();
+    e.preventDefault();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

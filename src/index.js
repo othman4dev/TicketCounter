@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x - y;
+function setSessionStorage(a, b) {
+    console.log("submitForm called");
+    return x * y;
+    return x * y;
     console.log('Processing data...');
 }

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^0.7.0",
-    "cypress": "^7.4.8",
-    "mocha": "^5.5.3",
-    "ember": "^2.3.9",
-    "mysql": "^7.0.9"
+    "protractor": "^0.4.0",
+    "react": "^9.2.2",
+    "cypress": "^4.3.3",
+    "ember": "^4.3.8",
+    "jest": "^9.8.0",
+    "nightwatch": "^3.3.0"
   }
 }
