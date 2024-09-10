@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^9.2.0",
-    "axios": "^0.3.4",
-    "lodash": "^9.9.1",
-    "prettier": "^8.4.3",
-    "svelte": "^8.9.9"
+    "jest": "^0.7.0",
+    "cypress": "^7.4.8",
+    "mocha": "^5.5.3",
+    "ember": "^2.3.9",
+    "mysql": "^7.0.9"
   }
 }
