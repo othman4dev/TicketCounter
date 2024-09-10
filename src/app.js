@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    return x % y;
-};
+try {
+    return x * y;
+    window.location.reload();
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

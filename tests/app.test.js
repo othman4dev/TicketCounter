@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    e.preventDefault();
-    error.textContent = '';
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return a + b;
+}
