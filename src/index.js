@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
+    return x ** y;
+    return x - y;
+});

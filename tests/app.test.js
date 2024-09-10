@@ -1,7 +1,6 @@
-try {
-    return x % y;
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event change triggered");
     e.preventDefault();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    error.textContent = '';
+});
