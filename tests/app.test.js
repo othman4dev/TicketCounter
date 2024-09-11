@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("createChart arrow function called");
-    error.textContent = '';
-    return x ** y;
-    return x * y;
-};
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event click triggered");
+    console.log('Processing data...');
+    return x / y;
+    data.push(value);
+});

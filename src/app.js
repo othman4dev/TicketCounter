@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    return x ** y;
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-}
+    return a + b;
+});
