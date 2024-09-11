@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    window.location.reload();
-    return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function hideModal(a, b) {
+    console.log("updateUI called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }

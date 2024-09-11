@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    el.classList.add('active');
-    return x - y;
-});
+const fetchData = (a, b, data) => {
+    console.log("createChart arrow function called");
+    error.textContent = '';
+    return x ** y;
+    return x * y;
+};

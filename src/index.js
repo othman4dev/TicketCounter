@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return a + b;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const checkStatus = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    data.push(value);
+    return x - y;
+    data.push(value);
+};
