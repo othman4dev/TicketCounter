@@ -1,6 +1,7 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    console.log('Processing data...');
+    return a + b;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
