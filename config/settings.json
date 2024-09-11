@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "redis": "^0.4.1",
-    "sinon": "^3.4.3",
-    "aws-sdk": "^6.4.7",
-    "ember": "^5.0.5",
-    "graphql": "^2.4.4",
-    "webpack": "^5.4.5",
-    "karma": "^9.2.7",
-    "axios": "^1.6.8"
+    "mysql": "^8.3.4",
+    "webpack": "^5.5.1",
+    "cypress": "^4.9.7",
+    "socket.io": "^4.8.7",
+    "lodash": "^9.2.2"
   }
 }
