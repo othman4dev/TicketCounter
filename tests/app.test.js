@@ -1,7 +1,8 @@
-try {
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("fetchData condition met");
+    alert('Action completed!');
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

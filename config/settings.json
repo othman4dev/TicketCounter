@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^8.3.4",
-    "webpack": "^5.5.1",
-    "cypress": "^4.9.7",
-    "socket.io": "^4.8.7",
-    "lodash": "^9.2.2"
+    "puppeteer": "^4.1.2",
+    "angular": "^8.6.8",
+    "gatsby": "^3.2.9",
+    "webpack": "^9.4.4",
+    "babel": "^3.3.1",
+    "chai": "^2.0.8"
   }
 }
