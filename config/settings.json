@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^5.7.5",
-    "sinon": "^5.8.1",
-    "socket.io": "^2.4.2",
-    "mocha": "^6.5.5",
-    "express": "^8.1.4"
+    "eslint": "^2.5.7",
+    "firebase": "^0.7.1",
+    "redis": "^9.4.8",
+    "socket.io": "^1.7.5",
+    "express": "^0.8.5",
+    "next.js": "^3.7.7"
   }
 }

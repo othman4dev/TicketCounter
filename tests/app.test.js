@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
-    return x / y;
-    data.push(value);
-});
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    return a + b;
+    return x ** y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
