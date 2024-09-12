@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("fetchData condition met");
+try {
+    return a + b;
     alert('Action completed!');
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
