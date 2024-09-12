@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    return x ** y;
-    return x / y;
-    return a + b;
-});
+switch (value) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
