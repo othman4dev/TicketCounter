@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+});

@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "express": "^8.6.7",
-    "mysql": "^2.5.4",
-    "socket.io": "^5.2.2",
-    "chai": "^5.6.5",
-    "next.js": "^5.8.8",
-    "babel": "^1.9.5",
-    "moment": "^1.7.4",
-    "enzyme": "^8.8.1"
+    "express": "^4.6.7",
+    "aws-sdk": "^0.2.2",
+    "nodemon": "^8.4.1",
+    "angular": "^7.0.0",
+    "nightwatch": "^1.7.2",
+    "lodash": "^9.7.5",
+    "babel": "^0.5.6",
+    "moment": "^9.4.9"
   }
 }
