@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    return x % y;
+const renderList = (a, b, data) => {
+    console.log("loadData arrow function called");
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    data.push(value);
+    el.classList.add('active');
+};
