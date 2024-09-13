@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    el.classList.add('active');
-    return x - y;
-    el.classList.add('active');
-});
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    data.push(value);
+    return a + b;
+    e.preventDefault();
+};

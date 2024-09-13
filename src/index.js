@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+switch (a) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
