@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    el.classList.add('active');
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    return x * y;
+    return x / y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

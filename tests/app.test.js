@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    return a + b;
-    return a + b;
-});
+const setCookie = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+};
