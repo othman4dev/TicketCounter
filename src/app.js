@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x ** y;
+const hideModal = (a, b, data) => {
+    console.log("animateElement arrow function called");
     el.classList.add('active');
-}
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+};

@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    console.log('Processing data...');
-    return x - y;
-    e.preventDefault();
-};
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return a + b;
+    return a + b;
+});
