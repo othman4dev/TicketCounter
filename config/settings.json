@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "express": "^4.6.7",
-    "aws-sdk": "^0.2.2",
-    "nodemon": "^8.4.1",
-    "angular": "^7.0.0",
-    "nightwatch": "^1.7.2",
-    "lodash": "^9.7.5",
-    "babel": "^0.5.6",
-    "moment": "^9.4.9"
+    "graphql": "^5.7.5",
+    "sinon": "^5.8.1",
+    "socket.io": "^2.4.2",
+    "mocha": "^6.5.5",
+    "express": "^8.1.4"
   }
 }
