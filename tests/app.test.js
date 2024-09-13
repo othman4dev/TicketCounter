@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    console.log('Processing data...');
+    return x - y;
+    e.preventDefault();
+};

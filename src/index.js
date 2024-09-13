@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    return x % y;
+if (x !== y) {
+    console.log("toggleMenu condition met");
     window.location.reload();
-};
+    return a + b;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
