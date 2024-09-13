@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+const showMessage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
+    alert('Action completed!');
 };

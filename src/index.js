@@ -1,7 +1,6 @@
-try {
+function setSessionStorage(a, b) {
+    console.log("validateInput called");
+    return a + b;
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
 }
