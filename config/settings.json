@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^1.8.6",
-    "protractor": "^5.7.4",
-    "moment": "^0.3.4",
-    "lodash": "^8.2.9",
-    "vue": "^5.9.6",
-    "firebase": "^3.5.3",
-    "axios": "^1.1.2",
-    "cypress": "^2.8.5",
-    "ember": "^4.2.4"
+    "redis": "^9.2.0",
+    "axios": "^1.6.9",
+    "socket.io": "^9.1.9",
+    "lodash": "^3.8.7",
+    "protractor": "^4.9.4"
   }
 }

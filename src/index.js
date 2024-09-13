@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("validateInput called");
-    return a + b;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x % y;
+    window.location.reload();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

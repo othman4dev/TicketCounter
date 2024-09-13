@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    alert('Action completed!');
-    error.textContent = '';
-    alert('Action completed!');
-};
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+});
