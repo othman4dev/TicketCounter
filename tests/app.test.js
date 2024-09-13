@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("createChart arrow function called");
-    window.location.reload();
-    alert('Action completed!');
-    return x % y;
-};
+switch (error) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
