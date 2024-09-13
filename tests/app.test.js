@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    alert('Action completed!');
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+    el.classList.add('active');
+});
