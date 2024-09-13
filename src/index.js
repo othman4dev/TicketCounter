@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    return x / y;
-    alert('Action completed!');
-    return x ** y;
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    data.push(value);
+    window.location.reload();
 });

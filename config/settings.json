@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "jasmine": "^0.4.9",
-    "axios": "^2.4.1",
-    "mysql": "^7.0.0",
-    "angular": "^6.5.7",
-    "firebase": "^7.6.6",
-    "chai": "^0.1.1",
-    "karma": "^2.5.7"
+    "protractor": "^4.4.8",
+    "mongodb": "^5.9.9",
+    "jasmine": "^2.1.0",
+    "express": "^0.6.2",
+    "cypress": "^5.2.1",
+    "mocha": "^5.9.7",
+    "enzyme": "^0.9.5",
+    "prettier": "^8.9.8",
+    "mysql": "^3.8.2"
   }
 }
