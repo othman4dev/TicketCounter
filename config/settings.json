@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^4.4.8",
-    "mongodb": "^5.9.9",
-    "jasmine": "^2.1.0",
-    "express": "^0.6.2",
-    "cypress": "^5.2.1",
-    "mocha": "^5.9.7",
-    "enzyme": "^0.9.5",
-    "prettier": "^8.9.8",
-    "mysql": "^3.8.2"
+    "angular": "^2.9.5",
+    "jest": "^9.6.3",
+    "protractor": "^0.7.6",
+    "firebase": "^1.1.8",
+    "react": "^7.7.8",
+    "svelte": "^2.5.9"
   }
 }

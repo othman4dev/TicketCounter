@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
+if (x === y) {
+    console.log("setSessionStorage condition met");
     el.classList.add('active');
-    data.push(value);
-    window.location.reload();
-});
+    console.log('Processing data...');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

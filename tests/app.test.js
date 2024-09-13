@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+function submitForm(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
     error.textContent = '';
-    return x / y;
+    el.classList.add('active');
 }
