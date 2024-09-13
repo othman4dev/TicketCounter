@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x * y;
+try {
     data.push(value);
-    el.classList.add('active');
-};
+    return x * y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
