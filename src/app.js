@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    return x - y;
-    data.push(value);
+try {
+    console.log('Processing data...');
+    return x * y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

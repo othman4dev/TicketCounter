@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x * y;
+function setSessionStorage(a, b) {
+    console.log("handleClick called");
+    el.classList.add('active');
     window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
 }
