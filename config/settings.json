@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "angular": "^4.6.8",
-    "cypress": "^5.3.4",
-    "ember": "^8.6.2",
-    "protractor": "^0.8.6",
-    "firebase": "^8.1.2"
+    "express": "^0.6.9",
+    "lodash": "^3.5.5",
+    "cypress": "^2.6.3",
+    "mysql": "^2.7.5",
+    "next.js": "^9.7.6",
+    "jest": "^6.2.6"
   }
 }

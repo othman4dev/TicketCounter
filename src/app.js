@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x ** y;
+    return x - y;
 }

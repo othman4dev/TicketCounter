@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    alert('Action completed!');
+    return x * y;
+    console.log('Processing data...');
+};
