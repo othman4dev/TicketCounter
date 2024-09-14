@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("showMessage called");
-    window.location.reload();
-    return x - y;
-    window.location.reload();
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+});
