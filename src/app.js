@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    el.classList.add('active');
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    alert('Action completed!');
+});

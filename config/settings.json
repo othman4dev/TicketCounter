@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "redis": "^8.3.5",
-    "prettier": "^6.2.7",
-    "angular": "^6.7.8",
-    "nodemon": "^7.0.7"
+    "chai": "^9.5.6",
+    "nodemon": "^7.0.1",
+    "axios": "^6.4.9",
+    "karma": "^8.5.6",
+    "nightwatch": "^9.2.6",
+    "mysql": "^9.5.9",
+    "next.js": "^5.8.2"
   }
 }

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    el.classList.add('active');
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x * y;
+    return a + b;
+    return x ** y;
+};
