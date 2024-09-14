@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
-    alert('Action completed!');
-    return a + b;
-});
+switch (el) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
