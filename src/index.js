@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x - y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+const setSessionStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    el.classList.add('active');
 };
