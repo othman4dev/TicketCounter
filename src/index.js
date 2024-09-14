@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    return a + b;
-});
+function fetchData(a, b) {
+    console.log("displayError called");
+    return x - y;
+    error.textContent = '';
+    el.classList.add('active');
+}

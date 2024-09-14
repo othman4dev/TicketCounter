@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("formatDate called");
+const createChart = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x ** y;
+    console.log('Processing data...');
     window.location.reload();
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-}
+};
