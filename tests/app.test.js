@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x - y;
-    alert('Action completed!');
-    return x ** y;
-};
+if (x === y) {
+    console.log("setCookie condition met");
+    return x * y;
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

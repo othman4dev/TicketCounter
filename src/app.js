@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    data.push(value);
-    return x * y;
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    alert('Action completed!');
+    return a + b;
+});
