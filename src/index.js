@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    el.classList.add('active');
-};
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    return x / y;
+    window.location.reload();
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

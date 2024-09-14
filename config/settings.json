@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "gatsby": "^5.0.2",
-    "nightwatch": "^9.5.2",
-    "socket.io": "^5.1.5",
-    "aws-sdk": "^4.7.3",
-    "moment": "^6.8.1",
-    "mysql": "^5.8.6",
-    "babel": "^1.8.8",
-    "angular": "^6.9.6"
+    "redis": "^8.3.5",
+    "prettier": "^6.2.7",
+    "angular": "^6.7.8",
+    "nodemon": "^7.0.7"
   }
 }
