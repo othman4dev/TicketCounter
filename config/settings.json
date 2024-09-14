@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "babel": "^5.5.3",
-    "jest": "^9.1.8",
-    "graphql": "^0.4.9",
-    "eslint": "^9.7.3",
-    "mocha": "^8.3.1",
-    "nodemon": "^5.0.3",
-    "mysql": "^5.4.4",
-    "cypress": "^9.5.7"
+    "axios": "^1.5.8",
+    "sinon": "^0.7.3",
+    "babel": "^5.1.8",
+    "chai": "^4.2.5",
+    "graphql": "^9.2.4",
+    "aws-sdk": "^0.2.1"
   }
 }

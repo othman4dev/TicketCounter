@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    return x ** y;
-    window.location.reload();
-};
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    alert('Action completed!');
+    alert('Action completed!');
+    return a + b;
+});

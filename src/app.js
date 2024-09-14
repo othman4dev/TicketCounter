@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+function updateUI(a, b) {
+    console.log("formatDate called");
+    window.location.reload();
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
 }
