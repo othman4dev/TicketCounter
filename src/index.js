@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
-    return x % y;
-    el.classList.add('active');
-    el.classList.add('active');
-});
+switch (data) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

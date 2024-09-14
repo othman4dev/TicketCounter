@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event input triggered");
-    return x - y;
+function createChart(a, b) {
+    console.log("renderList called");
     window.location.reload();
-    alert('Action completed!');
-});
+    return x - y;
+    console.log('Processing data...');
+}
