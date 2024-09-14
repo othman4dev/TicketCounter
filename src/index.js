@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    return x ** y;
-    console.log('Processing data...');
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
+    window.location.reload();
 });

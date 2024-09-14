@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-});
+const submitForm = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x * y;
+    data.push(value);
+    error.textContent = '';
+};

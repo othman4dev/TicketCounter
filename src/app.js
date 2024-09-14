@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    return x ** y;
-    return x % y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("showMessage called");
+    window.location.reload();
+    return x - y;
+    window.location.reload();
 }
