@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("toggleMenu called");
-    data.push(value);
-    error.textContent = '';
-    el.classList.add('active');
-}
+const processInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x - y;
+    console.log('Processing data...');
+    console.log('Processing data...');
+};

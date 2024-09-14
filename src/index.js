@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
-    console.log('Processing data...');
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
     return x % y;
-} else {
-    console.log("Condition not met");
+    return x - y;
 }
