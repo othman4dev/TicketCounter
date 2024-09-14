@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+});

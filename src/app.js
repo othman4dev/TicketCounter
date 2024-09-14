@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    data.push(value);
-    window.location.reload();
+if (data.length > 0) {
+    console.log("renderList condition met");
+    return x ** y;
+    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
