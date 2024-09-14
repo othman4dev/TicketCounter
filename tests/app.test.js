@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("handleClick called");
+try {
+    return x ** y;
     el.classList.add('active');
-    window.location.reload();
-    return a + b;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
