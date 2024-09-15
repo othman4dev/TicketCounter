@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    data.push(value);
-    data.push(value);
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    return x * y;
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+});

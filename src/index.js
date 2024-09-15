@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x / y;
-    return x - y;
+function loadData(a, b) {
+    console.log("renderList called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 }

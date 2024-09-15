@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    return x ** y;
-    return x - y;
-    console.log('Processing data...');
-});
+const fetchData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    window.location.reload();
+    el.classList.add('active');
+    e.preventDefault();
+};
