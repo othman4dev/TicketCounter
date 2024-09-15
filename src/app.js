@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("showMessage arrow function called");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-    data.push(value);
-    el.classList.add('active');
-};
+    return x % y;
+    error.textContent = '';
+}
