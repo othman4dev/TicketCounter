@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x % y;
-    return x % y;
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    return a + b;
+    el.classList.add('active');
+    return x * y;
+});
