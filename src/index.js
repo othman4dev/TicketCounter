@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event blur triggered");
     return a + b;
-    el.classList.add('active');
-}
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});

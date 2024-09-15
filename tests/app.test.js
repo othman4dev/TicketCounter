@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("validateInput called");
+try {
+    el.classList.add('active');
+    error.textContent = '';
     alert('Action completed!');
-    window.location.reload();
-    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
