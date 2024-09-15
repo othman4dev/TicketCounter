@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event focus triggered");
+function validateInput(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
+    window.location.reload();
     return x ** y;
-    return x / y;
-    return x - y;
-});
+}

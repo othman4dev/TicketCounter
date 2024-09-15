@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
     alert('Action completed!');
-    return x * y;
-}
+    data.push(value);
+    error.textContent = '';
+});
