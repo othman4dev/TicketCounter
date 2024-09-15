@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    return a + b;
-    el.classList.add('active');
+try {
     return x * y;
-});
+    window.location.reload();
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

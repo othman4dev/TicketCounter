@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    window.location.reload();
-    return x / y;
-    el.classList.add('active');
-};
+switch (el) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

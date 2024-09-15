@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return x ** y;
-    window.location.reload();
-}
+const displayError = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    alert('Action completed!');
+    data.push(value);
+    el.classList.add('active');
+};
