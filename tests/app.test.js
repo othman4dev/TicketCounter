@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    error.textContent = '';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    data.push(value);
+    data.push(value);
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
