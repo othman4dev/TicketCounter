@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "jest": "^5.1.1",
-    "cypress": "^3.7.9",
-    "gatsby": "^1.8.9",
-    "chai": "^1.6.9",
-    "nodemon": "^1.2.9",
-    "socket.io": "^0.8.1",
-    "axios": "^2.9.8",
-    "babel": "^7.4.2",
-    "vue": "^0.4.4"
+    "angular": "^7.7.5",
+    "ember": "^9.0.5",
+    "jest": "^5.8.3",
+    "typescript": "^9.7.2",
+    "cypress": "^2.8.3",
+    "babel": "^9.4.8"
   }
 }
