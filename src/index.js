@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return a + b;
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
+    alert('Action completed!');
     return x % y;
-}
+    return x ** y;
+};

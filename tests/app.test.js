@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event keydown triggered");
     return x * y;
     console.log('Processing data...');
-    window.location.reload();
+    return a + b;
 });

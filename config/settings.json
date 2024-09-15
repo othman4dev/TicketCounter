@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^1.1.8",
-    "eslint": "^4.8.4",
-    "express": "^5.7.5",
-    "mongodb": "^0.3.0",
-    "typescript": "^1.4.4",
-    "aws-sdk": "^8.6.5",
-    "jest": "^7.2.3",
-    "karma": "^8.0.5"
+    "lodash": "^8.4.1",
+    "protractor": "^7.8.3",
+    "moment": "^4.6.8",
+    "jest": "^3.7.4",
+    "react": "^0.9.9",
+    "axios": "^0.4.6",
+    "socket.io": "^5.3.8"
   }
 }
