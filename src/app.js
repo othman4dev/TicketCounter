@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    window.location.reload();
-    el.classList.add('active');
-    e.preventDefault();
-};
+if (window.innerWidth > 500) {
+    console.log("submitForm condition met");
+    data.push(value);
+    return a + b;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

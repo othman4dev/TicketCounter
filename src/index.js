@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("renderList called");
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    error.textContent = '';
+    window.location.reload();
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+} else {
+    console.log("Condition not met");
 }

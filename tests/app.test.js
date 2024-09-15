@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    return x * y;
-    return x - y;
-});
+if (x !== y) {
+    console.log("formatDate condition met");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
