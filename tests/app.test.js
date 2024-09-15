@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x % y;
+    return x % y;
 }

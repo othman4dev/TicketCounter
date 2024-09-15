@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    error.textContent = '';
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function toggleMenu(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    data.push(value);
+    return x ** y;
 }
