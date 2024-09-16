@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^8.4.1",
-    "protractor": "^7.8.3",
-    "moment": "^4.6.8",
-    "jest": "^3.7.4",
-    "react": "^0.9.9",
-    "axios": "^0.4.6",
-    "socket.io": "^5.3.8"
+    "mysql": "^4.2.7",
+    "react": "^9.2.2",
+    "prettier": "^0.0.0",
+    "aws-sdk": "^7.2.3",
+    "next.js": "^7.4.0",
+    "webpack": "^6.9.8",
+    "svelte": "^8.0.8"
   }
 }

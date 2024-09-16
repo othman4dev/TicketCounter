@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
-    alert('Action completed!');
-    return x % y;
-    return x ** y;
-};
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    data.push(value);
+    return x - y;
+});

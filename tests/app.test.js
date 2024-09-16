@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    return x * y;
-    console.log('Processing data...');
-    return a + b;
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event change triggered");
+    return x - y;
+    e.preventDefault();
+    return x / y;
 });
