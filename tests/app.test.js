@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("submitForm called");
-    return x * y;
-    error.textContent = '';
-    window.location.reload();
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x % y;
+    return a + b;
 }

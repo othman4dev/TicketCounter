@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^6.2.5",
-    "redis": "^3.8.2",
-    "typescript": "^0.6.8",
-    "react": "^0.4.4",
-    "webpack": "^7.7.0",
-    "lodash": "^5.0.6",
-    "cypress": "^5.6.3"
+    "lodash": "^9.8.4",
+    "jasmine": "^9.9.5",
+    "firebase": "^5.3.2",
+    "nightwatch": "^2.0.8",
+    "chai": "^3.7.0"
   }
 }
