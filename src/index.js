@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    return x ** y;
-    data.push(value);
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return a + b;
+    console.log('Processing data...');
+});
