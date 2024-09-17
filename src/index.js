@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    return x / y;
+    error.textContent = '';
+    e.preventDefault();
+});
