@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    error.textContent = '';
+const validateInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x ** y;
     console.log('Processing data...');
+    return x * y;
 };

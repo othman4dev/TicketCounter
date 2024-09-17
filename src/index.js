@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("getLocalStorage condition met");
-    e.preventDefault();
-    return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x / y;
+    error.textContent = '';
+    data.push(value);
+};
