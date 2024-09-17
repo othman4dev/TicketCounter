@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    error.textContent = '';
-    console.log('Processing data...');
-    return x / y;
-});
+switch (data) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
