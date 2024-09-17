@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
-    return x / y;
-    error.textContent = '';
+switch (e) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

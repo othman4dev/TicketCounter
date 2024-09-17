@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    return x / y;
-    error.textContent = '';
-    e.preventDefault();
-});
+if (x !== y) {
+    console.log("displayError condition met");
+    console.log('Processing data...');
+    data.push(value);
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
