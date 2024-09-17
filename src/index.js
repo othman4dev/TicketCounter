@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x / y;
-    error.textContent = '';
-    data.push(value);
-};
+switch (a) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

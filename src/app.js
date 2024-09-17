@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    return x * y;
-};
+function handleClick(a, b) {
+    console.log("submitForm called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return a + b;
+}
