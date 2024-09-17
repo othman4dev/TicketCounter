@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+if (value !== '') {
+    console.log("hideModal condition met");
+    console.log('Processing data...');
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
