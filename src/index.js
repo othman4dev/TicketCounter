@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    console.log('Processing data...');
-    return x - y;
-});
+const animateElement = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+};

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    error.textContent = '';
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+});

@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^7.7.2",
-    "angular": "^1.6.2",
-    "babel": "^5.7.5",
-    "mongodb": "^8.7.0",
-    "typescript": "^3.8.7",
-    "jasmine": "^7.5.4"
+    "vue": "^3.7.4",
+    "next.js": "^4.4.3",
+    "jasmine": "^7.6.3",
+    "ember": "^2.5.4",
+    "socket.io": "^4.3.5",
+    "express": "^0.4.2",
+    "gatsby": "^0.9.1",
+    "puppeteer": "^8.1.3"
   }
 }

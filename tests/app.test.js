@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    return x % y;
     return x / y;
-    return x ** y;
-};
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
