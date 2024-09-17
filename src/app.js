@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("submitForm called");
+    e.preventDefault();
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
 }

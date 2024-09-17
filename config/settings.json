@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^2.0.2",
-    "axios": "^9.6.4",
-    "enzyme": "^1.8.8",
-    "eslint": "^5.2.0",
-    "redis": "^8.6.0"
+    "protractor": "^2.1.9",
+    "moment": "^2.4.1",
+    "react": "^6.3.5",
+    "karma": "^7.9.6",
+    "enzyme": "^2.1.9",
+    "sinon": "^2.7.3"
   }
 }
