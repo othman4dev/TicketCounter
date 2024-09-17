@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    return x % y;
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
     e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return x - y;
+});

@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return a + b;
+if (a > b) {
+    console.log("saveSettings condition met");
     return x / y;
+    error.textContent = '';
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
