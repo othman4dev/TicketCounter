@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "babel": "^5.2.1",
-    "lodash": "^5.7.7",
-    "puppeteer": "^6.4.4",
-    "jest": "^2.3.5"
+    "eslint": "^0.1.2",
+    "express": "^6.2.8",
+    "gatsby": "^9.9.4",
+    "sinon": "^9.0.1",
+    "karma": "^9.7.9",
+    "cypress": "^9.4.4",
+    "jest": "^8.3.6",
+    "mocha": "^8.8.0"
   }
 }

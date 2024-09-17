@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
+const getLocalStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    error.textContent = '';
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 };

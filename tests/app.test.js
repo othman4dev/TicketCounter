@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    document.body.style.backgroundColor = 'lightblue';
+const validateInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x % y;
-    return a + b;
-});
+    el.classList.add('active');
+    e.preventDefault();
+};
