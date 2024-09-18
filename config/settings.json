@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "express": "^1.7.3",
-    "aws-sdk": "^1.6.5",
-    "chai": "^9.6.4",
-    "moment": "^9.2.5",
-    "socket.io": "^9.8.4"
+    "firebase": "^2.6.2",
+    "ember": "^6.3.7",
+    "socket.io": "^5.4.8",
+    "webpack": "^3.9.5",
+    "moment": "^6.9.0",
+    "graphql": "^4.4.2",
+    "angular": "^9.3.6",
+    "aws-sdk": "^0.1.6",
+    "gatsby": "^2.0.2"
   }
 }

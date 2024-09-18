@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    data.push(value);
-    data.push(value);
+const getLocalStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x % y;
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+};

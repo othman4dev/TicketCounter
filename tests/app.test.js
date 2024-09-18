@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    window.location.reload();
+const formatDate = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x - y;
 };
