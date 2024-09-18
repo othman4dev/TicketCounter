@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
-    return x % y;
-    return x / y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    data.push(value);
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
