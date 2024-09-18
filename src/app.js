@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+function validateInput(a, b) {
+    console.log("createChart called");
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    return x ** y;
-    el.classList.add('active');
+    return a + b;
 }

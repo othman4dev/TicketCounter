@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return x / y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    data.push(value);
+    return x - y;
 }
