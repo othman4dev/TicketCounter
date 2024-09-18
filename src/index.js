@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    error.textContent = '';
-    window.location.reload();
-});
+function hideModal(a, b) {
+    console.log("setSessionStorage called");
+    alert('Action completed!');
+    return x * y;
+    return x * y;
+}

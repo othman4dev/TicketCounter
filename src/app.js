@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("renderList called");
-    return x * y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-}
+const saveSettings = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
+    e.preventDefault();
+};
