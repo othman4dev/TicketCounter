@@ -1,6 +1,7 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+switch (data) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

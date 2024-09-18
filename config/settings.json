@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^0.1.9",
-    "jasmine": "^5.8.2",
-    "redis": "^6.4.1",
-    "nightwatch": "^5.8.2",
-    "gatsby": "^9.7.6",
-    "typescript": "^0.6.6",
-    "prettier": "^3.6.6"
+    "karma": "^4.9.2",
+    "graphql": "^2.7.7",
+    "ember": "^9.8.6",
+    "mocha": "^9.6.8",
+    "mysql": "^8.4.6",
+    "firebase": "^1.0.8"
   }
 }
