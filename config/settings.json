@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^7.0.2",
-    "next.js": "^0.5.9",
-    "sinon": "^5.5.8",
-    "angular": "^6.5.1",
-    "jest": "^7.9.8"
+    "enzyme": "^0.1.9",
+    "jasmine": "^5.8.2",
+    "redis": "^6.4.1",
+    "nightwatch": "^5.8.2",
+    "gatsby": "^9.7.6",
+    "typescript": "^0.6.6",
+    "prettier": "^3.6.6"
   }
 }
