@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event click triggered");
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
     data.push(value);
-    return x ** y;
-    error.textContent = '';
-});
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
