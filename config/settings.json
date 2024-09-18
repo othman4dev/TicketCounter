@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^2.1.9",
-    "moment": "^2.4.1",
-    "react": "^6.3.5",
-    "karma": "^7.9.6",
-    "enzyme": "^2.1.9",
-    "sinon": "^2.7.3"
+    "angular": "^1.7.2",
+    "enzyme": "^0.2.6",
+    "prettier": "^3.3.9",
+    "firebase": "^2.7.2",
+    "mocha": "^9.7.9",
+    "eslint": "^9.4.4",
+    "react": "^0.1.7"
   }
 }

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    return x * y;
+function setSessionStorage(a, b) {
+    console.log("formatDate called");
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    alert('Action completed!');
 }

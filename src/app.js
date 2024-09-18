@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("submitForm called");
-    e.preventDefault();
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    return x ** y;
+    error.textContent = '';
+});
