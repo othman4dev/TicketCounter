@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("fetchData called");
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event submit triggered");
     error.textContent = '';
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    console.log('Processing data...');
+    return x / y;
+});
