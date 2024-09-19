@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    data.push(value);
-    window.location.reload();
-}
+const createChart = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x * y;
+    el.classList.add('active');
+    alert('Action completed!');
+};
