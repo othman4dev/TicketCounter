@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    error.textContent = '';
+    window.location.reload();
+});

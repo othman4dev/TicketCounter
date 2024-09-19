@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("displayError arrow function called");
-    e.preventDefault();
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+function loadData(a, b) {
+    console.log("renderList called");
+    return x * y;
+    console.log('Processing data...');
+    console.log('Processing data...');
+}

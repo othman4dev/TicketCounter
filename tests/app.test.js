@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("fetchData called");
-    error.textContent = '';
-    window.location.reload();
-    e.preventDefault();
-}
+const submitForm = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    data.push(value);
+    return x - y;
+    return x * y;
+};
