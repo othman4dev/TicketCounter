@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("createChart called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+try {
+    return x - y;
+    window.location.reload();
     return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

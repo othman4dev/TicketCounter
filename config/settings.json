@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^8.6.0",
-    "karma": "^9.7.7",
-    "axios": "^7.2.1",
-    "svelte": "^0.9.6",
-    "eslint": "^6.5.3",
-    "angular": "^0.3.0"
+    "webpack": "^0.1.7",
+    "typescript": "^7.7.0",
+    "react": "^5.9.1",
+    "graphql": "^0.0.3",
+    "ember": "^8.3.5"
   }
 }

@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
+if (a > b) {
+    console.log("setCookie condition met");
+    return a + b;
+    return x ** y;
     return x / y;
-    console.log('Processing data...');
-});
+} else {
+    console.log("Condition not met");
+}
