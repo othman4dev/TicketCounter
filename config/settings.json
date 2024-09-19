@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jest": "^4.0.0",
-    "jasmine": "^8.5.3",
-    "nightwatch": "^6.9.3",
-    "enzyme": "^0.6.6",
-    "graphql": "^0.6.4",
-    "sinon": "^3.6.3"
+    "aws-sdk": "^6.6.7",
+    "mocha": "^3.9.4",
+    "prettier": "^7.5.7",
+    "puppeteer": "^6.3.8",
+    "babel": "^4.3.5",
+    "firebase": "^3.2.7"
   }
 }
