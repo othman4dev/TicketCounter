@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("setCookie condition met");
-    return a + b;
-    return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

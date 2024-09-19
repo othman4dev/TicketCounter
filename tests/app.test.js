@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x / y;
-    return x % y;
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    data.push(value);
+    e.preventDefault();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
