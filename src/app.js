@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x % y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+function validateInput(a, b) {
+    console.log("toggleMenu called");
+    return x / y;
+    return x * y;
+    return x / y;
+}
