@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    return x - y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return a + b;
+    return a + b;
 }

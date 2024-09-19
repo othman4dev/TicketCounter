@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+const toggleMenu = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
+    window.location.reload();
+    return a + b;
 };
