@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    return x ** y;
+if (value !== '') {
+    console.log("updateUI condition met");
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event click triggered");
-    return x - y;
-    return x * y;
-    error.textContent = '';
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    return x % y;
+    return x % y;
 });
