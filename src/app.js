@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("displayError arrow function called");
+    e.preventDefault();
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+};

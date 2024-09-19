@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    data.push(value);
-    e.preventDefault();
+function removeItem(a, b) {
+    console.log("fetchData called");
+    error.textContent = '';
     window.location.reload();
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
 }
