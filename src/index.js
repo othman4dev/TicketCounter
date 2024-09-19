@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("updateUI condition met");
+if (x === y) {
+    console.log("fetchData condition met");
     data.push(value);
-    alert('Action completed!');
-    e.preventDefault();
+    return a + b;
+    return x * y;
 } else {
     console.log("Condition not met");
 }
