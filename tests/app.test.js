@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("toggleMenu called");
-    return x / y;
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event click triggered");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x * y;
+    error.textContent = '';
+});

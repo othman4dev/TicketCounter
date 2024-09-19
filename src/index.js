@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    error.textContent = '';
-};
+try {
+    e.preventDefault();
+    return x ** y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
