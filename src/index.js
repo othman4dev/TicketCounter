@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("setSessionStorage called");
-    alert('Action completed!');
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
     return x * y;
-    return x * y;
-}
+    data.push(value);
+});

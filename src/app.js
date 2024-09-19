@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    el.classList.add('active');
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     e.preventDefault();
-};
+    error.textContent = '';
+}
