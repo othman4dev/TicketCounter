@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    return x * y;
+    return x % y;
     error.textContent = '';
-    return a + b;
-});
+} else {
+    console.log("Condition not met");
+}

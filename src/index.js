@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event submit triggered");
     return x / y;
-    alert('Action completed!');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    console.log('Processing data...');
+});
