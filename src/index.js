@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    e.preventDefault();
-    e.preventDefault();
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    error.textContent = '';
+    console.log('Processing data...');
+});
