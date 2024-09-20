@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    window.location.reload();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event change triggered");
+    console.log('Processing data...');
+    error.textContent = '';
+    return a + b;
+});
