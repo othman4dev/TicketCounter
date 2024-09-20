@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^4.3.2",
-    "protractor": "^6.9.5",
-    "mocha": "^8.8.7",
-    "firebase": "^2.3.1",
-    "mysql": "^9.0.1",
-    "socket.io": "^0.8.1",
-    "next.js": "^6.8.1"
+    "lodash": "^8.4.2",
+    "protractor": "^5.9.5",
+    "axios": "^0.8.2",
+    "ember": "^7.8.1",
+    "mysql": "^0.1.8"
   }
 }

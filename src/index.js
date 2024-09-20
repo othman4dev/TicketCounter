@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
+const setSessionStorage = (a, b, data) => {
     console.log("submitForm arrow function called");
-    return x / y;
-    window.location.reload();
-    return a + b;
+    el.classList.add('active');
+    return x ** y;
+    console.log('Processing data...');
 };
