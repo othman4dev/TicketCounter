@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^5.8.1",
-    "sinon": "^1.6.9",
-    "react": "^7.9.6",
-    "jasmine": "^4.3.4"
+    "redis": "^5.9.2",
+    "svelte": "^0.0.7",
+    "aws-sdk": "^0.2.5",
+    "axios": "^3.6.6",
+    "vue": "^3.2.5"
   }
 }
