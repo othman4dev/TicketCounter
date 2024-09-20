@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
+if (a > b) {
+    console.log("showMessage condition met");
     return x - y;
-    console.log('Processing data...');
-});
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "redis": "^5.9.2",
-    "svelte": "^0.0.7",
-    "aws-sdk": "^0.2.5",
-    "axios": "^3.6.6",
-    "vue": "^3.2.5"
+    "prettier": "^3.1.2",
+    "aws-sdk": "^3.4.7",
+    "gatsby": "^2.4.2",
+    "graphql": "^8.4.5",
+    "mysql": "^8.8.7",
+    "eslint": "^1.2.2"
   }
 }

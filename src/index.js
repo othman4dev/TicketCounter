@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
-    e.preventDefault();
-    e.preventDefault();
-});
+const saveSettings = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x * y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+};
