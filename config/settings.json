@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^5.4.2",
-    "jest": "^1.9.0",
-    "ember": "^2.6.6",
-    "nodemon": "^9.0.8",
-    "redis": "^6.4.9",
-    "protractor": "^5.3.3",
-    "karma": "^1.6.9"
+    "protractor": "^7.7.7",
+    "webpack": "^6.2.6",
+    "eslint": "^2.3.4",
+    "nodemon": "^9.0.9",
+    "redis": "^8.7.1",
+    "puppeteer": "^2.1.9",
+    "graphql": "^1.0.7",
+    "karma": "^6.8.7"
   }
 }

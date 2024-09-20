@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("fetchData condition met");
+try {
+    return a + b;
     data.push(value);
     return a + b;
-    return x * y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
