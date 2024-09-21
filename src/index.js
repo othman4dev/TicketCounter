@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x - y;
-    return x / y;
+function validateInput(a, b) {
+    console.log("checkStatus called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x * y;
 }
