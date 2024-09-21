@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("hideModal called");
+function validateInput(a, b) {
+    console.log("saveSettings called");
     return a + b;
-    return a + b;
+    error.textContent = '';
     return x % y;
 }
