@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("hideModal arrow function called");
+if (value !== '') {
+    console.log("handleClick condition met");
     return x * y;
-    error.textContent = '';
-    window.location.reload();
-};
+    return x % y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

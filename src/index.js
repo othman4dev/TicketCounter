@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("saveSettings called");
-    return a + b;
-    error.textContent = '';
+try {
+    return x ** y;
     return x % y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
