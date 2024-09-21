@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return a + b;
-};
+function validateInput(a, b) {
+    console.log("loadData called");
+    return x - y;
+    console.log('Processing data...');
+    window.location.reload();
+}

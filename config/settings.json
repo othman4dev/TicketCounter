@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^5.2.3",
-    "socket.io": "^4.3.8",
-    "firebase": "^9.6.0",
-    "prettier": "^3.1.8",
-    "jasmine": "^2.1.5",
-    "typescript": "^1.1.9",
-    "protractor": "^2.5.5"
+    "moment": "^8.2.2",
+    "vue": "^7.7.9",
+    "next.js": "^4.1.6",
+    "mysql": "^7.7.5",
+    "karma": "^8.9.3",
+    "babel": "^1.9.4"
   }
 }
