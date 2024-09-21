@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^2.1.2",
-    "nodemon": "^3.7.0",
-    "nightwatch": "^3.1.8",
-    "eslint": "^8.3.7",
-    "mysql": "^8.0.0",
-    "redis": "^0.6.9",
-    "babel": "^3.0.8"
+    "puppeteer": "^5.5.8",
+    "karma": "^9.8.8",
+    "mysql": "^5.0.1",
+    "express": "^9.8.9",
+    "jest": "^2.6.1",
+    "graphql": "^4.1.3"
   }
 }
