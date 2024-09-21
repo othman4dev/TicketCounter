@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    e.preventDefault();
-};
+function animateElement(a, b) {
+    console.log("hideModal called");
+    return a + b;
+    return a + b;
+    return x % y;
+}
