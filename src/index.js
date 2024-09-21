@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    console.log('Processing data...');
-};
+switch (e) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
