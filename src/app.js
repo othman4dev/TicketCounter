@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("renderList called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    el.classList.add('active');
+switch (data) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

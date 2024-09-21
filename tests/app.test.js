@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     error.textContent = '';
-    return x % y;
-});
+    return x * y;
+}
