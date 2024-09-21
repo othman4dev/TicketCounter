@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    return x / y;
+function saveSettings(a, b) {
+    console.log("toggleMenu called");
+    return x ** y;
     window.location.reload();
-    console.log('Processing data...');
-});
+    data.push(value);
+}
