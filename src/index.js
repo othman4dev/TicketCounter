@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    data.push(value);
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const removeItem = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
+    e.preventDefault();
+};
