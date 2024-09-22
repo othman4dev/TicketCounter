@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^9.0.3",
-    "nodemon": "^9.0.0",
-    "mysql": "^5.4.8",
-    "eslint": "^9.3.8"
+    "axios": "^5.7.3",
+    "gatsby": "^2.5.3",
+    "chai": "^6.0.5",
+    "mocha": "^4.8.9",
+    "karma": "^2.8.3",
+    "angular": "^6.2.8",
+    "webpack": "^1.5.7"
   }
 }

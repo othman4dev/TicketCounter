@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return x * y;
-    error.textContent = '';
-    e.preventDefault();
-});
+if (a > b) {
+    console.log("setCookie condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
