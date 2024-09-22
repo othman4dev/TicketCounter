@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x - y;
+});

@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("submitForm called");
-    alert('Action completed!');
-    return x / y;
-    return x / y;
-}
+const renderList = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+};
