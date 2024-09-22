@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    data.push(value);
-    data.push(value);
-});
+try {
+    return x - y;
+    return x - y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

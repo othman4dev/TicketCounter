@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "axios": "^7.8.9",
-    "jest": "^6.6.3",
-    "aws-sdk": "^3.8.0",
-    "vue": "^5.4.4",
-    "prettier": "^5.2.3",
-    "mocha": "^0.2.1"
+    "puppeteer": "^2.5.6",
+    "aws-sdk": "^0.3.3",
+    "angular": "^9.6.2",
+    "sinon": "^0.5.9",
+    "cypress": "^6.9.7",
+    "react": "^1.1.2"
   }
 }
