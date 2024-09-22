@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("displayError arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    e.preventDefault();
+};
