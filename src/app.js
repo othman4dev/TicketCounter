@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x * y;
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event focus triggered");
     return x - y;
-    error.textContent = '';
-};
+    console.log('Processing data...');
+    return x / y;
+});
