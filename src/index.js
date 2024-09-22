@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("getLocalStorage called");
+try {
+    alert('Action completed!');
+    window.location.reload();
     console.log('Processing data...');
-    error.textContent = '';
-    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
