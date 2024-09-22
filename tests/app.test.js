@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("checkStatus called");
-    return a + b;
-    alert('Action completed!');
-    console.log('Processing data...');
+try {
+    error.textContent = '';
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

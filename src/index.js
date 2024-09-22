@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x - y;
-    e.preventDefault();
-    return a + b;
-};
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event change triggered");
+    window.location.reload();
+    data.push(value);
+    data.push(value);
+});
