@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("saveSettings called");
-    return x % y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+function createChart(a, b) {
+    console.log("loadData called");
+    e.preventDefault();
+    return x / y;
+    console.log('Processing data...');
 }

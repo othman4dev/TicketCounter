@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("saveSettings called");
-    e.preventDefault();
-    el.classList.add('active');
-    el.classList.add('active');
+function setSessionStorage(a, b) {
+    console.log("checkStatus called");
+    return a + b;
+    alert('Action completed!');
+    console.log('Processing data...');
 }

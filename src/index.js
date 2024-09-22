@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x - y;
+    e.preventDefault();
+    return a + b;
+};
