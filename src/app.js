@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
-    return a + b;
-    alert('Action completed!');
+if (value !== '') {
+    console.log("formatDate condition met");
+    return x - y;
+    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
