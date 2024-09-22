@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "mysql": "^2.0.2",
-    "nodemon": "^6.4.4",
-    "typescript": "^5.0.7",
-    "nightwatch": "^2.1.9",
-    "eslint": "^9.1.7"
+    "mongodb": "^9.0.3",
+    "nodemon": "^9.0.0",
+    "mysql": "^5.4.8",
+    "eslint": "^9.3.8"
   }
 }

@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    alert('Action completed!');
-}
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x * y;
+    error.textContent = '';
+    e.preventDefault();
+});

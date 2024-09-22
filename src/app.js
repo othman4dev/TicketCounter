@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("formatDate condition met");
-    return x - y;
-    e.preventDefault();
-    return x - y;
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
