@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    return x ** y;
+    return x ** y;
+});

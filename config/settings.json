@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^1.9.1",
-    "cypress": "^7.2.2",
-    "moment": "^6.9.7",
-    "axios": "^6.6.6",
-    "next.js": "^7.3.7",
-    "enzyme": "^3.7.0",
-    "protractor": "^6.6.9"
+    "eslint": "^0.9.9",
+    "moment": "^4.8.6",
+    "prettier": "^3.0.6",
+    "webpack": "^1.1.9",
+    "cypress": "^1.7.7",
+    "nodemon": "^2.8.3",
+    "sinon": "^7.7.0",
+    "typescript": "^3.7.0"
   }
 }

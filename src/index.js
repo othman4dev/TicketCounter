@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    data.push(value);
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    return x / y;
+    return a + b;
+    return a + b;
+});

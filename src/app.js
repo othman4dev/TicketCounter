@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    return a + b;
-    return x * y;
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+}
