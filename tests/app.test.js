@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("displayError arrow function called");
-    el.classList.add('active');
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event load triggered");
     e.preventDefault();
-    e.preventDefault();
-};
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});

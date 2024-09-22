@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    return x - y;
-});
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+}
