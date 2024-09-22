@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    e.preventDefault();
+function hideModal(a, b) {
+    console.log("saveSettings called");
+    return x % y;
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
 }

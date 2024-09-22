@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event click triggered");
+function showMessage(a, b) {
+    console.log("saveSettings called");
     e.preventDefault();
-    return x ** y;
-    return x ** y;
-});
+    el.classList.add('active');
+    el.classList.add('active');
+}

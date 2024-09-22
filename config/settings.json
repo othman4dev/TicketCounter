@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^0.9.9",
-    "moment": "^4.8.6",
-    "prettier": "^3.0.6",
-    "webpack": "^1.1.9",
-    "cypress": "^1.7.7",
-    "nodemon": "^2.8.3",
-    "sinon": "^7.7.0",
-    "typescript": "^3.7.0"
+    "axios": "^1.9.6",
+    "enzyme": "^8.4.4",
+    "webpack": "^2.4.0",
+    "jasmine": "^6.6.4",
+    "gatsby": "^2.0.8",
+    "nightwatch": "^4.3.2",
+    "aws-sdk": "^6.3.7",
+    "graphql": "^3.3.1"
   }
 }
