@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    return x - y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
