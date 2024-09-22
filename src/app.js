@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    alert('Action completed!');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("formatDate called");
+    window.location.reload();
+    e.preventDefault();
+    console.log('Processing data...');
 }

@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x / y;
+function createChart(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
+    window.location.reload();
     return x - y;
-    return a + b;
-};
+}
