@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setCookie condition met");
+const animateElement = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    data.push(value);
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+};

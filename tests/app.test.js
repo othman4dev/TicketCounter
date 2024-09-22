@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    return a + b;
-    el.classList.add('active');
-    window.location.reload();
+switch (x) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
