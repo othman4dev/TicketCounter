@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x ** y;
+    alert('Action completed!');
     return x / y;
-    return x / y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("getLocalStorage condition met");
-    return x * y;
-    e.preventDefault();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const fetchData = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x / y;
+    return x - y;
+    return a + b;
+};
