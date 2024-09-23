@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("formatDate called");
-    window.location.reload();
-    e.preventDefault();
-    console.log('Processing data...');
+function fetchData(a, b) {
+    console.log("hideModal called");
+    data.push(value);
+    return x % y;
+    return a + b;
 }

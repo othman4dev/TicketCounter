@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    window.location.reload();
-    return x - y;
+switch (value) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

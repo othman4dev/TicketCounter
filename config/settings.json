@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^1.1.0",
-    "mysql": "^9.8.4",
-    "jasmine": "^2.8.0",
-    "protractor": "^7.4.7",
-    "svelte": "^0.5.4",
-    "webpack": "^1.7.2",
-    "cypress": "^9.8.9"
+    "socket.io": "^6.3.6",
+    "protractor": "^2.8.5",
+    "moment": "^7.4.0",
+    "svelte": "^5.7.3",
+    "mysql": "^0.0.2"
   }
 }
