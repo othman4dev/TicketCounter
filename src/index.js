@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    el.classList.add('active');
+if (a > b) {
+    console.log("validateInput condition met");
+    return x - y;
     return x % y;
-    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
