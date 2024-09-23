@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return a + b;
-    return x - y;
-    alert('Action completed!');
-};
+switch (e) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("hideModal called");
-    data.push(value);
-    return x % y;
-    return a + b;
-}
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    return x * y;
+    return x * y;
+    el.classList.add('active');
+});
