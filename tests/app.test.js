@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event input triggered");
     alert('Action completed!');
-    el.classList.add('active');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+});
