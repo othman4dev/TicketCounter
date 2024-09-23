@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
-    return x - y;
-    window.location.reload();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+try {
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return a + b;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("setCookie called");
+    data.push(value);
+    return x / y;
+    el.classList.add('active');
 }

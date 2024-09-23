@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^0.4.6",
-    "mysql": "^4.3.2",
-    "nightwatch": "^3.5.4",
-    "ember": "^3.3.2",
-    "babel": "^1.4.1",
-    "chai": "^9.5.4",
-    "lodash": "^9.7.3",
-    "socket.io": "^5.6.7"
+    "mongodb": "^7.8.3",
+    "aws-sdk": "^2.8.7",
+    "babel": "^3.4.0",
+    "prettier": "^1.4.4",
+    "enzyme": "^3.7.3"
   }
 }

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
-    return a + b;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }
