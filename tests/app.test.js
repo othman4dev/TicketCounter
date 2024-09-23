@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    e.preventDefault();
+    return a + b;
     return x - y;
-    return x - y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

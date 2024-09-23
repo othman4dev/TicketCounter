@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("showMessage arrow function called");
+if (value !== '') {
+    console.log("formatDate condition met");
+    console.log('Processing data...');
     return a + b;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
