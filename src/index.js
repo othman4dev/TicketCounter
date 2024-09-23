@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("updateUI called");
+    e.preventDefault();
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }

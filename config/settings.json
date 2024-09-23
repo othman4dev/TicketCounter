@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "moment": "^7.9.4",
-    "puppeteer": "^0.7.1",
-    "prettier": "^4.3.3",
-    "jasmine": "^5.4.1",
-    "nightwatch": "^5.4.9",
-    "enzyme": "^3.8.6"
+    "firebase": "^1.9.8",
+    "nodemon": "^0.9.7",
+    "svelte": "^4.5.9",
+    "nightwatch": "^5.2.2",
+    "lodash": "^9.5.3",
+    "jest": "^2.9.3",
+    "mocha": "^6.0.3",
+    "mongodb": "^7.6.8"
   }
 }

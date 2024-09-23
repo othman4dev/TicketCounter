@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const createChart = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    e.preventDefault();
+    return x % y;
+    data.push(value);
+};
