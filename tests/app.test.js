@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    e.preventDefault();
-    return x % y;
-    data.push(value);
-};
+if (e.key === 'Enter') {
+    console.log("toggleMenu condition met");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

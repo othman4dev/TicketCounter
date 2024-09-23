@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("updateUI called");
-    e.preventDefault();
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x ** y;
+    error.textContent = '';
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
