@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^3.4.1",
-    "ember": "^2.7.3",
-    "prettier": "^6.3.5",
-    "eslint": "^5.3.2",
-    "react": "^1.6.0"
+    "puppeteer": "^6.8.1",
+    "axios": "^6.7.3",
+    "mocha": "^7.7.6",
+    "firebase": "^3.6.1",
+    "jest": "^7.1.6",
+    "ember": "^5.1.7",
+    "redis": "^9.7.9",
+    "mysql": "^6.2.9"
   }
 }
