@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+const setSessionStorage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    e.preventDefault();
     return x - y;
-});
+    error.textContent = '';
+};
