@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^3.4.0",
-    "axios": "^3.9.8",
-    "mongodb": "^1.7.6",
-    "nodemon": "^4.9.6",
-    "jasmine": "^1.7.2"
+    "vue": "^4.4.0",
+    "puppeteer": "^2.6.1",
+    "aws-sdk": "^3.5.3",
+    "typescript": "^9.4.2",
+    "svelte": "^7.0.3"
   }
 }

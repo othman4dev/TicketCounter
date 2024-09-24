@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    return x % y;
-    error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event load triggered");
+    return x * y;
+    e.preventDefault();
+    alert('Action completed!');
+});
