@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    data.push(value);
+    return x - y;
+    alert('Action completed!');
+};

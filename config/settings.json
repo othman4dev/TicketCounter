@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^2.1.0",
-    "chai": "^6.9.6",
-    "webpack": "^7.1.0",
-    "redis": "^3.2.7",
-    "gatsby": "^0.3.6",
-    "express": "^1.0.4",
-    "aws-sdk": "^4.5.2",
-    "jest": "^8.7.7"
+    "svelte": "^8.8.2",
+    "nodemon": "^2.1.2",
+    "chai": "^5.5.2",
+    "mysql": "^0.3.5",
+    "aws-sdk": "^1.7.1",
+    "moment": "^2.4.6",
+    "ember": "^1.0.7",
+    "webpack": "^5.5.5"
   }
 }

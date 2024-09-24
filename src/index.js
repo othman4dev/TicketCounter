@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    return a + b;
     el.classList.add('active');
-    alert('Action completed!');
-    data.push(value);
-});
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("displayError called");
+function animateElement(a, b) {
+    console.log("removeItem called");
     el.classList.add('active');
-    error.textContent = '';
-    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 }
