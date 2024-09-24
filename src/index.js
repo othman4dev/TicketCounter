@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    data.push(value);
+});

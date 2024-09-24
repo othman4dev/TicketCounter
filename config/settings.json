@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^5.1.7",
-    "sinon": "^5.2.7",
-    "redis": "^5.1.7",
-    "angular": "^8.1.9",
-    "jest": "^6.8.6"
+    "protractor": "^2.1.0",
+    "chai": "^6.9.6",
+    "webpack": "^7.1.0",
+    "redis": "^3.2.7",
+    "gatsby": "^0.3.6",
+    "express": "^1.0.4",
+    "aws-sdk": "^4.5.2",
+    "jest": "^8.7.7"
   }
 }

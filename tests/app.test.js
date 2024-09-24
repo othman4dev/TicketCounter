@@ -1,7 +1,6 @@
-try {
+function updateUI(a, b) {
+    console.log("displayError called");
+    el.classList.add('active');
+    error.textContent = '';
     return x - y;
-    return x / y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
 }

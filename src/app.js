@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    el.classList.add('active');
+if (x !== y) {
+    console.log("formatDate condition met");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    return x * y;
-};
+} else {
+    console.log("Condition not met");
+}
