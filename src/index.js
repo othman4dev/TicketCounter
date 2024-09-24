@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    return a + b;
-    el.classList.add('active');
-    return x ** y;
+if (data.length > 0) {
+    console.log("formatDate condition met");
+    e.preventDefault();
+    return x % y;
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

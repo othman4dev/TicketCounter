@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("hideModal arrow function called");
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
     data.push(value);
-    return x - y;
     alert('Action completed!');
-};
+    e.preventDefault();
+});

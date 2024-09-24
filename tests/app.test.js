@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    data.push(value);
+    return x - y;
 }
