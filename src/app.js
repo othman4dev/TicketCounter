@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    e.preventDefault();
-    alert('Action completed!');
+function setSessionStorage(a, b) {
+    console.log("checkStatus called");
     return x * y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    error.textContent = '';
 }
