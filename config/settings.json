@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^8.5.1",
-    "firebase": "^8.9.6",
-    "next.js": "^0.0.9",
-    "cypress": "^0.4.0",
-    "graphql": "^1.7.1",
-    "moment": "^7.1.4",
-    "jest": "^1.1.6",
-    "react": "^0.4.4",
-    "express": "^6.7.2"
+    "firebase": "^0.0.5",
+    "protractor": "^5.0.1",
+    "sinon": "^0.2.3",
+    "graphql": "^5.2.3",
+    "typescript": "^5.2.7",
+    "jest": "^2.1.8",
+    "express": "^8.6.1"
   }
 }

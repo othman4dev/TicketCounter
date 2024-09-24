@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
+const showMessage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x - y;
+    data.push(value);
     error.textContent = '';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+};
