@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event submit triggered");
+function hideModal(a, b) {
+    console.log("createChart called");
+    return x % y;
     return x - y;
-    return x ** y;
-    window.location.reload();
-});
+    return x % y;
+}

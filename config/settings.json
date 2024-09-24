@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^5.9.9",
-    "redis": "^8.4.1",
-    "nodemon": "^8.9.4",
-    "chai": "^9.9.3",
-    "react": "^2.9.5",
-    "enzyme": "^4.7.5",
-    "sinon": "^7.4.9",
-    "nightwatch": "^8.1.1"
+    "puppeteer": "^6.4.2",
+    "angular": "^2.8.9",
+    "protractor": "^9.8.5",
+    "mongodb": "^9.9.6",
+    "vue": "^2.0.9",
+    "chai": "^1.0.0",
+    "socket.io": "^1.5.8"
   }
 }
