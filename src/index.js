@@ -1,6 +1,6 @@
 try {
-    el.classList.add('active');
-    return x / y;
+    data.push(value);
+    return a + b;
     return a + b;
 } catch (error) {
     console.error("Error:", error);

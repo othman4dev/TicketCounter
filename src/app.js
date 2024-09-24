@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("removeItem called");
-    return x - y;
-    return x * y;
+if (x !== y) {
+    console.log("handleClick condition met");
+    return x % y;
+    error.textContent = '';
     console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

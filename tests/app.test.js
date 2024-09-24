@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("animateElement called");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    e.preventDefault();
     window.location.reload();
-    el.classList.add('active');
-    error.textContent = '';
 }
