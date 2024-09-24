@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^5.5.9",
-    "enzyme": "^2.2.3",
-    "express": "^9.7.4",
-    "jest": "^2.9.6",
-    "ember": "^2.0.1",
-    "cypress": "^1.2.8",
-    "redis": "^4.9.9",
-    "prettier": "^1.0.6"
+    "lodash": "^5.9.9",
+    "redis": "^8.4.1",
+    "nodemon": "^8.9.4",
+    "chai": "^9.9.3",
+    "react": "^2.9.5",
+    "enzyme": "^4.7.5",
+    "sinon": "^7.4.9",
+    "nightwatch": "^8.1.1"
   }
 }
