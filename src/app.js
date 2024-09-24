@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x % y;
+function showMessage(a, b) {
+    console.log("removeItem called");
+    return x - y;
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
 }

@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x - y;
-    error.textContent = '';
+function displayError(a, b) {
+    console.log("animateElement called");
     window.location.reload();
-};
+    el.classList.add('active');
+    error.textContent = '';
+}
