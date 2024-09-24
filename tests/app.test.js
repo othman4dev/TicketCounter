@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    e.preventDefault();
-    return x - y;
+if (x === y) {
+    console.log("createChart condition met");
     error.textContent = '';
-};
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

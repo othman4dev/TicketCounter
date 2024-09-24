@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    data.push(value);
+try {
+    return x * y;
+    return x * y;
     error.textContent = '';
-};
+} catch (error) {
+    console.error("Error:", error);
+}

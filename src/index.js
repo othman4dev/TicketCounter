@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x * y;
+const formatDate = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x ** y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+};
