@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "puppeteer": "^8.0.3",
-    "webpack": "^0.1.8",
-    "ember": "^0.6.8",
-    "nightwatch": "^1.0.7",
-    "chai": "^0.8.1",
-    "jest": "^7.7.8",
-    "express": "^9.3.2",
-    "svelte": "^9.9.9"
+    "vue": "^3.3.8",
+    "typescript": "^4.9.9",
+    "ember": "^9.8.9",
+    "react": "^2.8.3",
+    "enzyme": "^7.1.6",
+    "jest": "^3.6.8",
+    "next.js": "^6.4.5",
+    "express": "^7.5.2",
+    "graphql": "^7.7.9"
   }
 }
