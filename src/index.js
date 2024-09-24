@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    console.log('Processing data...');
-    return x - y;
-}
+const fetchData = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x % y;
+    return x % y;
+    return x ** y;
+};
