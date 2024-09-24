@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event load triggered");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    return x % y;
     return x * y;
-    e.preventDefault();
-    alert('Action completed!');
-});
+}
