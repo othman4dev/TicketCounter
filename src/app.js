@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("showMessage called");
-    return x / y;
-    alert('Action completed!');
-    return x * y;
+try {
+    el.classList.add('active');
+    e.preventDefault();
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

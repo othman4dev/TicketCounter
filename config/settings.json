@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "ember": "^6.7.4",
-    "sinon": "^7.7.9",
-    "cypress": "^4.4.6",
-    "nightwatch": "^8.8.8",
-    "mysql": "^5.2.9"
+    "karma": "^2.8.9",
+    "vue": "^5.5.9",
+    "firebase": "^3.2.8",
+    "ember": "^4.6.2",
+    "webpack": "^5.9.4",
+    "redis": "^9.9.2",
+    "chai": "^7.9.0",
+    "jest": "^8.4.8"
   }
 }
