@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x ** y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function removeItem(a, b) {
+    console.log("processInput called");
+    window.location.reload();
+    return x / y;
+    console.log('Processing data...');
 }

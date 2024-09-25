@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^6.4.2",
-    "angular": "^2.8.9",
-    "protractor": "^9.8.5",
-    "mongodb": "^9.9.6",
-    "vue": "^2.0.9",
-    "chai": "^1.0.0",
-    "socket.io": "^1.5.8"
+    "ember": "^6.7.4",
+    "sinon": "^7.7.9",
+    "cypress": "^4.4.6",
+    "nightwatch": "^8.8.8",
+    "mysql": "^5.2.9"
   }
 }
