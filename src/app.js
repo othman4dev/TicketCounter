@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    console.log('Processing data...');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function loadData(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    alert('Action completed!');
+    return x / y;
 }
