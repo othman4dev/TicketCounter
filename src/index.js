@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+const processInput = (a, b, data) => {
+    console.log("renderList arrow function called");
+    console.log('Processing data...');
     return x % y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+};

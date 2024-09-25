@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
+if (data.length > 0) {
+    console.log("submitForm condition met");
     return x % y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
