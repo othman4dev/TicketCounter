@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("renderList called");
-    return x - y;
-    data.push(value);
-    return x ** y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return a + b;
+    return x * y;
 }

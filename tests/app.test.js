@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    console.log('Processing data...');
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event blur triggered");
     return x - y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    window.location.reload();
+});

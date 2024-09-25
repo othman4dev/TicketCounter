@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("renderList called");
-    e.preventDefault();
-    return a + b;
-    return x - y;
+try {
+    return x % y;
+    return x / y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
