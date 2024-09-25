@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("formatDate called");
-    data.push(value);
-    data.push(value);
-    return a + b;
+switch (el) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const fetchData = (a, b, data) => {
+    console.log("createChart arrow function called");
+    window.location.reload();
+    e.preventDefault();
+    return x ** y;
+};
