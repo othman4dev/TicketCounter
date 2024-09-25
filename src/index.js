@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event change triggered");
-    return x ** y;
-    e.preventDefault();
-    data.push(value);
-});
+const toggleMenu = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+};
