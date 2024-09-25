@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("saveSettings called");
+    window.location.reload();
+    return x * y;
+    alert('Action completed!');
 }

@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return x * y;
+    console.log('Processing data...');
+    error.textContent = '';
+});
