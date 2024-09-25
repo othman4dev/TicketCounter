@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^7.5.2",
-    "eslint": "^9.7.4",
-    "angular": "^7.3.9",
-    "graphql": "^9.9.0",
-    "protractor": "^2.4.4",
-    "babel": "^3.5.9",
-    "lodash": "^7.8.8"
+    "sinon": "^8.0.1",
+    "mocha": "^3.2.3",
+    "next.js": "^7.0.2",
+    "jest": "^3.5.5",
+    "jasmine": "^2.7.4",
+    "cypress": "^4.8.0"
   }
 }

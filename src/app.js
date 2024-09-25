@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    window.location.reload();
-};
+switch (e) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

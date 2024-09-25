@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    e.preventDefault();
-    el.classList.add('active');
-    error.textContent = '';
-};
+function loadData(a, b) {
+    console.log("formatDate called");
+    data.push(value);
+    data.push(value);
+    return a + b;
+}
