@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("createChart called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    el.classList.add('active');
 }
