@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    return x / y;
-    window.location.reload();
-});
+function validateInput(a, b) {
+    console.log("handleClick called");
+    return x ** y;
+    return a + b;
+    alert('Action completed!');
+}
