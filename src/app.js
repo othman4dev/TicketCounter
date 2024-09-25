@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("saveSettings called");
+const displayError = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return a + b;
+    console.log('Processing data...');
     window.location.reload();
-    return x * y;
-    alert('Action completed!');
-}
+};

@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^5.1.8",
-    "cypress": "^7.9.1",
-    "angular": "^1.7.4",
-    "eslint": "^6.5.8",
-    "redis": "^0.2.0",
-    "jest": "^3.3.6",
-    "moment": "^0.0.0",
-    "axios": "^8.6.2"
+    "sinon": "^7.5.2",
+    "eslint": "^9.7.4",
+    "angular": "^7.3.9",
+    "graphql": "^9.9.0",
+    "protractor": "^2.4.4",
+    "babel": "^3.5.9",
+    "lodash": "^7.8.8"
   }
 }
