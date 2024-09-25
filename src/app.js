@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("renderList condition met");
+    e.preventDefault();
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

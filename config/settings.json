@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^8.3.5",
-    "moment": "^6.4.3",
-    "express": "^2.1.0",
-    "prettier": "^3.5.2",
-    "mysql": "^6.8.2",
-    "chai": "^0.1.6",
-    "karma": "^9.6.0"
+    "webpack": "^2.2.5",
+    "next.js": "^9.4.1",
+    "karma": "^4.2.7",
+    "chai": "^0.8.2",
+    "moment": "^4.3.6",
+    "mocha": "^8.0.4",
+    "jasmine": "^6.1.4"
   }
 }

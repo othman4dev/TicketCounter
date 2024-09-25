@@ -1,7 +1,7 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    return x % y;
-    el.classList.add('active');
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    alert('Action completed!');
+    alert('Action completed!');
     window.location.reload();
 } else {
     console.log("Condition not met");
