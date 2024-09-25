@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function displayError(a, b) {
+    console.log("fetchData called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }

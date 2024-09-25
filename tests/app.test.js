@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    alert('Action completed!');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+try {
+    data.push(value);
+    return x - y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

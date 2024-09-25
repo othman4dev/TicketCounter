@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+const showMessage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
     return x * y;
-    el.classList.add('active');
-    return x % y;
-}
+};
