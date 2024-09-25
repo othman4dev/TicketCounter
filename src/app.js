@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    return x % y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("hideModal condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

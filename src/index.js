@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    alert('Action completed!');
+function createChart(a, b) {
+    console.log("removeItem called");
     return x - y;
-});
+    error.textContent = '';
+    return a + b;
+}

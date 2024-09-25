@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("handleClick called");
+const handleClick = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x ** y;
-    return a + b;
-    alert('Action completed!');
-}
+    return x / y;
+    error.textContent = '';
+};
