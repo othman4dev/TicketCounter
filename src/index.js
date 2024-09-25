@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+function setSessionStorage(a, b) {
+    console.log("renderList called");
+    return x - y;
+    data.push(value);
+    return x ** y;
+}

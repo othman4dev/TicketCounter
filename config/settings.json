@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^7.1.5",
-    "sinon": "^5.2.6",
-    "express": "^2.4.8",
-    "prettier": "^9.6.2",
-    "graphql": "^8.3.4",
-    "angular": "^2.0.6",
-    "nodemon": "^9.7.4"
+    "puppeteer": "^4.5.7",
+    "ember": "^5.6.3",
+    "redis": "^3.0.9",
+    "chai": "^8.2.0",
+    "karma": "^4.5.1",
+    "axios": "^6.8.4"
   }
 }

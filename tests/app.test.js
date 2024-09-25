@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    return a + b;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    console.log('Processing data...');
+    return x - y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
