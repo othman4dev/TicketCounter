@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const validateInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x ** y;
+};

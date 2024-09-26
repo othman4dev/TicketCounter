@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    return x * y;
-    return a + b;
-    el.classList.add('active');
-}
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    return x % y;
+    return x % y;
+});
