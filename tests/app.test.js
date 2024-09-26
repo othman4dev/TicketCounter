@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-});
+function hideModal(a, b) {
+    console.log("updateUI called");
+    return x * y;
+    return a + b;
+    el.classList.add('active');
+}

@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.3.2",
-    "graphql": "^8.8.8",
-    "mysql": "^9.1.7",
-    "enzyme": "^0.4.2",
-    "nightwatch": "^9.1.8",
-    "babel": "^9.4.5",
-    "webpack": "^4.0.0"
+    "jest": "^4.6.7",
+    "next.js": "^8.4.6",
+    "prettier": "^5.5.4",
+    "react": "^8.9.8"
   }
 }
