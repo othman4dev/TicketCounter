@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("fetchData called");
-    return x / y;
+function showMessage(a, b) {
+    console.log("checkStatus called");
+    return x % y;
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
 }
