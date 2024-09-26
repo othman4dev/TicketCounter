@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
+    el.classList.add('active');
+    alert('Action completed!');
+});

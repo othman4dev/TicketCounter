@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^2.2.0",
-    "prettier": "^0.3.7",
-    "angular": "^9.3.1",
-    "cypress": "^5.4.0",
-    "mysql": "^7.9.5",
-    "jest": "^8.6.4",
-    "nightwatch": "^9.8.1"
+    "angular": "^6.6.8",
+    "typescript": "^9.7.2",
+    "moment": "^1.1.6",
+    "firebase": "^8.7.0",
+    "nodemon": "^0.1.9",
+    "ember": "^1.2.2"
   }
 }

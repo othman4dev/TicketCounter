@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("removeItem called");
-    return x - y;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     error.textContent = '';
-    return a + b;
+    error.textContent = '';
 }
