@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    alert('Action completed!');
+    alert('Action completed!');
     return x % y;
-    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
