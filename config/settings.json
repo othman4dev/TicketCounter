@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "angular": "^6.6.8",
-    "typescript": "^9.7.2",
-    "moment": "^1.1.6",
-    "firebase": "^8.7.0",
-    "nodemon": "^0.1.9",
-    "ember": "^1.2.2"
+    "puppeteer": "^5.0.1",
+    "protractor": "^8.0.8",
+    "cypress": "^3.8.6",
+    "ember": "^7.6.1",
+    "socket.io": "^8.5.7"
   }
 }

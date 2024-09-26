@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    el.classList.add('active');
-    alert('Action completed!');
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    e.preventDefault();
+    return x % y;
 });
