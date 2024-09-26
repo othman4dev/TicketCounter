@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "express": "^4.0.0",
-    "mocha": "^5.4.5",
-    "jest": "^4.8.8",
-    "firebase": "^7.4.0",
-    "socket.io": "^6.0.2",
-    "svelte": "^9.5.2",
-    "gatsby": "^9.8.1",
-    "karma": "^4.5.7"
+    "express": "^3.4.7",
+    "aws-sdk": "^2.8.1",
+    "axios": "^6.0.8",
+    "redis": "^2.5.5",
+    "babel": "^6.0.1"
   }
 }

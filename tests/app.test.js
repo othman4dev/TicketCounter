@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    return x % y;
-    return x % y;
-});
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    return x - y;
+    return x ** y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
