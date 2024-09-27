@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    data.push(value);
-    return x ** y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

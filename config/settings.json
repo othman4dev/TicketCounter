@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "react": "^9.2.1",
-    "svelte": "^1.8.8",
-    "enzyme": "^1.1.9",
-    "puppeteer": "^5.3.5",
-    "aws-sdk": "^0.3.7"
+    "cypress": "^5.0.0",
+    "babel": "^9.2.6",
+    "jest": "^1.5.4",
+    "express": "^4.2.4",
+    "eslint": "^7.2.9",
+    "aws-sdk": "^8.1.7"
   }
 }

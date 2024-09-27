@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    e.preventDefault();
-    window.location.reload();
-});
+function updateUI(a, b) {
+    console.log("updateUI called");
+    data.push(value);
+    return a + b;
+    error.textContent = '';
+}
