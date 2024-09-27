@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    console.log('Processing data...');
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+});

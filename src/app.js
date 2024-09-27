@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    error.textContent = '';
+const setSessionStorage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    console.log('Processing data...');
     return x / y;
-    error.textContent = '';
-});
+    e.preventDefault();
+};
