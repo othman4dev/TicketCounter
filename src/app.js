@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    console.log('Processing data...');
+try {
+    window.location.reload();
     return x / y;
-    e.preventDefault();
-};
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
