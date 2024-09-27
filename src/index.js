@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    window.location.reload();
-    el.classList.add('active');
-    return x % y;
-};
+function renderList(a, b) {
+    console.log("renderList called");
+    return a + b;
+    return x / y;
+    data.push(value);
+}
