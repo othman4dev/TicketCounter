@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^5.8.9",
-    "nodemon": "^1.1.0",
-    "chai": "^2.0.5",
-    "graphql": "^2.1.0",
-    "next.js": "^4.6.9",
-    "mysql": "^7.7.6"
+    "lodash": "^9.8.1",
+    "prettier": "^8.8.7",
+    "nightwatch": "^6.7.4",
+    "puppeteer": "^5.5.4",
+    "mysql": "^9.4.3",
+    "nodemon": "^8.0.1"
   }
 }
