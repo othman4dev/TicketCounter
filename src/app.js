@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
+const hideModal = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return a + b;
+    e.preventDefault();
     return x - y;
-    console.log('Processing data...');
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+};

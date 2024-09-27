@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^3.7.0",
-    "protractor": "^7.9.1",
-    "webpack": "^5.0.5",
-    "react": "^1.6.4",
-    "eslint": "^1.1.6"
+    "svelte": "^6.2.7",
+    "next.js": "^0.9.7",
+    "chai": "^8.5.8",
+    "express": "^1.8.3",
+    "karma": "^0.9.7",
+    "graphql": "^8.7.1",
+    "jest": "^1.0.8",
+    "aws-sdk": "^2.3.1"
   }
 }

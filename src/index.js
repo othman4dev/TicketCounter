@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    return x % y;
+    error.textContent = '';
+});
