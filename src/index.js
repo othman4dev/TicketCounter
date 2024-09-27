@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("processInput arrow function called");
+    data.push(value);
+    console.log('Processing data...');
+    return x % y;
+};
