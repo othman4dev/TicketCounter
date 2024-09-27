@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x ** y;
-    return x ** y;
-    data.push(value);
+const processInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
+    return a + b;
 };

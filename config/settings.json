@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^2.0.2",
-    "axios": "^1.8.5",
-    "babel": "^8.6.4",
-    "typescript": "^2.1.6",
-    "mongodb": "^8.2.0",
-    "svelte": "^2.8.2",
-    "prettier": "^5.1.6",
-    "eslint": "^0.8.7"
+    "angular": "^2.7.4",
+    "graphql": "^2.7.0",
+    "jasmine": "^7.1.4",
+    "express": "^2.8.7",
+    "jest": "^8.0.7"
   }
 }
