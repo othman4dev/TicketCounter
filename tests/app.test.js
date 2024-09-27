@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
+try {
+    return x / y;
+    e.preventDefault();
     alert('Action completed!');
-    return x ** y;
-    alert('Action completed!');
-});
+} catch (error) {
+    console.error("Error:", error);
+}

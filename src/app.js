@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return a + b;
-    e.preventDefault();
-    return x - y;
+const updateUI = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    error.textContent = '';
+    window.location.reload();
+    console.log('Processing data...');
 };

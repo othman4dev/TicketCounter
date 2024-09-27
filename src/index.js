@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
+if (document.readyState === 'complete') {
+    console.log("getLocalStorage condition met");
     return x % y;
-    error.textContent = '';
-});
+    data.push(value);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

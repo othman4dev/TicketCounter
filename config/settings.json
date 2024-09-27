@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "svelte": "^6.2.7",
-    "next.js": "^0.9.7",
-    "chai": "^8.5.8",
-    "express": "^1.8.3",
-    "karma": "^0.9.7",
-    "graphql": "^8.7.1",
-    "jest": "^1.0.8",
-    "aws-sdk": "^2.3.1"
+    "gatsby": "^4.8.8",
+    "aws-sdk": "^6.1.8",
+    "prettier": "^3.3.5",
+    "jest": "^1.0.5"
   }
 }
