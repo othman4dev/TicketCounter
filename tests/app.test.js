@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    data.push(value);
-    return x % y;
-    data.push(value);
-};
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    return x * y;
+    return x / y;
+});
