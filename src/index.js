@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    el.classList.add('active');
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    data.push(value);
+    return x ** y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
