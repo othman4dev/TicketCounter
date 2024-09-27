@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^0.4.1",
-    "mysql": "^2.7.6",
-    "nodemon": "^8.6.8",
-    "eslint": "^8.4.3",
-    "jasmine": "^7.2.2",
-    "redis": "^7.5.1"
+    "karma": "^8.7.4",
+    "ember": "^8.5.8",
+    "babel": "^0.7.0",
+    "cypress": "^7.6.8",
+    "nightwatch": "^9.7.8",
+    "gatsby": "^0.5.3",
+    "prettier": "^4.7.2",
+    "socket.io": "^4.8.0"
   }
 }

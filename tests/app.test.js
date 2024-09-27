@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    return x * y;
-    return x / y;
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    alert('Action completed!');
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 });
