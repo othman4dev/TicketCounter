@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    e.preventDefault();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function toggleMenu(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x - y;
 }

@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    error.textContent = '';
-    window.location.reload();
-    console.log('Processing data...');
-};
+if (value !== '') {
+    console.log("validateInput condition met");
+    return a + b;
+    e.preventDefault();
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^4.8.8",
-    "aws-sdk": "^6.1.8",
-    "prettier": "^3.3.5",
-    "jest": "^1.0.5"
+    "axios": "^7.0.7",
+    "aws-sdk": "^0.1.4",
+    "gatsby": "^4.5.2",
+    "moment": "^2.0.9",
+    "mocha": "^3.6.6",
+    "mysql": "^7.3.8"
   }
 }
