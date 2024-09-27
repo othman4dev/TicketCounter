@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
+if (value !== '') {
+    console.log("checkStatus condition met");
+    return x / y;
     console.log('Processing data...');
-    data.push(value);
-    return x % y;
-});
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
