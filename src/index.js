@@ -1,6 +1,6 @@
 const renderList = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x * y;
+    console.log("getLocalStorage arrow function called");
+    window.location.reload();
+    alert('Action completed!');
     return x ** y;
-    return x * y;
 };

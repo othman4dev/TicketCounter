@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("toggleMenu called");
-    data.push(value);
-    window.location.reload();
-    alert('Action completed!');
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    return a + b;
+    return x * y;
+});

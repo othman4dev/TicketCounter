@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("toggleMenu called");
+try {
+    alert('Action completed!');
     return x % y;
-    return x % y;
-    return x ** y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
