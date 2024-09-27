@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("renderList called");
-    return a + b;
-    return x / y;
+try {
     data.push(value);
+    return x * y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

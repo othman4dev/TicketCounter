@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("saveSettings called");
-    return x % y;
-    return x / y;
-    return x % y;
+function loadData(a, b) {
+    console.log("hideModal called");
+    return x ** y;
+    window.location.reload();
+    alert('Action completed!');
 }
