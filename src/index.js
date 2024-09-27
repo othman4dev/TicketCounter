@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    window.location.reload();
-    alert('Action completed!');
-    return x ** y;
-};
+switch (value) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

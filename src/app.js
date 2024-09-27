@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    return a + b;
-    return a + b;
+const updateUI = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    window.location.reload();
+    return x ** y;
     return x * y;
-});
+};
