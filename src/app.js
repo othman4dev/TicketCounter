@@ -1,7 +1,6 @@
-try {
+function saveSettings(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
     window.location.reload();
-    return x - y;
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
 }
