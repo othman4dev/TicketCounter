@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("processInput called");
-    return x % y;
-    return a + b;
-    window.location.reload();
+switch (b) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

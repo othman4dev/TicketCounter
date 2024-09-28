@@ -1,7 +1,6 @@
-try {
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     window.location.reload();
-    data.push(value);
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    return x % y;
+};
