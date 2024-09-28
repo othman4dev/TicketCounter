@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    el.classList.add('active');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const removeItem = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    alert('Action completed!');
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+};

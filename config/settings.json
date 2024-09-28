@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "ember": "^4.5.5",
-    "sinon": "^0.6.1",
-    "svelte": "^1.0.2",
-    "gatsby": "^6.7.4",
-    "redis": "^7.0.3",
-    "axios": "^9.6.4",
-    "nodemon": "^0.3.4",
-    "jest": "^2.2.5"
+    "jasmine": "^5.0.6",
+    "babel": "^7.4.1",
+    "firebase": "^9.2.2",
+    "protractor": "^8.9.5",
+    "graphql": "^6.1.6",
+    "angular": "^0.7.3"
   }
 }
