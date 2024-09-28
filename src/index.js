@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("showMessage called");
-    return x / y;
+try {
     error.textContent = '';
-    return x / y;
+    console.log('Processing data...');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
