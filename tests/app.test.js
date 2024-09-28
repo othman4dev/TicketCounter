@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("displayError arrow function called");
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x ** y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
