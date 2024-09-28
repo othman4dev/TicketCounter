@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("fetchData called");
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
     console.log('Processing data...');
-    error.textContent = '';
-    return x / y;
-}
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+});

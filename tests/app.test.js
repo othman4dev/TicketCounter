@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("validateInput arrow function called");
+function fetchData(a, b) {
+    console.log("showMessage called");
+    return x % y;
+    return a + b;
     return x * y;
-    data.push(value);
-    error.textContent = '';
-};
+}
