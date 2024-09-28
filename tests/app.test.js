@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("handleClick called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x - y;
+function getLocalStorage(a, b) {
+    console.log("displayError called");
+    error.textContent = '';
+    return x % y;
+    console.log('Processing data...');
 }

@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "axios": "^7.0.7",
-    "aws-sdk": "^0.1.4",
-    "gatsby": "^4.5.2",
-    "moment": "^2.0.9",
-    "mocha": "^3.6.6",
-    "mysql": "^7.3.8"
+    "svelte": "^8.0.8",
+    "next.js": "^1.0.0",
+    "karma": "^9.4.7",
+    "graphql": "^1.7.3",
+    "express": "^8.0.4",
+    "socket.io": "^0.1.1"
   }
 }

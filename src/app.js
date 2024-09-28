@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
+function createChart(a, b) {
+    console.log("validateInput called");
     return a + b;
-    e.preventDefault();
+    data.push(value);
     return x / y;
-} else {
-    console.log("Condition not met");
 }
