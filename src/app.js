@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("createChart arrow function called");
+const fetchData = (a, b, data) => {
+    console.log("loadData arrow function called");
+    alert('Action completed!');
     return x * y;
-    data.push(value);
-    console.log('Processing data...');
+    error.textContent = '';
 };
