@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    return a + b;
-    e.preventDefault();
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+};
