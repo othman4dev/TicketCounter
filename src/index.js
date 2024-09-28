@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    return x ** y;
-    e.preventDefault();
-});
+const removeItem = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
+    return x - y;
+    alert('Action completed!');
+};

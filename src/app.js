@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    window.location.reload();
+    el.classList.add('active');
+    return x * y;
+};

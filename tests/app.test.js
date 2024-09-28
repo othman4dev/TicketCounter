@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("renderList called");
+try {
+    return x ** y;
     el.classList.add('active');
-    console.log('Processing data...');
-    return x % y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
