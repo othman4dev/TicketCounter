@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    return x - y;
-    console.log('Processing data...');
-    return x % y;
-});
+function hideModal(a, b) {
+    console.log("showMessage called");
+    return x / y;
+    error.textContent = '';
+    return x / y;
+}
