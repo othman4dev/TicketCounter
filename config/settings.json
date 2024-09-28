@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^8.2.3",
-    "nodemon": "^2.5.2",
-    "nightwatch": "^6.0.3",
-    "angular": "^0.4.1",
-    "firebase": "^2.5.5"
+    "svelte": "^4.8.0",
+    "firebase": "^0.6.9",
+    "gatsby": "^9.2.3",
+    "babel": "^6.2.3",
+    "webpack": "^1.1.3"
   }
 }

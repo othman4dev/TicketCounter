@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    e.preventDefault();
-};
+function showMessage(a, b) {
+    console.log("processInput called");
+    return x % y;
+    return a + b;
+    window.location.reload();
+}
