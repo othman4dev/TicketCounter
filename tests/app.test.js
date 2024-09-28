@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x * y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
+    window.location.reload();
+    alert('Action completed!');
+};

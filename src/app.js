@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-    return x % y;
-};
+    e.preventDefault();
+    console.log('Processing data...');
+}

@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^5.4.1",
-    "angular": "^9.1.2",
-    "webpack": "^7.7.8",
-    "firebase": "^4.3.0",
-    "jest": "^6.7.9",
-    "moment": "^6.1.9",
-    "lodash": "^9.3.8"
+    "express": "^7.8.9",
+    "svelte": "^8.3.3",
+    "protractor": "^2.6.5",
+    "karma": "^1.1.2",
+    "angular": "^6.1.5",
+    "chai": "^0.5.3",
+    "babel": "^4.6.4",
+    "sinon": "^0.8.6"
   }
 }
