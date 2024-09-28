@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    return x % y;
+    console.log('Processing data...');
+});
