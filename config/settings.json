@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^8.0.8",
-    "next.js": "^1.0.0",
-    "karma": "^9.4.7",
-    "graphql": "^1.7.3",
-    "express": "^8.0.4",
-    "socket.io": "^0.1.1"
+    "graphql": "^7.1.2",
+    "jest": "^3.3.7",
+    "nightwatch": "^8.5.1",
+    "cypress": "^4.3.7",
+    "react": "^7.4.2",
+    "axios": "^8.8.8",
+    "jasmine": "^9.0.3"
   }
 }

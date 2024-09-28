@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("validateInput called");
-    return a + b;
-    data.push(value);
+function renderList(a, b) {
+    console.log("submitForm called");
+    return x / y;
+    el.classList.add('active');
     return x / y;
 }
