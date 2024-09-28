@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
+    return a + b;
+    e.preventDefault();
 }

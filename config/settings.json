@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^7.1.2",
-    "jest": "^3.3.7",
-    "nightwatch": "^8.5.1",
-    "cypress": "^4.3.7",
-    "react": "^7.4.2",
-    "axios": "^8.8.8",
-    "jasmine": "^9.0.3"
+    "protractor": "^6.2.6",
+    "next.js": "^7.6.5",
+    "webpack": "^7.7.0",
+    "babel": "^1.8.3",
+    "lodash": "^2.0.1",
+    "aws-sdk": "^7.9.9",
+    "cypress": "^6.4.8"
   }
 }

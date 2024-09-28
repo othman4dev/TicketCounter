@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("displayError arrow function called");
-    el.classList.add('active');
+function showMessage(a, b) {
+    console.log("toggleMenu called");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-};
+    return a + b;
+    return x - y;
+}
