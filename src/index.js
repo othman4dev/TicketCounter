@@ -1,7 +1,6 @@
-try {
+const handleClick = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
     error.textContent = '';
-    data.push(value);
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+};

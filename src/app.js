@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    alert('Action completed!');
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-};
+    console.log('Processing data...');
+    alert('Action completed!');
+}

@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    e.preventDefault();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const saveSettings = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    alert('Action completed!');
+};

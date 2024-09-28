@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^5.0.6",
-    "babel": "^7.4.1",
-    "firebase": "^9.2.2",
-    "protractor": "^8.9.5",
-    "graphql": "^6.1.6",
-    "angular": "^0.7.3"
+    "eslint": "^8.2.3",
+    "nodemon": "^2.5.2",
+    "nightwatch": "^6.0.3",
+    "angular": "^0.4.1",
+    "firebase": "^2.5.5"
   }
 }
