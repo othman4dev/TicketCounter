@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    data.push(value);
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    e.preventDefault();
+});

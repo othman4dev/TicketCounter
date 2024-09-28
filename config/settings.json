@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^0.8.8",
-    "svelte": "^7.7.8",
-    "eslint": "^0.1.3",
-    "sinon": "^4.4.9",
-    "chai": "^0.0.5",
-    "express": "^0.5.6"
+    "moment": "^4.2.5",
+    "svelte": "^2.7.8",
+    "jest": "^1.4.8",
+    "vue": "^5.3.1",
+    "mongodb": "^8.9.8",
+    "nightwatch": "^3.8.9"
   }
 }
