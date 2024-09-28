@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
+const formatDate = (a, b, data) => {
+    console.log("createChart arrow function called");
     return x * y;
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+    console.log('Processing data...');
+};

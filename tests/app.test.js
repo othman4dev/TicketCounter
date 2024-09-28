@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    return x % y;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
+    console.log('Processing data...');
     return x % y;
-} else {
-    console.log("Condition not met");
 }
