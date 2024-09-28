@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("validateInput called");
-    return x / y;
-    return x - y;
-    data.push(value);
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    return x % y;
+    e.preventDefault();
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

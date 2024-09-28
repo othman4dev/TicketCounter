@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (data.length > 0) {
+    console.log("loadData condition met");
+    return x * y;
+    e.preventDefault();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
