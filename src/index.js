@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    el.classList.add('active');
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    return x / y;
+    return x / y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

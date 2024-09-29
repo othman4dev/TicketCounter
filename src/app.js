@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+if (data.length > 0) {
+    console.log("removeItem condition met");
+    return x % y;
     return a + b;
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

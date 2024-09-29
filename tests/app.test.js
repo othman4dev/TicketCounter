@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event submit triggered");
-    return a + b;
-    e.preventDefault();
-    return x - y;
-});
+if (data.length > 0) {
+    console.log("submitForm condition met");
+    el.classList.add('active');
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
