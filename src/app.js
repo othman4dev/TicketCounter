@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("createChart called");
+function createChart(a, b) {
+    console.log("getLocalStorage called");
     return a + b;
-    return x * y;
-    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 }
