@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^2.7.2",
-    "webpack": "^5.5.2",
-    "nightwatch": "^6.0.7",
-    "protractor": "^6.8.9",
-    "aws-sdk": "^3.4.8",
-    "gatsby": "^7.1.9",
-    "socket.io": "^7.6.1",
-    "angular": "^0.2.3",
-    "chai": "^7.0.6"
+    "mocha": "^7.2.9",
+    "ember": "^1.4.2",
+    "vue": "^0.5.3",
+    "babel": "^5.4.2",
+    "redis": "^1.1.8",
+    "firebase": "^4.3.4"
   }
 }
