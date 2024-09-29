@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event click triggered");
-    return x % y;
-    alert('Action completed!');
-    return x - y;
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    el.classList.add('active');
+    e.preventDefault();
+}

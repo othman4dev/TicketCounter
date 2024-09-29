@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    data.push(value);
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    return a + b;
+    e.preventDefault();
+    return x - y;
+});
