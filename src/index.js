@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
+try {
     return x % y;
-    console.log('Processing data...');
-});
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

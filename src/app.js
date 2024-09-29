@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    return x / y;
-    return x % y;
-});
+if (value !== '') {
+    console.log("removeItem condition met");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
