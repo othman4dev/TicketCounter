@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x % y;
+const setCookie = (a, b, data) => {
+    console.log("validateInput arrow function called");
     return x * y;
-}
+    data.push(value);
+    error.textContent = '';
+};
