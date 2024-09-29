@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "express": "^7.8.9",
-    "svelte": "^8.3.3",
-    "protractor": "^2.6.5",
-    "karma": "^1.1.2",
-    "angular": "^6.1.5",
-    "chai": "^0.5.3",
-    "babel": "^4.6.4",
-    "sinon": "^0.8.6"
+    "mocha": "^5.3.5",
+    "webpack": "^5.8.9",
+    "mongodb": "^9.1.0",
+    "enzyme": "^6.7.6",
+    "protractor": "^3.5.3",
+    "jest": "^5.2.0",
+    "babel": "^2.8.9",
+    "socket.io": "^3.3.0"
   }
 }

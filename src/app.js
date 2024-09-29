@@ -1,6 +1,7 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+try {
+    alert('Action completed!');
     e.preventDefault();
-    console.log('Processing data...');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

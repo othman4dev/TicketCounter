@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    window.location.reload();
-    alert('Action completed!');
+const getLocalStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return a + b;
+    return x / y;
+    e.preventDefault();
 };
