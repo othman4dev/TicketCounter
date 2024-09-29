@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
+function saveSettings(a, b) {
+    console.log("createChart called");
+    return a + b;
+    return x * y;
     e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
 }
