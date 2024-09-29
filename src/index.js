@@ -1,6 +1,7 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    alert('Action completed!');
-    return x ** y;
+switch (b) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
