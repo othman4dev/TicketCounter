@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x - y;
-    error.textContent = '';
-}
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    el.classList.add('active');
+    console.log('Processing data...');
+});

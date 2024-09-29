@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x - y;
-});
+if (value !== '') {
+    console.log("setCookie condition met");
+    data.push(value);
+    error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

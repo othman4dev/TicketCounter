@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "axios": "^7.8.2",
-    "jasmine": "^1.5.1",
-    "svelte": "^2.9.3",
-    "mongodb": "^4.4.3",
-    "nodemon": "^1.0.0",
-    "enzyme": "^4.2.8",
-    "firebase": "^8.0.4"
+    "gatsby": "^0.9.9",
+    "mysql": "^7.9.0",
+    "socket.io": "^5.3.6",
+    "svelte": "^5.7.5",
+    "firebase": "^0.8.8",
+    "nodemon": "^6.1.3"
   }
 }

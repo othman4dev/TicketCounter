@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("loadData called");
-    data.push(value);
-    window.location.reload();
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event click triggered");
     return x % y;
-}
+    alert('Action completed!');
+    return x - y;
+});
