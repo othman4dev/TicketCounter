@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "karma": "^5.1.1",
-    "eslint": "^8.8.4",
-    "webpack": "^9.8.4",
-    "chai": "^7.1.5",
-    "next.js": "^7.0.7",
-    "aws-sdk": "^7.4.7",
-    "angular": "^8.4.3",
-    "react": "^9.4.6"
+    "nightwatch": "^5.0.5",
+    "karma": "^2.8.1",
+    "moment": "^1.2.5",
+    "enzyme": "^9.6.8",
+    "chai": "^5.6.2",
+    "cypress": "^7.6.4",
+    "graphql": "^5.8.2"
   }
 }

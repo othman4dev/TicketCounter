@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return a + b;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const displayError = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+};
