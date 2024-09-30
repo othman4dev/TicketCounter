@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("animateElement called");
-    alert('Action completed!');
-    return x % y;
+function submitForm(a, b) {
+    console.log("checkStatus called");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }

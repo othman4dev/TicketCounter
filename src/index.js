@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("animateElement arrow function called");
+function saveSettings(a, b) {
+    console.log("processInput called");
     console.log('Processing data...');
-    window.location.reload();
     return x % y;
-};
+    data.push(value);
+}
