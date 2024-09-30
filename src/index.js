@@ -1,7 +1,8 @@
-try {
+if (data.length > 0) {
+    console.log("validateInput condition met");
+    data.push(value);
     console.log('Processing data...');
-    e.preventDefault();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
