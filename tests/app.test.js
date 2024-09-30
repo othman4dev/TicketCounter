@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x - y;
-});
+const renderList = (a, b, data) => {
+    console.log("displayError arrow function called");
+    error.textContent = '';
+    el.classList.add('active');
+    return x * y;
+};
