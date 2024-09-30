@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("toggleMenu called");
-    window.location.reload();
-    return a + b;
-    return x * y;
-}
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x - y;
+});
