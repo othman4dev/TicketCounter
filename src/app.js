@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event focus triggered");
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    return x % y;
     return a + b;
-    return x * y;
-    el.classList.add('active');
-});
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

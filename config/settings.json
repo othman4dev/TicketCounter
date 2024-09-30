@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "axios": "^4.2.3",
-    "svelte": "^3.3.6",
-    "lodash": "^0.9.8",
-    "eslint": "^9.4.7",
-    "moment": "^2.2.4"
+    "chai": "^4.3.9",
+    "mongodb": "^8.8.2",
+    "enzyme": "^6.4.6",
+    "ember": "^8.0.7",
+    "lodash": "^7.7.2",
+    "sinon": "^2.5.0",
+    "gatsby": "^3.3.6",
+    "axios": "^7.9.3",
+    "nodemon": "^2.6.4"
   }
 }
