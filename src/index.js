@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
+try {
     console.log('Processing data...');
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-});
+    console.log('Processing data...');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

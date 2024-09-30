@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    return x - y;
-    return x ** y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    return x * y;
+    el.classList.add('active');
+});

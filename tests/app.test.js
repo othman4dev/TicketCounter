@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("showMessage called");
-    return x % y;
-    return a + b;
-    return x * y;
+try {
+    window.location.reload();
+    alert('Action completed!');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

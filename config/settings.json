@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^1.1.2",
-    "aws-sdk": "^2.3.5",
-    "sinon": "^2.2.1",
-    "graphql": "^1.0.1",
-    "react": "^5.9.0"
+    "axios": "^4.2.3",
+    "svelte": "^3.3.6",
+    "lodash": "^0.9.8",
+    "eslint": "^9.4.7",
+    "moment": "^2.2.4"
   }
 }
