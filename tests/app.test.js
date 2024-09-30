@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("displayError arrow function called");
-    error.textContent = '';
-    el.classList.add('active');
-    return x * y;
-};
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x - y;
+    return x % y;
+}

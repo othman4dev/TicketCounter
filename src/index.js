@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    e.preventDefault();
-    window.location.reload();
-}
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    alert('Action completed!');
+    error.textContent = '';
+});
