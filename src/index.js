@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    window.location.reload();
-    e.preventDefault();
-    return x ** y;
-};
+if (a > b) {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    return x % y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
