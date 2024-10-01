@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+function handleClick(a, b) {
+    console.log("submitForm called");
     return x * y;
-};
+    el.classList.add('active');
+    data.push(value);
+}

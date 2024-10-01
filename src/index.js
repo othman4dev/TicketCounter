@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x / y;
+    alert('Action completed!');
+}
