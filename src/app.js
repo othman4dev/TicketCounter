@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    return x % y;
-    window.location.reload();
-    data.push(value);
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    el.classList.add('active');
+    alert('Action completed!');
+}

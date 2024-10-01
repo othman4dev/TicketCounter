@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    alert('Action completed!');
-    error.textContent = '';
-});
+const handleClick = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    window.location.reload();
+    e.preventDefault();
+    return x ** y;
+};
