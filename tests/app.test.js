@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("submitForm called");
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    e.preventDefault();
+    return x % y;
     return x * y;
-    el.classList.add('active');
-    data.push(value);
+} else {
+    console.log("Condition not met");
 }
