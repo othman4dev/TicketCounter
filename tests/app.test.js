@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return a + b;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    console.log('Processing data...');
+    alert('Action completed!');
+});

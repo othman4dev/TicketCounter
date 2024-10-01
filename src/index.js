@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    el.classList.add('active');
+const hideModal = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
     return x % y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+};

@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("showMessage called");
+function animateElement(a, b) {
+    console.log("animateElement called");
     alert('Action completed!');
-    e.preventDefault();
-    return x * y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }
