@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("setCookie called");
-    console.log('Processing data...');
-    return x - y;
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return x / y;
+    el.classList.add('active');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

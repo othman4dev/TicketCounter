@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x % y;
-    el.classList.add('active');
-    return a + b;
-};
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+});
