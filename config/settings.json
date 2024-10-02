@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^0.3.9",
-    "chai": "^5.9.9",
-    "prettier": "^8.5.4",
-    "react": "^4.4.7",
-    "mysql": "^9.9.3",
-    "nodemon": "^0.2.8"
+    "mongodb": "^3.1.6",
+    "socket.io": "^2.9.2",
+    "ember": "^3.1.2",
+    "sinon": "^5.2.2",
+    "jasmine": "^3.8.8",
+    "angular": "^3.3.9",
+    "typescript": "^3.5.1",
+    "graphql": "^3.8.0"
   }
 }

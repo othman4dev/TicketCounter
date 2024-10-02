@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x * y;
+if (x === y) {
+    console.log("loadData condition met");
+    e.preventDefault();
+    error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
