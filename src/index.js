@@ -1,7 +1,6 @@
-try {
+const processInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    data.push(value);
     window.location.reload();
-    return x ** y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};

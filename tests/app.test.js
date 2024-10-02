@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    e.preventDefault();
-    return x % y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+function toggleMenu(a, b) {
+    console.log("toggleMenu called");
+    return x - y;
+    el.classList.add('active');
+    data.push(value);
 }
