@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("loadData arrow function called");
+    e.preventDefault();
+    error.textContent = '';
+    return a + b;
+};

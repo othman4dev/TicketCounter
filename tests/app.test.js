@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("setCookie arrow function called");
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    return x / y;
     data.push(value);
-    return x ** y;
-    e.preventDefault();
-};
+    return x * y;
+});
