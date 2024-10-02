@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("handleClick arrow function called");
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
     window.location.reload();
-    window.location.reload();
-    return x % y;
-};
+    e.preventDefault();
+    return x - y;
+});
