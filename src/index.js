@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event resize triggered");
     return x % y;
-    data.push(value);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});

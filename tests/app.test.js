@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    data.push(value);
-    return x ** y;
-    window.location.reload();
-});
+function showMessage(a, b) {
+    console.log("handleClick called");
+    return x * y;
+    alert('Action completed!');
+    alert('Action completed!');
+}

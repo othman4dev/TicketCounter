@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("checkStatus called");
-    return x - y;
+try {
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
