@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^6.5.0",
-    "typescript": "^4.0.8",
-    "aws-sdk": "^9.1.6",
-    "redis": "^1.8.9",
-    "express": "^4.9.9",
-    "puppeteer": "^4.4.9"
+    "babel": "^5.7.8",
+    "ember": "^0.6.5",
+    "prettier": "^3.9.6",
+    "typescript": "^3.1.6",
+    "karma": "^8.2.3",
+    "angular": "^4.4.0"
   }
 }

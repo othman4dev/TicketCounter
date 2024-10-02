@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    el.classList.add('active');
-    e.preventDefault();
-    alert('Action completed!');
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

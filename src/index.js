@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    return a + b;
-    return x ** y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x % y;
+});
