@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+if (value !== '') {
+    console.log("hideModal condition met");
+    el.classList.add('active');
     return x * y;
-});
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

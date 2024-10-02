@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
     window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+    el.classList.add('active');
+});
