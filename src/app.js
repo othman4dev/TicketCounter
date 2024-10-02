@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
+try {
     return x * y;
-    error.textContent = '';
-});
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

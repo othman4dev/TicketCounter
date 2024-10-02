@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
+const fetchData = (a, b, data) => {
     console.log("setCookie arrow function called");
-    e.preventDefault();
-    return x * y;
+    data.push(value);
+    return x ** y;
     e.preventDefault();
 };

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "chai": "^8.1.8",
-    "mongodb": "^9.9.9",
-    "socket.io": "^1.7.7",
-    "angular": "^7.9.9",
-    "gatsby": "^0.7.1",
-    "jest": "^5.6.5",
-    "mysql": "^4.1.5",
-    "graphql": "^5.8.4"
+    "chai": "^8.9.6",
+    "mysql": "^3.4.3",
+    "jest": "^4.9.9",
+    "puppeteer": "^4.9.0",
+    "eslint": "^6.6.3",
+    "nightwatch": "^6.4.9"
   }
 }
