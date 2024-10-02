@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    el.classList.add('active');
+    el.classList.add('active');
 }
