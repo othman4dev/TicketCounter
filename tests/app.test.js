@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    data.push(value);
+    return x * y;
+    return x / y;
+};
