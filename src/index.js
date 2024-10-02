@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    return x / y;
-    el.classList.add('active');
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event input triggered");
     return a + b;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+});
