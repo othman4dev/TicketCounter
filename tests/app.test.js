@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("removeItem called");
-    return x * y;
-    el.classList.add('active');
-    el.classList.add('active');
+switch (x) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

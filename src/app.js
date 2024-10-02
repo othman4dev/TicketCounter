@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event blur triggered");
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event load triggered");
     return x * y;
-    e.preventDefault();
+    window.location.reload();
     window.location.reload();
 });

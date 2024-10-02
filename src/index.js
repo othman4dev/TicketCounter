@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    return x % y;
-    data.push(value);
+const removeItem = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    e.preventDefault();
     return a + b;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+};
