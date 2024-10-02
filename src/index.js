@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("hideModal called");
-    error.textContent = '';
-    window.location.reload();
-    alert('Action completed!');
+function getLocalStorage(a, b) {
+    console.log("setCookie called");
+    console.log('Processing data...');
+    return x - y;
+    console.log('Processing data...');
 }

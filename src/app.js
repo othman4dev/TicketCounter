@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const createChart = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x % y;
+    el.classList.add('active');
+    return a + b;
+};
