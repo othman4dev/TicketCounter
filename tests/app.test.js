@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    data.push(value);
-    return x * y;
-});
+const formatDate = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    alert('Action completed!');
+};

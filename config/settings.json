@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^1.6.6",
-    "graphql": "^8.1.9",
-    "nightwatch": "^0.0.5",
-    "jest": "^3.3.2",
-    "mocha": "^0.6.3"
+    "svelte": "^6.5.0",
+    "typescript": "^4.0.8",
+    "aws-sdk": "^9.1.6",
+    "redis": "^1.8.9",
+    "express": "^4.9.9",
+    "puppeteer": "^4.4.9"
   }
 }
