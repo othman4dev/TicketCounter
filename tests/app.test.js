@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    e.preventDefault();
+    return x * y;
+    e.preventDefault();
+};

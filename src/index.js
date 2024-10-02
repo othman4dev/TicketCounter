@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
-    return x % y;
-    data.push(value);
-};
+if (x === y) {
+    console.log("processInput condition met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
