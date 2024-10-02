@@ -1,7 +1,7 @@
-switch (y) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    return x - y;
+    el.classList.add('active');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
