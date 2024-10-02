@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    data.push(value);
+function validateInput(a, b) {
+    console.log("hideModal called");
+    error.textContent = '';
+    window.location.reload();
     alert('Action completed!');
-    return x % y;
-});
+}
