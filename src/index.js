@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    alert('Action completed!');
     return x % y;
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+});
