@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    e.preventDefault();
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("processInput arrow function called");
+    el.classList.add('active');
+    return x ** y;
+    alert('Action completed!');
+};
