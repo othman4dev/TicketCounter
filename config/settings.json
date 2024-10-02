@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^5.2.3",
-    "aws-sdk": "^5.9.3",
-    "typescript": "^2.2.5",
-    "svelte": "^6.0.9",
-    "cypress": "^7.3.9",
-    "express": "^5.4.4"
+    "mocha": "^9.2.6",
+    "express": "^2.2.8",
+    "jest": "^7.4.9",
+    "typescript": "^1.6.3",
+    "svelte": "^7.5.2",
+    "firebase": "^5.5.7",
+    "next.js": "^0.9.4",
+    "enzyme": "^9.4.2"
   }
 }
