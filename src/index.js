@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    return x ** y;
-    return x ** y;
-    return x * y;
+if (value !== '') {
+    console.log("fetchData condition met");
+    return x - y;
+    e.preventDefault();
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
