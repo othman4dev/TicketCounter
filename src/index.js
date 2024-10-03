@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x / y;
-    error.textContent = '';
-}
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    data.push(value);
+});

@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "babel": "^8.9.3",
-    "nightwatch": "^6.3.2",
-    "next.js": "^6.8.5",
-    "prettier": "^6.2.6",
-    "nodemon": "^0.6.3"
+    "jasmine": "^6.6.2",
+    "angular": "^5.9.6",
+    "nodemon": "^4.7.6",
+    "graphql": "^4.9.2",
+    "axios": "^3.4.5",
+    "webpack": "^9.3.3",
+    "babel": "^4.1.5"
   }
 }

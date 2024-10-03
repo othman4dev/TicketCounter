@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event blur triggered");
     return x % y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+    return x % y;
+});
