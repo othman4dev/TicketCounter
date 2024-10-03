@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^1.8.7",
-    "karma": "^5.1.8",
-    "angular": "^6.3.8",
-    "express": "^2.5.4",
-    "jasmine": "^2.9.5",
-    "moment": "^2.8.3",
-    "ember": "^5.5.3",
-    "nightwatch": "^3.1.7"
+    "mysql": "^1.4.7",
+    "gatsby": "^1.8.8",
+    "socket.io": "^5.7.9",
+    "nodemon": "^8.0.9",
+    "nightwatch": "^8.7.2"
   }
 }
