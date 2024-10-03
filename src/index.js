@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    el.classList.add('active');
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event resize triggered");
     data.push(value);
+    error.textContent = '';
+    e.preventDefault();
 });

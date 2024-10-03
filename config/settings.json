@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jasmine": "^6.6.2",
-    "angular": "^5.9.6",
-    "nodemon": "^4.7.6",
-    "graphql": "^4.9.2",
-    "axios": "^3.4.5",
-    "webpack": "^9.3.3",
-    "babel": "^4.1.5"
+    "axios": "^7.1.7",
+    "sinon": "^6.1.2",
+    "typescript": "^7.0.8",
+    "lodash": "^7.1.4",
+    "redis": "^3.4.3",
+    "puppeteer": "^6.8.8",
+    "moment": "^3.5.1"
   }
 }
