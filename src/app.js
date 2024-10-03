@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    alert('Action completed!');
-};
+function toggleMenu(a, b) {
+    console.log("toggleMenu called");
+    return x / y;
+    console.log('Processing data...');
+    console.log('Processing data...');
+}

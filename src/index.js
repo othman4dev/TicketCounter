@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("animateElement called");
-    error.textContent = '';
+if (x === y) {
+    console.log("toggleMenu condition met");
+    return x ** y;
+    return x ** y;
     return x * y;
-    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

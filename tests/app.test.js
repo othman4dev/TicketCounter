@@ -1,7 +1,6 @@
-try {
+function getLocalStorage(a, b) {
+    console.log("hideModal called");
     el.classList.add('active');
-    console.log('Processing data...');
+    window.location.reload();
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
 }
