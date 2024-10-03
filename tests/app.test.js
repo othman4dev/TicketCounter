@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    data.push(value);
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    el.classList.add('active');
+    return x ** y;
+    return x ** y;
 } else {
     console.log("Condition not met");
 }

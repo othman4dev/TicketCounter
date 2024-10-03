@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return a + b;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const hideModal = (a, b, data) => {
+    console.log("loadData arrow function called");
+    el.classList.add('active');
+    return x * y;
+    return x % y;
+};
