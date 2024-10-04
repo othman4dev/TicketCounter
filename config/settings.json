@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^3.5.9",
-    "mysql": "^6.4.9",
-    "moment": "^9.8.3",
-    "enzyme": "^9.7.3",
-    "angular": "^6.3.4",
-    "babel": "^4.0.4"
+    "jasmine": "^6.7.0",
+    "lodash": "^9.1.0",
+    "gatsby": "^0.9.5",
+    "prettier": "^8.5.2",
+    "cypress": "^4.1.9",
+    "nodemon": "^8.1.2"
   }
 }

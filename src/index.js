@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("validateInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    error.textContent = '';
 }
