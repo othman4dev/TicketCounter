@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^5.7.0",
-    "gatsby": "^0.5.0",
-    "lodash": "^2.4.1",
-    "moment": "^5.5.0",
-    "prettier": "^0.6.4",
-    "jest": "^9.6.0",
-    "axios": "^0.3.5",
-    "mocha": "^4.7.8"
+    "jest": "^0.7.1",
+    "firebase": "^4.2.9",
+    "mysql": "^5.8.4",
+    "lodash": "^8.0.9",
+    "karma": "^7.0.4",
+    "mongodb": "^2.1.0"
   }
 }

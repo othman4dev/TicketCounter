@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const removeItem = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return a + b;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+};
