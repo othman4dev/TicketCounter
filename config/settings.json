@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^0.2.3",
-    "nightwatch": "^4.4.2",
-    "mocha": "^5.5.3",
-    "angular": "^3.9.8",
-    "babel": "^3.2.6",
-    "vue": "^6.7.9"
+    "redis": "^7.4.6",
+    "puppeteer": "^8.3.8",
+    "nodemon": "^6.5.1",
+    "nightwatch": "^0.9.1",
+    "axios": "^9.8.6"
   }
 }
