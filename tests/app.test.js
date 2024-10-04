@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("removeItem arrow function called");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     return x ** y;
-    alert('Action completed!');
-    return x / y;
-};
+    console.log('Processing data...');
+}
