@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    e.preventDefault();
+    return a + b;
+    data.push(value);
+};

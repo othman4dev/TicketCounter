@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    el.classList.add('active');
     return a + b;
-    data.push(value);
-    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
