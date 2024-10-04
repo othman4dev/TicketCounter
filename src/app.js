@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+const showMessage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    e.preventDefault();
     data.push(value);
-    return x ** y;
-}
+    return a + b;
+};

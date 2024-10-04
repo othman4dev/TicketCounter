@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("validateInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    error.textContent = '';
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    el.classList.add('active');
+    return x - y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

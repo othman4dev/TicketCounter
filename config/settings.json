@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^6.7.0",
-    "lodash": "^9.1.0",
-    "gatsby": "^0.9.5",
-    "prettier": "^8.5.2",
-    "cypress": "^4.1.9",
-    "nodemon": "^8.1.2"
+    "eslint": "^8.5.5",
+    "enzyme": "^0.9.9",
+    "ember": "^2.9.6",
+    "lodash": "^9.4.2",
+    "puppeteer": "^9.1.4"
   }
 }
