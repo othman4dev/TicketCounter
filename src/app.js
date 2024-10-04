@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("fetchData called");
-    return x / y;
-    data.push(value);
-    return x ** y;
+switch (x) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

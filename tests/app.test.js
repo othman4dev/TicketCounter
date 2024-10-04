@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    window.location.reload();
-});
+switch (value) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

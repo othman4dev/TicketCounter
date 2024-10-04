@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^6.8.4",
-    "socket.io": "^6.3.5",
-    "nodemon": "^8.2.3",
-    "webpack": "^8.8.9",
-    "firebase": "^7.5.4"
+    "puppeteer": "^1.8.1",
+    "react": "^6.1.8",
+    "enzyme": "^9.3.0",
+    "next.js": "^4.4.3",
+    "express": "^5.1.4"
   }
 }

@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+});
