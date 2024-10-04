@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x % y;
-    return a + b;
-    return x - y;
-};
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    return x * y;
+    return x ** y;
+});
