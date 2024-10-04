@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "axios": "^7.1.7",
-    "sinon": "^6.1.2",
-    "typescript": "^7.0.8",
-    "lodash": "^7.1.4",
-    "redis": "^3.4.3",
-    "puppeteer": "^6.8.8",
-    "moment": "^3.5.1"
+    "puppeteer": "^6.8.4",
+    "socket.io": "^6.3.5",
+    "nodemon": "^8.2.3",
+    "webpack": "^8.8.9",
+    "firebase": "^7.5.4"
   }
 }

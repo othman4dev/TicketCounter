@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    data.push(value);
-    error.textContent = '';
-    e.preventDefault();
-});
+switch (a) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

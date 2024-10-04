@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    data.push(value);
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+});
