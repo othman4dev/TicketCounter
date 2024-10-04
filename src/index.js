@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    el.classList.add('active');
-    return x - y;
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+});

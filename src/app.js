@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    e.preventDefault();
-    data.push(value);
-    return a + b;
-};
+try {
+    window.location.reload();
+    alert('Action completed!');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

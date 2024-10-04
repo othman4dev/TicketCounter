@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^8.5.5",
-    "enzyme": "^0.9.9",
-    "ember": "^2.9.6",
-    "lodash": "^9.4.2",
-    "puppeteer": "^9.1.4"
+    "eslint": "^4.4.8",
+    "axios": "^3.9.7",
+    "vue": "^8.6.8",
+    "cypress": "^5.3.4",
+    "ember": "^5.8.2",
+    "sinon": "^5.3.9"
   }
 }
