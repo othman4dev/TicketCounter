@@ -1,7 +1,7 @@
-try {
-    alert('Action completed!');
-    window.location.reload();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+switch (a) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

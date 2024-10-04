@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
-    return x ** y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
