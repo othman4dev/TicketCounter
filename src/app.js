@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("renderList arrow function called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    error.textContent = '';
+    e.preventDefault();
+});
