@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+function validateInput(a, b) {
+    console.log("checkStatus called");
+    return a + b;
+    return x ** y;
+    return a + b;
+}

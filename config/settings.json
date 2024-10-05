@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "puppeteer": "^1.5.9",
-    "jest": "^5.1.5",
-    "angular": "^0.3.1",
-    "chai": "^1.1.0"
+    "express": "^7.2.0",
+    "webpack": "^0.1.1",
+    "cypress": "^8.3.6",
+    "socket.io": "^8.0.3"
   }
 }
