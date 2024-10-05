@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "nodemon": "^4.5.3",
-    "angular": "^6.1.3",
-    "karma": "^6.8.7",
-    "mongodb": "^9.1.0",
-    "next.js": "^0.9.3",
-    "gatsby": "^1.8.2"
+    "prettier": "^1.6.2",
+    "nightwatch": "^4.2.9",
+    "firebase": "^5.7.1",
+    "vue": "^5.7.7",
+    "express": "^0.1.1",
+    "babel": "^9.9.1",
+    "redis": "^8.3.6",
+    "typescript": "^1.5.2",
+    "angular": "^6.0.3"
   }
 }
