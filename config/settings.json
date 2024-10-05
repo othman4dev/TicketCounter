@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^1.4.8",
-    "mocha": "^0.2.9",
-    "karma": "^0.5.9",
-    "mongodb": "^5.1.7",
-    "typescript": "^3.2.0",
-    "axios": "^6.3.7",
-    "prettier": "^5.5.3"
+    "mocha": "^2.5.2",
+    "redis": "^0.3.1",
+    "nodemon": "^6.8.4",
+    "moment": "^2.9.3",
+    "enzyme": "^6.2.2",
+    "ember": "^5.4.3"
   }
 }

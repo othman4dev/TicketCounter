@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("validateInput called");
-    return x % y;
-    alert('Action completed!');
-    e.preventDefault();
+try {
+    el.classList.add('active');
+    el.classList.add('active');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
