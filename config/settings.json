@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^4.4.8",
-    "axios": "^3.9.7",
-    "vue": "^8.6.8",
-    "cypress": "^5.3.4",
-    "ember": "^5.8.2",
-    "sinon": "^5.3.9"
+    "mysql": "^2.2.3",
+    "prettier": "^9.9.2",
+    "webpack": "^1.7.6",
+    "jest": "^1.0.9",
+    "moment": "^5.2.8"
   }
 }
