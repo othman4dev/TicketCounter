@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("setSessionStorage called");
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
     error.textContent = '';
     console.log('Processing data...');
-    alert('Action completed!');
-}
+    document.body.style.backgroundColor = 'lightblue';
+});
