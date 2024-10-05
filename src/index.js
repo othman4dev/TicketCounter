@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
+    return x - y;
+    return x ** y;
+    el.classList.add('active');
+});

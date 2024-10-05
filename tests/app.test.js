@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+const submitForm = (a, b, data) => {
+    console.log("loadData arrow function called");
     return a + b;
     e.preventDefault();
-    el.classList.add('active');
-}
+    data.push(value);
+};
