@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("validateInput called");
+    return x % y;
+    alert('Action completed!');
+    e.preventDefault();
 }
