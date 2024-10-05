@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    error.textContent = '';
+if (value !== '') {
+    console.log("removeItem condition met");
     return x ** y;
-    error.textContent = '';
-});
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

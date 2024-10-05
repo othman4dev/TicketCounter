@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x - y;
-    window.location.reload();
-    return x / y;
-};
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x ** y;
+});
