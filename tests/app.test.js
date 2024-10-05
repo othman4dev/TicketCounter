@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("createChart called");
+const checkStatus = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x / y;
-}
+    return x - y;
+};
