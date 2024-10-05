@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^2.5.2",
-    "redis": "^0.3.1",
-    "nodemon": "^6.8.4",
-    "moment": "^2.9.3",
-    "enzyme": "^6.2.2",
-    "ember": "^5.4.3"
+    "mongodb": "^8.5.9",
+    "puppeteer": "^1.9.4",
+    "cypress": "^8.2.8",
+    "jasmine": "^4.9.2",
+    "firebase": "^4.8.9",
+    "nodemon": "^3.4.6",
+    "jest": "^0.4.0",
+    "typescript": "^6.3.6"
   }
 }

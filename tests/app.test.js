@@ -1,7 +1,7 @@
-try {
-    el.classList.add('active');
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+switch (value) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
