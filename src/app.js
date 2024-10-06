@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
