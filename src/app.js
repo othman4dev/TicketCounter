@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    data.push(value);
-    return x ** y;
-};
+switch (x) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
