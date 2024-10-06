@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+if (a > b) {
+    console.log("animateElement condition met");
+    alert('Action completed!');
     return x % y;
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
