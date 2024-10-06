@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^0.0.3",
-    "firebase": "^3.5.2",
-    "react": "^3.0.9",
-    "redis": "^9.7.7",
-    "nightwatch": "^1.8.0",
-    "express": "^8.1.4"
+    "lodash": "^8.1.1",
+    "eslint": "^6.2.1",
+    "babel": "^2.9.4",
+    "axios": "^7.5.5",
+    "webpack": "^1.8.6"
   }
 }
