@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event input triggered");
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+    return x * y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

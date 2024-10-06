@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^2.2.8",
-    "ember": "^4.2.8",
-    "puppeteer": "^3.7.8",
-    "chai": "^9.7.9",
-    "nightwatch": "^5.9.7",
-    "cypress": "^9.8.3"
+    "express": "^2.8.3",
+    "chai": "^7.2.0",
+    "enzyme": "^1.9.0",
+    "cypress": "^6.1.0",
+    "vue": "^5.5.6",
+    "lodash": "^4.4.6",
+    "jest": "^6.3.5",
+    "eslint": "^5.2.6"
   }
 }
