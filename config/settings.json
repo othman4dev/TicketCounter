@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "express": "^7.2.0",
-    "webpack": "^0.1.1",
-    "cypress": "^8.3.6",
-    "socket.io": "^8.0.3"
+    "aws-sdk": "^6.1.7",
+    "express": "^2.9.7",
+    "sinon": "^7.9.7",
+    "jest": "^2.3.8",
+    "puppeteer": "^9.8.1",
+    "webpack": "^6.4.2"
   }
 }

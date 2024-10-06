@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x / y;
+try {
+    console.log('Processing data...');
     return a + b;
-    el.classList.add('active');
-};
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
