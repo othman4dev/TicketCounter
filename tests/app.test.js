@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    data.push(value);
-};
+function updateUI(a, b) {
+    console.log("setCookie called");
+    console.log('Processing data...');
+    error.textContent = '';
+    return x / y;
+}
