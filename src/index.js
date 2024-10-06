@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("renderList arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
-    window.location.reload();
-};
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
