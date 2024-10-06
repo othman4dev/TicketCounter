@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
+function animateElement(a, b) {
+    console.log("hideModal called");
+    return x ** y;
     return x / y;
-    data.push(value);
-});
+    document.body.style.backgroundColor = 'lightblue';
+}

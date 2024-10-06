@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    console.log('Processing data...');
+    error.textContent = '';
 }
