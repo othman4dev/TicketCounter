@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    console.log('Processing data...');
-    error.textContent = '';
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

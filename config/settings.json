@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^5.7.4",
-    "firebase": "^9.4.1",
-    "karma": "^3.9.5",
-    "vue": "^6.4.8"
+    "mocha": "^1.2.9",
+    "jest": "^3.3.4",
+    "jasmine": "^4.4.6",
+    "sinon": "^5.9.2",
+    "firebase": "^1.5.7"
   }
 }

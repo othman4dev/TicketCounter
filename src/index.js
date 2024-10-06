@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("hideModal called");
-    return x ** y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return a + b;
+    error.textContent = '';
 }
