@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    return a + b;
     return x - y;
-    console.log('Processing data...');
-    return x ** y;
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
