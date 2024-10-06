@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("processInput arrow function called");
-    console.log('Processing data...');
-    return x ** y;
-    return x * y;
+const processInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    e.preventDefault();
+    error.textContent = '';
+    return a + b;
 };

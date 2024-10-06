@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    data.push(value);
-    error.textContent = '';
+if (document.readyState === 'complete') {
+    console.log("setSessionStorage condition met");
+    return x - y;
+    console.log('Processing data...');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
