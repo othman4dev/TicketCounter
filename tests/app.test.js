@@ -1,7 +1,6 @@
-try {
+const updateUI = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    data.push(value);
+};

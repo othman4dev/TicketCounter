@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event input triggered");
-    return x - y;
-    el.classList.add('active');
-    alert('Action completed!');
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    data.push(value);
+};
