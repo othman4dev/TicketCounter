@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function removeItem(a, b) {
+    console.log("hideModal called");
+    return x ** y;
+    return x * y;
+    el.classList.add('active');
 }
