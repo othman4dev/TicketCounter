@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.1.7",
-    "express": "^2.9.7",
-    "sinon": "^7.9.7",
-    "jest": "^2.3.8",
-    "puppeteer": "^9.8.1",
-    "webpack": "^6.4.2"
+    "gatsby": "^0.0.3",
+    "firebase": "^3.5.2",
+    "react": "^3.0.9",
+    "redis": "^9.7.7",
+    "nightwatch": "^1.8.0",
+    "express": "^8.1.4"
   }
 }
