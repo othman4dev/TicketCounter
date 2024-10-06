@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    return a + b;
-    return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const handleClick = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x * y;
+    error.textContent = '';
+    return x ** y;
+};
