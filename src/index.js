@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    error.textContent = '';
-    return x ** y;
-}
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
+    data.push(value);
+    window.location.reload();
+});

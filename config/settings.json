@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "react": "^7.0.5",
-    "mocha": "^9.4.2",
-    "jest": "^8.4.6",
-    "axios": "^1.0.4",
-    "nightwatch": "^2.3.1"
+    "puppeteer": "^9.7.5",
+    "redis": "^3.8.7",
+    "react": "^6.2.8",
+    "vue": "^9.7.5",
+    "express": "^8.4.5"
   }
 }
