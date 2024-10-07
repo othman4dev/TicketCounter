@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function setSessionStorage(a, b) {
+    console.log("toggleMenu called");
+    return x ** y;
+    return a + b;
+    error.textContent = '';
 }

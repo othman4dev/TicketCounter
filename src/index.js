@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
     window.location.reload();
-});
+    return x % y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
