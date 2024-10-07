@@ -1,7 +1,8 @@
-switch (e) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("updateUI condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
