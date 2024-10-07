@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^4.2.3",
-    "mocha": "^2.2.0",
-    "nightwatch": "^1.4.1",
-    "nodemon": "^7.0.5",
-    "jest": "^6.8.0",
-    "vue": "^3.5.9",
-    "webpack": "^8.4.3"
+    "mysql": "^8.4.8",
+    "nodemon": "^6.5.3",
+    "enzyme": "^1.7.4",
+    "cypress": "^8.1.6",
+    "webpack": "^0.2.5"
   }
 }

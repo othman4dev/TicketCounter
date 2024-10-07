@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    return x ** y;
-    return x / y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    alert('Action completed!');
+};

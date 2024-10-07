@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    console.log('Processing data...');
-};
+function getLocalStorage(a, b) {
+    console.log("getLocalStorage called");
+    alert('Action completed!');
+    data.push(value);
+    return x ** y;
+}
