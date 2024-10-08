@@ -1,7 +1,6 @@
-try {
-    data.push(value);
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    e.preventDefault();
     return x % y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
 }
