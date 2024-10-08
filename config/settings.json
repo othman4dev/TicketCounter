@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^1.7.3",
-    "webpack": "^3.8.9",
-    "mysql": "^7.8.1",
-    "enzyme": "^9.9.2",
-    "karma": "^8.3.7",
-    "typescript": "^4.8.0"
+    "jasmine": "^6.8.4",
+    "next.js": "^9.3.2",
+    "webpack": "^7.9.8",
+    "react": "^8.3.4",
+    "express": "^2.4.6",
+    "socket.io": "^9.7.6",
+    "redis": "^8.2.9"
   }
 }

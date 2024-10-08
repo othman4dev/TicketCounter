@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    el.classList.add('active');
-    return a + b;
-});
+switch (data) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
