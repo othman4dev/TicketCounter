@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    return x * y;
-    el.classList.add('active');
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

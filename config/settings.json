@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^3.3.6",
-    "puppeteer": "^1.9.5",
-    "sinon": "^1.0.3",
-    "protractor": "^3.8.9",
-    "angular": "^6.1.6",
-    "prettier": "^1.1.9",
-    "socket.io": "^2.6.2",
-    "moment": "^7.1.0"
+    "eslint": "^8.6.0",
+    "lodash": "^7.5.2",
+    "svelte": "^8.6.4",
+    "gatsby": "^2.7.6",
+    "vue": "^0.1.5",
+    "cypress": "^2.0.4"
   }
 }
