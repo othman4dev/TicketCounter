@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^8.8.5",
-    "eslint": "^7.5.3",
-    "react": "^6.1.8",
-    "mocha": "^4.6.3",
-    "moment": "^0.1.7"
+    "next.js": "^0.1.4",
+    "angular": "^1.8.2",
+    "babel": "^1.4.8",
+    "express": "^9.6.4",
+    "moment": "^1.2.3",
+    "enzyme": "^2.2.0"
   }
 }
