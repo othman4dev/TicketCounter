@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    return x % y;
-    return x ** y;
-});
+try {
+    error.textContent = '';
+    data.push(value);
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

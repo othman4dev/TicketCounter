@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^1.7.8",
-    "typescript": "^2.3.4",
-    "protractor": "^9.7.2",
-    "socket.io": "^3.1.2",
-    "jasmine": "^5.0.7",
-    "mysql": "^3.7.4"
+    "mongodb": "^3.3.6",
+    "puppeteer": "^1.9.5",
+    "sinon": "^1.0.3",
+    "protractor": "^3.8.9",
+    "angular": "^6.1.6",
+    "prettier": "^1.1.9",
+    "socket.io": "^2.6.2",
+    "moment": "^7.1.0"
   }
 }

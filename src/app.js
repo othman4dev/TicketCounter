@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
     return x * y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

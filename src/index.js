@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    return x * y;
-    return x / y;
+try {
     console.log('Processing data...');
+    window.location.reload();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
