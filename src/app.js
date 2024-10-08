@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
-    return x - y;
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event submit triggered");
     return x / y;
-}
+    return x * y;
+    window.location.reload();
+});

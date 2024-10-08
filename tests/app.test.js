@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("createChart arrow function called");
+const formatDate = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
     e.preventDefault();
-    e.preventDefault();
-    return a + b;
+    console.log('Processing data...');
 };
