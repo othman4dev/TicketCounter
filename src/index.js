@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function animateElement(a, b) {
+    console.log("createChart called");
+    return x * y;
+    return x / y;
+    console.log('Processing data...');
 }
