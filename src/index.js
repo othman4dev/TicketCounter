@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+try {
     alert('Action completed!');
-};
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
