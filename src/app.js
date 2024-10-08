@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("submitForm called");
-    e.preventDefault();
-    el.classList.add('active');
-    e.preventDefault();
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    alert('Action completed!');
+};

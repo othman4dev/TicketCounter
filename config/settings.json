@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^0.1.4",
-    "angular": "^1.8.2",
-    "babel": "^1.4.8",
-    "express": "^9.6.4",
-    "moment": "^1.2.3",
-    "enzyme": "^2.2.0"
+    "karma": "^9.6.1",
+    "vue": "^9.0.5",
+    "sinon": "^4.7.7",
+    "svelte": "^6.5.1",
+    "moment": "^3.8.6",
+    "chai": "^0.1.4",
+    "redis": "^1.2.6",
+    "next.js": "^0.3.3"
   }
 }
