@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("toggleMenu called");
-    return x ** y;
-    return a + b;
-    error.textContent = '';
+try {
+    window.location.reload();
+    return x - y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

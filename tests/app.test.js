@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
+    el.classList.add('active');
+    return a + b;
+});
