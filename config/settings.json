@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^6.5.6",
-    "nodemon": "^4.7.7",
-    "typescript": "^2.3.8",
-    "protractor": "^0.9.7",
-    "angular": "^8.2.2",
-    "webpack": "^8.2.1",
-    "ember": "^5.8.7"
+    "babel": "^7.1.5",
+    "webpack": "^6.5.1",
+    "puppeteer": "^5.1.9",
+    "mocha": "^1.1.5",
+    "lodash": "^5.3.8",
+    "aws-sdk": "^8.9.1"
   }
 }

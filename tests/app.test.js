@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    return a + b;
-    return x / y;
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
+    return x % y;
+    return x % y;
 });
