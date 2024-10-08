@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    el.classList.add('active');
-    return x ** y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("submitForm called");
+    e.preventDefault();
+    console.log('Processing data...');
+    error.textContent = '';
 }

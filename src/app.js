@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    e.preventDefault();
+    return x - y;
+}
