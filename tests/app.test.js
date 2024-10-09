@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    window.location.reload();
-    return x - y;
-    return x / y;
-};
+try {
+    return x ** y;
+    return x * y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
