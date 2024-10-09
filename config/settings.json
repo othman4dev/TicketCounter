@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^3.0.1",
-    "typescript": "^7.1.2",
-    "lodash": "^3.0.6",
-    "jest": "^6.6.0",
-    "moment": "^3.6.9",
-    "socket.io": "^4.6.0",
-    "vue": "^3.3.3"
+    "express": "^9.6.5",
+    "firebase": "^6.4.3",
+    "karma": "^5.8.0",
+    "typescript": "^6.1.4",
+    "mocha": "^6.3.6",
+    "react": "^4.2.7",
+    "prettier": "^3.9.9",
+    "babel": "^5.4.6"
   }
 }

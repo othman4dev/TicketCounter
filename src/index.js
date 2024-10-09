@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    window.location.reload();
-    el.classList.add('active');
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    data.push(value);
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
 }

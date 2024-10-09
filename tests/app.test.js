@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    alert('Action completed!');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    data.push(value);
+    el.classList.add('active');
+});
