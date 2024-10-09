@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    return x / y;
-    return x * y;
-    window.location.reload();
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    alert('Action completed!');
+    data.push(value);
+}

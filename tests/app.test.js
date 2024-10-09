@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x - y;
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    return x * y;
+    alert('Action completed!');
     e.preventDefault();
-    console.log('Processing data...');
-};
+} else {
+    console.log("Condition not met");
+}
