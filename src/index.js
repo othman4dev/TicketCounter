@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("validateInput called");
+    return x - y;
+    alert('Action completed!');
+    alert('Action completed!');
 }

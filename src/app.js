@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return a + b;
-    error.textContent = '';
-    return x - y;
-};
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event load triggered");
+    window.location.reload();
+    return x % y;
+    data.push(value);
+});
