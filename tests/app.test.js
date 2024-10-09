@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    return x * y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+});
