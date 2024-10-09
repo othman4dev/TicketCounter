@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    return x % y;
+function showMessage(a, b) {
+    console.log("hideModal called");
+    return x * y;
     data.push(value);
-});
+    alert('Action completed!');
+}
