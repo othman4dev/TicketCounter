@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    return x % y;
+const fetchData = (a, b, data) => {
+    console.log("createChart arrow function called");
     e.preventDefault();
-});
+    e.preventDefault();
+    return a + b;
+};

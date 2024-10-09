@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("loadData called");
-    return x - y;
-    alert('Action completed!');
-    return x - y;
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    error.textContent = '';
+    return x % y;
+    window.location.reload();
+};

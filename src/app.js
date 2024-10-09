@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("handleClick condition met");
-    data.push(value);
-    window.location.reload();
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function toggleMenu(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    return x - y;
+    return x / y;
 }
