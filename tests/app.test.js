@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    error.textContent = '';
+    return x % y;
+    e.preventDefault();
+});
