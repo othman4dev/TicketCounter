@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event click triggered");
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    return x - y;
     return x ** y;
-    return x * y;
-    return x / y;
 });

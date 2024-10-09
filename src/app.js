@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
-    return a + b;
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const processInput = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x - y;
+    el.classList.add('active');
+    return x % y;
+};
