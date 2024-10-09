@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("createChart condition met");
-    alert('Action completed!');
-    return x / y;
-    return x / y;
+if (x !== y) {
+    console.log("checkStatus condition met");
+    return a + b;
+    e.preventDefault();
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

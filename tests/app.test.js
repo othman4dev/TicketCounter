@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    return x % y;
-    alert('Action completed!');
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    return x * y;
+    return x / y;
 });

@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    window.location.reload();
+function processInput(a, b) {
+    console.log("hideModal called");
+    error.textContent = '';
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
 }
