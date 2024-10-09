@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event load triggered");
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    alert('Action completed!');
 });

@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("hideModal called");
-    return x * y;
-    data.push(value);
+if (a > b) {
+    console.log("createChart condition met");
     alert('Action completed!');
+    return x / y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
