@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    return x * y;
-    return x ** y;
-});
+function removeItem(a, b) {
+    console.log("getLocalStorage called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+}
