@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("submitForm condition met");
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
+    el.classList.add('active');
     console.log('Processing data...');
-    return x % y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+};
