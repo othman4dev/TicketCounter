@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    window.location.reload();
     el.classList.add('active');
-    return x * y;
-    el.classList.add('active');
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
