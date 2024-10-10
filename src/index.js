@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event change triggered");
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    console.log('Processing data...');
+});

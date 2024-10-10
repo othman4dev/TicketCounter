@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
-    return x - y;
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("showMessage condition met");
+    return x % y;
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
