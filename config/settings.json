@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "express": "^9.6.5",
-    "firebase": "^6.4.3",
-    "karma": "^5.8.0",
-    "typescript": "^6.1.4",
-    "mocha": "^6.3.6",
-    "react": "^4.2.7",
-    "prettier": "^3.9.9",
-    "babel": "^5.4.6"
+    "prettier": "^8.1.6",
+    "lodash": "^8.7.0",
+    "mocha": "^9.5.8",
+    "gatsby": "^0.3.2",
+    "firebase": "^2.1.5",
+    "graphql": "^7.8.7",
+    "webpack": "^7.7.0"
   }
 }

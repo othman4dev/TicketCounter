@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    console.log('Processing data...');
-    data.push(value);
-    el.classList.add('active');
-});
+switch (value) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

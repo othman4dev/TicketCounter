@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+function saveSettings(a, b) {
+    console.log("createChart called");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    error.textContent = '';
+    console.log('Processing data...');
 }
