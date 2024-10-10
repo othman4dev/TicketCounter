@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    data.push(value);
-    alert('Action completed!');
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x ** y;
 });
