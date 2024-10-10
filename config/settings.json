@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "ember": "^0.7.4",
-    "cypress": "^7.5.4",
-    "angular": "^7.9.6",
-    "react": "^5.4.8",
-    "gatsby": "^9.5.5",
-    "jest": "^9.5.7",
-    "jasmine": "^8.4.4",
-    "enzyme": "^0.2.9"
+    "nodemon": "^8.0.9",
+    "typescript": "^7.8.5",
+    "axios": "^9.2.0",
+    "mysql": "^2.9.9",
+    "angular": "^2.7.5"
   }
 }
