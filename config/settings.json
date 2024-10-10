@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^8.1.6",
-    "lodash": "^8.7.0",
-    "mocha": "^9.5.8",
-    "gatsby": "^0.3.2",
-    "firebase": "^2.1.5",
-    "graphql": "^7.8.7",
-    "webpack": "^7.7.0"
+    "ember": "^0.7.4",
+    "cypress": "^7.5.4",
+    "angular": "^7.9.6",
+    "react": "^5.4.8",
+    "gatsby": "^9.5.5",
+    "jest": "^9.5.7",
+    "jasmine": "^8.4.4",
+    "enzyme": "^0.2.9"
   }
 }
