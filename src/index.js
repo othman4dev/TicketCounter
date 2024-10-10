@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+    error.textContent = '';
+    return x / y;
 } else {
     console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("displayError called");
+if (x === y) {
+    console.log("formatDate condition met");
     alert('Action completed!');
-    el.classList.add('active');
     return x - y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

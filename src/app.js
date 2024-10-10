@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("setSessionStorage called");
-    el.classList.add('active');
-    error.textContent = '';
-    return x ** y;
+function toggleMenu(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    return x - y;
+    console.log('Processing data...');
 }
