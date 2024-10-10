@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("setSessionStorage called");
+    el.classList.add('active');
+    error.textContent = '';
+    return x ** y;
 }

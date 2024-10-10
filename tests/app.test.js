@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("displayError called");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x - y;
 }
