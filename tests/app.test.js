@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    e.preventDefault();
+const setCookie = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return x ** y;
-    return x * y;
+    return x ** y;
+    return x ** y;
 };

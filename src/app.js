@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    data.push(value);
+    alert('Action completed!');
+});
