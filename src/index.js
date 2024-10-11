@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x / y;
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    return x ** y;
     alert('Action completed!');
-    return x % y;
-};
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

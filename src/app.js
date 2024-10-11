@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x ** y;
-    error.textContent = '';
-    return x % y;
-};
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    window.location.reload();
+    alert('Action completed!');
+});
