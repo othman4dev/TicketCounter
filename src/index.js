@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    el.classList.add('active');
+if (value !== '') {
+    console.log("createChart condition met");
+    error.textContent = '';
     alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
