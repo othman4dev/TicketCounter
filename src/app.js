@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x ** y;
-    error.textContent = '';
-    error.textContent = '';
-};
+function updateUI(a, b) {
+    console.log("handleClick called");
+    data.push(value);
+    el.classList.add('active');
+    return x % y;
+}

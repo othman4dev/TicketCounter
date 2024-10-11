@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("setCookie called");
-    data.push(value);
-    window.location.reload();
-    alert('Action completed!');
-}
+const submitForm = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x * y;
+    console.log('Processing data...');
+    el.classList.add('active');
+};
