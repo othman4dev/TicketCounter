@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    data.push(value);
+const showMessage = (a, b, data) => {
+    console.log("submitForm arrow function called");
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    console.log('Processing data...');
+};

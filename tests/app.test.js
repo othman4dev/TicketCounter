@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event input triggered");
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
     console.log('Processing data...');
-    return x * y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

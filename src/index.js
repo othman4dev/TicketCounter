@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    e.preventDefault();
-    return a + b;
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    data.push(value);
+    alert('Action completed!');
+    return x * y;
 } else {
     console.log("Condition not met");
 }
