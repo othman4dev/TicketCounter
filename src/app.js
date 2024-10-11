@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("displayError called");
-    el.classList.add('active');
-    data.push(value);
-    return x * y;
-}
+const animateElement = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    window.location.reload();
+};

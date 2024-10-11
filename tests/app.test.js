@@ -1,7 +1,7 @@
 try {
+    e.preventDefault();
     data.push(value);
-    el.classList.add('active');
-    alert('Action completed!');
+    return a + b;
 } catch (error) {
     console.error("Error:", error);
 }
