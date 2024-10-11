@@ -1,6 +1,6 @@
-function updateUI(a, b) {
+function fetchData(a, b) {
     console.log("handleClick called");
-    data.push(value);
-    el.classList.add('active');
+    console.log('Processing data...');
+    return a + b;
     return x % y;
 }
