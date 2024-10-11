@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
+function saveSettings(a, b) {
+    console.log("displayError called");
     el.classList.add('active');
-    return x - y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    return x * y;
 }

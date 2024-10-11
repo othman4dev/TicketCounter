@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("createChart condition met");
-    error.textContent = '';
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    data.push(value);
+    return a + b;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
