@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "karma": "^6.3.3",
-    "moment": "^9.6.6",
-    "lodash": "^1.4.3",
-    "jest": "^9.2.7",
-    "vue": "^0.1.8",
-    "nightwatch": "^4.0.3",
-    "enzyme": "^2.1.0",
-    "nodemon": "^4.8.7"
+    "firebase": "^1.2.7",
+    "ember": "^7.9.3",
+    "mongodb": "^0.7.0",
+    "nodemon": "^9.7.4",
+    "angular": "^0.7.4"
   }
 }

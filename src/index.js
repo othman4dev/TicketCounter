@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+const getLocalStorage = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x / y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+    return x % y;
+};
