@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "angular": "^0.0.1",
-    "karma": "^5.6.2",
-    "cypress": "^7.9.3",
-    "eslint": "^9.6.1",
-    "vue": "^7.5.8",
-    "mongodb": "^1.4.4",
-    "protractor": "^4.6.9"
+    "enzyme": "^2.2.0",
+    "chai": "^8.3.3",
+    "prettier": "^1.6.5",
+    "axios": "^6.8.5",
+    "puppeteer": "^0.7.9",
+    "aws-sdk": "^8.8.3",
+    "eslint": "^8.8.2",
+    "svelte": "^4.5.9"
   }
 }

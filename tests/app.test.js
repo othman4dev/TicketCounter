@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return a + b;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const renderList = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
+    return x ** y;
+    return x * y;
+};

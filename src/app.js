@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("handleClick called");
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    return a + b;
-    return x % y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
