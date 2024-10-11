@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    return x ** y;
+const displayError = (a, b, data) => {
+    console.log("loadData arrow function called");
     alert('Action completed!');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    return x % y;
+};
