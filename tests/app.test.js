@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    e.preventDefault();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    console.log('Processing data...');
+    return x * y;
+});
