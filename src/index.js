@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("getLocalStorage called");
-    return x * y;
+try {
+    window.location.reload();
+    return x / y;
     e.preventDefault();
-    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
