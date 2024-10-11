@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    window.location.reload();
-};
+    return x - y;
+    alert('Action completed!');
+});

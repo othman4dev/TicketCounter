@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+const saveSettings = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    el.classList.add('active');
+    error.textContent = '';
     alert('Action completed!');
-    return x * y;
-}
+};
