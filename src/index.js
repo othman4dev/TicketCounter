@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("validateInput condition met");
-    return a + b;
+try {
+    return x - y;
     el.classList.add('active');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
