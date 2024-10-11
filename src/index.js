@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    return x / y;
-    return x * y;
-    console.log('Processing data...');
-});
+if (window.innerWidth > 500) {
+    console.log("validateInput condition met");
+    return a + b;
+    el.classList.add('active');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
