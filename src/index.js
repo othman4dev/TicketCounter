@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    return a + b;
-    alert('Action completed!');
+const handleClick = (a, b, data) => {
+    console.log("removeItem arrow function called");
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    data.push(value);
+};
