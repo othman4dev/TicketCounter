@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    error.textContent = '';
-    alert('Action completed!');
-    return a + b;
-} else {
-    console.log("Condition not met");
+function removeItem(a, b) {
+    console.log("fetchData called");
+    console.log('Processing data...');
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }
