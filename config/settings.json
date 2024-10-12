@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "jest": "^2.7.8",
-    "typescript": "^0.7.3",
-    "next.js": "^8.8.0",
-    "protractor": "^1.6.3",
-    "nightwatch": "^3.9.4",
-    "eslint": "^0.3.4",
-    "socket.io": "^0.3.3",
-    "vue": "^9.0.1"
+    "mocha": "^7.3.7",
+    "gatsby": "^9.9.4",
+    "jest": "^9.3.5",
+    "jasmine": "^9.6.2"
   }
 }

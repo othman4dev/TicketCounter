@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    window.location.reload();
+    return x * y;
+});
