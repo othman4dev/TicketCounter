@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "moment": "^4.9.0",
-    "aws-sdk": "^7.9.0",
-    "cypress": "^4.7.9",
-    "gatsby": "^1.2.9",
-    "firebase": "^6.0.3",
-    "jest": "^8.9.9",
-    "eslint": "^1.2.3"
+    "mysql": "^2.0.2",
+    "redis": "^1.0.1",
+    "next.js": "^2.0.8",
+    "aws-sdk": "^8.0.8",
+    "jest": "^0.6.9",
+    "gatsby": "^5.8.0",
+    "lodash": "^0.2.7",
+    "nightwatch": "^4.7.6"
   }
 }

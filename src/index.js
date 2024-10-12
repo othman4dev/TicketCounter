@@ -1,7 +1,6 @@
-try {
-    return a + b;
+const submitForm = (a, b, data) => {
+    console.log("displayError arrow function called");
     e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+};

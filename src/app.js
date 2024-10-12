@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
+if (x === y) {
+    console.log("setCookie condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
