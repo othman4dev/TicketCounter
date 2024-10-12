@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^0.1.2",
-    "mysql": "^7.4.8",
-    "prettier": "^4.9.5",
-    "vue": "^2.7.1",
-    "enzyme": "^3.7.0",
-    "react": "^8.7.1"
+    "next.js": "^5.8.4",
+    "angular": "^6.0.2",
+    "prettier": "^6.1.2",
+    "mocha": "^5.5.7",
+    "react": "^7.6.4"
   }
 }

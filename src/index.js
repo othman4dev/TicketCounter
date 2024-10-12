@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x * y;
-    error.textContent = '';
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event submit triggered");
     data.push(value);
-};
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+});
