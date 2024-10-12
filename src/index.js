@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("loadData arrow function called");
-    alert('Action completed!');
-    return x - y;
-    return x % y;
-};
+try {
+    return a + b;
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
