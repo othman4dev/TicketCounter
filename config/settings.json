@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^2.0.2",
-    "redis": "^1.0.1",
-    "next.js": "^2.0.8",
-    "aws-sdk": "^8.0.8",
-    "jest": "^0.6.9",
-    "gatsby": "^5.8.0",
-    "lodash": "^0.2.7",
-    "nightwatch": "^4.7.6"
+    "jest": "^2.7.8",
+    "typescript": "^0.7.3",
+    "next.js": "^8.8.0",
+    "protractor": "^1.6.3",
+    "nightwatch": "^3.9.4",
+    "eslint": "^0.3.4",
+    "socket.io": "^0.3.3",
+    "vue": "^9.0.1"
   }
 }

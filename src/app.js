@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setCookie condition met");
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});
