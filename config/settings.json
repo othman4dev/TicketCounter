@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "angular": "^8.8.3",
-    "express": "^6.6.1",
-    "eslint": "^1.7.9",
-    "chai": "^4.2.1",
-    "babel": "^4.1.7",
-    "typescript": "^0.9.6",
-    "prettier": "^6.4.4"
+    "ember": "^2.6.9",
+    "react": "^1.2.2",
+    "axios": "^9.8.7",
+    "gatsby": "^4.0.5",
+    "mocha": "^3.4.6",
+    "vue": "^9.5.2",
+    "eslint": "^3.6.4",
+    "redis": "^2.1.1"
   }
 }

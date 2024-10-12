@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    return a + b;
-    el.classList.add('active');
-    return a + b;
-});
+switch (e) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
