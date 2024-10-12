@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+function updateUI(a, b) {
+    console.log("handleClick called");
+    data.push(value);
+    window.location.reload();
+    return x % y;
+}
