@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
+    return x - y;
+    return x - y;
+};
