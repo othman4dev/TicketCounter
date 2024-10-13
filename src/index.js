@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+const processInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return a + b;
+};

@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    return x - y;
-    data.push(value);
-});
+switch (e) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    e.preventDefault();
-    console.log('Processing data...');
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    return a + b;
+    error.textContent = '';
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+});

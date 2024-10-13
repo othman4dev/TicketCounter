@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^7.8.9",
-    "vue": "^8.5.0",
-    "prettier": "^4.1.1",
-    "svelte": "^1.7.5",
-    "puppeteer": "^3.6.2",
-    "jest": "^0.8.4",
-    "react": "^8.9.7",
-    "protractor": "^6.0.2"
+    "protractor": "^5.0.2",
+    "webpack": "^7.3.0",
+    "socket.io": "^0.3.8",
+    "jest": "^8.8.9",
+    "jasmine": "^9.9.9",
+    "enzyme": "^0.4.5"
   }
 }
