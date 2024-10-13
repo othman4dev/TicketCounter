@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    console.log('Processing data...');
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("createChart condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
