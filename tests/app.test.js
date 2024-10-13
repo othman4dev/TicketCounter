@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    return x / y;
+function loadData(a, b) {
+    console.log("hideModal called");
+    return x ** y;
     window.location.reload();
-    return x * y;
-});
+    data.push(value);
+}

@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^7.3.7",
-    "gatsby": "^9.9.4",
-    "jest": "^9.3.5",
-    "jasmine": "^9.6.2"
+    "ember": "^9.4.1",
+    "aws-sdk": "^9.5.0",
+    "puppeteer": "^8.2.5",
+    "moment": "^5.9.0",
+    "karma": "^2.5.9",
+    "sinon": "^5.8.9",
+    "chai": "^7.9.1",
+    "graphql": "^3.9.1"
   }
 }
