@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "ember": "^9.4.1",
-    "aws-sdk": "^9.5.0",
-    "puppeteer": "^8.2.5",
-    "moment": "^5.9.0",
-    "karma": "^2.5.9",
-    "sinon": "^5.8.9",
-    "chai": "^7.9.1",
-    "graphql": "^3.9.1"
+    "socket.io": "^1.4.2",
+    "puppeteer": "^8.4.0",
+    "mocha": "^0.2.0",
+    "ember": "^5.7.5",
+    "enzyme": "^2.9.8",
+    "moment": "^4.4.5",
+    "redis": "^2.5.4",
+    "chai": "^7.4.6"
   }
 }
