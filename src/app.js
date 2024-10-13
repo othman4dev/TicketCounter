@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
-    el.classList.add('active');
-    e.preventDefault();
-}
+const toggleMenu = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return a + b;
+    return x - y;
+    error.textContent = '';
+};

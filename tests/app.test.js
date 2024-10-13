@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event blur triggered");
+if (x !== y) {
+    console.log("hideModal condition met");
     e.preventDefault();
+    console.log('Processing data...');
     return x / y;
-    el.classList.add('active');
-});
+} else {
+    console.log("Condition not met");
+}

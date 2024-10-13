@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^8.2.3",
-    "next.js": "^3.3.5",
-    "lodash": "^6.1.2",
-    "graphql": "^9.5.1",
-    "webpack": "^1.8.1"
+    "jasmine": "^8.4.9",
+    "gatsby": "^4.9.2",
+    "jest": "^0.9.9",
+    "prettier": "^6.3.8",
+    "mysql": "^8.4.1",
+    "angular": "^9.6.3"
   }
 }
