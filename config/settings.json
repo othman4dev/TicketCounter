@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^0.2.4",
-    "jest": "^4.5.6",
-    "webpack": "^3.0.4",
-    "next.js": "^2.1.9",
-    "ember": "^3.2.1",
-    "eslint": "^9.8.8",
-    "firebase": "^1.6.4"
+    "jest": "^8.2.3",
+    "next.js": "^3.3.5",
+    "lodash": "^6.1.2",
+    "graphql": "^9.5.1",
+    "webpack": "^1.8.1"
   }
 }

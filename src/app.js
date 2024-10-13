@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+function setSessionStorage(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
+    el.classList.add('active');
     e.preventDefault();
-};
+}

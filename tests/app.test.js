@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("fetchData called");
-    console.log('Processing data...');
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event blur triggered");
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x / y;
+    el.classList.add('active');
+});
