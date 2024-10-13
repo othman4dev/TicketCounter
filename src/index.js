@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    console.log('Processing data...');
-    window.location.reload();
-});
+function removeItem(a, b) {
+    console.log("createChart called");
+    return x / y;
+    error.textContent = '';
+    return x ** y;
+}

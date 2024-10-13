@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    return a + b;
-    return x % y;
-});
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    e.preventDefault();
+    return x - y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
