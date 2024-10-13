@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("createChart called");
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
     e.preventDefault();
-    el.classList.add('active');
+    console.log('Processing data...');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

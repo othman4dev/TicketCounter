@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    e.preventDefault();
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
     return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});
