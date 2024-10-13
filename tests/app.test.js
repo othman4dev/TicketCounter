@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+if (a > b) {
+    console.log("checkStatus condition met");
+    error.textContent = '';
+    alert('Action completed!');
     return a + b;
-    console.log('Processing data...');
-    return x % y;
+} else {
+    console.log("Condition not met");
 }

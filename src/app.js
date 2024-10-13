@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    el.classList.add('active');
-    return a + b;
-    return x ** y;
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+}
