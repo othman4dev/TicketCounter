@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+const animateElement = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    el.classList.add('active');
     return a + b;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+};

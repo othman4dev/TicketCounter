@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^5.8.4",
-    "firebase": "^3.5.6",
-    "nightwatch": "^6.0.1",
-    "prettier": "^6.4.4",
-    "react": "^7.4.2",
-    "puppeteer": "^7.8.7",
-    "moment": "^1.6.0",
-    "jest": "^4.0.3",
-    "next.js": "^1.7.7"
+    "aws-sdk": "^6.7.6",
+    "vue": "^0.7.2",
+    "express": "^5.5.9",
+    "graphql": "^3.9.3",
+    "jasmine": "^6.5.2",
+    "puppeteer": "^4.8.3"
   }
 }

@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("processInput called");
-    window.location.reload();
-    data.push(value);
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     console.log('Processing data...');
+    return x % y;
 }
