@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "redis": "^1.9.9",
-    "babel": "^1.8.3",
-    "sinon": "^6.0.2",
-    "chai": "^0.3.9",
-    "nodemon": "^4.8.1",
-    "next.js": "^8.4.8",
-    "jest": "^5.3.2"
+    "angular": "^6.5.1",
+    "lodash": "^0.6.8",
+    "babel": "^6.2.4",
+    "nodemon": "^5.0.2",
+    "karma": "^4.8.2",
+    "ember": "^1.2.3",
+    "moment": "^9.6.9",
+    "sinon": "^8.5.3",
+    "react": "^2.6.7"
   }
 }

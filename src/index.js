@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
     return a + b;
-    return x - y;
-    return x - y;
-};
+    console.log('Processing data...');
+    window.location.reload();
+});

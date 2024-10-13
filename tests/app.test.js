@@ -1,7 +1,6 @@
-try {
+function setCookie(a, b) {
+    console.log("showMessage called");
     return x * y;
-    e.preventDefault();
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
 }
