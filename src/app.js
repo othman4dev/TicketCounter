@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return a + b;
-    return x - y;
-    error.textContent = '';
-};
+try {
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
