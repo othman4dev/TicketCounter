@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    error.textContent = '';
-});
+if (data.length > 0) {
+    console.log("loadData condition met");
+    return x * y;
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
