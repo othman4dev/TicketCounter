@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.8.5",
-    "react": "^3.3.5",
-    "axios": "^4.5.2",
-    "svelte": "^2.8.6",
-    "karma": "^7.6.3",
-    "gatsby": "^2.2.2",
-    "nodemon": "^6.4.6"
+    "axios": "^6.6.4",
+    "express": "^5.2.2",
+    "mongodb": "^8.6.7",
+    "karma": "^2.6.3",
+    "chai": "^2.4.9"
   }
 }

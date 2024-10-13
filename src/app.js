@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x * y;
-    error.textContent = '';
-    window.location.reload();
+const showMessage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    data.push(value);
+    return x - y;
+    return x % y;
 };

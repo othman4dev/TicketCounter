@@ -1,8 +1,8 @@
 if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    window.location.reload();
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+    console.log("hideModal condition met");
+    return x / y;
+    return x % y;
+    return x * y;
 } else {
     console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-}
+const hideModal = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    window.location.reload();
+    return x % y;
+    return x * y;
+};
