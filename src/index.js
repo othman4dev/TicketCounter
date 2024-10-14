@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
-    return x - y;
-    return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const checkStatus = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return a + b;
+    return x / y;
+    el.classList.add('active');
+};

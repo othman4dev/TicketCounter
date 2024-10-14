@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    error.textContent = '';
-    return x % y;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    window.location.reload();
+    e.preventDefault();
 }

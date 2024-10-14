@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
-    return x * y;
-    e.preventDefault();
-};
+try {
+    return x % y;
+    console.log('Processing data...');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
