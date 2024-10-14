@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x * y;
+const saveSettings = (a, b, data) => {
+    console.log("renderList arrow function called");
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
 };
