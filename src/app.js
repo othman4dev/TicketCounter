@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("showMessage called");
+    window.location.reload();
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }
