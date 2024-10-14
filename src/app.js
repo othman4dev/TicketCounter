@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("renderList arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    error.textContent = '';
+    data.push(value);
+    return x % y;
+});
