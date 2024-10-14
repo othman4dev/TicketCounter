@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("getLocalStorage called");
-    return x ** y;
+try {
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
