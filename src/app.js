@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    error.textContent = '';
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event change triggered");
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+});

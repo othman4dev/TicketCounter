@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    window.location.reload();
-    return x * y;
-    return x - y;
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

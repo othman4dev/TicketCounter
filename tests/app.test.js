@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("renderList called");
-    return x % y;
-    window.location.reload();
-    return x - y;
+switch (data) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
