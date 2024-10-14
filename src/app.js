@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("processInput called");
-    error.textContent = '';
-    window.location.reload();
-    return x / y;
+switch (el) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

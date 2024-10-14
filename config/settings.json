@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^3.0.3",
-    "puppeteer": "^6.6.6",
-    "sinon": "^3.9.1",
-    "gatsby": "^8.9.9",
-    "vue": "^5.7.9",
-    "typescript": "^5.0.4"
+    "react": "^4.9.5",
+    "ember": "^8.1.6",
+    "aws-sdk": "^0.1.8",
+    "webpack": "^1.6.8",
+    "prettier": "^0.5.0"
   }
 }
