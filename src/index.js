@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("animateElement called");
-    return x % y;
-    return a + b;
-    console.log('Processing data...');
-}
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x / y;
+    alert('Action completed!');
+    window.location.reload();
+};
