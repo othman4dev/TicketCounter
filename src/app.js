@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    e.preventDefault();
+const updateUI = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x * y;
     error.textContent = '';
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+};

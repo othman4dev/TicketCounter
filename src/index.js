@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    e.preventDefault();
-    e.preventDefault();
-    return x / y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }

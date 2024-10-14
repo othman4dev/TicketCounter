@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
     window.location.reload();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
