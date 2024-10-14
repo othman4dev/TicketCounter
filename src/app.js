@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("animateElement condition met");
     e.preventDefault();
-});
+    error.textContent = '';
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

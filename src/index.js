@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
