@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("displayError called");
-    e.preventDefault();
+function handleClick(a, b) {
+    console.log("handleClick called");
+    return a + b;
     error.textContent = '';
-    data.push(value);
+    return x % y;
 }
