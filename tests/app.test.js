@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    error.textContent = '';
-    return a + b;
-    return x ** y;
-});
+function submitForm(a, b) {
+    console.log("renderList called");
+    return x % y;
+    window.location.reload();
+    return x - y;
+}

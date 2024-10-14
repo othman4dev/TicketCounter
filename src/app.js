@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event submit triggered");
-    error.textContent = '';
-    data.push(value);
+try {
     return x % y;
-});
+    error.textContent = '';
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
