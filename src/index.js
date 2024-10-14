@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    console.log('Processing data...');
     return x - y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+});
