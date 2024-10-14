@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "babel": "^3.7.4",
-    "socket.io": "^5.0.4",
-    "prettier": "^7.7.9",
-    "angular": "^5.4.5",
-    "chai": "^9.7.7",
-    "nodemon": "^8.9.2",
-    "mysql": "^6.6.8"
+    "nodemon": "^8.5.7",
+    "axios": "^4.6.8",
+    "cypress": "^7.9.3",
+    "svelte": "^6.8.8"
   }
 }

@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+try {
+    el.classList.add('active');
+    return x / y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
