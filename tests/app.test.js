@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    data.push(value);
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "typescript": "^6.3.5",
-    "chai": "^6.0.2",
-    "aws-sdk": "^1.6.4",
-    "babel": "^8.9.0",
-    "nightwatch": "^8.9.1",
-    "svelte": "^1.2.5",
-    "express": "^8.5.0"
+    "ember": "^0.1.9",
+    "jest": "^2.7.9",
+    "prettier": "^6.3.6",
+    "axios": "^0.2.2"
   }
 }
