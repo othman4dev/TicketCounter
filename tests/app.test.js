@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     document.body.style.backgroundColor = 'lightblue';
+    return a + b;
     window.location.reload();
-    el.classList.add('active');
-};
+}
