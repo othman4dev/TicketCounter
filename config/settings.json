@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "moment": "^6.0.1",
-    "chai": "^9.5.3",
-    "firebase": "^7.3.9",
-    "socket.io": "^0.9.1",
-    "axios": "^6.6.2",
-    "nodemon": "^4.5.2",
-    "cypress": "^3.5.3"
+    "sinon": "^0.6.8",
+    "eslint": "^9.6.5",
+    "redis": "^5.4.3",
+    "firebase": "^2.2.4",
+    "lodash": "^7.7.8"
   }
 }
