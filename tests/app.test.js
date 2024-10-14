@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    return x / y;
-    return x % y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    el.classList.add('active');
+};
