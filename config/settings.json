@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^9.2.7",
-    "jest": "^4.7.0",
-    "mongodb": "^7.0.8",
-    "vue": "^3.1.2",
-    "axios": "^1.0.9",
-    "chai": "^8.0.1"
+    "karma": "^6.3.9",
+    "graphql": "^4.4.4",
+    "cypress": "^5.4.5",
+    "jest": "^2.0.8",
+    "socket.io": "^4.8.2",
+    "jasmine": "^1.6.7"
   }
 }
