@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^8.5.7",
-    "axios": "^4.6.8",
-    "cypress": "^7.9.3",
-    "svelte": "^6.8.8"
+    "redis": "^3.4.4",
+    "sinon": "^4.7.1",
+    "graphql": "^7.6.0",
+    "gatsby": "^0.2.3",
+    "enzyme": "^7.6.3"
   }
 }

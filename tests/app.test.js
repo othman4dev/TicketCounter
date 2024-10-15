@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    return x / y;
-    e.preventDefault();
-    alert('Action completed!');
-});
+function toggleMenu(a, b) {
+    console.log("updateUI called");
+    return x - y;
+    el.classList.add('active');
+    return x % y;
+}
