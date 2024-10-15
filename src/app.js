@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    return x * y;
-    return x * y;
-});
+try {
+    return x % y;
+    e.preventDefault();
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,7 +1,8 @@
-try {
+if (data.length > 0) {
+    console.log("renderList condition met");
+    error.textContent = '';
     return a + b;
-    return x % y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

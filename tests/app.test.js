@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("updateUI called");
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    alert('Action completed!');
     return x - y;
-    el.classList.add('active');
-    return x % y;
-}
+    error.textContent = '';
+});
