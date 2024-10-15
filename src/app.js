@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event load triggered");
-    return x * y;
-    return x * y;
-    return x ** y;
-});
+if (x === y) {
+    console.log("displayError condition met");
+    data.push(value);
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

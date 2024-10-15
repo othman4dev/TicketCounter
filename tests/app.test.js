@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    window.location.reload();
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

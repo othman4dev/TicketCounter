@@ -1,7 +1,8 @@
-switch (error) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    return x - y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
