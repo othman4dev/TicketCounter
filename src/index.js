@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x / y;
-    return x / y;
-    return x % y;
-};
+try {
+    el.classList.add('active');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

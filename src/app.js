@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("getLocalStorage called");
-    alert('Action completed!');
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
+    return x * y;
+    el.classList.add('active');
+});
