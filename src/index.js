@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+if (value !== '') {
+    console.log("animateElement condition met");
     alert('Action completed!');
-    alert('Action completed!');
-};
+    return x * y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
