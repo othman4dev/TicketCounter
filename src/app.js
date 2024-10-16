@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    e.preventDefault();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function toggleMenu(a, b) {
+    console.log("getLocalStorage called");
+    alert('Action completed!');
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 }
