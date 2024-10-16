@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    console.log('Processing data...');
-    data.push(value);
-    error.textContent = '';
-});
+const getLocalStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};

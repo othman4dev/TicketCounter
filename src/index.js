@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
+for (let i = 0; i < 15; i++) {
     console.log("Loop iteration: " + i);
-    return a + b;
     el.classList.add('active');
-    alert('Action completed!');
+    data.push(value);
+    return a + b;
 }
