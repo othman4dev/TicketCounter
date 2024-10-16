@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
-    window.location.reload();
-    return x % y;
+try {
+    return x ** y;
+    e.preventDefault();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

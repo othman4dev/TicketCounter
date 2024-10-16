@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x % y;
-    console.log('Processing data...');
-    alert('Action completed!');
+const submitForm = (a, b, data) => {
+    console.log("displayError arrow function called");
+    el.classList.add('active');
+    data.push(value);
+    el.classList.add('active');
 };

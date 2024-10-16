@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^0.4.2",
-    "enzyme": "^7.9.5",
-    "jasmine": "^6.5.3",
-    "vue": "^7.1.6",
-    "prettier": "^2.1.7",
-    "express": "^3.1.8",
-    "ember": "^0.9.3"
+    "firebase": "^9.2.7",
+    "jest": "^4.7.0",
+    "mongodb": "^7.0.8",
+    "vue": "^3.1.2",
+    "axios": "^1.0.9",
+    "chai": "^8.0.1"
   }
 }
