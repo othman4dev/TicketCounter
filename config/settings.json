@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "karma": "^9.6.9",
-    "gatsby": "^8.8.0",
-    "webpack": "^7.0.5",
-    "express": "^3.7.8",
-    "lodash": "^0.5.9",
-    "ember": "^3.9.2",
-    "mocha": "^1.8.5"
+    "vue": "^7.4.9",
+    "ember": "^1.6.1",
+    "next.js": "^0.0.3",
+    "express": "^3.8.1",
+    "puppeteer": "^3.6.2",
+    "react": "^9.3.3"
   }
 }
