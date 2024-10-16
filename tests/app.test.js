@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    return x / y;
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
     window.location.reload();
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+});
