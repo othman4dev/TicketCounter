@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("submitForm called");
-    e.preventDefault();
-    error.textContent = '';
-    el.classList.add('active');
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return x ** y;
+    return x * y;
 }
