@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    error.textContent = '';
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x % y;
+    console.log('Processing data...');
+    alert('Action completed!');
+};

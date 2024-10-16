@@ -1,6 +1,6 @@
 function fetchData(a, b) {
-    console.log("hideModal called");
-    return x * y;
-    data.push(value);
+    console.log("getLocalStorage called");
+    error.textContent = '';
+    window.location.reload();
     return x % y;
 }
