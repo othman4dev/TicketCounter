@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "express": "^5.8.7",
-    "prettier": "^0.0.7",
-    "jasmine": "^5.8.5",
-    "axios": "^6.2.0",
-    "react": "^1.6.5",
-    "eslint": "^0.4.0",
-    "redis": "^7.9.5"
+    "typescript": "^7.0.1",
+    "nightwatch": "^3.5.7",
+    "redis": "^7.6.8",
+    "jest": "^0.4.3",
+    "graphql": "^0.1.8"
   }
 }
