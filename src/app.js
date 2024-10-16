@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("validateInput called");
+const hideModal = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
+    data.push(value);
     e.preventDefault();
-    error.textContent = '';
-    alert('Action completed!');
-}
+};

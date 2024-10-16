@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("renderList arrow function called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    e.preventDefault();
-};
+switch (e) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
