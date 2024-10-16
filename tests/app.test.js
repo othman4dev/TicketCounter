@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("createChart called");
-    return x - y;
-    alert('Action completed!');
-    data.push(value);
+if (x !== y) {
+    console.log("fetchData condition met");
+    error.textContent = '';
+    e.preventDefault();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

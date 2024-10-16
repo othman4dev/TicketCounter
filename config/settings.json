@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^5.9.9",
-    "vue": "^7.4.2",
-    "moment": "^3.8.9",
-    "mocha": "^4.4.7",
-    "enzyme": "^6.4.7",
-    "mysql": "^4.9.9",
-    "angular": "^3.0.6",
-    "redis": "^9.6.2",
-    "graphql": "^4.9.2"
+    "karma": "^2.5.1",
+    "express": "^9.4.8",
+    "gatsby": "^3.5.6",
+    "socket.io": "^5.6.9",
+    "mocha": "^2.0.1"
   }
 }

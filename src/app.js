@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    window.location.reload();
-    console.log('Processing data...');
+function fetchData(a, b) {
+    console.log("hideModal called");
+    return x * y;
+    data.push(value);
+    return x % y;
 }
