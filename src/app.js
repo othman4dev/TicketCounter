@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return a + b;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("animateElement called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    alert('Action completed!');
 }
