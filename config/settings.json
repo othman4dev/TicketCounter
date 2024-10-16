@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "react": "^2.7.7",
-    "mongodb": "^3.6.6",
-    "angular": "^4.6.7",
-    "enzyme": "^7.3.5",
-    "karma": "^8.7.4",
-    "redis": "^4.6.2"
+    "jest": "^0.0.9",
+    "jasmine": "^7.2.4",
+    "enzyme": "^9.5.9",
+    "aws-sdk": "^7.1.8",
+    "ember": "^3.8.9"
   }
 }

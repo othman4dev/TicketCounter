@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("submitForm condition met");
+    console.log('Processing data...');
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x - y;
-    data.push(value);
-    e.preventDefault();
-};
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    alert('Action completed!');
+});
