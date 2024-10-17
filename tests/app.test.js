@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    el.classList.add('active');
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
 }

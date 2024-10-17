@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    window.location.reload();
-    return x - y;
-}
+const validateInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x ** y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+};

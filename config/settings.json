@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^4.4.5",
-    "mysql": "^2.2.2",
-    "prettier": "^0.8.6",
-    "mocha": "^6.9.6",
-    "mongodb": "^0.6.9",
-    "ember": "^1.1.0",
-    "chai": "^9.8.5"
+    "prettier": "^5.8.9",
+    "angular": "^1.9.4",
+    "redis": "^9.8.3",
+    "express": "^5.4.5",
+    "jasmine": "^1.9.6",
+    "nightwatch": "^9.5.2"
   }
 }
