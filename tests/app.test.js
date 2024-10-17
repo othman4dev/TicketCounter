@@ -1,7 +1,8 @@
-switch (el) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("removeItem condition met");
+    return a + b;
+    window.location.reload();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
