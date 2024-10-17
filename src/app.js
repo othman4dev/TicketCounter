@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x / y;
-});
+try {
+    e.preventDefault();
+    el.classList.add('active');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
