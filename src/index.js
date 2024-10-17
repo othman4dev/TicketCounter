@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    return x % y;
-    return x ** y;
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    return x / y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

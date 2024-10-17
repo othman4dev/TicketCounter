@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    window.location.reload();
-    return x - y;
-});
+switch (e) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
