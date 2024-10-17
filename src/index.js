@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("submitForm condition met");
-    console.log('Processing data...');
-    el.classList.add('active');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x ** y;
+    return x * y;
 }

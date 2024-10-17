@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jest": "^0.0.9",
-    "jasmine": "^7.2.4",
-    "enzyme": "^9.5.9",
-    "aws-sdk": "^7.1.8",
-    "ember": "^3.8.9"
+    "karma": "^8.1.7",
+    "firebase": "^2.5.7",
+    "puppeteer": "^2.4.5",
+    "express": "^0.1.0",
+    "nodemon": "^4.8.0",
+    "typescript": "^2.9.9",
+    "mysql": "^7.4.0",
+    "chai": "^8.6.7"
   }
 }

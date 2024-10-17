@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event focus triggered");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    alert('Action completed!');
-});
+    el.classList.add('active');
+}
