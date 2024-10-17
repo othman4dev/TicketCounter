@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+try {
+    error.textContent = '';
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

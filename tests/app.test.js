@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event change triggered");
+const checkStatus = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
     alert('Action completed!');
-    return a + b;
-    console.log('Processing data...');
-});
+};
