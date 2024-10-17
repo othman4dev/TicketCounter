@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    return a + b;
-    error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function hideModal(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return x % y;
 }

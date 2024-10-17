@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
+function updateUI(a, b) {
+    console.log("formatDate called");
+    el.classList.add('active');
     return x ** y;
-    el.classList.add('active');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }

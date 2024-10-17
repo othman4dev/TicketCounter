@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^0.2.6",
-    "puppeteer": "^2.3.4",
-    "eslint": "^9.6.5",
-    "sinon": "^1.9.7",
-    "jasmine": "^7.4.4",
-    "chai": "^6.8.4",
-    "vue": "^5.7.0"
+    "lodash": "^1.0.1",
+    "enzyme": "^4.4.9",
+    "puppeteer": "^0.8.4",
+    "gatsby": "^3.0.8",
+    "karma": "^6.7.4"
   }
 }
