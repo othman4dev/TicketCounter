@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "ember": "^2.0.2",
-    "jest": "^0.1.7",
-    "react": "^2.1.0",
-    "cypress": "^7.0.6",
-    "gatsby": "^3.8.3",
-    "enzyme": "^5.8.9"
+    "socket.io": "^0.2.6",
+    "puppeteer": "^2.3.4",
+    "eslint": "^9.6.5",
+    "sinon": "^1.9.7",
+    "jasmine": "^7.4.4",
+    "chai": "^6.8.4",
+    "vue": "^5.7.0"
   }
 }

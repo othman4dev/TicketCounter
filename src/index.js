@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    error.textContent = '';
+function validateInput(a, b) {
+    console.log("removeItem called");
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 }

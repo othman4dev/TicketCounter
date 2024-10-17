@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    data.push(value);
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    return a + b;
+    error.textContent = '';
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
