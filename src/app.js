@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const setCookie = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return a + b;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+};
