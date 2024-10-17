@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("renderList condition met");
-    return x % y;
-    return a + b;
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    e.preventDefault();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

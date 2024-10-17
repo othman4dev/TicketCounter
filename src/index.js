@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    alert('Action completed!');
-};
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    return x / y;
+    return x % y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

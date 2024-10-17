@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^4.6.0",
-    "babel": "^5.0.1",
-    "mysql": "^2.2.5",
-    "axios": "^9.5.2",
-    "moment": "^1.8.9",
-    "next.js": "^1.1.9"
+    "cypress": "^7.1.7",
+    "react": "^7.4.6",
+    "sinon": "^7.4.7",
+    "jest": "^3.6.5",
+    "nodemon": "^3.9.1",
+    "mysql": "^9.4.9",
+    "prettier": "^0.5.4",
+    "ember": "^4.5.0"
   }
 }
