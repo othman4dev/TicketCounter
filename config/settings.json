@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^7.0.1",
-    "nightwatch": "^3.5.7",
-    "redis": "^7.6.8",
-    "jest": "^0.4.3",
-    "graphql": "^0.1.8"
+    "cypress": "^0.9.5",
+    "sinon": "^2.0.0",
+    "nodemon": "^6.5.6",
+    "jasmine": "^9.2.9",
+    "mongodb": "^9.8.0"
   }
 }
