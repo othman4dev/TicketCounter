@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "moment": "^7.9.6",
-    "express": "^5.8.6",
-    "mongodb": "^0.6.9",
-    "svelte": "^3.0.0",
-    "next.js": "^7.0.7"
+    "mysql": "^3.0.4",
+    "lodash": "^0.6.3",
+    "mongodb": "^3.9.2",
+    "jest": "^3.2.8",
+    "karma": "^6.4.3"
   }
 }

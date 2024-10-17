@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return a + b;
-    return a + b;
-}
+const checkStatus = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x - y;
+    return x - y;
+    return x ** y;
+};

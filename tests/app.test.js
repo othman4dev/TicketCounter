@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
+try {
+    el.classList.add('active');
     alert('Action completed!');
-    return x % y;
-});
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
