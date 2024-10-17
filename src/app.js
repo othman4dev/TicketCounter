@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event resize triggered");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-}
+    return x - y;
+    return x / y;
+});
