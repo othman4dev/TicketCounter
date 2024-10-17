@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^0.9.5",
-    "sinon": "^2.0.0",
-    "nodemon": "^6.5.6",
-    "jasmine": "^9.2.9",
-    "mongodb": "^9.8.0"
+    "protractor": "^9.2.0",
+    "puppeteer": "^1.1.5",
+    "eslint": "^7.1.9",
+    "socket.io": "^7.4.5",
+    "jasmine": "^0.0.4"
   }
 }
