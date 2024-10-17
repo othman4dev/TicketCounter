@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return a + b;
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event blur triggered");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    window.location.reload();
+    return x - y;
+});

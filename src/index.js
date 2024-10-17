@@ -1,7 +1,8 @@
-try {
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
+    return x % y;
     return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    el.classList.add('active');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return x - y;
+    return a + b;
+    return x * y;
+});
