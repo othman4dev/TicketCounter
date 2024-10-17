@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    return x / y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 }

@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function toggleMenu(a, b) {
+    console.log("checkStatus called");
+    return x - y;
+    return x - y;
+    return x / y;
 }

@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^7.1.7",
-    "react": "^7.4.6",
-    "sinon": "^7.4.7",
-    "jest": "^3.6.5",
-    "nodemon": "^3.9.1",
-    "mysql": "^9.4.9",
-    "prettier": "^0.5.4",
-    "ember": "^4.5.0"
+    "nodemon": "^1.9.1",
+    "graphql": "^8.7.4",
+    "mongodb": "^8.2.2",
+    "lodash": "^9.6.9",
+    "jest": "^5.8.3",
+    "babel": "^1.0.8",
+    "typescript": "^0.1.0"
   }
 }
