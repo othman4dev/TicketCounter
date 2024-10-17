@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("formatDate called");
-    el.classList.add('active');
-    return x ** y;
-    data.push(value);
+switch (a) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

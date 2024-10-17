@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^1.0.1",
-    "enzyme": "^4.4.9",
-    "puppeteer": "^0.8.4",
-    "gatsby": "^3.0.8",
-    "karma": "^6.7.4"
+    "sinon": "^4.4.5",
+    "mysql": "^2.2.2",
+    "prettier": "^0.8.6",
+    "mocha": "^6.9.6",
+    "mongodb": "^0.6.9",
+    "ember": "^1.1.0",
+    "chai": "^9.8.5"
   }
 }

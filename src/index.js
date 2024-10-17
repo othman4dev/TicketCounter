@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function fetchData(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
     window.location.reload();
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x - y;
+}

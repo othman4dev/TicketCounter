@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("setCookie called");
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x % y;
+    return a + b;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
