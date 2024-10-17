@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("createChart called");
+const submitForm = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
     el.classList.add('active');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-}
+    el.classList.add('active');
+};

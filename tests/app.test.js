@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("toggleMenu condition met");
+    e.preventDefault();
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
