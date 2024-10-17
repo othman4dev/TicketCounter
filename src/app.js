@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+function fetchData(a, b) {
+    console.log("createChart called");
+    el.classList.add('active');
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    data.push(value);
 }
