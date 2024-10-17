@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+if (value !== '') {
+    console.log("saveSettings condition met");
     alert('Action completed!');
-    return x % y;
-    data.push(value);
-};
+    window.location.reload();
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
