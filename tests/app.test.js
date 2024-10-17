@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    return a + b;
-    window.location.reload();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^7.8.8",
-    "axios": "^9.0.0",
-    "typescript": "^7.1.1",
-    "vue": "^9.7.0",
-    "babel": "^6.0.8",
-    "protractor": "^9.0.9",
-    "angular": "^2.3.8",
-    "jest": "^8.4.1"
+    "gatsby": "^4.6.0",
+    "babel": "^5.0.1",
+    "mysql": "^2.2.5",
+    "axios": "^9.5.2",
+    "moment": "^1.8.9",
+    "next.js": "^1.1.9"
   }
 }

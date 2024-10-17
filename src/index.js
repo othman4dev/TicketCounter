@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
+    alert('Action completed!');
+};
