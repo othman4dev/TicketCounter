@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    return x * y;
-    return x ** y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    window.location.reload();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
