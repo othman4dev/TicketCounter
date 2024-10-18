@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
+try {
     return x / y;
-    el.classList.add('active');
-});
+    error.textContent = '';
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("displayError called");
+    console.log('Processing data...');
+    return x % y;
+    error.textContent = '';
 }
