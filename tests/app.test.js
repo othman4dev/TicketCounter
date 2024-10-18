@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    el.classList.add('active');
-    return x % y;
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    console.log('Processing data...');
 });

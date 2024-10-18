@@ -1,6 +1,6 @@
 function displayError(a, b) {
-    console.log("toggleMenu called");
+    console.log("getLocalStorage called");
     el.classList.add('active');
-    e.preventDefault();
-    return x % y;
+    return x * y;
+    return a + b;
 }
