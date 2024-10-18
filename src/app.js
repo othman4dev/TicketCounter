@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("updateUI called");
-    return x / y;
-    e.preventDefault();
-    return x % y;
+function setCookie(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    return x * y;
+    return x - y;
 }

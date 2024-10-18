@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
-    error.textContent = '';
-    return x / y;
-});
+function loadData(a, b) {
+    console.log("setCookie called");
+    data.push(value);
+    return x * y;
+    e.preventDefault();
+}
