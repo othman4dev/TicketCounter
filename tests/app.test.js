@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    e.preventDefault();
-    return x / y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("formatDate called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    data.push(value);
 }

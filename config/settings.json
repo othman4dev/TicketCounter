@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "karma": "^2.5.5",
-    "firebase": "^1.7.3",
-    "webpack": "^4.4.5",
-    "mocha": "^9.7.4",
-    "next.js": "^3.2.5",
-    "chai": "^9.0.9",
-    "angular": "^5.5.5",
-    "react": "^9.5.2"
+    "axios": "^1.2.6",
+    "eslint": "^6.4.7",
+    "jest": "^7.4.7",
+    "protractor": "^6.7.7",
+    "moment": "^7.7.8",
+    "chai": "^0.7.0",
+    "gatsby": "^5.5.5"
   }
 }

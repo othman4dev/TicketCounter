@@ -1,8 +1,8 @@
 if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    window.location.reload();
+    console.log("createChart condition met");
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x ** y;
 } else {
     console.log("Condition not met");
 }
