@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    return x / y;
-    data.push(value);
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    return x - y;
 }

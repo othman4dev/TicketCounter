@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x % y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    error.textContent = '';
+    return x ** y;
+});
