@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("getLocalStorage called");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    data.push(value);
-    data.push(value);
+    return x * y;
+    return a + b;
 }
