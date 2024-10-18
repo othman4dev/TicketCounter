@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
-    return x % y;
-    error.textContent = '';
+try {
+    return a + b;
+    e.preventDefault();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
