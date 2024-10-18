@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    console.log('Processing data...');
 });
