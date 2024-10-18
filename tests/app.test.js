@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("loadData arrow function called");
-    window.location.reload();
-    return x / y;
-    e.preventDefault();
-};
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    el.classList.add('active');
+    return x - y;
+});
