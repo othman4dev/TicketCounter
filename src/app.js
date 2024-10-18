@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("renderList called");
-    alert('Action completed!');
-    return x * y;
-    return x - y;
+function renderList(a, b) {
+    console.log("getLocalStorage called");
+    error.textContent = '';
+    data.push(value);
+    data.push(value);
 }

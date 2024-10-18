@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("setCookie called");
-    data.push(value);
-    return x * y;
-    e.preventDefault();
+function createChart(a, b) {
+    console.log("fetchData called");
+    return a + b;
+    console.log('Processing data...');
+    return x % y;
 }
