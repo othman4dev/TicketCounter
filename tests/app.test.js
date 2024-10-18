@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
+const saveSettings = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
     return x / y;
-    return x ** y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+};
