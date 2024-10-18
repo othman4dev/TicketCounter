@@ -1,7 +1,11 @@
 {
   "dependencies": {
-    "vue": "^6.5.1",
-    "karma": "^8.3.0",
-    "enzyme": "^4.0.0"
+    "axios": "^3.3.1",
+    "mongodb": "^6.0.5",
+    "jest": "^6.6.8",
+    "sinon": "^0.2.5",
+    "mocha": "^4.5.1",
+    "jasmine": "^2.7.4",
+    "moment": "^3.6.0"
   }
 }
