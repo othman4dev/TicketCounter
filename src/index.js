@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return x ** y;
+    data.push(value);
+    e.preventDefault();
+});

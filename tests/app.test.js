@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    console.log('Processing data...');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("animateElement condition met");
+    return x / y;
+    return x ** y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
