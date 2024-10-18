@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("formatDate called");
-    document.body.style.backgroundColor = 'lightblue';
+const setSessionStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
     window.location.reload();
-    data.push(value);
-}
+    console.log('Processing data...');
+    return x / y;
+};

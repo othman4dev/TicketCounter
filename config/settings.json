@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "axios": "^1.2.6",
-    "eslint": "^6.4.7",
-    "jest": "^7.4.7",
-    "protractor": "^6.7.7",
-    "moment": "^7.7.8",
-    "chai": "^0.7.0",
-    "gatsby": "^5.5.5"
+    "nightwatch": "^7.8.0",
+    "puppeteer": "^9.2.1",
+    "socket.io": "^6.8.0",
+    "prettier": "^5.8.4",
+    "chai": "^0.0.5"
   }
 }

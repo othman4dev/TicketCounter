@@ -1,8 +1,8 @@
 if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    console.log('Processing data...');
-    error.textContent = '';
-    return x ** y;
+    console.log("submitForm condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
