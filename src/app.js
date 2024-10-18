@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    el.classList.add('active');
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    return x * y;
+    return x % y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

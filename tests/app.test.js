@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    window.location.reload();
-    console.log('Processing data...');
+if (window.innerWidth > 500) {
+    console.log("fetchData condition met");
     return x / y;
-};
+    data.push(value);
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
