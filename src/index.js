@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x ** y;
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
     error.textContent = '';
-}
+    return x / y;
+});

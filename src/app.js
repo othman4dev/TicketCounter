@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+function validateInput(a, b) {
+    console.log("updateUI called");
     return x / y;
-    return x ** y;
-    console.log('Processing data...');
-};
+    e.preventDefault();
+    return x % y;
+}

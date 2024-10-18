@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("saveSettings called");
-    return a + b;
-    return x % y;
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
     console.log('Processing data...');
-}
+});
