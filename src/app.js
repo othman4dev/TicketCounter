@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    window.location.reload();
+const processInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x / y;
+    return x ** y;
+    console.log('Processing data...');
 };

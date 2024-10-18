@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x - y;
-    return x - y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     return x ** y;
-};
+    error.textContent = '';
+}
