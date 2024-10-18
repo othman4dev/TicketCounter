@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.4.9",
-    "lodash": "^7.6.0",
-    "firebase": "^3.1.6",
-    "protractor": "^9.9.2",
-    "nodemon": "^0.4.3",
-    "nightwatch": "^6.3.2",
-    "socket.io": "^8.1.9",
-    "mysql": "^6.5.3",
-    "eslint": "^5.0.7"
+    "mocha": "^0.2.1",
+    "graphql": "^6.6.8",
+    "puppeteer": "^7.8.4",
+    "nodemon": "^2.0.6",
+    "chai": "^9.1.2",
+    "vue": "^9.4.6",
+    "mongodb": "^2.1.7",
+    "angular": "^1.8.0"
   }
 }

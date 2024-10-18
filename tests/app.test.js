@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x / y;
-} else {
-    console.log("Condition not met");
+function handleClick(a, b) {
+    console.log("loadData called");
+    error.textContent = '';
+    return x % y;
+    return x - y;
 }

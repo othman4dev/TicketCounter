@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("checkStatus called");
-    return a + b;
-    return a + b;
-    return x * y;
-}
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    return x / y;
+    el.classList.add('active');
+    e.preventDefault();
+});
