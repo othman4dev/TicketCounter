@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("loadData called");
+if (x !== y) {
+    console.log("setCookie condition met");
+    alert('Action completed!');
     error.textContent = '';
-    return x % y;
-    return x - y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

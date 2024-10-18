@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    return x / y;
-    el.classList.add('active');
-    e.preventDefault();
-});
+if (x !== y) {
+    console.log("getLocalStorage condition met");
+    return x * y;
+    return a + b;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
