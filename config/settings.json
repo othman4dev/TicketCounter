@@ -1,11 +1,7 @@
 {
   "dependencies": {
-    "chai": "^3.4.2",
-    "react": "^9.4.4",
-    "nodemon": "^0.4.2",
-    "protractor": "^1.0.1",
-    "mongodb": "^5.3.8",
-    "mocha": "^0.8.2",
-    "webpack": "^4.3.1"
+    "vue": "^6.5.1",
+    "karma": "^8.3.0",
+    "enzyme": "^4.0.0"
   }
 }
