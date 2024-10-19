@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "angular": "^3.8.2",
-    "chai": "^1.2.6",
-    "gatsby": "^6.8.3",
-    "eslint": "^1.4.4",
-    "prettier": "^5.5.4",
-    "jasmine": "^7.7.9",
-    "jest": "^5.1.4"
+    "mongodb": "^7.1.1",
+    "sinon": "^3.9.0",
+    "aws-sdk": "^3.4.8",
+    "cypress": "^7.4.1",
+    "protractor": "^2.7.9",
+    "enzyme": "^9.9.1",
+    "ember": "^8.2.2",
+    "lodash": "^6.6.9"
   }
 }

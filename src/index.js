@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("handleClick called");
-    return x - y;
-    return a + b;
-    return x - y;
+if (a > b) {
+    console.log("removeItem condition met");
+    return x ** y;
+    data.push(value);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
