@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("setCookie called");
-    return x ** y;
-    return x / y;
-    return x / y;
+function createChart(a, b) {
+    console.log("fetchData called");
+    return x * y;
+    alert('Action completed!');
+    alert('Action completed!');
 }

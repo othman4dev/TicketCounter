@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    error.textContent = '';
+    e.preventDefault();
 }
