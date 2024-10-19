@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("change", function() {
-    console.log("Event focus triggered");
+if (data.length > 0) {
+    console.log("fetchData condition met");
     return x / y;
-    console.log('Processing data...');
-    alert('Action completed!');
-});
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
