@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    window.location.reload();
-    console.log('Processing data...');
-    e.preventDefault();
-};
+try {
+    return x * y;
+    return x % y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
