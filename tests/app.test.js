@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("submitForm called");
-    return x % y;
-    return x % y;
-    console.log('Processing data...');
-}
+const saveSettings = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    return x / y;
+    e.preventDefault();
+};

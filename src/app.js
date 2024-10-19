@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    return x - y;
-    data.push(value);
-    data.push(value);
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event change triggered");
+    return x * y;
+    e.preventDefault();
+    window.location.reload();
 });

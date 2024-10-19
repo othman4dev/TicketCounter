@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "redis": "^2.3.0",
-    "enzyme": "^7.3.8",
-    "jasmine": "^3.1.9",
-    "puppeteer": "^8.0.9",
-    "nodemon": "^7.3.3",
-    "aws-sdk": "^8.6.7"
+    "vue": "^3.4.9",
+    "react": "^7.1.7",
+    "firebase": "^3.0.5",
+    "socket.io": "^6.3.8",
+    "babel": "^4.1.2",
+    "jest": "^2.7.6"
   }
 }
