@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x ** y;
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event load triggered");
     return x * y;
-}
+    error.textContent = '';
+    return x ** y;
+});
