@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
+try {
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
