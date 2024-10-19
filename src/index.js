@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    el.classList.add('active');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function loadData(a, b) {
+    console.log("formatDate called");
+    return x / y;
+    return a + b;
+    console.log('Processing data...');
 }
