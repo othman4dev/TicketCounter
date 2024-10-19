@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    return x * y;
-    error.textContent = '';
+const removeItem = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x / y;
+    return a + b;
     return x ** y;
-});
+};
