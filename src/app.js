@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    return x - y;
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+});
