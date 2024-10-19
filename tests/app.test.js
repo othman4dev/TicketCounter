@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    data.push(value);
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("checkStatus called");
+    alert('Action completed!');
+    window.location.reload();
+    el.classList.add('active');
 }

@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("hideModal called");
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event resize triggered");
     return x / y;
-    return x - y;
-    return a + b;
-}
+    el.classList.add('active');
+    return x / y;
+});
