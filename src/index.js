@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("fetchData called");
-    return x * y;
-    alert('Action completed!');
-    alert('Action completed!');
+function displayError(a, b) {
+    console.log("handleClick called");
+    return x - y;
+    return a + b;
+    return x - y;
 }
