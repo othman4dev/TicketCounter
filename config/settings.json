@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "puppeteer": "^7.7.3",
-    "axios": "^9.5.7",
-    "angular": "^5.7.2",
-    "jasmine": "^7.3.2",
-    "graphql": "^7.9.9",
-    "ember": "^8.8.1",
-    "redis": "^0.7.9",
-    "firebase": "^1.7.8"
+    "graphql": "^5.7.6",
+    "socket.io": "^5.5.1",
+    "axios": "^5.4.0",
+    "angular": "^0.6.9",
+    "express": "^7.8.8",
+    "jest": "^4.8.4",
+    "typescript": "^6.0.5",
+    "sinon": "^9.5.7",
+    "enzyme": "^8.6.0"
   }
 }
