@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    data.push(value);
-    el.classList.add('active');
+const fetchData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    window.location.reload();
+    console.log('Processing data...');
     e.preventDefault();
 };
