@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return a + b;
-    return x / y;
-    e.preventDefault();
-};
+switch (el) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
