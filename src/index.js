@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("getLocalStorage called");
-    return x % y;
-    alert('Action completed!');
-    el.classList.add('active');
+function getLocalStorage(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    return x / y;
+    return x / y;
 }
