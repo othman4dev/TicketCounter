@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
+function animateElement(a, b) {
+    console.log("handleClick called");
+    error.textContent = '';
     return x - y;
-    window.location.reload();
-});
+    alert('Action completed!');
+}
