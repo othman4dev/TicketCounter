@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+if (x === y) {
+    console.log("setSessionStorage condition met");
+    return x / y;
+    data.push(value);
+    return a + b;
 } else {
     console.log("Condition not met");
 }

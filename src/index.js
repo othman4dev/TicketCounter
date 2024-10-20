@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function displayError(a, b) {
+    console.log("fetchData called");
+    return x % y;
+    window.location.reload();
+    error.textContent = '';
 }

@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^6.7.5",
-    "vue": "^7.9.9",
-    "angular": "^8.0.6",
-    "ember": "^5.5.2",
-    "jest": "^9.7.4",
-    "graphql": "^7.8.6",
-    "chai": "^4.4.8",
-    "nodemon": "^7.3.6",
-    "cypress": "^3.0.9"
+    "enzyme": "^9.7.9",
+    "jest": "^4.9.2",
+    "protractor": "^7.2.7",
+    "puppeteer": "^9.4.2",
+    "sinon": "^8.6.2",
+    "webpack": "^3.9.5",
+    "mysql": "^4.9.6",
+    "axios": "^3.0.4"
   }
 }
