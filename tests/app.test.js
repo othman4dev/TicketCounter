@@ -1,7 +1,7 @@
-switch (e) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    return a + b;
+    return a + b;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

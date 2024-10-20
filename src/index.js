@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("setCookie called");
-    error.textContent = '';
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const processInput = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x % y;
+    data.push(value);
+    return x % y;
+};
