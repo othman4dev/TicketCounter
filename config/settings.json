@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^9.9.5",
-    "jest": "^7.6.8",
-    "svelte": "^0.8.6",
-    "redis": "^7.7.4",
-    "babel": "^4.1.2"
+    "firebase": "^0.2.5",
+    "jasmine": "^6.6.1",
+    "socket.io": "^4.8.2",
+    "axios": "^3.9.4",
+    "nightwatch": "^7.4.9",
+    "redis": "^2.7.3",
+    "lodash": "^9.2.1",
+    "eslint": "^5.1.8"
   }
 }
