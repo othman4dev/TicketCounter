@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x - y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    return x % y;
+    return x / y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("loadData called");
-    window.location.reload();
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
     data.push(value);
-    return x / y;
-}
+    return a + b;
+    e.preventDefault();
+});
