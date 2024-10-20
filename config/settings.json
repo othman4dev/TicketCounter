@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^0.2.5",
-    "jasmine": "^6.6.1",
-    "socket.io": "^4.8.2",
-    "axios": "^3.9.4",
-    "nightwatch": "^7.4.9",
-    "redis": "^2.7.3",
-    "lodash": "^9.2.1",
-    "eslint": "^5.1.8"
+    "puppeteer": "^5.1.8",
+    "jest": "^9.1.9",
+    "redis": "^6.8.8",
+    "moment": "^9.4.7",
+    "next.js": "^0.4.3"
   }
 }

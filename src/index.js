@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("formatDate called");
-    data.push(value);
-    window.location.reload();
-    return a + b;
+try {
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
