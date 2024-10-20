@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    return x % y;
+const setSessionStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    el.classList.add('active');
     return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+};

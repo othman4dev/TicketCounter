@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "protractor": "^3.8.2",
-    "typescript": "^5.7.3",
-    "enzyme": "^4.9.1",
-    "graphql": "^8.4.3",
-    "jest": "^3.0.4",
-    "mongodb": "^6.2.9",
-    "chai": "^3.5.4"
+    "ember": "^1.5.5",
+    "gatsby": "^6.5.5",
+    "puppeteer": "^9.6.5",
+    "vue": "^7.8.6",
+    "chai": "^5.1.7",
+    "enzyme": "^1.7.8",
+    "eslint": "^7.2.8",
+    "nodemon": "^3.9.9",
+    "jest": "^8.7.9"
   }
 }

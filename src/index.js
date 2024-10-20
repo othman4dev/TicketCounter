@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("setCookie called");
+    error.textContent = '';
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }
