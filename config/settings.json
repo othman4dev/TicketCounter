@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^5.1.8",
-    "jest": "^9.1.9",
-    "redis": "^6.8.8",
-    "moment": "^9.4.7",
-    "next.js": "^0.4.3"
+    "mongodb": "^0.6.3",
+    "mocha": "^1.4.0",
+    "puppeteer": "^5.6.7",
+    "firebase": "^7.2.1",
+    "gatsby": "^3.2.5",
+    "moment": "^8.4.6",
+    "enzyme": "^3.5.6",
+    "jasmine": "^9.0.7"
   }
 }

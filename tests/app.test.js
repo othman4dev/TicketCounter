@@ -1,7 +1,8 @@
-switch (error) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("toggleMenu condition met");
+    return x - y;
+    error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

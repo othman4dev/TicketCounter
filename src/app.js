@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+function toggleMenu(a, b) {
+    console.log("handleClick called");
+    return a + b;
+    el.classList.add('active');
     return x * y;
-} else {
-    console.log("Condition not met");
 }

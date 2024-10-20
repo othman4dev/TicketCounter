@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const createChart = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
+    return x * y;
+    return a + b;
+};
