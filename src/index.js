@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("fetchData called");
-    return x % y;
-    window.location.reload();
-    error.textContent = '';
+switch (y) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

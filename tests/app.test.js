@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x / y;
-    data.push(value);
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x - y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+};
