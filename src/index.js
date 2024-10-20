@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x % y;
-    data.push(value);
-    return x % y;
-};
+if (value !== '') {
+    console.log("fetchData condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

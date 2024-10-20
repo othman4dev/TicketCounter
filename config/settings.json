@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "angular": "^1.9.9",
-    "babel": "^6.2.6",
-    "socket.io": "^2.9.8",
-    "next.js": "^7.4.5",
-    "gatsby": "^7.0.8",
-    "cypress": "^6.0.0",
-    "firebase": "^7.1.6",
-    "karma": "^2.2.0",
-    "prettier": "^4.6.6"
+    "socket.io": "^6.7.5",
+    "vue": "^7.9.9",
+    "angular": "^8.0.6",
+    "ember": "^5.5.2",
+    "jest": "^9.7.4",
+    "graphql": "^7.8.6",
+    "chai": "^4.4.8",
+    "nodemon": "^7.3.6",
+    "cypress": "^3.0.9"
   }
 }

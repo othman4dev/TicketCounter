@@ -1,7 +1,8 @@
-try {
-    return a + b;
-    return a + b;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("toggleMenu condition met");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
