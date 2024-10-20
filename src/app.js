@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    el.classList.add('active');
-    return x * y;
+if (a > b) {
+    console.log("showMessage condition met");
+    return x % y;
+    return x - y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

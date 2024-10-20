@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("processInput arrow function called");
-    error.textContent = '';
-    return x * y;
-    return a + b;
-};
+switch (a) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
