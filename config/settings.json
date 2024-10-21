@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "karma": "^9.3.5",
-    "cypress": "^7.1.4",
-    "ember": "^7.9.8",
-    "react": "^9.4.8",
-    "mysql": "^8.5.4"
+    "eslint": "^7.3.0",
+    "express": "^6.0.7",
+    "prettier": "^6.0.1",
+    "sinon": "^0.1.5",
+    "aws-sdk": "^7.6.1"
   }
 }

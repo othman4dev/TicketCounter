@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x * y;
+const displayError = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    data.push(value);
     error.textContent = '';
-    return x - y;
+    e.preventDefault();
 };
