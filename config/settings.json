@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^8.9.9",
-    "vue": "^2.2.7",
-    "graphql": "^6.5.0",
-    "jasmine": "^4.7.0",
-    "svelte": "^2.9.5",
-    "webpack": "^6.6.7",
-    "aws-sdk": "^0.7.6"
+    "mysql": "^4.6.9",
+    "cypress": "^0.7.8",
+    "lodash": "^2.0.4",
+    "next.js": "^9.6.0",
+    "nightwatch": "^8.7.7",
+    "jasmine": "^2.9.3",
+    "ember": "^9.3.0",
+    "angular": "^9.3.1"
   }
 }

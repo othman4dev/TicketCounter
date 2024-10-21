@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    el.classList.add('active');
-    console.log('Processing data...');
-}
+const processInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x ** y;
+    window.location.reload();
+    return x - y;
+};
