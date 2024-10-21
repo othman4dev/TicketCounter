@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    el.classList.add('active');
-    data.push(value);
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    return a + b;
+    return x ** y;
+    console.log('Processing data...');
+});

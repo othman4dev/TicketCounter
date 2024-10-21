@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
-    return x ** y;
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
     return x - y;
+    console.log('Processing data...');
+    error.textContent = '';
 });
