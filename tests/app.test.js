@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
-    error.textContent = '';
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
     e.preventDefault();
-};
+} catch (error) {
+    console.error("Error:", error);
+}
