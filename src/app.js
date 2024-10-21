@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x % y;
-    console.log('Processing data...');
-    e.preventDefault();
-};
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    return x ** y;
+    return x - y;
+});

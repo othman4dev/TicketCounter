@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event load triggered");
+if (a > b) {
+    console.log("fetchData condition met");
     el.classList.add('active');
-    return a + b;
-    el.classList.add('active');
-});
+    data.push(value);
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
