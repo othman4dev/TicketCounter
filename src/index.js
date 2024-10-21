@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+const validateInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    window.location.reload();
     alert('Action completed!');
-    return x / y;
+    e.preventDefault();
 };

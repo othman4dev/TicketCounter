@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    return a + b;
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
     return x ** y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    error.textContent = '';
+});
