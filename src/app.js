@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    return x - y;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     console.log('Processing data...');
-    error.textContent = '';
-});
+    e.preventDefault();
+}

@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^5.1.2",
-    "jest": "^0.5.2",
-    "lodash": "^7.6.5",
-    "babel": "^5.1.7",
-    "prettier": "^6.5.9",
-    "sinon": "^3.4.8",
-    "axios": "^8.4.1",
-    "webpack": "^6.2.9",
-    "gatsby": "^1.8.3"
+    "karma": "^9.3.5",
+    "cypress": "^7.1.4",
+    "ember": "^7.9.8",
+    "react": "^9.4.8",
+    "mysql": "^8.5.4"
   }
 }
