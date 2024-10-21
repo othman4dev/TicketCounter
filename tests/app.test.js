@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x / y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    return a + b;
+    el.classList.add('active');
+});

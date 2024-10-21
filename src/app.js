@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    return a + b;
+const saveSettings = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x % y;
+    console.log('Processing data...');
     e.preventDefault();
-});
+};
