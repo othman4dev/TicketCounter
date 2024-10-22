@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    window.location.reload();
+    error.textContent = '';
+    error.textContent = '';
+});
