@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("createChart arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    alert('Action completed!');
+    return x / y;
+}

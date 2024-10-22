@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("loadData condition met");
-    return x % y;
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    return a + b;
     return x ** y;
-    return x * y;
+    return x - y;
 } else {
     console.log("Condition not met");
 }
