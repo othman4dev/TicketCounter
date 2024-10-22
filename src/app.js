@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
+const getLocalStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     el.classList.add('active');
-    return a + b;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return x ** y;
+};

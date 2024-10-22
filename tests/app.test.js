@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x ** y;
-    window.location.reload();
-    return x - y;
-};
+switch (e) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
