@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.2.8",
-    "sinon": "^1.9.3",
-    "redis": "^4.2.5",
-    "mongodb": "^3.5.6",
-    "eslint": "^3.6.5",
-    "prettier": "^9.2.3",
-    "svelte": "^8.4.1"
+    "aws-sdk": "^5.3.4",
+    "nodemon": "^6.6.0",
+    "mysql": "^8.0.8",
+    "express": "^1.1.0",
+    "protractor": "^3.8.1",
+    "typescript": "^5.0.3"
   }
 }

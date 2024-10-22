@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event input triggered");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    el.classList.add('active');
-    return x - y;
-});
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+}
