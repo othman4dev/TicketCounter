@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    return x ** y;
-    error.textContent = '';
-});
+function hideModal(a, b) {
+    console.log("animateElement called");
+    el.classList.add('active');
+    return a + b;
+    return x / y;
+}

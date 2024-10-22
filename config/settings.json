@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^4.4.2",
-    "jest": "^8.1.0",
-    "firebase": "^6.0.5",
-    "prettier": "^3.5.1",
-    "angular": "^5.5.7",
-    "gatsby": "^6.4.9",
-    "express": "^8.9.1"
+    "cypress": "^9.6.5",
+    "eslint": "^2.1.8",
+    "ember": "^9.7.7",
+    "jest": "^7.9.3",
+    "react": "^5.7.5"
   }
 }
