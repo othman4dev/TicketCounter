@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    error.textContent = '';
-    error.textContent = '';
-});
+if (x === y) {
+    console.log("loadData condition met");
+    return x % y;
+    return x ** y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
