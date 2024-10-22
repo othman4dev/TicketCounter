@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    el.classList.add('active');
-    return x % y;
-}
+const displayError = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return a + b;
+};

@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x * y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("hideModal called");
+    el.classList.add('active');
+    data.push(value);
+    console.log('Processing data...');
 }

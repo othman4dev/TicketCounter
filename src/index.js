@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("toggleMenu condition met");
-    alert('Action completed!');
-    return x * y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
