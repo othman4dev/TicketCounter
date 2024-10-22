@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
+    alert('Action completed!');
     return x * y;
-    alert('Action completed!');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

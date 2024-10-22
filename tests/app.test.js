@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("animateElement called");
-    el.classList.add('active');
-    return a + b;
+try {
     return x / y;
+    return x * y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
