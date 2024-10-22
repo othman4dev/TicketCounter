@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
-    alert('Action completed!');
+if (x === y) {
+    console.log("checkStatus condition met");
+    el.classList.add('active');
     return x / y;
-});
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

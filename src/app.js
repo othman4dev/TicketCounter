@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    el.classList.add('active');
-    window.location.reload();
+function getLocalStorage(a, b) {
+    console.log("handleClick called");
+    return x - y;
     return x ** y;
-};
+    el.classList.add('active');
+}
