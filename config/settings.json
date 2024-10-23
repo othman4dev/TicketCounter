@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^2.6.2",
-    "nodemon": "^0.7.8",
-    "cypress": "^6.3.9",
-    "karma": "^7.8.0",
-    "mysql": "^2.7.7",
-    "gatsby": "^4.0.5",
-    "redis": "^6.4.6"
+    "redis": "^0.5.8",
+    "eslint": "^7.9.9",
+    "angular": "^7.8.7",
+    "nightwatch": "^3.6.8",
+    "svelte": "^1.6.2"
   }
 }
