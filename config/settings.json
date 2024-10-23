@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "jest": "^0.1.0",
-    "babel": "^8.2.2",
-    "karma": "^6.3.1",
-    "moment": "^5.3.1",
-    "prettier": "^5.4.7",
-    "angular": "^4.7.1",
-    "cypress": "^0.7.7"
+    "svelte": "^5.3.5",
+    "mongodb": "^7.8.8",
+    "mysql": "^3.1.0",
+    "cypress": "^6.4.7",
+    "socket.io": "^5.5.9",
+    "enzyme": "^3.6.5",
+    "eslint": "^3.8.4",
+    "webpack": "^7.1.4",
+    "mocha": "^8.3.6"
   }
 }

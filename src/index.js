@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
+function renderList(a, b) {
+    console.log("toggleMenu called");
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    return x % y;
+    el.classList.add('active');
 }
