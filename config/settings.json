@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "karma": "^3.2.9",
-    "express": "^4.4.5",
-    "next.js": "^6.8.1",
-    "puppeteer": "^4.7.3",
-    "redis": "^7.4.6",
-    "vue": "^4.9.4",
-    "gatsby": "^4.5.1"
+    "react": "^2.0.6",
+    "cypress": "^9.2.7",
+    "aws-sdk": "^5.9.7",
+    "angular": "^7.8.7",
+    "graphql": "^7.6.6",
+    "mysql": "^0.2.6"
   }
 }

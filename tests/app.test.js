@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("submitForm called");
-    return a + b;
-    e.preventDefault();
-    el.classList.add('active');
-}
+const toggleMenu = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
+    error.textContent = '';
+};
