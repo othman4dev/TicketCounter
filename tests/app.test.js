@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
-    data.push(value);
-    console.log('Processing data...');
+switch (y) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

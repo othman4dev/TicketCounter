@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("formatDate called");
+    return x % y;
+    e.preventDefault();
+    el.classList.add('active');
 }

@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+function formatDate(a, b) {
+    console.log("toggleMenu called");
+    e.preventDefault();
+    return x * y;
     return x / y;
-    return a + b;
-};
+}
