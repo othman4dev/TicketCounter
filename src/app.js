@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("hideModal called");
+    return a + b;
+    return x * y;
+    return x * y;
 }
