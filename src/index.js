@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return a + b;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("displayError called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 }

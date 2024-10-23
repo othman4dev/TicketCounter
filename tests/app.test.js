@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    el.classList.add('active');
-    window.location.reload();
-});
+function hideModal(a, b) {
+    console.log("createChart called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    return x % y;
+}
