@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    e.preventDefault();
+    return x ** y;
     window.location.reload();
-    error.textContent = '';
-};
+} else {
+    console.log("Condition not met");
+}
