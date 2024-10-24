@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    data.push(value);
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const processInput = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x * y;
+    e.preventDefault();
+    window.location.reload();
+};

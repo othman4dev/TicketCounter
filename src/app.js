@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("hideModal called");
-    return a + b;
-    return x * y;
-    return x * y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x % y;
+    return x - y;
 }
