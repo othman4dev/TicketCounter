@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("processInput called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+switch (a) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("loadData called");
+const getLocalStorage = (a, b, data) => {
+    console.log("removeItem arrow function called");
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-}
+    return x ** y;
+    return x % y;
+};
