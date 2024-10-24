@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^8.7.4",
-    "next.js": "^0.4.8",
-    "webpack": "^0.7.5",
-    "cypress": "^4.9.7",
-    "socket.io": "^1.9.0",
-    "gatsby": "^9.2.7",
-    "jest": "^8.0.0",
-    "redis": "^1.5.4",
-    "nightwatch": "^7.5.9"
+    "svelte": "^9.6.8",
+    "aws-sdk": "^2.7.7",
+    "jest": "^3.8.5",
+    "karma": "^2.7.8",
+    "express": "^6.3.0",
+    "firebase": "^5.4.1"
   }
 }

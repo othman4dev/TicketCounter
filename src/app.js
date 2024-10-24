@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    error.textContent = '';
     data.push(value);
-    el.classList.add('active');
+    return x - y;
 } else {
     console.log("Condition not met");
 }
