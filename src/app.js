@@ -1,7 +1,7 @@
 try {
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    error.textContent = '';
+    el.classList.add('active');
+    return x ** y;
 } catch (error) {
     console.error("Error:", error);
 }
