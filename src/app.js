@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("createChart condition met");
-    el.classList.add('active');
+try {
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    return x / y;
-    window.location.reload();
-    el.classList.add('active');
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
+    return x ** y;
+    alert('Action completed!');
 });
