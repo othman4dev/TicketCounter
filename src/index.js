@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("animateElement called");
-    error.textContent = '';
-    return x ** y;
-    return x / y;
+switch (data) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

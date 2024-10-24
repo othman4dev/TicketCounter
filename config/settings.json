@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.2.1",
-    "express": "^5.7.7",
-    "jest": "^0.0.2",
-    "mongodb": "^8.7.7",
-    "redis": "^1.2.2",
-    "prettier": "^6.3.0"
+    "ember": "^0.4.8",
+    "nodemon": "^2.5.5",
+    "chai": "^7.0.1",
+    "react": "^7.7.5",
+    "redis": "^8.8.9"
   }
 }
