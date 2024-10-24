@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
+try {
+    error.textContent = '';
+    return x % y;
     e.preventDefault();
-    return x ** y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

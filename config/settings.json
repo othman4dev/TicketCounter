@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "ember": "^2.8.4",
-    "sinon": "^1.6.0",
-    "lodash": "^4.8.9",
-    "nightwatch": "^3.4.1"
+    "angular": "^8.4.5",
+    "webpack": "^7.3.2",
+    "jest": "^8.9.9",
+    "nodemon": "^8.1.5",
+    "prettier": "^6.4.6"
   }
 }

@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    data.push(value);
-    el.classList.add('active');
-    error.textContent = '';
-};
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+}
