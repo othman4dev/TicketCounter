@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    error.textContent = '';
-    data.push(value);
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
