@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    e.preventDefault();
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function handleClick(a, b) {
+    console.log("processInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return a + b;
 }
