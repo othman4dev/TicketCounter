@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    data.push(value);
     return x % y;
-    el.classList.add('active');
-}
+});

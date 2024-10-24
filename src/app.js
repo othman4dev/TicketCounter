@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
