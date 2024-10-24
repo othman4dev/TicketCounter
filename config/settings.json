@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "moment": "^9.9.3",
-    "socket.io": "^2.8.3",
-    "gatsby": "^6.2.4",
-    "chai": "^4.9.6",
-    "svelte": "^0.2.5",
-    "webpack": "^7.4.2",
-    "enzyme": "^4.3.8"
+    "next.js": "^3.2.9",
+    "mongodb": "^6.2.5",
+    "chai": "^4.7.3",
+    "graphql": "^6.5.3",
+    "ember": "^0.6.1",
+    "babel": "^8.8.0",
+    "axios": "^6.1.3"
   }
 }
