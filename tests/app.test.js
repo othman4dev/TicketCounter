@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("setCookie arrow function called");
+try {
+    error.textContent = '';
     return x % y;
-    error.textContent = '';
-    error.textContent = '';
-};
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

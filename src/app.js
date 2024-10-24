@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("setSessionStorage called");
+    return x * y;
+    return x * y;
+    return x % y;
 }
