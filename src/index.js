@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    data.push(value);
-    return x % y;
-});
+function showMessage(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+}

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x - y;
+    return x ** y;
+    return x - y;
+};
