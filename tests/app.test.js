@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x * y;
-    e.preventDefault();
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    return x / y;
     window.location.reload();
-};
+    el.classList.add('active');
+});

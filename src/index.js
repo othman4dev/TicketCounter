@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event input triggered");
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    e.preventDefault();
-});
+} else {
+    console.log("Condition not met");
+}
