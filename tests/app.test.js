@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    el.classList.add('active');
-    window.location.reload();
+if (data.length > 0) {
+    console.log("removeItem condition met");
+    return x * y;
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

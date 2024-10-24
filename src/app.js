@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    return a + b;
+    return x - y;
+    console.log('Processing data...');
+});
