@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("createChart called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+const renderList = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x % y;
-}
+    error.textContent = '';
+    error.textContent = '';
+};
