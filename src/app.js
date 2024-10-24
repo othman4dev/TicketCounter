@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("processInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return a + b;
+switch (y) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

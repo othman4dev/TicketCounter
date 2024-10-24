@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("animateElement called");
+    error.textContent = '';
+    return x ** y;
+    return x / y;
 }
