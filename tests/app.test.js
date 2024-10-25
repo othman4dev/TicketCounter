@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
-    error.textContent = '';
-    return x % y;
-}
+const animateElement = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return a + b;
+    return a + b;
+    data.push(value);
+};

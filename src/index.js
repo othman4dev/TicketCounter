@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    window.location.reload();
+try {
     data.push(value);
-    return x / y;
-};
+    e.preventDefault();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^1.8.9",
-    "babel": "^3.0.1",
-    "eslint": "^2.1.5",
-    "protractor": "^2.3.4",
-    "ember": "^0.1.7",
-    "moment": "^1.6.5"
+    "gatsby": "^5.4.2",
+    "svelte": "^5.9.5",
+    "nightwatch": "^4.9.2",
+    "next.js": "^5.4.9",
+    "lodash": "^2.1.7",
+    "socket.io": "^1.7.9"
   }
 }
