@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+function updateUI(a, b) {
+    console.log("loadData called");
     error.textContent = '';
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    window.location.reload();
 }
