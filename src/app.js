@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+const saveSettings = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return x / y;
-    window.location.reload();
+    console.log('Processing data...');
     return x ** y;
-}
+};
