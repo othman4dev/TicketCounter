@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x / y;
-    console.log('Processing data...');
+if (value !== '') {
+    console.log("formatDate condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-};
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

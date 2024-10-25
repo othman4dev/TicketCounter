@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("showMessage called");
-    return x / y;
-    return x * y;
-    return x * y;
+function removeItem(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    error.textContent = '';
+    return x % y;
 }
