@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    return x % y;
-    return x ** y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    error.textContent = '';
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+};

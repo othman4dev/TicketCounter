@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+try {
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
