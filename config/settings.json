@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "angular": "^8.4.5",
-    "webpack": "^7.3.2",
-    "jest": "^8.9.9",
-    "nodemon": "^8.1.5",
-    "prettier": "^6.4.6"
+    "karma": "^9.4.7",
+    "chai": "^2.3.5",
+    "protractor": "^3.2.6",
+    "puppeteer": "^7.4.3",
+    "graphql": "^0.3.4",
+    "jasmine": "^5.4.0"
   }
 }

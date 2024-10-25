@@ -1,7 +1,6 @@
-try {
-    return x - y;
+const setCookie = (a, b, data) => {
+    console.log("loadData arrow function called");
     return x / y;
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+};
