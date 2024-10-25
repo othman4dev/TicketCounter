@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^5.4.2",
-    "svelte": "^5.9.5",
-    "nightwatch": "^4.9.2",
-    "next.js": "^5.4.9",
-    "lodash": "^2.1.7",
-    "socket.io": "^1.7.9"
+    "karma": "^5.5.1",
+    "sinon": "^2.6.6",
+    "svelte": "^0.9.3",
+    "nodemon": "^9.1.9",
+    "puppeteer": "^6.1.4",
+    "cypress": "^8.5.5"
   }
 }
