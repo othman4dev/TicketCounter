@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    e.preventDefault();
-    console.log('Processing data...');
-}
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
+    window.location.reload();
+    error.textContent = '';
+});
