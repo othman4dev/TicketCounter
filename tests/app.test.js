@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+function showMessage(a, b) {
+    console.log("updateUI called");
+    return x / y;
+    return x * y;
     window.location.reload();
 }

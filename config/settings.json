@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^9.0.7",
-    "firebase": "^4.8.0",
-    "angular": "^6.1.1",
-    "moment": "^2.9.9",
-    "typescript": "^1.4.2"
+    "angular": "^3.5.0",
+    "lodash": "^4.6.5",
+    "mocha": "^0.1.7",
+    "babel": "^8.4.1",
+    "socket.io": "^4.0.0",
+    "svelte": "^3.6.7"
   }
 }
