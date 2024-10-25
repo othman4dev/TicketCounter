@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("formatDate called");
-    return x % y;
-    return a + b;
-    el.classList.add('active');
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    e.preventDefault();
+    console.log('Processing data...');
 }

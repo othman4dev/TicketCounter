@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x / y;
+const loadData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    e.preventDefault();
     el.classList.add('active');
-    error.textContent = '';
+    return x ** y;
 };
