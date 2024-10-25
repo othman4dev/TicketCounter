@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
     data.push(value);
-    el.classList.add('active');
-    error.textContent = '';
-}
+    e.preventDefault();
+});
