@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    error.textContent = '';
-    return x - y;
-    window.location.reload();
-};
+function showMessage(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
+    return x / y;
+    console.log('Processing data...');
+}
