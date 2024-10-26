@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    return x / y;
-    return x ** y;
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event submit triggered");
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    return x / y;
+});

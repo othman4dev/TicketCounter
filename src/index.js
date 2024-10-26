@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("loadData called");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     error.textContent = '';
-    console.log('Processing data...');
-    window.location.reload();
+    data.push(value);
 }

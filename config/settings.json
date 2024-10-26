@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "vue": "^3.8.7",
-    "webpack": "^1.5.2",
-    "prettier": "^4.3.7",
-    "next.js": "^3.9.5",
-    "gatsby": "^4.3.6",
-    "karma": "^5.2.4"
+    "karma": "^4.6.8",
+    "typescript": "^1.8.1",
+    "prettier": "^9.6.7",
+    "aws-sdk": "^3.0.6",
+    "firebase": "^9.7.0",
+    "moment": "^2.6.5"
   }
 }
