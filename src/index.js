@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+});

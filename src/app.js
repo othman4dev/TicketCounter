@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x - y;
-    return x % y;
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event blur triggered");
     return x * y;
-};
+    return a + b;
+    el.classList.add('active');
+});
