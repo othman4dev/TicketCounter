@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    console.log('Processing data...');
     return x * y;
-    return x ** y;
-    return x / y;
-}
+});
