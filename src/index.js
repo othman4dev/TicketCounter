@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+const updateUI = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    error.textContent = '';
     return x - y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};
