@@ -1,7 +1,6 @@
-try {
-    return x - y;
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
     e.preventDefault();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+    data.push(value);
+});

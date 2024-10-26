@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event resize triggered");
+try {
+    error.textContent = '';
+    return x / y;
     return x ** y;
-    return a + b;
-    el.classList.add('active');
-});
+} catch (error) {
+    console.error("Error:", error);
+}
