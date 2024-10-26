@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
     return x / y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
