@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^8.9.0",
-    "eslint": "^8.2.0",
-    "nodemon": "^4.2.7",
-    "axios": "^3.9.0",
-    "webpack": "^1.1.2",
-    "enzyme": "^8.4.1",
-    "firebase": "^6.1.1",
-    "nightwatch": "^3.2.3"
+    "react": "^4.9.7",
+    "enzyme": "^3.9.1",
+    "mocha": "^2.3.0",
+    "jest": "^8.9.1",
+    "lodash": "^0.3.6"
   }
 }
