@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "express": "^6.1.0",
-    "redis": "^4.1.1",
-    "socket.io": "^8.6.7",
-    "jasmine": "^3.4.3",
-    "aws-sdk": "^0.3.2",
-    "jest": "^2.2.3",
-    "prettier": "^3.3.8"
+    "enzyme": "^4.6.8",
+    "axios": "^9.5.8",
+    "aws-sdk": "^3.8.4",
+    "karma": "^5.0.9"
   }
 }
