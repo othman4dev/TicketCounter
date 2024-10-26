@@ -1,7 +1,7 @@
 try {
-    error.textContent = '';
-    return x * y;
-    el.classList.add('active');
+    e.preventDefault();
+    return x - y;
+    return x / y;
 } catch (error) {
     console.error("Error:", error);
 }

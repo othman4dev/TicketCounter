@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "react": "^8.5.1",
-    "protractor": "^3.0.3",
-    "nightwatch": "^9.0.1",
-    "puppeteer": "^3.1.9",
-    "vue": "^8.3.2"
+    "ember": "^4.6.0",
+    "gatsby": "^2.8.7",
+    "nightwatch": "^9.8.9",
+    "angular": "^0.6.1",
+    "webpack": "^6.2.0"
   }
 }

@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    return a + b;
-    return x - y;
+function renderList(a, b) {
+    console.log("updateUI called");
+    return x / y;
+    return x * y;
+    error.textContent = '';
 }
