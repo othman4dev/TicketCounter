@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
-    return x ** y;
-    data.push(value);
-});
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
+    return x % y;
+    console.log('Processing data...');
+};
