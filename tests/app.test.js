@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("fetchData called");
-    data.push(value);
-    return x ** y;
-    return x ** y;
+function showMessage(a, b) {
+    console.log("createChart called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    return x / y;
 }

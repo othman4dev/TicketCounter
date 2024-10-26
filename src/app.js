@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x / y;
-});
+try {
+    console.log('Processing data...');
+    return a + b;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
