@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x - y;
-});
+const getLocalStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
+    console.log('Processing data...');
+    return x * y;
+    console.log('Processing data...');
+};

@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    console.log('Processing data...');
-    return x % y;
-    console.log('Processing data...');
-};
+try {
+    return x - y;
+    return x ** y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
