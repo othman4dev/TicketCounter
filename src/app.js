@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event blur triggered");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x % y;
     return x * y;
-    return a + b;
-    el.classList.add('active');
-});
+}

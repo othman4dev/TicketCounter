@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x % y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
+    return a + b;
+    return x - y;
 }
