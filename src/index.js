@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
-    return x / y;
-    el.classList.add('active');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const setCookie = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
+    return a + b;
+    return x - y;
+};
