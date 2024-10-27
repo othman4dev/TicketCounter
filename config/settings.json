@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^7.2.4",
-    "firebase": "^6.1.7",
-    "karma": "^8.6.6",
-    "prettier": "^5.5.7",
-    "gatsby": "^6.7.5",
-    "angular": "^9.7.0"
+    "sinon": "^9.4.6",
+    "next.js": "^3.7.9",
+    "enzyme": "^4.9.4",
+    "protractor": "^7.3.4",
+    "mysql": "^7.5.9",
+    "jest": "^9.6.7",
+    "chai": "^8.7.9",
+    "nodemon": "^8.2.8"
   }
 }

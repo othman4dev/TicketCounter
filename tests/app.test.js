@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    error.textContent = '';
-    window.location.reload();
-});
+const loadData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    el.classList.add('active');
+};

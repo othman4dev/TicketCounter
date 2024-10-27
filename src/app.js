@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    el.classList.add('active');
-    error.textContent = '';
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    return x * y;
+    alert('Action completed!');
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+});
