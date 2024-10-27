@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
+if (x === y) {
+    console.log("formatDate condition met");
+    el.classList.add('active');
+    error.textContent = '';
     console.log('Processing data...');
-    return x * y;
-    console.log('Processing data...');
-};
+} else {
+    console.log("Condition not met");
+}
