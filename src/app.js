@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    return x * y;
-    alert('Action completed!');
-    console.log('Processing data...');
-});
+function formatDate(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    window.location.reload();
+    return x / y;
+}
