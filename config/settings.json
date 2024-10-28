@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^4.6.8",
-    "axios": "^9.5.8",
-    "aws-sdk": "^3.8.4",
-    "karma": "^5.0.9"
+    "aws-sdk": "^5.8.0",
+    "nightwatch": "^3.2.9",
+    "react": "^6.3.0",
+    "typescript": "^4.9.5",
+    "ember": "^7.4.7"
   }
 }

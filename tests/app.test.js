@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+function handleClick(a, b) {
+    console.log("updateUI called");
+    alert('Action completed!');
+    return x / y;
+    return x * y;
 }
