@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    window.location.reload();
-    return x / y;
-}
+const fetchData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+};

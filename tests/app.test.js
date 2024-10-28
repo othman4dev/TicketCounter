@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+function hideModal(a, b) {
+    console.log("createChart called");
+    window.location.reload();
     alert('Action completed!');
-    console.log('Processing data...');
-    return x ** y;
+    window.location.reload();
 }

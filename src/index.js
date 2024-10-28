@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x ** y;
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    return x * y;
     return a + b;
-    return x / y;
-};
+});

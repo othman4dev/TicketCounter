@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "ember": "^3.8.8",
-    "chai": "^4.5.3",
-    "jest": "^7.6.6",
-    "svelte": "^7.7.0",
-    "lodash": "^2.8.8"
+    "nightwatch": "^2.6.3",
+    "lodash": "^0.3.4",
+    "webpack": "^1.7.9",
+    "karma": "^8.7.9",
+    "firebase": "^9.3.7",
+    "vue": "^2.5.1",
+    "enzyme": "^7.8.0"
   }
 }
