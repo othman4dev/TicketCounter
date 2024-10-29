@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    data.push(value);
-    window.location.reload();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    return x - y;
+    return x / y;
 }

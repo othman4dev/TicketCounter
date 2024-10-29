@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event load triggered");
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
     alert('Action completed!');
-    return x / y;
-});
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
