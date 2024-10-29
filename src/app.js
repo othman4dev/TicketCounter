@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-};
+function getLocalStorage(a, b) {
+    console.log("validateInput called");
+    window.location.reload();
+    return x ** y;
+    return x ** y;
+}

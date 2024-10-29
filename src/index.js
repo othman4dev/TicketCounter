@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
-    return x * y;
-    return a + b;
-});
+try {
+    console.log('Processing data...');
+    return x % y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
