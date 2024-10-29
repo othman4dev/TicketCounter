@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    el.classList.add('active');
-    return x - y;
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    return x ** y;
+    console.log('Processing data...');
+});

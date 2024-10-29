@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x ** y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
+    alert('Action completed!');
+    data.push(value);
+});
