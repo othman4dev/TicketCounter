@@ -1,7 +1,6 @@
-try {
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event blur triggered");
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    e.preventDefault();
+});

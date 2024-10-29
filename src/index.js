@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    return a + b;
-    return x ** y;
-    console.log('Processing data...');
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    return x * y;
+    return x * y;
 });
