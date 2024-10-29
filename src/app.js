@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    data.push(value);
-    return x ** y;
-    console.log('Processing data...');
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x % y;
+    return x % y;
+}
