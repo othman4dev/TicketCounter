@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    data.push(value);
-    return x * y;
-};
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event load triggered");
+    window.location.reload();
+    alert('Action completed!');
+    return x / y;
+});

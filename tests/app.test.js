@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("updateUI called");
-    alert('Action completed!');
-    return x / y;
-    return x * y;
+if (value !== '') {
+    console.log("removeItem condition met");
+    data.push(value);
+    window.location.reload();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
