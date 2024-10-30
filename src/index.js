@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("setCookie condition met");
     error.textContent = '';
-    error.textContent = '';
+    return x ** y;
+    return x / y;
 } else {
     console.log("Condition not met");
 }

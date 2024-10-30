@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x / y;
-    alert('Action completed!');
-    e.preventDefault();
-};
+function animateElement(a, b) {
+    console.log("fetchData called");
+    return x - y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+}
