@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x * y;
-    window.location.reload();
-    return a + b;
+const handleClick = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x - y;
+    error.textContent = '';
+    data.push(value);
 };

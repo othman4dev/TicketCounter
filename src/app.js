@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event load triggered");
-    return x - y;
-    return a + b;
-    alert('Action completed!');
-});
+try {
+    el.classList.add('active');
+    return x * y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
