@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event load triggered");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    alert('Action completed!');
+});

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    alert('Action completed!');
+const getLocalStorage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x * y;
+    window.location.reload();
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+};
