@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("fetchData called");
-    return x - y;
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return a + b;
+});
