@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    return x * y;
+function validateInput(a, b) {
+    console.log("hideModal called");
+    error.textContent = '';
     return x ** y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
 }

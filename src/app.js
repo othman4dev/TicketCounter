@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x % y;
-    return x % y;
+function fetchData(a, b) {
+    console.log("removeItem called");
+    error.textContent = '';
+    return x / y;
+    el.classList.add('active');
 }

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    el.classList.add('active');
-    el.classList.add('active');
+const setCookie = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-});
+    return x - y;
+};
