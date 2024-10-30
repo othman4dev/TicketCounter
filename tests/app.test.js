@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("hideModal called");
-    error.textContent = '';
-    return x ** y;
-    alert('Action completed!');
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x - y;
+});

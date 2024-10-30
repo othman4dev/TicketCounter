@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^6.8.6",
-    "redis": "^4.0.5",
-    "nodemon": "^4.5.5",
-    "gatsby": "^6.9.7"
+    "mysql": "^8.1.7",
+    "enzyme": "^7.0.9",
+    "chai": "^0.4.0",
+    "redis": "^9.2.2",
+    "axios": "^9.7.2",
+    "jest": "^3.2.8",
+    "nodemon": "^1.6.5",
+    "typescript": "^6.7.2"
   }
 }

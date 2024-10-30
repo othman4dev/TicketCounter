@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("removeItem called");
-    error.textContent = '';
-    return x / y;
-    el.classList.add('active');
+switch (b) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
