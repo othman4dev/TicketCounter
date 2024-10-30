@@ -1,7 +1,8 @@
-try {
-    return x ** y;
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    return x * y;
     error.textContent = '';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

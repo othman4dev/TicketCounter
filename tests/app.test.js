@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x - y;
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x / y;
+    alert('Action completed!');
+    e.preventDefault();
+};
