@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "vue": "^1.7.6",
-    "eslint": "^5.3.3",
-    "redis": "^1.6.7",
-    "prettier": "^0.8.6",
-    "react": "^0.0.2",
-    "jest": "^6.9.9",
-    "aws-sdk": "^4.7.4"
+    "socket.io": "^9.3.1",
+    "chai": "^2.4.6",
+    "webpack": "^0.8.1",
+    "moment": "^8.8.3",
+    "sinon": "^2.6.2",
+    "puppeteer": "^4.9.0",
+    "karma": "^1.4.5",
+    "eslint": "^7.5.2",
+    "next.js": "^7.5.5"
   }
 }
