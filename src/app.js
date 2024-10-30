@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
     return x / y;
-    data.push(value);
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+};

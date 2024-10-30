@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+try {
     return x * y;
-} else {
-    console.log("Condition not met");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
