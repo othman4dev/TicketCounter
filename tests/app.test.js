@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    return x * y;
-    alert('Action completed!');
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    data.push(value);
     return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 });
