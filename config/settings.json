@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^1.7.4",
-    "react": "^2.5.4",
-    "eslint": "^2.2.9",
-    "svelte": "^7.7.4",
-    "angular": "^4.5.7"
+    "jasmine": "^0.5.1",
+    "puppeteer": "^3.0.2",
+    "enzyme": "^5.0.3",
+    "webpack": "^6.9.4",
+    "graphql": "^7.9.9",
+    "prettier": "^5.0.3",
+    "moment": "^4.8.3",
+    "sinon": "^0.2.2",
+    "eslint": "^0.8.9"
   }
 }
