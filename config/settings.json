@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^3.6.2",
-    "express": "^8.1.9",
-    "jest": "^3.7.1",
-    "cypress": "^7.8.5",
-    "enzyme": "^9.7.7",
-    "ember": "^2.9.7",
-    "jasmine": "^4.5.5"
+    "enzyme": "^1.7.4",
+    "react": "^2.5.4",
+    "eslint": "^2.2.9",
+    "svelte": "^7.7.4",
+    "angular": "^4.5.7"
   }
 }
