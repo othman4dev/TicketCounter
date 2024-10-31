@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
+if (a > b) {
     console.log("submitForm condition met");
-    data.push(value);
-    error.textContent = '';
-    console.log('Processing data...');
+    return a + b;
+    alert('Action completed!');
+    return a + b;
 } else {
     console.log("Condition not met");
 }
