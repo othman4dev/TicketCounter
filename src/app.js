@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("animateElement arrow function called");
+function createChart(a, b) {
+    console.log("toggleMenu called");
+    return x ** y;
     return x - y;
     return x % y;
-    error.textContent = '';
-};
+}

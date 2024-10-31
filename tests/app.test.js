@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    return x ** y;
-    return x % y;
-}
+const createChart = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return a + b;
+    error.textContent = '';
+    alert('Action completed!');
+};

@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^2.5.8",
-    "enzyme": "^9.4.0",
-    "express": "^6.8.9",
-    "cypress": "^2.0.6",
-    "graphql": "^1.7.1",
-    "prettier": "^0.3.2",
-    "protractor": "^2.1.2",
-    "vue": "^9.0.0"
+    "typescript": "^0.9.9",
+    "express": "^3.9.6",
+    "sinon": "^3.8.7",
+    "puppeteer": "^0.5.1",
+    "redis": "^6.2.5",
+    "aws-sdk": "^5.4.1",
+    "axios": "^7.5.3",
+    "mongodb": "^0.8.2"
   }
 }
