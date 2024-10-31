@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    return x * y;
-    return x / y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
+    return x ** y;
+    return x % y;
 }

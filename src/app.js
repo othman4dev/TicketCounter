@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
-    alert('Action completed!');
-    window.location.reload();
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const renderList = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x - y;
+    return x % y;
+    error.textContent = '';
+};
