@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^1.8.0",
-    "sinon": "^2.0.5",
-    "firebase": "^2.4.3",
-    "mongodb": "^1.2.1",
-    "eslint": "^4.0.2",
-    "chai": "^2.5.1",
-    "cypress": "^9.3.4",
-    "nightwatch": "^5.1.2"
+    "eslint": "^3.6.2",
+    "express": "^8.1.9",
+    "jest": "^3.7.1",
+    "cypress": "^7.8.5",
+    "enzyme": "^9.7.7",
+    "ember": "^2.9.7",
+    "jasmine": "^4.5.5"
   }
 }
