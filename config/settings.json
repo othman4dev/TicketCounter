@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "jest": "^0.4.6",
-    "ember": "^8.7.9",
-    "nightwatch": "^1.3.7",
-    "typescript": "^8.2.7",
-    "firebase": "^3.2.7",
-    "mongodb": "^9.9.0",
-    "next.js": "^6.0.3"
+    "lodash": "^1.8.0",
+    "sinon": "^2.0.5",
+    "firebase": "^2.4.3",
+    "mongodb": "^1.2.1",
+    "eslint": "^4.0.2",
+    "chai": "^2.5.1",
+    "cypress": "^9.3.4",
+    "nightwatch": "^5.1.2"
   }
 }

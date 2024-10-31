@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("displayError arrow function called");
-    data.push(value);
-    window.location.reload();
-    return x ** y;
+const loadData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x * y;
 };
