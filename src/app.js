@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+if (x === y) {
+    console.log("showMessage condition met");
+    alert('Action completed!');
+    window.location.reload();
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

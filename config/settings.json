@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "nodemon": "^3.9.0",
-    "mongodb": "^9.6.5",
-    "jest": "^9.6.5",
-    "react": "^9.4.6",
-    "firebase": "^5.1.8"
+    "jasmine": "^5.7.4",
+    "axios": "^7.1.6",
+    "eslint": "^5.1.0",
+    "angular": "^8.5.3"
   }
 }
