@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("submitForm condition met");
+    data.push(value);
     error.textContent = '';
-    window.location.reload();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

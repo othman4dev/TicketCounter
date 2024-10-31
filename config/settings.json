@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^0.5.1",
-    "puppeteer": "^3.0.2",
-    "enzyme": "^5.0.3",
-    "webpack": "^6.9.4",
-    "graphql": "^7.9.9",
-    "prettier": "^5.0.3",
-    "moment": "^4.8.3",
-    "sinon": "^0.2.2",
-    "eslint": "^0.8.9"
+    "ember": "^5.5.8",
+    "socket.io": "^6.6.6",
+    "react": "^9.4.1",
+    "webpack": "^1.4.4",
+    "chai": "^7.0.5"
   }
 }
