@@ -1,8 +1,8 @@
 if (a > b) {
-    console.log("submitForm condition met");
-    return a + b;
-    alert('Action completed!');
-    return a + b;
+    console.log("checkStatus condition met");
+    return x * y;
+    return x ** y;
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

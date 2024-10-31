@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("fetchData arrow function called");
+try {
     window.location.reload();
-    return a + b;
-    error.textContent = '';
-};
+    return x % y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

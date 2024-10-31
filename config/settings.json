@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "vue": "^4.4.6",
-    "jest": "^9.3.1",
-    "nightwatch": "^0.2.1",
-    "lodash": "^7.2.1",
-    "protractor": "^0.4.2"
+    "express": "^7.2.6",
+    "svelte": "^0.9.4",
+    "ember": "^2.0.2",
+    "typescript": "^2.3.4",
+    "lodash": "^1.6.0",
+    "graphql": "^6.4.9",
+    "socket.io": "^3.9.1",
+    "prettier": "^4.4.6"
   }
 }

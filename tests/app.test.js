@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return a + b;
-    data.push(value);
-    return x / y;
-};
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    e.preventDefault();
+});
