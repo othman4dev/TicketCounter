@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    data.push(value);
-    e.preventDefault();
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+};

@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    data.push(value);
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    return x - y;
+    el.classList.add('active');
+    alert('Action completed!');
 });

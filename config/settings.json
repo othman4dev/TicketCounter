@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^2.8.5",
-    "karma": "^0.7.9",
-    "nightwatch": "^6.8.5",
-    "puppeteer": "^8.0.7",
-    "cypress": "^3.4.1",
-    "webpack": "^5.6.0"
+    "nodemon": "^3.9.0",
+    "mongodb": "^9.6.5",
+    "jest": "^9.6.5",
+    "react": "^9.4.6",
+    "firebase": "^5.1.8"
   }
 }
