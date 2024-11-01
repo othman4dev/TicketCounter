@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^9.8.7",
-    "prettier": "^8.9.9",
-    "protractor": "^3.0.5",
-    "nodemon": "^4.8.2",
-    "nightwatch": "^1.9.4",
-    "karma": "^1.4.7",
-    "jasmine": "^5.5.2"
+    "jest": "^3.4.5",
+    "firebase": "^3.5.3",
+    "eslint": "^1.1.9",
+    "webpack": "^9.8.9",
+    "prettier": "^8.5.9"
   }
 }

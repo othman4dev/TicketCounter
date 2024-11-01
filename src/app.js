@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    alert('Action completed!');
-    return x / y;
-});
+function hideModal(a, b) {
+    console.log("fetchData called");
+    return a + b;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+}
