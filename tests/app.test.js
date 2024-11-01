@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    window.location.reload();
+    error.textContent = '';
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }

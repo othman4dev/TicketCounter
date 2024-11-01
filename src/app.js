@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    return x ** y;
-    return x ** y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    return x / y;
+    return x / y;
 }

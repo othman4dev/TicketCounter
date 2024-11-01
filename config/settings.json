@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^3.0.7",
-    "babel": "^3.4.5",
-    "puppeteer": "^7.6.1",
-    "gatsby": "^3.2.9",
-    "firebase": "^1.5.9",
-    "chai": "^2.5.9"
+    "nightwatch": "^2.3.3",
+    "jest": "^8.6.3",
+    "next.js": "^4.2.5",
+    "angular": "^7.8.9",
+    "socket.io": "^4.1.9",
+    "cypress": "^0.2.1",
+    "typescript": "^3.8.8"
   }
 }
