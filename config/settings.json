@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^7.8.4",
-    "puppeteer": "^0.3.1",
-    "svelte": "^4.3.9",
-    "mysql": "^4.7.1",
-    "karma": "^2.0.3",
-    "protractor": "^8.6.2"
+    "enzyme": "^3.0.7",
+    "babel": "^3.4.5",
+    "puppeteer": "^7.6.1",
+    "gatsby": "^3.2.9",
+    "firebase": "^1.5.9",
+    "chai": "^2.5.9"
   }
 }
