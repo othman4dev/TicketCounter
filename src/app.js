@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("setSessionStorage called");
-    return x / y;
-    data.push(value);
-    el.classList.add('active');
+try {
+    return x - y;
+    e.preventDefault();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
