@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
-    return x * y;
-    return x * y;
-};
+try {
+    return x / y;
+    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
