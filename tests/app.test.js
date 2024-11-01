@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

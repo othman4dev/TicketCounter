@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
-    error.textContent = '';
-    return x ** y;
+const fetchData = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x % y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 };
