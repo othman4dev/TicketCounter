@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^6.0.2",
-    "express": "^4.8.6",
-    "puppeteer": "^7.0.1",
-    "ember": "^9.9.3",
-    "babel": "^4.6.6",
-    "jasmine": "^3.7.8",
-    "eslint": "^8.6.3",
-    "jest": "^1.7.6"
+    "jest": "^5.4.2",
+    "ember": "^5.5.5",
+    "typescript": "^2.8.7",
+    "moment": "^6.4.4",
+    "enzyme": "^4.1.1",
+    "karma": "^8.7.9",
+    "jasmine": "^0.0.2"
   }
 }
