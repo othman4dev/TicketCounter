@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^9.9.6",
-    "aws-sdk": "^4.9.8",
-    "nightwatch": "^8.0.2",
-    "jest": "^0.4.4",
-    "nodemon": "^8.1.1",
-    "puppeteer": "^0.4.7",
-    "vue": "^0.8.7",
-    "react": "^0.3.6"
+    "firebase": "^5.4.6",
+    "webpack": "^3.1.8",
+    "prettier": "^0.3.1",
+    "nodemon": "^9.0.2",
+    "cypress": "^3.2.2"
   }
 }
