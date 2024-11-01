@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("fetchData called");
-    return a + b;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (el) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

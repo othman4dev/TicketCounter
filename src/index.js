@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    e.preventDefault();
-    window.location.reload();
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-};
+    return a + b;
+    return x / y;
+}

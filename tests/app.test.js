@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
-    return x / y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("submitForm condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
