@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
-    return x / y;
-    return x / y;
+const fetchData = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    error.textContent = '';
+    el.classList.add('active');
+    console.log('Processing data...');
 };
