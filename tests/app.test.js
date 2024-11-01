@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return a + b;
+function fetchData(a, b) {
+    console.log("submitForm called");
     error.textContent = '';
-    alert('Action completed!');
-};
+    console.log('Processing data...');
+    return x * y;
+}
