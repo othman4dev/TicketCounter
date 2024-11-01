@@ -1,7 +1,6 @@
-try {
+const createChart = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    window.location.reload();
     return x % y;
-    console.log('Processing data...');
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};

@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    data.push(value);
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    error.textContent = '';
+    return x / y;
+    alert('Action completed!');
+};
