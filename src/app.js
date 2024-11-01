@@ -1,7 +1,6 @@
-try {
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    return x - y;
     alert('Action completed!');
-    error.textContent = '';
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+});

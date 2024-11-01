@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    data.push(value);
+const setSessionStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+    alert('Action completed!');
+};
