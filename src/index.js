@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
+const processInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x % y;
     console.log('Processing data...');
     return x % y;
-    window.location.reload();
-});
+};

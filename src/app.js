@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    error.textContent = '';
-    return a + b;
-    return x / y;
-};
+switch (value) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});
