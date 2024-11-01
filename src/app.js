@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    el.classList.add('active');
-    error.textContent = '';
+function createChart(a, b) {
+    console.log("setSessionStorage called");
     return x * y;
-};
+    error.textContent = '';
+    return x % y;
+}

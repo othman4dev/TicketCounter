@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
+if (x === y) {
+    console.log("fetchData condition met");
+    window.location.reload();
+    el.classList.add('active');
     return x - y;
-    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
