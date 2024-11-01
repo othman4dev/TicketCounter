@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("submitForm called");
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event click triggered");
     return x % y;
-    console.log('Processing data...');
-    window.location.reload();
-}
+    return x - y;
+    data.push(value);
+});
