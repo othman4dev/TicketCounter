@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^4.4.6",
-    "karma": "^6.8.4",
-    "aws-sdk": "^2.3.7",
-    "sinon": "^1.4.4",
-    "protractor": "^4.1.4",
-    "lodash": "^8.2.3",
-    "vue": "^2.8.9",
-    "nodemon": "^5.5.5"
+    "protractor": "^2.9.2",
+    "moment": "^4.1.1",
+    "firebase": "^5.5.8",
+    "jest": "^5.4.6",
+    "angular": "^8.1.9"
   }
 }

@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x / y;
-    el.classList.add('active');
-    return a + b;
-};
+if (value !== '') {
+    console.log("setCookie condition met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

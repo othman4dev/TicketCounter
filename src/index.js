@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    error.textContent = '';
-    el.classList.add('active');
+try {
     console.log('Processing data...');
-};
+    data.push(value);
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
