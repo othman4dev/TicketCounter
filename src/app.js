@@ -1,7 +1,6 @@
-try {
-    return x % y;
+const checkStatus = (a, b, data) => {
+    console.log("showMessage arrow function called");
     error.textContent = '';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    return x / y;
+};

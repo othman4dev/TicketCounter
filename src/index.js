@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    error.textContent = '';
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+    window.location.reload();
+});
