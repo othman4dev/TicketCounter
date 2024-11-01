@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    console.log('Processing data...');
+    data.push(value);
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
