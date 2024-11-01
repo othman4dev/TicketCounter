@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    return x % y;
-    return x * y;
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return a + b;
+    error.textContent = '';
+    return x ** y;
 };

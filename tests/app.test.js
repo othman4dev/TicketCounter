@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x % y;
-    window.location.reload();
+if (x === y) {
+    console.log("checkStatus condition met");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

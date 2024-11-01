@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "express": "^0.9.5",
-    "sinon": "^4.1.8",
-    "chai": "^1.2.9",
-    "protractor": "^2.8.6",
-    "webpack": "^0.1.5",
-    "karma": "^6.9.8",
-    "puppeteer": "^2.4.4",
-    "vue": "^4.0.6"
+    "socket.io": "^5.0.9",
+    "graphql": "^9.0.7",
+    "typescript": "^6.3.4",
+    "prettier": "^7.7.7",
+    "angular": "^6.8.2"
   }
 }
