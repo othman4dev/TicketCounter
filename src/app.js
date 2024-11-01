@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    e.preventDefault();
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x / y;
+    return a + b;
 }

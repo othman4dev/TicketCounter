@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x ** y;
+function showMessage(a, b) {
+    console.log("submitForm called");
+    return x % y;
     console.log('Processing data...');
+    window.location.reload();
 }
