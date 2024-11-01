@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x % y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};
