@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x * y;
+});
