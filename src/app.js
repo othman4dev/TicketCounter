@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("handleClick called");
-    alert('Action completed!');
-    return x ** y;
-    return x * y;
+switch (error) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
