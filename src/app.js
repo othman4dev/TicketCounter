@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    return x - y;
+    data.push(value);
 }
