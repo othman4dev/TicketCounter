@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+function saveSettings(a, b) {
+    console.log("getLocalStorage called");
     window.location.reload();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    return a + b;
 }
