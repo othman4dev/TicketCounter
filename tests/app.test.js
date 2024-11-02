@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x - y;
-    el.classList.add('active');
-    return x ** y;
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

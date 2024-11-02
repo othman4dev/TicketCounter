@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^8.7.7",
-    "redis": "^9.8.0",
-    "protractor": "^7.6.5",
-    "nodemon": "^4.0.9",
-    "prettier": "^3.5.6"
+    "babel": "^3.9.8",
+    "jest": "^8.7.4",
+    "express": "^7.5.7",
+    "graphql": "^9.1.7",
+    "karma": "^1.9.1",
+    "react": "^8.3.1"
   }
 }
