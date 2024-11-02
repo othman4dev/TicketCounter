@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "karma": "^8.8.4",
-    "enzyme": "^6.2.1",
-    "axios": "^2.8.3",
-    "redis": "^7.3.0",
-    "jest": "^3.9.0",
-    "aws-sdk": "^9.9.5",
-    "babel": "^4.1.8",
-    "chai": "^5.0.6"
+    "gatsby": "^3.0.4",
+    "ember": "^7.4.1",
+    "protractor": "^6.0.2",
+    "moment": "^6.5.3"
   }
 }

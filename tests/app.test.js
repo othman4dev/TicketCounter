@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("getLocalStorage called");
-    window.location.reload();
-    el.classList.add('active');
+if (a > b) {
+    console.log("updateUI condition met");
+    e.preventDefault();
+    e.preventDefault();
     return a + b;
+} else {
+    console.log("Condition not met");
 }
