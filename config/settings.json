@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^2.3.3",
-    "jest": "^8.6.3",
-    "next.js": "^4.2.5",
-    "angular": "^7.8.9",
-    "socket.io": "^4.1.9",
-    "cypress": "^0.2.1",
-    "typescript": "^3.8.8"
+    "chai": "^9.8.4",
+    "next.js": "^3.0.9",
+    "mongodb": "^7.5.8",
+    "babel": "^7.9.7",
+    "gatsby": "^4.3.2",
+    "protractor": "^0.7.0",
+    "moment": "^2.6.9"
   }
 }

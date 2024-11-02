@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
     window.location.reload();
-    error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return x * y;
+});
