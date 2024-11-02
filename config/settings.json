@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "gatsby": "^3.0.4",
-    "ember": "^7.4.1",
-    "protractor": "^6.0.2",
-    "moment": "^6.5.3"
+    "ember": "^6.8.6",
+    "cypress": "^7.6.5",
+    "axios": "^5.1.1",
+    "prettier": "^4.0.9"
   }
 }

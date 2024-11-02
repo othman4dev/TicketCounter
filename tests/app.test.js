@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    e.preventDefault();
-    return a + b;
-} else {
-    console.log("Condition not met");
+function getLocalStorage(a, b) {
+    console.log("hideModal called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }
