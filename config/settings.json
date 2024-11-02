@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^1.5.9",
-    "mocha": "^1.5.8",
-    "vue": "^0.2.8",
-    "nightwatch": "^7.2.4",
-    "babel": "^7.9.6",
-    "enzyme": "^8.0.4"
+    "svelte": "^9.9.9",
+    "moment": "^5.3.7",
+    "gatsby": "^5.4.6",
+    "nodemon": "^2.5.9",
+    "firebase": "^7.0.1",
+    "axios": "^4.8.0"
   }
 }

@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x * y;
-});
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    return a + b;
+    return x ** y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("setCookie condition met");
-    return a + b;
-    return x - y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
