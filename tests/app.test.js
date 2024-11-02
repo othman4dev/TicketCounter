@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+    alert('Action completed!');
 }

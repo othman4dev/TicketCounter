@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return x - y;
-    data.push(value);
+if (x !== y) {
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

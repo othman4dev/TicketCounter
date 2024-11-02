@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "ember": "^6.8.6",
-    "cypress": "^7.6.5",
-    "axios": "^5.1.1",
-    "prettier": "^4.0.9"
+    "typescript": "^7.2.1",
+    "gatsby": "^8.6.8",
+    "babel": "^8.8.8",
+    "cypress": "^4.9.8",
+    "puppeteer": "^6.2.7",
+    "jasmine": "^8.8.4",
+    "express": "^9.3.8"
   }
 }
