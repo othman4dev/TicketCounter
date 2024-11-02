@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    console.log('Processing data...');
-    return x % y;
-    alert('Action completed!');
-};
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    return x ** y;
+    return x / y;
+});

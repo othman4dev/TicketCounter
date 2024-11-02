@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^9.5.9",
-    "chai": "^9.8.5",
-    "lodash": "^9.8.7",
-    "react": "^4.9.1",
-    "karma": "^7.8.6"
+    "eslint": "^3.3.0",
+    "jest": "^8.2.1",
+    "protractor": "^9.0.6",
+    "socket.io": "^1.0.1",
+    "gatsby": "^2.5.5",
+    "mongodb": "^1.7.9",
+    "nodemon": "^1.4.8"
   }
 }
