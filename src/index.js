@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
-    return x ** y;
-    data.push(value);
-    console.log('Processing data...');
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    return x / y;
 } else {
     console.log("Condition not met");
 }
