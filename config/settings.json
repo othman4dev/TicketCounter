@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^0.5.0",
-    "moment": "^3.9.9",
-    "webpack": "^8.8.2",
-    "aws-sdk": "^7.0.3",
-    "jest": "^1.9.5",
-    "lodash": "^0.2.1",
-    "angular": "^4.0.4",
-    "next.js": "^0.5.1"
+    "socket.io": "^8.7.7",
+    "redis": "^9.8.0",
+    "protractor": "^7.6.5",
+    "nodemon": "^4.0.9",
+    "prettier": "^3.5.6"
   }
 }

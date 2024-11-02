@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x - y;
+    el.classList.add('active');
+    return x ** y;
+};
