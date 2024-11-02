@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x % y;
-    error.textContent = '';
-    error.textContent = '';
-};
+switch (value) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
