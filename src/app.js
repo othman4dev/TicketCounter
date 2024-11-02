@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("animateElement condition met");
-    el.classList.add('active');
-    return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
