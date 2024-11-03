@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "chai": "^8.6.5",
-    "gatsby": "^8.6.0",
-    "socket.io": "^5.4.8",
-    "axios": "^7.7.3",
-    "firebase": "^9.5.1",
-    "prettier": "^3.8.0",
-    "svelte": "^3.7.1"
+    "gatsby": "^4.8.3",
+    "karma": "^5.9.2",
+    "react": "^9.5.1",
+    "eslint": "^2.5.3",
+    "jest": "^4.7.2",
+    "socket.io": "^6.6.3",
+    "nodemon": "^6.2.8",
+    "enzyme": "^5.2.2"
   }
 }

@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    return x / y;
-    e.preventDefault();
-};
+    el.classList.add('active');
+    data.push(value);
+}

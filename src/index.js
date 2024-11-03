@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    return x * y;
+    return x * y;
+});
