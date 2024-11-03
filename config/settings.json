@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^3.3.0",
-    "jest": "^8.2.1",
-    "protractor": "^9.0.6",
-    "socket.io": "^1.0.1",
-    "gatsby": "^2.5.5",
-    "mongodb": "^1.7.9",
-    "nodemon": "^1.4.8"
+    "lodash": "^3.7.9",
+    "jest": "^8.0.1",
+    "mocha": "^5.1.2",
+    "socket.io": "^4.7.3",
+    "vue": "^7.5.0",
+    "enzyme": "^0.8.5"
   }
 }
