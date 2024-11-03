@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    error.textContent = '';
-    console.log('Processing data...');
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x ** y;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+};
