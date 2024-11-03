@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event click triggered");
+const hideModal = (a, b, data) => {
+    console.log("validateInput arrow function called");
     return x - y;
-    error.textContent = '';
-    data.push(value);
-});
+    return x / y;
+    return x / y;
+};

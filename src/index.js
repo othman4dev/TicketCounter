@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    return a + b;
-    el.classList.add('active');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+try {
+    return x % y;
+    e.preventDefault();
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

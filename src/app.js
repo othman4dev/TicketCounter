@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    data.push(value);
+const checkStatus = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     window.location.reload();
-    return x ** y;
-});
+    return x / y;
+    e.preventDefault();
+};
