@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("animateElement condition met");
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    return a + b;
     el.classList.add('active');
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

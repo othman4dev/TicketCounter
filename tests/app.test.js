@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("showMessage called");
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event click triggered");
+    return x - y;
+    error.textContent = '';
     data.push(value);
-    console.log('Processing data...');
-    e.preventDefault();
-}
+});

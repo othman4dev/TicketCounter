@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    window.location.reload();
     return x ** y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+});

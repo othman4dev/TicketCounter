@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^9.0.6",
-    "enzyme": "^5.8.0",
-    "sinon": "^7.4.7",
-    "graphql": "^4.9.9",
-    "typescript": "^0.5.9",
-    "nodemon": "^4.5.0",
-    "prettier": "^8.4.0",
-    "chai": "^9.5.7",
-    "angular": "^8.5.7"
+    "typescript": "^2.1.4",
+    "next.js": "^7.2.8",
+    "jest": "^2.4.2",
+    "moment": "^2.9.1",
+    "gatsby": "^3.0.0",
+    "webpack": "^8.4.7"
   }
 }
