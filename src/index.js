@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    return a + b;
-    return x * y;
-    return x * y;
-});
+switch (a) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
