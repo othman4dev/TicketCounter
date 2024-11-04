@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("submitForm called");
-    return x - y;
-    window.location.reload();
-    return x - y;
+function updateUI(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
+    data.push(value);
+    return x / y;
 }
