@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    console.log('Processing data...');
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event input triggered");
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+    return a + b;
+});

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    alert('Action completed!');
     return x - y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+});

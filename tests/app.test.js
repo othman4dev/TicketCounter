@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    data.push(value);
+if (data.length > 0) {
+    console.log("validateInput condition met");
     console.log('Processing data...');
-    alert('Action completed!');
-});
+    el.classList.add('active');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
