@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event load triggered");
+    return a + b;
+    return x ** y;
+    return x * y;
+});
