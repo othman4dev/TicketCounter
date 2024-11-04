@@ -1,7 +1,8 @@
-switch (y) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("setCookie condition met");
+    alert('Action completed!');
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

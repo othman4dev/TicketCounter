@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "angular": "^1.7.4",
-    "moment": "^1.1.7",
-    "lodash": "^8.0.4",
-    "jest": "^7.0.7",
-    "sinon": "^9.1.2"
+    "gatsby": "^9.3.4",
+    "mysql": "^6.5.4",
+    "chai": "^5.2.7",
+    "moment": "^2.8.4",
+    "redis": "^2.0.5"
   }
 }
