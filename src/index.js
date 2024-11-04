@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x * y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
+});

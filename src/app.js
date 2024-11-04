@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x % y;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     error.textContent = '';
-    data.push(value);
-};
+    e.preventDefault();
+}

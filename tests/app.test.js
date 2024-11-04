@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    data.push(value);
-    console.log('Processing data...');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};
