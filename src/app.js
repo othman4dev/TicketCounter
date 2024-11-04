@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("removeItem called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    e.preventDefault();
 }
