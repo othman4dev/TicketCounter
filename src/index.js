@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    error.textContent = '';
-    return x % y;
+if (x === y) {
+    console.log("setSessionStorage condition met");
     return a + b;
-});
+    return x % y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

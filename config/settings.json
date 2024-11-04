@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^5.3.5",
-    "mysql": "^0.3.6",
-    "karma": "^4.8.5",
-    "nightwatch": "^5.2.9",
-    "react": "^6.5.5",
-    "aws-sdk": "^0.0.9",
-    "gatsby": "^9.9.5"
+    "graphql": "^4.9.4",
+    "mongodb": "^6.8.2",
+    "mysql": "^0.1.9",
+    "vue": "^3.7.7",
+    "socket.io": "^0.6.9"
   }
 }
