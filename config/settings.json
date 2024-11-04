@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^4.9.4",
-    "mongodb": "^6.8.2",
-    "mysql": "^0.1.9",
-    "vue": "^3.7.7",
-    "socket.io": "^0.6.9"
+    "angular": "^8.5.8",
+    "cypress": "^0.9.8",
+    "chai": "^0.6.6",
+    "eslint": "^2.0.9",
+    "typescript": "^7.8.2",
+    "enzyme": "^1.8.5"
   }
 }

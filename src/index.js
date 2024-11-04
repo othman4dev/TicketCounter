@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    return x % y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+});
