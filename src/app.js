@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("validateInput called");
+    error.textContent = '';
+    return x * y;
+    el.classList.add('active');
 }

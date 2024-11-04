@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    error.textContent = '';
-    return x - y;
+function loadData(a, b) {
+    console.log("submitForm called");
+    return x ** y;
+    window.location.reload();
+    console.log('Processing data...');
 }
