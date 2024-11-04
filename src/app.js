@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x - y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const formatDate = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x % y;
+    error.textContent = '';
+    data.push(value);
+};
