@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-});
+try {
+    error.textContent = '';
+    e.preventDefault();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
