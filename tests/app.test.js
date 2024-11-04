@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setCookie condition met");
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    console.log('Processing data...');
     alert('Action completed!');
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+});
