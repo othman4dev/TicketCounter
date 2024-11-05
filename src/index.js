@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("animateElement called");
+if (a > b) {
+    console.log("fetchData condition met");
     return a + b;
-    return x / y;
-    return x / y;
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
