@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    return x ** y;
+if (x !== y) {
+    console.log("submitForm condition met");
     window.location.reload();
+    return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
