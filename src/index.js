@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
+    return x ** y;
+    window.location.reload();
 }

@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
+try {
     console.log('Processing data...');
-    e.preventDefault();
+    el.classList.add('active');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
