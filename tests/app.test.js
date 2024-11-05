@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
     return x / y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-}
+    return x * y;
+    window.location.reload();
+});

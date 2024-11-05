@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("formatDate called");
-    e.preventDefault();
-    return a + b;
-    data.push(value);
+switch (data) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+function hideModal(a, b) {
+    console.log("fetchData called");
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    alert('Action completed!');
 }
