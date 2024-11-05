@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("validateInput called");
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    e.preventDefault();
     error.textContent = '';
-    return x * y;
-    el.classList.add('active');
-}
+    alert('Action completed!');
+});
