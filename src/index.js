@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("processInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+function validateInput(a, b) {
+    console.log("animateElement called");
     return a + b;
-};
+    return x / y;
+    return x / y;
+}

@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
-    error.textContent = '';
-    alert('Action completed!');
-});
+switch (a) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
