@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^8.0.2",
-    "nightwatch": "^3.3.1",
-    "moment": "^7.6.0",
-    "typescript": "^2.9.9"
+    "gatsby": "^0.7.8",
+    "nightwatch": "^8.9.7",
+    "cypress": "^1.7.7",
+    "axios": "^4.0.8",
+    "enzyme": "^9.3.8"
   }
 }
