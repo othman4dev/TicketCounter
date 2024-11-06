@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    data.push(value);
+    e.preventDefault();
+});
