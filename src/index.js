@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-};
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    return x / y;
+    return x / y;
+});
