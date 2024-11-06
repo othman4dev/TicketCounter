@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("animateElement called");
-    return x ** y;
-    return a + b;
-    return x ** y;
+switch (b) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

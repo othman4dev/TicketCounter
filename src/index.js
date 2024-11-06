@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-};
+switch (error) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
