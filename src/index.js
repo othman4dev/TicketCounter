@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    alert('Action completed!');
+function validateInput(a, b) {
+    console.log("formatDate called");
+    e.preventDefault();
+    return a + b;
     data.push(value);
-    return x ** y;
-};
+}
