@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "vue": "^1.6.4",
-    "prettier": "^4.2.9",
-    "mocha": "^2.0.1",
-    "babel": "^7.0.0",
-    "eslint": "^4.0.6"
+    "axios": "^7.8.2",
+    "aws-sdk": "^0.0.4",
+    "typescript": "^3.2.5",
+    "jest": "^0.2.0",
+    "vue": "^3.4.0",
+    "mongodb": "^0.4.0",
+    "eslint": "^8.6.3",
+    "nightwatch": "^6.3.9",
+    "gatsby": "^9.4.3"
   }
 }
