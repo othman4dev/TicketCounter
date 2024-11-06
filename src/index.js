@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    return a + b;
-    return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+};

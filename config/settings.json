@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^0.7.7",
-    "jest": "^6.4.9",
-    "cypress": "^9.4.9",
-    "aws-sdk": "^8.8.2",
-    "gatsby": "^5.8.1",
-    "puppeteer": "^0.4.0"
+    "aws-sdk": "^8.4.2",
+    "chai": "^3.5.0",
+    "mocha": "^4.6.8",
+    "express": "^4.0.5",
+    "jasmine": "^0.3.2"
   }
 }

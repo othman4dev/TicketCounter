@@ -1,7 +1,6 @@
-try {
+function hideModal(a, b) {
+    console.log("animateElement called");
+    return x ** y;
     return a + b;
-    alert('Action completed!');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
 }
