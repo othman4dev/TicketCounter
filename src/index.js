@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("showMessage called");
-    window.location.reload();
-    return x % y;
-    return a + b;
-}
+const displayError = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+};

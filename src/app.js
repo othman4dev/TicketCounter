@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("createChart condition met");
-    e.preventDefault();
-    return x % y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+const showMessage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    data.push(value);
+    return a + b;
+    console.log('Processing data...');
+};
