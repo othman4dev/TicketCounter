@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+function loadData(a, b) {
+    console.log("validateInput called");
     data.push(value);
-    el.classList.add('active');
+    return x ** y;
+    error.textContent = '';
 }

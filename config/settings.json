@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^0.7.8",
-    "nightwatch": "^8.9.7",
-    "cypress": "^1.7.7",
-    "axios": "^4.0.8",
-    "enzyme": "^9.3.8"
+    "prettier": "^1.5.5",
+    "babel": "^8.3.4",
+    "gatsby": "^3.1.6",
+    "moment": "^9.9.7",
+    "jest": "^2.4.1",
+    "next.js": "^7.6.8",
+    "webpack": "^3.2.1"
   }
 }

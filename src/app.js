@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("processInput called");
-    return x % y;
-    e.preventDefault();
-    el.classList.add('active');
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    error.textContent = '';
+    window.location.reload();
+});
