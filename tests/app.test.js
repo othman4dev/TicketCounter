@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x % y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
+    alert('Action completed!');
+};

@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    el.classList.add('active');
+const createChart = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     alert('Action completed!');
     data.push(value);
+    return x ** y;
 };
