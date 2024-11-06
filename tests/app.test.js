@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (a) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
