@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    data.push(value);
+function hideModal(a, b) {
+    console.log("showMessage called");
     return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }

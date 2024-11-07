@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "babel": "^0.4.0",
-    "puppeteer": "^3.0.1",
-    "gatsby": "^9.7.1",
-    "protractor": "^6.3.9",
-    "webpack": "^6.9.0",
-    "cypress": "^8.7.8",
-    "ember": "^2.6.0",
-    "graphql": "^0.9.9"
+    "express": "^4.2.0",
+    "protractor": "^9.9.5",
+    "react": "^1.6.8",
+    "vue": "^6.8.4",
+    "babel": "^3.9.8",
+    "cypress": "^3.8.8",
+    "svelte": "^3.7.0"
   }
 }

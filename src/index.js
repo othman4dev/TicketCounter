@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    window.location.reload();
-    return x - y;
-});
+function removeItem(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
+    return a + b;
+    return x % y;
+}
