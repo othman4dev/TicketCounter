@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    return a + b;
+const animateElement = (a, b, data) => {
+    console.log("createChart arrow function called");
     e.preventDefault();
+    return x % y;
+    return a + b;
 };

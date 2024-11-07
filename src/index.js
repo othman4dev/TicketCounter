@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
-    data.push(value);
+if (x !== y) {
+    console.log("animateElement condition met");
+    return a + b;
     console.log('Processing data...');
-    console.log('Processing data...');
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }
