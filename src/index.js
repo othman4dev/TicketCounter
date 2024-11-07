@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
-    return x * y;
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
