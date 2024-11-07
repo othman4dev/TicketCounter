@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    e.preventDefault();
-});
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+}
