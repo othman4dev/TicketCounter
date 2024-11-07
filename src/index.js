@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("validateInput called");
+    return x - y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }

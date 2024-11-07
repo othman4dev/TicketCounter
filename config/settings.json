@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "jest": "^1.0.5",
-    "chai": "^9.3.0",
-    "vue": "^4.3.1",
-    "nightwatch": "^4.2.9",
-    "sinon": "^6.9.4",
-    "angular": "^8.2.3"
+    "angular": "^3.3.7",
+    "axios": "^5.8.2",
+    "socket.io": "^0.9.7",
+    "nightwatch": "^1.8.5",
+    "react": "^0.0.3",
+    "protractor": "^9.6.0",
+    "graphql": "^1.5.7",
+    "jest": "^7.2.3"
   }
 }
