@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-}
+const removeItem = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x % y;
+    return x - y;
+    error.textContent = '';
+};

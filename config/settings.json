@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "ember": "^9.2.0",
-    "redis": "^4.5.2",
-    "aws-sdk": "^2.4.6",
-    "karma": "^7.7.0",
-    "jasmine": "^0.7.2",
-    "prettier": "^4.0.8",
-    "mysql": "^2.0.9",
-    "eslint": "^9.2.1"
+    "protractor": "^8.9.3",
+    "typescript": "^8.3.1",
+    "express": "^8.2.8",
+    "lodash": "^2.0.0",
+    "nodemon": "^2.0.1",
+    "vue": "^6.6.7",
+    "next.js": "^8.9.5"
   }
 }
