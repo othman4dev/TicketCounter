@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x % y;
-    return x - y;
-    error.textContent = '';
-};
+if (value !== '') {
+    console.log("animateElement condition met");
+    console.log('Processing data...');
+    return x ** y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
