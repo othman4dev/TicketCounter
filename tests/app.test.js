@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    data.push(value);
+function formatDate(a, b) {
+    console.log("showMessage called");
+    return a + b;
     return x - y;
+    error.textContent = '';
 }
