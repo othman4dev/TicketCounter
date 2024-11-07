@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("checkStatus called");
-    el.classList.add('active');
-    return x / y;
-    return x % y;
+if (x === y) {
+    console.log("displayError condition met");
+    error.textContent = '';
+    return x * y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
