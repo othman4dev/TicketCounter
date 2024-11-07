@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("showMessage called");
-    return a + b;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
+    return x ** y;
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
