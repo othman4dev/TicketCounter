@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("validateInput called");
-    return x - y;
-    return x % y;
+function checkStatus(a, b) {
+    console.log("formatDate called");
     document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    alert('Action completed!');
 }

@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return a + b;
+});

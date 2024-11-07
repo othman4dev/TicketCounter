@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    alert('Action completed!');
     e.preventDefault();
-    data.push(value);
-};
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

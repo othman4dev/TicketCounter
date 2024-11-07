@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "angular": "^3.3.7",
-    "axios": "^5.8.2",
-    "socket.io": "^0.9.7",
-    "nightwatch": "^1.8.5",
-    "react": "^0.0.3",
-    "protractor": "^9.6.0",
-    "graphql": "^1.5.7",
-    "jest": "^7.2.3"
+    "lodash": "^0.0.6",
+    "gatsby": "^8.4.1",
+    "express": "^3.0.7",
+    "firebase": "^9.9.3",
+    "puppeteer": "^7.3.4",
+    "prettier": "^2.0.4"
   }
 }
