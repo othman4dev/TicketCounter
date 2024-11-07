@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    return x * y;
+function validateInput(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
+    return x / y;
     return x % y;
-    return x % y;
-} else {
-    console.log("Condition not met");
 }

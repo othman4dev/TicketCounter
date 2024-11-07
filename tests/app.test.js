@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("validateInput called");
-    data.push(value);
+try {
     return x ** y;
-    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
