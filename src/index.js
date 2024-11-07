@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x * y;
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    alert('Action completed!');
     alert('Action completed!');
     return x ** y;
-};
+} else {
+    console.log("Condition not met");
+}

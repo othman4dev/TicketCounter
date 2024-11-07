@@ -1,7 +1,8 @@
-switch (a) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    return x / y;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
