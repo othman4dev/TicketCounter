@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    alert('Action completed!');
+    console.log('Processing data...');
 }

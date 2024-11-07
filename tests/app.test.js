@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    el.classList.add('active');
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event load triggered");
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    console.log('Processing data...');
+});

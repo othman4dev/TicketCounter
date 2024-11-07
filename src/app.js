@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("hideModal called");
-    return x ** y;
-    console.log('Processing data...');
-    window.location.reload();
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return a + b;
 }
