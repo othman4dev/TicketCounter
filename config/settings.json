@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "react": "^5.0.8",
-    "mocha": "^8.2.1",
-    "jest": "^8.7.1",
-    "cypress": "^6.3.9",
-    "gatsby": "^3.5.4",
-    "moment": "^0.9.5",
-    "babel": "^5.6.9"
+    "graphql": "^4.5.1",
+    "sinon": "^9.0.2",
+    "jest": "^3.6.5",
+    "jasmine": "^5.6.4",
+    "babel": "^9.0.8",
+    "axios": "^2.5.7",
+    "next.js": "^7.6.6"
   }
 }

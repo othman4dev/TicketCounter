@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    e.preventDefault();
+const displayError = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    e.preventDefault();
+};
