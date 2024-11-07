@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x / y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    e.preventDefault();
+    e.preventDefault();
+});
