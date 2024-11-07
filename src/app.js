@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return a + b;
-}
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    return x ** y;
+    return x ** y;
+});

@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    alert('Action completed!');
-    console.log('Processing data...');
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x ** y;
+    return a + b;
+    e.preventDefault();
+};
