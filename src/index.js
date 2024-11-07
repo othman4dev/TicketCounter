@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("formatDate called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    alert('Action completed!');
-}
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event change triggered");
+    window.location.reload();
+    window.location.reload();
+    return x - y;
+});

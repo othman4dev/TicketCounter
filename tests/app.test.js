@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    data.push(value);
     return a + b;
-    return a + b;
-});
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
