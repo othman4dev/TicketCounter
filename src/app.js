@@ -1,7 +1,6 @@
-try {
+function getLocalStorage(a, b) {
+    console.log("hideModal called");
+    return x ** y;
+    console.log('Processing data...');
     window.location.reload();
-    return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
 }
