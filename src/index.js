@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    console.log('Processing data...');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("processInput condition met");
+    return x % y;
+    error.textContent = '';
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
