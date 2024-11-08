@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "vue": "^5.2.1",
-    "gatsby": "^8.0.9",
-    "next.js": "^4.5.2",
-    "angular": "^5.3.5",
-    "jest": "^3.5.1",
-    "typescript": "^3.8.0",
-    "firebase": "^5.7.8"
+    "socket.io": "^8.4.1",
+    "karma": "^3.8.4",
+    "angular": "^6.6.0",
+    "mongodb": "^1.8.0",
+    "prettier": "^8.7.7",
+    "express": "^1.6.5",
+    "next.js": "^5.2.9",
+    "vue": "^2.6.8"
   }
 }

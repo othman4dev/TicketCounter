@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
-    window.location.reload();
-    alert('Action completed!');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    return x % y;
+    return x * y;
+    return x ** y;
+});
