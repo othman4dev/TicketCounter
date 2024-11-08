@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("animateElement condition met");
-    return a + b;
-    console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+});

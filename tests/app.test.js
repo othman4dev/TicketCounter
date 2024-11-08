@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    error.textContent = '';
+    e.preventDefault();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
