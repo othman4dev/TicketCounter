@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "react": "^7.9.0",
-    "socket.io": "^8.1.9",
-    "next.js": "^2.2.6",
-    "enzyme": "^9.4.7",
-    "lodash": "^5.5.0",
-    "protractor": "^0.1.7",
-    "chai": "^3.0.7",
-    "redis": "^7.4.4",
-    "cypress": "^3.1.7"
+    "svelte": "^4.5.0",
+    "express": "^8.0.7",
+    "protractor": "^8.6.9",
+    "next.js": "^6.4.4",
+    "axios": "^0.1.6"
   }
 }
