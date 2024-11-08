@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event resize triggered");
+function createChart(a, b) {
+    console.log("animateElement called");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-});
+    window.location.reload();
+    return a + b;
+}

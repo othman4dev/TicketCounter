@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    e.preventDefault();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event input triggered");
+    alert('Action completed!');
+    alert('Action completed!');
+    data.push(value);
+});
