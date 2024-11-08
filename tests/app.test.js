@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event input triggered");
+if (x === y) {
+    console.log("createChart condition met");
+    window.location.reload();
     alert('Action completed!');
-    alert('Action completed!');
-    data.push(value);
-});
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

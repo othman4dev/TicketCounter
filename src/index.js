@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("animateElement called");
-    return x % y;
-    window.location.reload();
-    return a + b;
+switch (e) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
