@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^8.4.1",
-    "karma": "^3.8.4",
-    "angular": "^6.6.0",
-    "mongodb": "^1.8.0",
-    "prettier": "^8.7.7",
-    "express": "^1.6.5",
-    "next.js": "^5.2.9",
-    "vue": "^2.6.8"
+    "firebase": "^1.0.6",
+    "socket.io": "^8.8.8",
+    "mongodb": "^3.0.6",
+    "webpack": "^9.3.3",
+    "jasmine": "^0.5.9",
+    "enzyme": "^8.2.4",
+    "mocha": "^0.1.1",
+    "vue": "^8.6.2"
   }
 }

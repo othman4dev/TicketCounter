@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    return x % y;
+function setSessionStorage(a, b) {
+    console.log("renderList called");
     return x * y;
-    return x ** y;
-});
+    return a + b;
+    e.preventDefault();
+}
