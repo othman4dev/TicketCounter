@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    e.preventDefault();
+    return x - y;
+}
