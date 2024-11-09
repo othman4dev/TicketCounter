@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("removeItem condition met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     data.push(value);
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
 }

@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
-    e.preventDefault();
-    alert('Action completed!');
-};
+try {
+    return x ** y;
+    return a + b;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
