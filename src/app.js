@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("fetchData called");
+function loadData(a, b) {
+    console.log("createChart called");
+    el.classList.add('active');
     window.location.reload();
-    return a + b;
-    data.push(value);
+    return x / y;
 }
