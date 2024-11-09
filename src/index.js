@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    el.classList.add('active');
+    return x - y;
 }
