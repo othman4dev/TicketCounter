@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "moment": "^1.9.6",
-    "lodash": "^3.3.8",
-    "next.js": "^8.7.4",
-    "aws-sdk": "^7.4.5",
-    "cypress": "^9.0.2",
-    "mysql": "^5.5.2",
-    "socket.io": "^4.1.9",
-    "enzyme": "^2.8.2"
+    "eslint": "^7.5.9",
+    "ember": "^6.2.3",
+    "karma": "^3.3.9",
+    "react": "^7.7.5",
+    "redis": "^6.7.5",
+    "svelte": "^0.8.7",
+    "lodash": "^5.2.3",
+    "jest": "^9.3.5"
   }
 }
