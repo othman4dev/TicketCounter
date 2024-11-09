@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("handleClick condition met");
-    return x * y;
-    window.location.reload();
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

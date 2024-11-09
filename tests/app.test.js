@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("submitForm condition met");
-    error.textContent = '';
-    data.push(value);
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return a + b;
 }

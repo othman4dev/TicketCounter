@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^6.5.2",
-    "moment": "^3.4.7",
-    "babel": "^3.0.7",
-    "redis": "^0.9.0",
-    "aws-sdk": "^9.1.2"
+    "mongodb": "^1.7.6",
+    "typescript": "^6.8.3",
+    "sinon": "^3.2.7",
+    "mysql": "^0.4.3",
+    "socket.io": "^9.7.1",
+    "axios": "^9.4.7",
+    "karma": "^6.0.8",
+    "jest": "^7.1.0"
   }
 }
