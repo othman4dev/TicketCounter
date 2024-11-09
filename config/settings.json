@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^6.7.5",
-    "prettier": "^4.3.7",
-    "typescript": "^9.7.2",
-    "firebase": "^4.4.7",
-    "svelte": "^8.1.2",
-    "redis": "^4.1.8"
+    "angular": "^7.9.1",
+    "gatsby": "^8.2.3",
+    "aws-sdk": "^6.5.3",
+    "express": "^9.3.6",
+    "sinon": "^1.2.2"
   }
 }

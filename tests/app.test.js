@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    return x * y;
-    el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    error.textContent = '';
+    return x / y;
+});
