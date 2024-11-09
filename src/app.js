@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-}
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
+    e.preventDefault();
+    return a + b;
+});

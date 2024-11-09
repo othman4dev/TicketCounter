@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "ember": "^9.0.7",
-    "prettier": "^4.4.2",
-    "jasmine": "^3.4.5",
-    "jest": "^3.1.6",
-    "karma": "^5.9.5",
-    "lodash": "^5.4.9"
+    "protractor": "^6.7.5",
+    "prettier": "^4.3.7",
+    "typescript": "^9.7.2",
+    "firebase": "^4.4.7",
+    "svelte": "^8.1.2",
+    "redis": "^4.1.8"
   }
 }

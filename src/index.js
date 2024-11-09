@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("displayError called");
-    window.location.reload();
+function handleClick(a, b) {
+    console.log("getLocalStorage called");
+    return x % y;
     el.classList.add('active');
-    return x - y;
+    data.push(value);
 }
