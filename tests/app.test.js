@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-}
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    data.push(value);
+    return x % y;
+});

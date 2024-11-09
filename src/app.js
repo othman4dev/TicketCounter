@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setSessionStorage called");
-    el.classList.add('active');
+const validateInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-}
+    return x ** y;
+    alert('Action completed!');
+};
