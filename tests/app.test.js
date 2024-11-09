@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
-    return x ** y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("submitForm condition met");
+    error.textContent = '';
+    data.push(value);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
