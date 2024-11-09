@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    return a + b;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("removeItem condition met");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

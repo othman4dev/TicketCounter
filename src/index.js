@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    return x ** y;
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    return x / y;
     e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+});

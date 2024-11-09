@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+if (a > b) {
+    console.log("displayError condition met");
+    e.preventDefault();
     data.push(value);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
