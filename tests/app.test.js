@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    data.push(value);
-    return x % y;
-});
+switch (error) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("showMessage called");
+    return x - y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }
