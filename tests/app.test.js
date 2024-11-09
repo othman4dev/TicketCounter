@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    error.textContent = '';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("renderList called");
+    return x ** y;
+    el.classList.add('active');
+    return x / y;
 }

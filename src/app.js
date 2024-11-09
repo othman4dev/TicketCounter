@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("createChart called");
-    el.classList.add('active');
+try {
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
     return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
