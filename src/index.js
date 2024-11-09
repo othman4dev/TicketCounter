@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("showMessage called");
-    return x - y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    window.location.reload();
+    return x * y;
+});

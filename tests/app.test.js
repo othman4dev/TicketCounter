@@ -1,7 +1,8 @@
-switch (error) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    return x / y;
+    return x * y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
