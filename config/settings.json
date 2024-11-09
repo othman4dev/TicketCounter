@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^9.0.9",
-    "vue": "^9.8.9",
-    "aws-sdk": "^2.4.5",
-    "ember": "^7.0.9",
-    "mongodb": "^4.6.0",
-    "babel": "^0.2.3"
+    "react": "^7.6.0",
+    "karma": "^9.9.3",
+    "jasmine": "^7.4.4",
+    "cypress": "^3.4.9",
+    "eslint": "^5.9.6",
+    "chai": "^4.0.3"
   }
 }

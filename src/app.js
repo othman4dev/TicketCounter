@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    console.log('Processing data...');
-}
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    alert('Action completed!');
+    window.location.reload();
+    return x ** y;
+});
