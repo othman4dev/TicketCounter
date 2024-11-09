@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("renderList called");
-    return x * y;
-    return a + b;
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
     e.preventDefault();
-}
+    data.push(value);
+    return x % y;
+});

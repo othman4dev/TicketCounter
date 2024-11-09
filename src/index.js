@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("validateInput condition met");
-    return x - y;
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
