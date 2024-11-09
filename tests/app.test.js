@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
-    return x % y;
-    data.push(value);
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-} else {
-    console.log("Condition not met");
 }
