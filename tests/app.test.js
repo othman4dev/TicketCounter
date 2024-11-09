@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
+function checkStatus(a, b) {
+    console.log("createChart called");
+    error.textContent = '';
     alert('Action completed!');
-    window.location.reload();
-});
+    return a + b;
+}

@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("hideModal arrow function called");
+const setSessionStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x % y;
     return x - y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 };

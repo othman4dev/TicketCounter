@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^7.8.1",
-    "babel": "^4.2.3",
-    "socket.io": "^4.0.8",
-    "mysql": "^9.7.1",
-    "prettier": "^7.4.0",
-    "ember": "^0.9.1",
-    "cypress": "^6.9.2",
-    "eslint": "^8.4.1"
+    "moment": "^1.9.6",
+    "lodash": "^3.3.8",
+    "next.js": "^8.7.4",
+    "aws-sdk": "^7.4.5",
+    "cypress": "^9.0.2",
+    "mysql": "^5.5.2",
+    "socket.io": "^4.1.9",
+    "enzyme": "^2.8.2"
   }
 }
