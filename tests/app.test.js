@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+if (value !== '') {
+    console.log("handleClick condition met");
+    return x - y;
+    return x % y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("hideModal condition met");
-    data.push(value);
+try {
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

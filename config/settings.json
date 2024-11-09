@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^8.2.9",
-    "protractor": "^7.7.0",
-    "puppeteer": "^2.5.1",
-    "gatsby": "^0.3.9",
-    "express": "^5.5.7",
-    "cypress": "^1.7.0",
-    "graphql": "^3.3.1"
+    "express": "^8.6.5",
+    "typescript": "^3.4.7",
+    "jest": "^0.2.0",
+    "mongodb": "^0.8.9",
+    "puppeteer": "^7.7.7",
+    "sinon": "^3.2.6"
   }
 }
