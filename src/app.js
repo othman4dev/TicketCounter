@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("animateElement called");
-    e.preventDefault();
-    return x ** y;
-    alert('Action completed!');
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    window.location.reload();
+    error.textContent = '';
 }

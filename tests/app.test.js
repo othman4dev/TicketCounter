@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
