@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("renderList called");
+try {
+    console.log('Processing data...');
     return x ** y;
-    el.classList.add('active');
-    return x / y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
