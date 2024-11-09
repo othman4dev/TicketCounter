@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event submit triggered");
+const loadData = (a, b, data) => {
+    console.log("updateUI arrow function called");
     alert('Action completed!');
-    window.location.reload();
-    return x * y;
-});
+    el.classList.add('active');
+    e.preventDefault();
+};
