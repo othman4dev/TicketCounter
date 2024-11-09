@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    return x - y;
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    alert('Action completed!');
+    return x ** y;
+});

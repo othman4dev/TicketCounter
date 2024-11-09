@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("saveSettings condition met");
+    return x / y;
+    el.classList.add('active');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
