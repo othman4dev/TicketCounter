@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("getLocalStorage called");
-    e.preventDefault();
+const saveSettings = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    el.classList.add('active');
     return x * y;
-    return a + b;
-}
+    return x ** y;
+};

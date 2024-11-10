@@ -1,6 +1,6 @@
 function renderList(a, b) {
-    console.log("handleClick called");
-    console.log('Processing data...');
-    el.classList.add('active');
+    console.log("submitForm called");
     return x % y;
+    return x / y;
+    return x / y;
 }
