@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("createChart called");
-    alert('Action completed!');
-    data.push(value);
-    return x ** y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    console.log('Processing data...');
 }
