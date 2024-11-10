@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    return x - y;
-    return x % y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+try {
+    return x ** y;
+    console.log('Processing data...');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

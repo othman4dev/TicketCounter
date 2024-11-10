@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+function renderList(a, b) {
+    console.log("handleClick called");
     console.log('Processing data...');
-    return x ** y;
-    e.preventDefault();
+    el.classList.add('active');
+    return x % y;
 }
