@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("setCookie called");
-    console.log('Processing data...');
-    return x ** y;
-    console.log('Processing data...');
+switch (a) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
