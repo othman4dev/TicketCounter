@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    return x - y;
+    return x / y;
+});
