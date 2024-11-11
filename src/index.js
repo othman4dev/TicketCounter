@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
+function showMessage(a, b) {
+    console.log("processInput called");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    window.location.reload();
-});
+    console.log('Processing data...');
+    e.preventDefault();
+}

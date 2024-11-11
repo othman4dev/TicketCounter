@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return x % y;
+const displayError = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    console.log('Processing data...');
+};
