@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("processInput called");
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("setCookie called");
     console.log('Processing data...');
-    e.preventDefault();
+    return x ** y;
+    console.log('Processing data...');
 }

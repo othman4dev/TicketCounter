@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+try {
     return x - y;
-    el.classList.add('active');
-    console.log('Processing data...');
-};
+    window.location.reload();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
