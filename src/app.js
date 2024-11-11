@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x % y;
-    el.classList.add('active');
-    alert('Action completed!');
-};
+function removeItem(a, b) {
+    console.log("loadData called");
+    return x / y;
+    data.push(value);
+    return x / y;
+}
