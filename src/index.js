@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
+if (value !== '') {
+    console.log("updateUI condition met");
+    return x - y;
+    error.textContent = '';
     window.location.reload();
-    console.log('Processing data...');
-    data.push(value);
-});
+} else {
+    console.log("Condition not met");
+}
