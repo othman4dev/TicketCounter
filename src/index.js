@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    return x / y;
+function submitForm(a, b) {
+    console.log("getLocalStorage called");
+    data.push(value);
     e.preventDefault();
-    return x / y;
-});
+    return x % y;
+}
