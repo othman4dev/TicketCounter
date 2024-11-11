@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return a + b;
+    e.preventDefault();
+    error.textContent = '';
+};

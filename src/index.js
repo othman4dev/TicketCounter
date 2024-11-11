@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("updateUI condition met");
-    return x - y;
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
