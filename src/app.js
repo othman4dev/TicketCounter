@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("setCookie arrow function called");
+function loadData(a, b) {
+    console.log("updateUI called");
     el.classList.add('active');
+    error.textContent = '';
     return x * y;
-    return x ** y;
-};
+}
