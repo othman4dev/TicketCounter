@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "axios": "^4.9.1",
-    "lodash": "^2.2.0",
-    "vue": "^8.7.1",
-    "prettier": "^2.7.1",
-    "karma": "^9.4.8",
-    "mongodb": "^0.0.2",
-    "sinon": "^2.0.6",
-    "moment": "^5.4.8"
+    "firebase": "^5.8.9",
+    "webpack": "^3.0.9",
+    "puppeteer": "^5.3.3",
+    "babel": "^2.2.0",
+    "enzyme": "^4.1.8",
+    "karma": "^4.0.6"
   }
 }

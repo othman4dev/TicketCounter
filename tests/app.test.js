@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+if (data.length > 0) {
+    console.log("renderList condition met");
+    return x * y;
     return x ** y;
     e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
