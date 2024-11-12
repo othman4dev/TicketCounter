@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
-    return a + b;
-    console.log('Processing data...');
-    return x / y;
-}
+const setCookie = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    alert('Action completed!');
+    alert('Action completed!');
+    el.classList.add('active');
+};

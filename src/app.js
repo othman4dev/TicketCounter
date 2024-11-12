@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    error.textContent = '';
-    return x * y;
+try {
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-};
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
