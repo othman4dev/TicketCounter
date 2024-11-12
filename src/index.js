@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
-    return x - y;
-    return x % y;
-});
+function hideModal(a, b) {
+    console.log("createChart called");
+    e.preventDefault();
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+}

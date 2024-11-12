@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    el.classList.add('active');
+    return x % y;
 }
