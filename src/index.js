@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("handleClick called");
-    return x ** y;
-    console.log('Processing data...');
-    return x % y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    window.location.reload();
+    e.preventDefault();
 }

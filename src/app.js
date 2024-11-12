@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    return x / y;
+const validateInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    error.textContent = '';
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 };

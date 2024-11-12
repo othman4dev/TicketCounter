@@ -1,7 +1,6 @@
-try {
+function getLocalStorage(a, b) {
+    console.log("processInput called");
+    return a + b;
+    console.log('Processing data...');
     return x / y;
-    window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
 }
