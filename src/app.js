@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("fetchData called");
+try {
     data.push(value);
-    return x / y;
-    return a + b;
+    e.preventDefault();
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    console.log('Processing data...');
-    return x ** y;
+const setSessionStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
     return x / y;
+    return x * y;
 };
