@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^3.5.0",
-    "aws-sdk": "^6.2.5",
-    "socket.io": "^0.5.4",
-    "prettier": "^7.2.3",
-    "eslint": "^8.0.1",
-    "jasmine": "^8.4.0",
-    "jest": "^8.0.8",
-    "mocha": "^4.4.5",
-    "karma": "^4.6.5"
+    "lodash": "^0.3.4",
+    "karma": "^6.1.5",
+    "gatsby": "^0.3.1",
+    "jest": "^2.9.1",
+    "redis": "^3.4.3",
+    "chai": "^8.4.3"
   }
 }

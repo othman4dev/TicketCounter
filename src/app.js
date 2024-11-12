@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return a + b;
+const checkStatus = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    alert('Action completed!');
     e.preventDefault();
-    error.textContent = '';
+    return x / y;
 };

@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("handleClick called");
+    return x ** y;
+    console.log('Processing data...');
+    return x % y;
 }
