@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    el.classList.add('active');
-};
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event load triggered");
+    return x / y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+});

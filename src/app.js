@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function setSessionStorage(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    return x / y;
+    return a + b;
 }

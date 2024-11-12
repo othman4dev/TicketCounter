@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    el.classList.add('active');
-    data.push(value);
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    console.log('Processing data...');
+    return x ** y;
+    return x / y;
+};
