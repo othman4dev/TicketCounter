@@ -1,7 +1,7 @@
-try {
-    data.push(value);
-    e.preventDefault();
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+switch (value) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
