@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setSessionStorage condition met");
-    return x / y;
-    data.push(value);
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x - y;
+});

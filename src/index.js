@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("formatDate called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    window.location.reload();
+if (x === y) {
+    console.log("renderList condition met");
+    return a + b;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
