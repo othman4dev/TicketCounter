@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("formatDate called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    window.location.reload();
 }

@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^7.6.8",
-    "socket.io": "^4.0.7",
-    "enzyme": "^3.6.5",
-    "cypress": "^0.6.3",
-    "sinon": "^0.7.1",
-    "nightwatch": "^0.8.2",
-    "express": "^4.5.4"
+    "mongodb": "^1.5.0",
+    "typescript": "^5.7.2",
+    "moment": "^7.5.2",
+    "enzyme": "^6.3.4",
+    "jest": "^4.1.4"
   }
 }
