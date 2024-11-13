@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^3.7.4",
-    "express": "^9.3.6",
-    "mysql": "^0.9.9",
-    "socket.io": "^7.2.1",
-    "typescript": "^0.0.8",
-    "mongodb": "^5.7.7",
-    "redis": "^7.5.0",
-    "puppeteer": "^2.2.3",
-    "webpack": "^2.9.6"
+    "eslint": "^2.8.3",
+    "prettier": "^4.6.9",
+    "redis": "^8.1.5",
+    "react": "^9.4.7",
+    "typescript": "^6.3.2"
   }
 }

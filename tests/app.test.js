@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    error.textContent = '';
+    return a + b;
+    alert('Action completed!');
+};
