@@ -1,7 +1,8 @@
-switch (b) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    console.log('Processing data...');
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

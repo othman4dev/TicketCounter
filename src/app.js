@@ -1,7 +1,8 @@
-switch (value) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
