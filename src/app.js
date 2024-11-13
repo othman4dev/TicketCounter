@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("setCookie called");
-    console.log('Processing data...');
-    return x / y;
+try {
     el.classList.add('active');
+    console.log('Processing data...');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

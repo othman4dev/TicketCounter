@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    error.textContent = '';
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    console.log('Processing data...');
     return a + b;
-    alert('Action completed!');
-};
+    return x % y;
+});

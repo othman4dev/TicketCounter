@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^2.8.3",
-    "prettier": "^4.6.9",
-    "redis": "^8.1.5",
-    "react": "^9.4.7",
-    "typescript": "^6.3.2"
+    "protractor": "^9.0.0",
+    "nightwatch": "^8.9.5",
+    "redis": "^3.8.5",
+    "mysql": "^7.4.1",
+    "eslint": "^4.5.6"
   }
 }
