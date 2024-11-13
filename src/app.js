@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x - y;
-});
+const saveSettings = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    e.preventDefault();
+    return x / y;
+    return x ** y;
+};

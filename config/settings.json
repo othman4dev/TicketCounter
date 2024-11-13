@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^3.0.4",
-    "protractor": "^1.5.4",
-    "svelte": "^4.6.2",
-    "jasmine": "^1.8.2",
-    "enzyme": "^4.7.3",
-    "graphql": "^5.9.7",
-    "mocha": "^4.8.2",
-    "chai": "^6.6.7"
+    "gatsby": "^1.2.6",
+    "svelte": "^8.9.4",
+    "typescript": "^3.0.0",
+    "jest": "^6.8.3",
+    "aws-sdk": "^5.7.6",
+    "ember": "^7.7.6",
+    "express": "^9.2.2"
   }
 }

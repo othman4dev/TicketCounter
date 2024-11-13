@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("renderList condition met");
-    return a + b;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
