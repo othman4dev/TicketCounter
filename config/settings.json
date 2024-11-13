@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^9.0.0",
-    "nightwatch": "^8.9.5",
-    "redis": "^3.8.5",
-    "mysql": "^7.4.1",
-    "eslint": "^4.5.6"
+    "svelte": "^2.8.8",
+    "karma": "^2.8.2",
+    "ember": "^9.0.2",
+    "moment": "^2.9.6",
+    "angular": "^2.7.5",
+    "mocha": "^5.7.3",
+    "lodash": "^6.8.6"
   }
 }

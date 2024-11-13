@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    return x - y;
+if (window.innerWidth > 500) {
+    console.log("validateInput condition met");
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

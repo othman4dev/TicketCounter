@@ -1,7 +1,6 @@
-try {
+const createChart = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    window.location.reload();
     el.classList.add('active');
-    console.log('Processing data...');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
