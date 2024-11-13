@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.6.2",
-    "karma": "^3.2.7",
-    "graphql": "^2.8.4",
-    "jest": "^5.8.6",
-    "socket.io": "^9.5.5"
+    "nightwatch": "^8.7.5",
+    "mongodb": "^0.4.3",
+    "ember": "^7.0.3",
+    "express": "^2.8.8",
+    "eslint": "^1.9.4",
+    "nodemon": "^0.4.8",
+    "mocha": "^5.3.7",
+    "axios": "^3.6.4"
   }
 }

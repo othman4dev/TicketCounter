@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+function setCookie(a, b) {
+    console.log("submitForm called");
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    el.classList.add('active');
 }

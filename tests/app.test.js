@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    e.preventDefault();
-    el.classList.add('active');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
+    return x % y;
+    error.textContent = '';
+});
