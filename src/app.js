@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("submitForm called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    el.classList.add('active');
+try {
+    error.textContent = '';
+    return x ** y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

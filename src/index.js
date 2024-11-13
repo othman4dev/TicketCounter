@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    error.textContent = '';
-    return x * y;
+switch (y) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

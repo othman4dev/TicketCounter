@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event load triggered");
-    console.log('Processing data...');
-    return x % y;
-    error.textContent = '';
-});
+try {
+    return x ** y;
+    return x - y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

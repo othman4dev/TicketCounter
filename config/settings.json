@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^8.7.5",
-    "mongodb": "^0.4.3",
-    "ember": "^7.0.3",
-    "express": "^2.8.8",
-    "eslint": "^1.9.4",
-    "nodemon": "^0.4.8",
-    "mocha": "^5.3.7",
-    "axios": "^3.6.4"
+    "mocha": "^7.6.8",
+    "socket.io": "^4.0.7",
+    "enzyme": "^3.6.5",
+    "cypress": "^0.6.3",
+    "sinon": "^0.7.1",
+    "nightwatch": "^0.8.2",
+    "express": "^4.5.4"
   }
 }
