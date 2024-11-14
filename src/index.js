@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x ** y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    alert('Action completed!');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+};

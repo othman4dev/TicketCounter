@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event click triggered");
-    console.log('Processing data...');
-    error.textContent = '';
-    el.classList.add('active');
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    return x ** y;
+    data.push(value);
 });
