@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    e.preventDefault();
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event click triggered");
+    console.log('Processing data...');
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+});
