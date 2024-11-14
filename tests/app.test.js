@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    return x ** y;
-    data.push(value);
-});
+switch (el) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    alert('Action completed!');
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    window.location.reload();
+    data.push(value);
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
