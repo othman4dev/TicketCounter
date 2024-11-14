@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     return x / y;
-} else {
-    console.log("Condition not met");
+    return x - y;
+    error.textContent = '';
 }

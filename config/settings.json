@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "react": "^5.0.3",
-    "express": "^7.4.9",
-    "nightwatch": "^7.0.1",
-    "svelte": "^0.5.8",
-    "lodash": "^7.1.7"
+    "puppeteer": "^3.7.4",
+    "mongodb": "^6.1.7",
+    "sinon": "^8.2.6",
+    "webpack": "^1.0.5",
+    "next.js": "^0.4.8"
   }
 }
