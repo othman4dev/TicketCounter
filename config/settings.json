@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^6.8.5",
-    "firebase": "^5.5.3",
-    "graphql": "^5.7.8",
-    "nightwatch": "^7.9.3",
-    "next.js": "^6.8.5",
-    "express": "^4.7.1",
-    "enzyme": "^3.4.8"
+    "enzyme": "^5.2.2",
+    "eslint": "^0.6.3",
+    "graphql": "^3.2.9",
+    "jest": "^2.2.9",
+    "chai": "^9.3.9"
   }
 }

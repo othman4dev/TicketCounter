@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
     data.push(value);
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    error.textContent = '';
+});
