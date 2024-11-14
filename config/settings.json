@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^2.8.8",
-    "karma": "^2.8.2",
-    "ember": "^9.0.2",
-    "moment": "^2.9.6",
-    "angular": "^2.7.5",
-    "mocha": "^5.7.3",
-    "lodash": "^6.8.6"
+    "svelte": "^5.2.1",
+    "next.js": "^4.8.1",
+    "typescript": "^3.4.8",
+    "socket.io": "^2.1.8",
+    "webpack": "^1.0.4",
+    "eslint": "^4.2.7",
+    "jest": "^0.7.7"
   }
 }
