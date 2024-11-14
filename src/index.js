@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("toggleMenu called");
-    e.preventDefault();
-    return x - y;
-    el.classList.add('active');
+switch (e) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
