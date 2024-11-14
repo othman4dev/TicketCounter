@@ -1,7 +1,6 @@
-try {
+const getLocalStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    alert('Action completed!');
     el.classList.add('active');
-    return x - y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+};
