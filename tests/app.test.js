@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    return x - y;
-});
+switch (b) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

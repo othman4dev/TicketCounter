@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    el.classList.add('active');
+try {
+    window.location.reload();
+    return x ** y;
     error.textContent = '';
-    data.push(value);
-};
+} catch (error) {
+    console.error("Error:", error);
+}
