@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    alert('Action completed!');
-    el.classList.add('active');
-    e.preventDefault();
-};
+switch (e) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
