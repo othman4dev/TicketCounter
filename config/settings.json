@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^5.2.2",
-    "eslint": "^0.6.3",
-    "graphql": "^3.2.9",
-    "jest": "^2.2.9",
-    "chai": "^9.3.9"
+    "babel": "^7.0.6",
+    "puppeteer": "^4.3.7",
+    "mocha": "^0.9.8",
+    "aws-sdk": "^3.9.7",
+    "angular": "^6.2.3"
   }
 }

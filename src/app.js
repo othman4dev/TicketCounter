@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("getLocalStorage called");
-    return x ** y;
-    return x ** y;
-    return x * y;
-}
+const removeItem = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    window.location.reload();
+    e.preventDefault();
+};
