@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "chai": "^4.8.3",
-    "enzyme": "^3.1.2",
-    "redis": "^5.7.1",
-    "nightwatch": "^9.4.2",
-    "nodemon": "^7.4.9"
+    "sinon": "^1.2.8",
+    "typescript": "^6.8.0",
+    "webpack": "^4.2.1",
+    "gatsby": "^7.7.3"
   }
 }

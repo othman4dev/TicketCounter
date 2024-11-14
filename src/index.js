@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("formatDate arrow function called");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    window.location.reload();
-    el.classList.add('active');
-};
+    return x ** y;
+    return x ** y;
+}
