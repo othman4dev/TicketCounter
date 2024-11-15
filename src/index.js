@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("toggleMenu called");
-    alert('Action completed!');
-    alert('Action completed!');
-    console.log('Processing data...');
+try {
+    e.preventDefault();
+    error.textContent = '';
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
