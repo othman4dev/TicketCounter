@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    data.push(value);
-    return a + b;
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
     return x - y;
-};
+    return x % y;
+    error.textContent = '';
+});

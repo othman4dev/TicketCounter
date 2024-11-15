@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("submitForm condition met");
-    window.location.reload();
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    return a + b;
+    return x / y;
+});
