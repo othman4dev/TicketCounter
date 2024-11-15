@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "jasmine": "^8.0.4",
-    "axios": "^9.0.4",
-    "sinon": "^1.5.0",
-    "firebase": "^1.6.7",
-    "aws-sdk": "^8.3.3"
+    "redis": "^6.1.2",
+    "sinon": "^0.8.6",
+    "jasmine": "^4.1.0",
+    "nightwatch": "^4.5.4",
+    "typescript": "^3.2.5",
+    "enzyme": "^5.2.4",
+    "moment": "^0.4.9",
+    "mocha": "^0.7.8",
+    "lodash": "^3.4.8"
   }
 }

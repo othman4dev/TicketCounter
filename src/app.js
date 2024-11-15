@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("animateElement called");
+function saveSettings(a, b) {
+    console.log("hideModal called");
     e.preventDefault();
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    error.textContent = '';
 }
