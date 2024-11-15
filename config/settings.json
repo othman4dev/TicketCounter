@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^4.4.7",
-    "webpack": "^0.4.9",
-    "next.js": "^2.6.3",
-    "redis": "^3.0.9",
-    "axios": "^9.3.4"
+    "karma": "^1.7.4",
+    "svelte": "^4.3.9",
+    "mysql": "^0.9.9",
+    "aws-sdk": "^6.2.3",
+    "axios": "^3.6.7",
+    "angular": "^8.3.0",
+    "puppeteer": "^4.7.6",
+    "mongodb": "^9.5.7"
   }
 }
