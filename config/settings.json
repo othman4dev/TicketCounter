@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "karma": "^8.1.0",
-    "jest": "^7.0.1",
-    "axios": "^6.2.4",
-    "eslint": "^3.7.4",
-    "lodash": "^9.6.8",
-    "sinon": "^9.2.0",
-    "jasmine": "^9.6.6",
-    "cypress": "^4.2.1"
+    "chai": "^7.7.3",
+    "svelte": "^3.4.9",
+    "sinon": "^6.3.6",
+    "lodash": "^3.4.5",
+    "axios": "^9.3.3",
+    "moment": "^4.6.8",
+    "redis": "^2.8.3",
+    "protractor": "^6.7.6",
+    "express": "^4.7.8"
   }
 }
