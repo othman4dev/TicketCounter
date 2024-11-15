@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^7.2.6",
-    "prettier": "^3.2.4",
-    "webpack": "^4.0.2",
-    "jest": "^7.1.1",
-    "puppeteer": "^5.7.7",
-    "react": "^4.8.7",
-    "express": "^2.2.4",
-    "cypress": "^9.2.3"
+    "protractor": "^1.2.1",
+    "vue": "^4.8.1",
+    "socket.io": "^8.0.8",
+    "sinon": "^3.5.0",
+    "eslint": "^9.6.4"
   }
 }

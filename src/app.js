@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("hideModal condition met");
+    alert('Action completed!');
     return x ** y;
-    window.location.reload();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

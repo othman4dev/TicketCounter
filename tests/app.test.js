@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
+function hideModal(a, b) {
+    console.log("animateElement called");
     el.classList.add('active');
     return a + b;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
 }
