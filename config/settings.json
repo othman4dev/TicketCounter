@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^2.4.3",
-    "typescript": "^0.2.0",
-    "svelte": "^8.6.0",
-    "webpack": "^8.9.3",
-    "redis": "^6.6.6",
-    "prettier": "^0.4.6"
+    "next.js": "^3.2.8",
+    "aws-sdk": "^3.0.4",
+    "firebase": "^6.5.2",
+    "mocha": "^5.6.0",
+    "eslint": "^1.6.1"
   }
 }

@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("displayError called");
-    return a + b;
-    window.location.reload();
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

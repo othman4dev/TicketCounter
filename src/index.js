@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    alert('Action completed!');
+});
