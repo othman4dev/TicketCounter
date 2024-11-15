@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("createChart arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x * y;
-};
+function removeItem(a, b) {
+    console.log("toggleMenu called");
+    alert('Action completed!');
+    alert('Action completed!');
+    console.log('Processing data...');
+}

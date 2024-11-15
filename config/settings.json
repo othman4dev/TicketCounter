@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "protractor": "^1.2.1",
-    "vue": "^4.8.1",
-    "socket.io": "^8.0.8",
-    "sinon": "^3.5.0",
-    "eslint": "^9.6.4"
+    "puppeteer": "^6.3.4",
+    "express": "^1.2.4",
+    "redis": "^4.8.8",
+    "aws-sdk": "^6.1.4"
   }
 }
