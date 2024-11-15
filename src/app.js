@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("createChart called");
-    return x % y;
-    window.location.reload();
-    return x ** y;
-}
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    return x * y;
+    error.textContent = '';
+    return x / y;
+});
