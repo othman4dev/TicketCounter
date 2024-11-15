@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    alert('Action completed!');
-    el.classList.add('active');
-}
+const showMessage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    window.location.reload();
+    console.log('Processing data...');
+    error.textContent = '';
+};

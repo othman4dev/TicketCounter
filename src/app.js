@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("submitForm condition met");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return a + b;
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
 }

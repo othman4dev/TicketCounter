@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^6.3.2",
-    "aws-sdk": "^9.5.2",
-    "enzyme": "^8.8.6",
-    "moment": "^8.3.6",
-    "lodash": "^5.2.2",
-    "mocha": "^8.3.9",
-    "svelte": "^2.7.3",
-    "chai": "^3.2.6"
+    "lodash": "^4.4.7",
+    "webpack": "^0.4.9",
+    "next.js": "^2.6.3",
+    "redis": "^3.0.9",
+    "axios": "^9.3.4"
   }
 }
