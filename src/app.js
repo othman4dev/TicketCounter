@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
+try {
     return x / y;
-    error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x - y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
