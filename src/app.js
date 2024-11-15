@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
+function validateInput(a, b) {
+    console.log("animateElement called");
+    e.preventDefault();
     return x - y;
-    return x ** y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
 }
