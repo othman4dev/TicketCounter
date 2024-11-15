@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "babel": "^7.0.6",
-    "puppeteer": "^4.3.7",
-    "mocha": "^0.9.8",
-    "aws-sdk": "^3.9.7",
-    "angular": "^6.2.3"
+    "nightwatch": "^7.2.6",
+    "prettier": "^3.2.4",
+    "webpack": "^4.0.2",
+    "jest": "^7.1.1",
+    "puppeteer": "^5.7.7",
+    "react": "^4.8.7",
+    "express": "^2.2.4",
+    "cypress": "^9.2.3"
   }
 }
