@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
+if (x !== y) {
+    console.log("checkStatus condition met");
+    error.textContent = '';
     el.classList.add('active');
-    return x - y;
-    return x % y;
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }

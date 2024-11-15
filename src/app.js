@@ -1,6 +1,6 @@
 function saveSettings(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    error.textContent = '';
-    error.textContent = '';
+    console.log("displayError called");
+    return a + b;
+    window.location.reload();
+    console.log('Processing data...');
 }
