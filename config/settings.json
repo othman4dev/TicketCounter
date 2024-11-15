@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^7.5.2",
-    "jest": "^2.2.4",
-    "next.js": "^6.0.1",
-    "moment": "^7.7.3",
-    "mocha": "^9.6.0",
-    "mongodb": "^6.5.3"
+    "chai": "^4.8.3",
+    "enzyme": "^3.1.2",
+    "redis": "^5.7.1",
+    "nightwatch": "^9.4.2",
+    "nodemon": "^7.4.9"
   }
 }
