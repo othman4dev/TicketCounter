@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    el.classList.add('active');
     el.classList.add('active');
     return x * y;
-});
+} else {
+    console.log("Condition not met");
+}

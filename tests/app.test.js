@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function submitForm(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }
