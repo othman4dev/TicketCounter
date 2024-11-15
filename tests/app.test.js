@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("validateInput called");
+if (value !== '') {
+    console.log("submitForm condition met");
+    window.location.reload();
     e.preventDefault();
     return x ** y;
-    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

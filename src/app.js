@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    return x * y;
-    error.textContent = '';
-    return x / y;
-});
+if (x !== y) {
+    console.log("loadData condition met");
+    return x % y;
+    return x % y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
