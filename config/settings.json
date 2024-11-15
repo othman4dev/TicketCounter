@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "sinon": "^1.2.8",
-    "typescript": "^6.8.0",
-    "webpack": "^4.2.1",
-    "gatsby": "^7.7.3"
+    "sinon": "^3.6.8",
+    "gatsby": "^6.8.8",
+    "cypress": "^6.0.1",
+    "karma": "^7.6.2"
   }
 }

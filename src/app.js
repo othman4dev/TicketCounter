@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    return a + b;
-    console.log('Processing data...');
+function showMessage(a, b) {
+    console.log("createChart called");
+    return x % y;
+    window.location.reload();
+    return x ** y;
 }
