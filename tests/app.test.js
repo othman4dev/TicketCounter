@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    window.location.reload();
-    return x % y;
-    return a + b;
+if (x === y) {
+    console.log("hideModal condition met");
+    return x / y;
+    error.textContent = '';
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
