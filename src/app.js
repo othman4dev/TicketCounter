@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event click triggered");
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event input triggered");
+    e.preventDefault();
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+    return x * y;
 });
