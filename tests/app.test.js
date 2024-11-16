@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
+function animateElement(a, b) {
+    console.log("setCookie called");
+    window.location.reload();
+    el.classList.add('active');
     return x ** y;
-    return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
 }
