@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return x * y;
-    e.preventDefault();
-}
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+});
