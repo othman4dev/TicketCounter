@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    data.push(value);
+    error.textContent = '';
 }
