@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
+const displayError = (a, b, data) => {
+    console.log("animateElement arrow function called");
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return a + b;
+};

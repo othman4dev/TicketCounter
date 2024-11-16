@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event load triggered");
-    console.log('Processing data...');
-    alert('Action completed!');
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    window.location.reload();
     alert('Action completed!');
 });
