@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    return x % y;
+const hideModal = (a, b, data) => {
+    console.log("createChart arrow function called");
     error.textContent = '';
-});
+    return x * y;
+    return x * y;
+};
