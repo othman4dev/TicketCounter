@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    return x % y;
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+});
