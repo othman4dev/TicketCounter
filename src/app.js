@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("saveSettings called");
+if (a > b) {
+    console.log("handleClick condition met");
+    window.location.reload();
     error.textContent = '';
-    el.classList.add('active');
-    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
