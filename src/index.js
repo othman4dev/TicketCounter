@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    window.location.reload();
-    alert('Action completed!');
-});
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    el.classList.add('active');
+    console.log('Processing data...');
+}

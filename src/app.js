@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("animateElement arrow function called");
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
+    return x - y;
     data.push(value);
-    window.location.reload();
-    return a + b;
-};
+    return x * y;
+});
