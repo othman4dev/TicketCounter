@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    el.classList.add('active');
+    alert('Action completed!');
+    el.classList.add('active');
+};

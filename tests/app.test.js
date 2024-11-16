@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("setCookie called");
-    window.location.reload();
-    el.classList.add('active');
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event blur triggered");
     return x ** y;
-}
+    e.preventDefault();
+    el.classList.add('active');
+});

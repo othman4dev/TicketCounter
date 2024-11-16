@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    window.location.reload();
-    return x * y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
+    return x - y;
 }
