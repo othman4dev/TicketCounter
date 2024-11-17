@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^8.4.3",
-    "angular": "^4.6.2",
-    "cypress": "^8.1.5",
-    "babel": "^5.5.8",
-    "typescript": "^5.2.7",
-    "moment": "^4.2.3",
-    "firebase": "^2.9.3"
+    "jasmine": "^1.3.7",
+    "jest": "^0.7.1",
+    "react": "^2.9.3",
+    "eslint": "^4.1.5",
+    "vue": "^7.5.2",
+    "puppeteer": "^7.3.6",
+    "angular": "^8.1.6",
+    "mocha": "^0.8.2"
   }
 }
