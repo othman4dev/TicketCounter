@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    return x % y;
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event resize triggered");
     return x / y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    alert('Action completed!');
+});
