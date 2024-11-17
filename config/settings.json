@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "moment": "^7.6.4",
-    "ember": "^6.9.9",
-    "jest": "^2.0.1",
-    "angular": "^3.8.8",
-    "next.js": "^7.7.4",
-    "mysql": "^2.2.5",
-    "gatsby": "^4.4.9"
+    "typescript": "^5.2.6",
+    "firebase": "^1.4.1",
+    "sinon": "^1.6.2",
+    "vue": "^9.0.6",
+    "lodash": "^8.6.1",
+    "nightwatch": "^6.2.2"
   }
 }
