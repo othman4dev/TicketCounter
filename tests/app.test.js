@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
-    data.push(value);
-    e.preventDefault();
-    return x - y;
-});
+switch (b) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
