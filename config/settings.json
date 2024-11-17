@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.4.4",
-    "chai": "^4.9.0",
-    "moment": "^9.7.2",
-    "graphql": "^3.0.1",
-    "karma": "^6.9.5",
-    "mysql": "^0.0.4"
+    "puppeteer": "^8.4.4",
+    "aws-sdk": "^8.1.0",
+    "lodash": "^7.1.9",
+    "mongodb": "^6.4.0",
+    "cypress": "^1.7.1",
+    "mysql": "^7.6.0",
+    "vue": "^5.2.2"
   }
 }

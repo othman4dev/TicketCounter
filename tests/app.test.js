@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("updateUI arrow function called");
+const validateInput = (a, b, data) => {
+    console.log("processInput arrow function called");
     console.log('Processing data...');
-    return x / y;
-    alert('Action completed!');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 };
