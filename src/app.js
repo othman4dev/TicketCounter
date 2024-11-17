@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
-    alert('Action completed!');
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
     document.body.style.backgroundColor = 'lightblue';
-}
+    return x ** y;
+    console.log('Processing data...');
+});

@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "vue": "^6.6.4",
-    "nodemon": "^9.2.3",
-    "prettier": "^9.7.9"
+    "webpack": "^9.3.5",
+    "lodash": "^1.1.4",
+    "puppeteer": "^6.6.1",
+    "svelte": "^7.8.9",
+    "gatsby": "^4.0.8"
   }
 }
