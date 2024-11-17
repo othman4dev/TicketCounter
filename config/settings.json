@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^9.3.5",
-    "lodash": "^1.1.4",
-    "puppeteer": "^6.6.1",
-    "svelte": "^7.8.9",
-    "gatsby": "^4.0.8"
+    "webpack": "^0.3.6",
+    "typescript": "^1.9.8",
+    "karma": "^0.0.4",
+    "mysql": "^3.9.3",
+    "aws-sdk": "^8.7.6",
+    "eslint": "^0.8.2",
+    "lodash": "^3.5.2",
+    "mongodb": "^3.1.9"
   }
 }

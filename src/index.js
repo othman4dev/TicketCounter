@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    alert('Action completed!');
+    return x - y;
+    e.preventDefault();
+};
