@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("saveSettings called");
-    window.location.reload();
-    return x ** y;
-    return x % y;
+function hideModal(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
