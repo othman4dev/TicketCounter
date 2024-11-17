@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    return x % y;
-    data.push(value);
-    el.classList.add('active');
-});
+function hideModal(a, b) {
+    console.log("getLocalStorage called");
+    return a + b;
+    return x / y;
+    return x * y;
+}

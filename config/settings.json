@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^7.0.3",
-    "socket.io": "^7.3.6",
-    "mysql": "^0.0.4",
-    "redis": "^8.8.9",
-    "react": "^2.9.8",
-    "jest": "^2.4.9"
+    "graphql": "^1.6.7",
+    "mysql": "^3.9.5",
+    "eslint": "^1.6.3",
+    "angular": "^0.3.2",
+    "gatsby": "^1.2.0"
   }
 }
