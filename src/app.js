@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("handleClick called");
+    error.textContent = '';
+    return a + b;
+    window.location.reload();
 }
