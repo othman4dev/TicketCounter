@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    return x * y;
-    e.preventDefault();
+const createChart = (a, b, data) => {
+    console.log("updateUI arrow function called");
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    alert('Action completed!');
+};

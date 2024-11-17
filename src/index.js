@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x - y;
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    window.location.reload();
     return a + b;
-    return x ** y;
-};
+    e.preventDefault();
+});

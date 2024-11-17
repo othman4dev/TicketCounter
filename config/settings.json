@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^1.6.7",
-    "mysql": "^3.9.5",
-    "eslint": "^1.6.3",
-    "angular": "^0.3.2",
-    "gatsby": "^1.2.0"
+    "aws-sdk": "^5.4.4",
+    "chai": "^4.9.0",
+    "moment": "^9.7.2",
+    "graphql": "^3.0.1",
+    "karma": "^6.9.5",
+    "mysql": "^0.0.4"
   }
 }
