@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("updateUI called");
-    return x * y;
-    window.location.reload();
-    return x % y;
-}
+const hideModal = (a, b, data) => {
+    console.log("loadData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return x ** y;
+};

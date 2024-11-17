@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    return a + b;
-    console.log('Processing data...');
-});
+try {
+    return x - y;
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
