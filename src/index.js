@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    return x - y;
+if (x !== y) {
+    console.log("getLocalStorage condition met");
     e.preventDefault();
-});
+    return x - y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

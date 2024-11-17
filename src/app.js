@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
-    return a + b;
-    window.location.reload();
-}
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
+    el.classList.add('active');
+    alert('Action completed!');
+};

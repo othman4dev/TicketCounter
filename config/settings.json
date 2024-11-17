@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "axios": "^0.7.7",
-    "karma": "^2.0.1",
-    "sinon": "^6.5.4",
-    "graphql": "^4.9.6",
-    "moment": "^3.2.9"
+    "nodemon": "^3.9.5",
+    "karma": "^8.8.8",
+    "axios": "^3.3.2",
+    "nightwatch": "^3.2.9",
+    "socket.io": "^4.7.5",
+    "express": "^9.5.3",
+    "mongodb": "^6.9.6",
+    "eslint": "^4.9.2",
+    "protractor": "^2.4.3"
   }
 }
