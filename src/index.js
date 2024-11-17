@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("setSessionStorage called");
+function submitForm(a, b) {
+    console.log("saveSettings called");
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    e.preventDefault();
+    return x / y;
+    el.classList.add('active');
 }

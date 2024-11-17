@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("fetchData called");
-    el.classList.add('active');
-    return x % y;
-    console.log('Processing data...');
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
