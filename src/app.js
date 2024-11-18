@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x / y;
+    error.textContent = '';
+    return x - y;
 };
