@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    alert('Action completed!');
-    return a + b;
-    return x ** y;
+const removeItem = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x % y;
 };

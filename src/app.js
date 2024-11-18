@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    return x - y;
-    return x % y;
-    e.preventDefault();
-});
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x ** y;
+    data.push(value);
+}
