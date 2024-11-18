@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    e.preventDefault();
-    return x ** y;
-    el.classList.add('active');
+const checkStatus = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
+    data.push(value);
+    error.textContent = '';
 };

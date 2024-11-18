@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x ** y;
-    data.push(value);
-}
+const submitForm = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+};
