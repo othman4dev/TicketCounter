@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x / y;
+try {
     error.textContent = '';
-    return x - y;
-};
+    alert('Action completed!');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

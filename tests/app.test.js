@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+if (window.innerWidth > 500) {
+    console.log("toggleMenu condition met");
+    alert('Action completed!');
+    e.preventDefault();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

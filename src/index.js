@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("validateInput called");
+    data.push(value);
+    e.preventDefault();
+    console.log('Processing data...');
 }
