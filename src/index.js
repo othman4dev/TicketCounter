@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("renderList called");
+try {
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     return x * y;
-});
+    return x % y;
+}
