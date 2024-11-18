@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    return x - y;
+    return x % y;
+    e.preventDefault();
+});
