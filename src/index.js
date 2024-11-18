@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+function validateInput(a, b) {
+    console.log("setSessionStorage called");
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+    e.preventDefault();
 }

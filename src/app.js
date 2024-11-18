@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x * y;
+function handleClick(a, b) {
+    console.log("fetchData called");
+    el.classList.add('active');
     return x % y;
+    console.log('Processing data...');
 }
