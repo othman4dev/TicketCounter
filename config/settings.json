@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^5.5.2",
-    "nodemon": "^6.9.4",
-    "prettier": "^3.3.0",
-    "redis": "^7.1.0",
-    "mongodb": "^9.9.8"
+    "angular": "^1.5.7",
+    "cypress": "^2.1.9",
+    "typescript": "^3.3.2",
+    "firebase": "^7.5.4",
+    "enzyme": "^3.6.2",
+    "mocha": "^9.7.8"
   }
 }

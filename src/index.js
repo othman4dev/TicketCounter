@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("renderList called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    window.location.reload();
 }
