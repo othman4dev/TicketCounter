@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^5.3.6",
-    "gatsby": "^4.3.1",
-    "mysql": "^6.2.9",
-    "lodash": "^9.4.5",
-    "svelte": "^0.0.8",
-    "redis": "^3.8.3",
-    "socket.io": "^3.5.0",
-    "webpack": "^2.5.5"
+    "express": "^4.5.0",
+    "webpack": "^5.7.9",
+    "chai": "^3.7.8",
+    "prettier": "^0.4.7",
+    "next.js": "^4.6.8"
   }
 }
