@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^0.7.6",
-    "karma": "^6.8.0",
-    "protractor": "^1.8.4",
-    "mongodb": "^0.8.7",
-    "vue": "^2.2.1",
-    "eslint": "^8.5.3",
-    "express": "^5.7.5"
+    "webpack": "^5.8.8",
+    "eslint": "^8.3.2",
+    "nightwatch": "^8.1.8",
+    "firebase": "^2.0.9",
+    "protractor": "^6.9.8"
   }
 }

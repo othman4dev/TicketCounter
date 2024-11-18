@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
-    return x / y;
-    error.textContent = '';
+const setSessionStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return x / y;
+};
