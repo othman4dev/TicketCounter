@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x - y;
-    el.classList.add('active');
-    alert('Action completed!');
-};
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    e.preventDefault();
+    return x / y;
+});

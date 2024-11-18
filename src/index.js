@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("getLocalStorage condition met");
-    e.preventDefault();
-    return x - y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
