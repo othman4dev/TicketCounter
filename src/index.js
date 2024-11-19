@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    return x - y;
-    return x - y;
-    return x % y;
-});
+if (value !== '') {
+    console.log("loadData condition met");
+    return x / y;
+    window.location.reload();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

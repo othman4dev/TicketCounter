@@ -1,7 +1,6 @@
-try {
-    return x - y;
+function handleClick(a, b) {
+    console.log("updateUI called");
+    console.log('Processing data...');
     el.classList.add('active');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
 }
