@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("formatDate called");
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
     error.textContent = '';
-    return a + b;
-    alert('Action completed!');
-}
+    e.preventDefault();
+});
