@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("displayError called");
-    window.location.reload();
-    error.textContent = '';
-    console.log('Processing data...');
-}
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    return x - y;
+    return x - y;
+    return x % y;
+});

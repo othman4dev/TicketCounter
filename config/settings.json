@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "webpack": "^5.8.8",
-    "eslint": "^8.3.2",
-    "nightwatch": "^8.1.8",
-    "firebase": "^2.0.9",
-    "protractor": "^6.9.8"
+    "firebase": "^8.4.6",
+    "jest": "^8.7.6",
+    "aws-sdk": "^0.5.3",
+    "angular": "^1.1.8",
+    "protractor": "^0.7.8",
+    "graphql": "^1.0.8",
+    "webpack": "^0.4.7",
+    "enzyme": "^8.0.0",
+    "sinon": "^5.2.0"
   }
 }
