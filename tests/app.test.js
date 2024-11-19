@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    error.textContent = '';
+    e.preventDefault();
+});

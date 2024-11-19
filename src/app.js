@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
+function fetchData(a, b) {
+    console.log("setSessionStorage called");
     return x - y;
-    return a + b;
-};
+    window.location.reload();
+    data.push(value);
+}

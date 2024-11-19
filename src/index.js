@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    return a + b;
-    return a + b;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     window.location.reload();
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }
