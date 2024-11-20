@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^5.1.0",
-    "mocha": "^6.4.2",
-    "gatsby": "^4.2.7",
-    "jest": "^6.6.1",
-    "mongodb": "^2.9.3",
-    "express": "^2.0.3",
-    "socket.io": "^2.3.4"
+    "moment": "^0.7.8",
+    "prettier": "^4.4.2",
+    "karma": "^9.2.6",
+    "react": "^7.5.3",
+    "mysql": "^2.2.2"
   }
 }
