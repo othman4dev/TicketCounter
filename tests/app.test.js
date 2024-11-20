@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("processInput called");
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event input triggered");
     return x - y;
-    error.textContent = '';
-    return x / y;
-}
+    window.location.reload();
+    return x * y;
+});

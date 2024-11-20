@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^4.0.4",
-    "express": "^4.7.3",
-    "webpack": "^4.6.9",
-    "vue": "^6.3.9",
-    "next.js": "^5.0.7",
-    "react": "^0.9.7",
-    "jest": "^5.8.7",
-    "gatsby": "^5.6.5",
-    "moment": "^3.8.0"
+    "prettier": "^7.5.2",
+    "jasmine": "^3.3.7",
+    "mongodb": "^7.0.3",
+    "chai": "^2.0.7",
+    "next.js": "^5.1.8"
   }
 }

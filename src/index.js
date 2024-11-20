@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("removeItem called");
-    return a + b;
-    return x * y;
+function updateUI(a, b) {
+    console.log("formatDate called");
     error.textContent = '';
+    return a + b;
+    alert('Action completed!');
 }
