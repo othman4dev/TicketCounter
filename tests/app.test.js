@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    return x % y;
-    return x / y;
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    data.push(value);
+    e.preventDefault();
 });

@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    return x / y;
+    data.push(value);
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
