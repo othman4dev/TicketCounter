@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("renderList arrow function called");
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event click triggered");
     e.preventDefault();
-    return x ** y;
-    return x / y;
-};
+    return x % y;
+    alert('Action completed!');
+});
