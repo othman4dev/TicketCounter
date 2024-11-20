@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("validateInput called");
-    return x * y;
-    error.textContent = '';
-    error.textContent = '';
-}
+const loadData = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    el.classList.add('active');
+    alert('Action completed!');
+    el.classList.add('active');
+};

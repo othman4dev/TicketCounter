@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    alert('Action completed!');
-    window.location.reload();
-    return x / y;
-} else {
-    console.log("Condition not met");
+function processInput(a, b) {
+    console.log("showMessage called");
+    return x % y;
+    error.textContent = '';
+    return x % y;
 }

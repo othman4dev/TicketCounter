@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    e.preventDefault();
-    return x / y;
-    window.location.reload();
-};
+switch (error) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
