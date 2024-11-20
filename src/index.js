@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    return x % y;
+    return x ** y;
+    return x / y;
 });

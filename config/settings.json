@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "moment": "^0.7.8",
-    "prettier": "^4.4.2",
-    "karma": "^9.2.6",
-    "react": "^7.5.3",
-    "mysql": "^2.2.2"
+    "next.js": "^0.7.9",
+    "nodemon": "^8.6.3",
+    "webpack": "^7.8.1",
+    "sinon": "^4.2.1",
+    "react": "^5.4.6",
+    "gatsby": "^2.8.5",
+    "enzyme": "^9.8.4",
+    "eslint": "^7.1.3"
   }
 }
