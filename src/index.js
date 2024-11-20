@@ -1,7 +1,8 @@
-switch (b) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
+    el.classList.add('active');
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

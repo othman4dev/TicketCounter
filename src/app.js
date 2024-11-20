@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event focus triggered");
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
+    e.preventDefault();
     return x ** y;
-    return x / y;
-    return a + b;
-});
+    el.classList.add('active');
+};
