@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    return x / y;
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

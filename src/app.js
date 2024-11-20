@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
+function setCookie(a, b) {
+    console.log("renderList called");
+    return x % y;
     el.classList.add('active');
-    e.preventDefault();
+    return x ** y;
 }
