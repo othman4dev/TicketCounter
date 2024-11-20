@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
     el.classList.add('active');
+    return x ** y;
     console.log('Processing data...');
-};
+} else {
+    console.log("Condition not met");
+}

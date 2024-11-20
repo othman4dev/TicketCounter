@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    data.push(value);
-    e.preventDefault();
-});
+switch (x) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
