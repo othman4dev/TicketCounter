@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("showMessage called");
-    return x % y;
+function checkStatus(a, b) {
+    console.log("removeItem called");
+    return a + b;
+    return x * y;
     error.textContent = '';
-    return x % y;
 }

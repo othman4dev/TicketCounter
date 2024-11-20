@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("processInput called");
+    return x - y;
+    error.textContent = '';
+    return x / y;
 }
