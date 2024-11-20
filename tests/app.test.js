@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    return x - y;
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
     error.textContent = '';
-    console.log('Processing data...');
+    return x % y;
+    return x / y;
 });

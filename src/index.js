@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    return x - y;
-    error.textContent = '';
-    e.preventDefault();
-});
+switch (value) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
