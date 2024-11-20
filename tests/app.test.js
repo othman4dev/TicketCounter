@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("setCookie condition met");
+try {
+    console.log('Processing data...');
     data.push(value);
-    e.preventDefault();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
