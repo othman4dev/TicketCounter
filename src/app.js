@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("setSessionStorage called");
-    return x - y;
-    window.location.reload();
-    data.push(value);
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    el.classList.add('active');
+    return a + b;
 }

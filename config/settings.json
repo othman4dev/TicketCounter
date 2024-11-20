@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "babel": "^1.1.4",
-    "gatsby": "^3.3.5",
-    "next.js": "^5.4.8",
-    "svelte": "^2.0.2",
-    "react": "^2.1.2",
-    "mocha": "^5.9.1",
-    "graphql": "^3.5.2"
+    "typescript": "^8.7.1",
+    "mysql": "^6.5.2",
+    "vue": "^6.2.9",
+    "graphql": "^7.9.1",
+    "socket.io": "^7.4.2",
+    "chai": "^0.8.7",
+    "next.js": "^4.0.1",
+    "nodemon": "^4.3.7",
+    "babel": "^5.6.7"
   }
 }

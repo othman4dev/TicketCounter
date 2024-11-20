@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
+function updateUI(a, b) {
+    console.log("handleClick called");
+    window.location.reload();
+    alert('Action completed!');
     return x % y;
-    error.textContent = '';
-    e.preventDefault();
-});
+}
