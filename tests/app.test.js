@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("handleClick called");
+const loadData = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    e.preventDefault();
+    return x / y;
     window.location.reload();
-    alert('Action completed!');
-    return x % y;
-}
+};

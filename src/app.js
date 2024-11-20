@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    el.classList.add('active');
-    return a + b;
+function setSessionStorage(a, b) {
+    console.log("validateInput called");
+    return x * y;
+    error.textContent = '';
+    error.textContent = '';
 }
