@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x * y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    error.textContent = '';
     return x % y;
-    el.classList.add('active');
-};
+}
