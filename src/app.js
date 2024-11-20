@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("renderList called");
-    return x % y;
-    el.classList.add('active');
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event focus triggered");
     return x ** y;
-}
+    return x / y;
+    return a + b;
+});
