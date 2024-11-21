@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("createChart condition met");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-};
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
