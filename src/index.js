@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    error.textContent = '';
-    el.classList.add('active');
+function toggleMenu(a, b) {
+    console.log("renderList called");
+    return x ** y;
+    alert('Action completed!');
+    window.location.reload();
 }

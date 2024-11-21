@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+const handleClick = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     e.preventDefault();
-    return x - y;
-    window.location.reload();
-}
+    e.preventDefault();
+    error.textContent = '';
+};
