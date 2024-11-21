@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+const displayError = (a, b, data) => {
+    console.log("formatDate arrow function called");
     e.preventDefault();
-    error.textContent = '';
-    console.log('Processing data...');
+    return x ** y;
+    alert('Action completed!');
 };
