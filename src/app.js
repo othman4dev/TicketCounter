@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("getLocalStorage condition met");
-    window.location.reload();
-    return x % y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x * y;
+    console.log('Processing data...');
+    console.log('Processing data...');
+};
