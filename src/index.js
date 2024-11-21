@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("renderList arrow function called");
-    e.preventDefault();
-    return x % y;
+const getLocalStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return x - y;
+    el.classList.add('active');
+    console.log('Processing data...');
 };

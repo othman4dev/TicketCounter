@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    data.push(value);
+if (x !== y) {
+    console.log("getLocalStorage condition met");
+    window.location.reload();
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
