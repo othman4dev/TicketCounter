@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
+const setCookie = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     e.preventDefault();
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    console.log('Processing data...');
+};

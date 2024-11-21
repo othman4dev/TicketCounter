@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    alert('Action completed!');
-    console.log('Processing data...');
+function displayError(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    return x - y;
+    data.push(value);
 }
