@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^7.3.1",
-    "lodash": "^6.3.8",
-    "gatsby": "^0.2.6",
-    "react": "^7.2.7",
-    "enzyme": "^9.0.2",
-    "puppeteer": "^7.2.5",
-    "chai": "^5.4.9",
-    "ember": "^9.3.4"
+    "react": "^4.1.0",
+    "aws-sdk": "^9.6.3",
+    "prettier": "^7.0.8",
+    "ember": "^4.0.1",
+    "mocha": "^1.1.3",
+    "moment": "^5.2.7",
+    "jest": "^2.5.4",
+    "jasmine": "^4.3.9"
   }
 }
