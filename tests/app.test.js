@@ -1,7 +1,8 @@
-switch (x) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
+    data.push(value);
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
