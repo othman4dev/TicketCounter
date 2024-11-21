@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+const formatDate = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x / y;
-    e.preventDefault();
-}
+    window.location.reload();
+    el.classList.add('active');
+};
