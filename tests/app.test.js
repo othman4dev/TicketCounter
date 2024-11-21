@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    e.preventDefault();
-    error.textContent = '';
-    return x * y;
-};
+try {
+    return x % y;
+    return x ** y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

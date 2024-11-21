@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    return x * y;
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    e.preventDefault();
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
