@@ -1,7 +1,8 @@
-try {
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
     e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
