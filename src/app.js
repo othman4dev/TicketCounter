@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
+    alert('Action completed!');
+    console.log('Processing data...');
 }
