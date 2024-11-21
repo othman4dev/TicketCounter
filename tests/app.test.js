@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+if (data.length > 0) {
+    console.log("renderList condition met");
     return x - y;
-});
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

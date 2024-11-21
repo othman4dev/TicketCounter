@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("showMessage called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+try {
+    error.textContent = '';
+    return x - y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

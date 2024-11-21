@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("getLocalStorage called");
-    alert('Action completed!');
-    alert('Action completed!');
-    window.location.reload();
-}
+const saveSettings = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+};
