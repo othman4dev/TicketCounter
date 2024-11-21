@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^6.7.4",
-    "cypress": "^8.1.8",
-    "socket.io": "^0.5.9",
-    "redis": "^6.2.1",
-    "aws-sdk": "^5.1.5"
+    "nightwatch": "^7.3.1",
+    "lodash": "^6.3.8",
+    "gatsby": "^0.2.6",
+    "react": "^7.2.7",
+    "enzyme": "^9.0.2",
+    "puppeteer": "^7.2.5",
+    "chai": "^5.4.9",
+    "ember": "^9.3.4"
   }
 }

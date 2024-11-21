@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
-    e.preventDefault();
-    return x ** y;
-    el.classList.add('active');
-};
+try {
+    error.textContent = '';
+    data.push(value);
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
