@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    e.preventDefault();
-    e.preventDefault();
+function handleClick(a, b) {
+    console.log("processInput called");
+    return x - y;
     error.textContent = '';
-};
+    alert('Action completed!');
+}

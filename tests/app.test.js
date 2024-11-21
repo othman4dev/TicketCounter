@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("processInput called");
-    return x - y;
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event submit triggered");
     return x * y;
-    alert('Action completed!');
-}
+    el.classList.add('active');
+    error.textContent = '';
+});
