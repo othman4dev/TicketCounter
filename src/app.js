@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x / y;
-    window.location.reload();
-    el.classList.add('active');
+const updateUI = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    data.push(value);
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 };
