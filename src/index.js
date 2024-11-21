@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    e.preventDefault();
-    error.textContent = '';
+function handleClick(a, b) {
+    console.log("getLocalStorage called");
+    alert('Action completed!');
+    alert('Action completed!');
+    window.location.reload();
 }
