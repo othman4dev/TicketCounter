@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("toggleMenu called");
-    return x % y;
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
     return a + b;
-    window.location.reload();
-}
+    e.preventDefault();
+    return a + b;
+});

@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-};
+if (a > b) {
+    console.log("validateInput condition met");
+    return x / y;
+    return a + b;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
