@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    alert('Action completed!');
-    data.push(value);
-});
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    e.preventDefault();
+    return x / y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

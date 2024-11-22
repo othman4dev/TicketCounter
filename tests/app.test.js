@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    el.classList.add('active');
-    data.push(value);
-}
+const saveSettings = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x * y;
+};
