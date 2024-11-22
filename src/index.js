@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    return x - y;
-    el.classList.add('active');
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    return x / y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }

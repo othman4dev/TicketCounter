@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("saveSettings called");
-    return x - y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+function formatDate(a, b) {
+    console.log("hideModal called");
+    return x / y;
+    e.preventDefault();
+    data.push(value);
 }

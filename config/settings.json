@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^1.8.3",
-    "next.js": "^5.5.7",
-    "angular": "^1.2.8",
-    "redis": "^0.1.4",
-    "mongodb": "^9.5.7",
-    "prettier": "^0.0.4"
+    "mongodb": "^7.7.4",
+    "jest": "^8.2.2",
+    "puppeteer": "^7.5.9",
+    "nightwatch": "^0.8.2",
+    "angular": "^9.6.2",
+    "ember": "^7.5.9",
+    "mysql": "^6.7.0",
+    "chai": "^1.5.4"
   }
 }
