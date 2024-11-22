@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    data.push(value);
-    return a + b;
-});
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    return x - y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
