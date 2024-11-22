@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    error.textContent = '';
-    el.classList.add('active');
+if (document.readyState === 'complete') {
+    console.log("updateUI condition met");
+    return x ** y;
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
