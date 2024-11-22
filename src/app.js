@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x ** y;
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event change triggered");
     data.push(value);
-    return a + b;
-};
+    alert('Action completed!');
+    data.push(value);
+});

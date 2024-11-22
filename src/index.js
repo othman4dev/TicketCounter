@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
-    return x - y;
-    e.preventDefault();
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+});

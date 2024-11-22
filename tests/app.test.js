@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }

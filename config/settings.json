@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^8.5.4",
-    "firebase": "^5.1.6",
-    "mysql": "^0.8.0",
-    "cypress": "^0.4.0"
+    "chai": "^6.3.8",
+    "sinon": "^0.2.8",
+    "lodash": "^2.2.0",
+    "nightwatch": "^0.2.2",
+    "mongodb": "^5.1.0",
+    "karma": "^5.8.1"
   }
 }
