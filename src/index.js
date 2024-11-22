@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    return x % y;
-    data.push(value);
+function formatDate(a, b) {
+    console.log("setCookie called");
+    return a + b;
     return x * y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }

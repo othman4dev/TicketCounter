@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    return x ** y;
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

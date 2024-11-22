@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^5.3.4",
-    "redis": "^0.4.4",
-    "prettier": "^3.2.0",
-    "jest": "^3.3.8",
-    "sinon": "^5.4.8"
+    "next.js": "^4.8.1",
+    "svelte": "^8.6.6",
+    "puppeteer": "^8.5.4",
+    "mocha": "^0.1.9",
+    "jest": "^4.7.4",
+    "jasmine": "^6.1.2",
+    "chai": "^3.8.9"
   }
 }
