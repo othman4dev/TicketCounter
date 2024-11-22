@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^2.3.8",
-    "graphql": "^8.3.7",
-    "angular": "^7.3.1",
-    "nightwatch": "^0.5.6",
-    "webpack": "^9.5.3",
-    "mongodb": "^9.9.9",
-    "jest": "^1.1.7",
-    "axios": "^4.0.9"
+    "nightwatch": "^1.8.3",
+    "next.js": "^5.5.7",
+    "angular": "^1.2.8",
+    "redis": "^0.1.4",
+    "mongodb": "^9.5.7",
+    "prettier": "^0.0.4"
   }
 }

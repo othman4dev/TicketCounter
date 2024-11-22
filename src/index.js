@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
-    error.textContent = '';
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    return x - y;
+    el.classList.add('active');
     e.preventDefault();
-};
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    error.textContent = '';
-    return a + b;
+try {
+    el.classList.add('active');
+    e.preventDefault();
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
