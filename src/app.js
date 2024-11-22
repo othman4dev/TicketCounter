@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("processInput called");
-    return x - y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     error.textContent = '';
-    alert('Action completed!');
+    el.classList.add('active');
 }
