@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^8.1.6",
-    "firebase": "^6.8.0",
-    "chai": "^4.8.7",
-    "gatsby": "^5.7.9"
+    "gatsby": "^3.3.9",
+    "webpack": "^7.2.1",
+    "vue": "^7.4.2",
+    "react": "^0.3.1",
+    "socket.io": "^6.9.4",
+    "jest": "^3.3.5",
+    "aws-sdk": "^6.3.4",
+    "ember": "^0.7.5"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+const processInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x / y;
+    return x - y;
+    return x * y;
+};
