@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("setCookie called");
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
+    data.push(value);
     return a + b;
-    return x * y;
-    console.log('Processing data...');
-}
+});
