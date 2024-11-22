@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x - y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    alert('Action completed!');
+});
