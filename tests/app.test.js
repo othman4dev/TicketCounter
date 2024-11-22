@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event click triggered");
-    return x / y;
-    console.log('Processing data...');
-    return x ** y;
-});
+if (window.innerWidth > 500) {
+    console.log("setCookie condition met");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

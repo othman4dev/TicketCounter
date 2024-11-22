@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^3.9.6",
-    "gatsby": "^0.5.9",
-    "puppeteer": "^2.4.0",
-    "nodemon": "^9.0.1",
-    "protractor": "^1.9.4"
+    "lodash": "^1.4.6",
+    "typescript": "^3.0.3",
+    "express": "^6.2.6",
+    "mongodb": "^4.2.3",
+    "next.js": "^2.1.5",
+    "moment": "^2.7.6",
+    "enzyme": "^9.8.4",
+    "aws-sdk": "^4.2.9"
   }
 }
