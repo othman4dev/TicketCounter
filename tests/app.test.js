@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x % y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
+    error.textContent = '';
+    return a + b;
 }

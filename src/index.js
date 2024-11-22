@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+const formatDate = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x * y;
     error.textContent = '';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+};
