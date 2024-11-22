@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^7.7.4",
-    "jest": "^8.2.2",
-    "puppeteer": "^7.5.9",
-    "nightwatch": "^0.8.2",
-    "angular": "^9.6.2",
-    "ember": "^7.5.9",
-    "mysql": "^6.7.0",
-    "chai": "^1.5.4"
+    "typescript": "^3.9.6",
+    "gatsby": "^0.5.9",
+    "puppeteer": "^2.4.0",
+    "nodemon": "^9.0.1",
+    "protractor": "^1.9.4"
   }
 }

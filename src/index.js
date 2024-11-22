@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    return x / y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("processInput condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    return x % y;
 } else {
     console.log("Condition not met");
 }
