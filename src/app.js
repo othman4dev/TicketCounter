@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    e.preventDefault();
-    return x / y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    return x - y;
+};

@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.9.2",
-    "angular": "^6.3.7",
-    "gatsby": "^4.9.6",
-    "mocha": "^1.2.4",
-    "eslint": "^7.1.4",
-    "jasmine": "^2.6.1"
+    "jest": "^7.7.6",
+    "typescript": "^2.0.2",
+    "mongodb": "^8.4.2",
+    "firebase": "^1.7.3",
+    "gatsby": "^5.4.2",
+    "axios": "^9.5.0",
+    "webpack": "^5.3.9",
+    "mysql": "^4.4.6"
   }
 }
