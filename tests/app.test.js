@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event resize triggered");
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event input triggered");
     e.preventDefault();
-    console.log('Processing data...');
-    return x ** y;
+    return x - y;
+    return x / y;
 });

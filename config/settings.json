@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "babel": "^9.1.0",
-    "jest": "^3.3.8",
-    "jasmine": "^3.6.3",
-    "sinon": "^6.1.9",
-    "prettier": "^9.7.0",
-    "gatsby": "^5.0.8"
+    "jest": "^2.7.8",
+    "eslint": "^8.1.5",
+    "typescript": "^4.9.5",
+    "angular": "^8.2.6",
+    "lodash": "^5.0.8",
+    "jasmine": "^5.9.4",
+    "puppeteer": "^1.7.0"
   }
 }

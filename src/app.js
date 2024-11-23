@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    console.log('Processing data...');
-    return x ** y;
-    return a + b;
-};
+switch (value) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
