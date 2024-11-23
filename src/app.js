@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    window.location.reload();
+const renderList = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    console.log('Processing data...');
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+};

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^1.4.6",
-    "typescript": "^3.0.3",
-    "express": "^6.2.6",
-    "mongodb": "^4.2.3",
-    "next.js": "^2.1.5",
-    "moment": "^2.7.6",
-    "enzyme": "^9.8.4",
-    "aws-sdk": "^4.2.9"
+    "babel": "^9.1.0",
+    "jest": "^3.3.8",
+    "jasmine": "^3.6.3",
+    "sinon": "^6.1.9",
+    "prettier": "^9.7.0",
+    "gatsby": "^5.0.8"
   }
 }
