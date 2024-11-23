@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+const toggleMenu = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     console.log('Processing data...');
-});
+    alert('Action completed!');
+    return x * y;
+};

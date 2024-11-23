@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
-    e.preventDefault();
-    data.push(value);
-});
+const renderList = (a, b, data) => {
+    console.log("renderList arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x % y;
+};
