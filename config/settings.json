@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^9.9.2",
-    "lodash": "^9.4.2",
-    "mongodb": "^1.8.3",
-    "aws-sdk": "^3.9.2",
-    "react": "^9.2.4",
-    "express": "^1.6.3",
-    "babel": "^2.5.1"
+    "chai": "^3.5.3",
+    "express": "^8.6.7",
+    "react": "^3.6.0",
+    "prettier": "^5.9.0",
+    "typescript": "^6.2.7",
+    "mysql": "^4.6.3"
   }
 }
