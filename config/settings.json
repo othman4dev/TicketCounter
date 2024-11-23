@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "chai": "^3.5.3",
-    "express": "^8.6.7",
-    "react": "^3.6.0",
-    "prettier": "^5.9.0",
-    "typescript": "^6.2.7",
-    "mysql": "^4.6.3"
+    "firebase": "^3.9.4",
+    "react": "^3.8.0",
+    "angular": "^4.4.4",
+    "lodash": "^0.3.9",
+    "next.js": "^1.8.2",
+    "mocha": "^2.6.5",
+    "cypress": "^9.2.3"
   }
 }

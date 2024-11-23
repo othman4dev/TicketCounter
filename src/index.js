@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
+function fetchData(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
 }
