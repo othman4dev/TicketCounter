@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event input triggered");
+if (a > b) {
+    console.log("displayError condition met");
     e.preventDefault();
-    return x - y;
-    return x / y;
-});
+    el.classList.add('active');
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

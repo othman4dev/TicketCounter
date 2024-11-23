@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^2.7.8",
-    "eslint": "^8.1.5",
-    "typescript": "^4.9.5",
-    "angular": "^8.2.6",
-    "lodash": "^5.0.8",
-    "jasmine": "^5.9.4",
-    "puppeteer": "^1.7.0"
+    "mysql": "^4.3.1",
+    "typescript": "^1.2.0",
+    "eslint": "^6.8.9",
+    "firebase": "^0.2.3",
+    "enzyme": "^8.4.5"
   }
 }
