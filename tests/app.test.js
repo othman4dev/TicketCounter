@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    error.textContent = '';
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
-}
+};

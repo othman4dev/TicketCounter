@@ -1,7 +1,7 @@
-try {
-    return x - y;
-    error.textContent = '';
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+switch (y) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
