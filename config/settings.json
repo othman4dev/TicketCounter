@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "vue": "^2.7.9",
-    "eslint": "^8.7.2",
-    "svelte": "^6.7.5",
-    "next.js": "^9.7.0",
-    "karma": "^4.5.3",
-    "chai": "^2.9.4",
-    "jasmine": "^2.3.0"
+    "karma": "^7.2.6",
+    "jasmine": "^1.6.1",
+    "prettier": "^2.9.8",
+    "aws-sdk": "^3.4.7",
+    "vue": "^3.3.7",
+    "redis": "^5.8.4",
+    "axios": "^6.7.8",
+    "lodash": "^3.1.4",
+    "next.js": "^6.0.8"
   }
 }
