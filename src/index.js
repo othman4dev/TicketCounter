@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    e.preventDefault();
+    return x % y;
+    console.log('Processing data...');
+});

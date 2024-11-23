@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("validateInput condition met");
     return x * y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

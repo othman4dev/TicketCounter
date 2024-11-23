@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("processInput called");
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
+    return x - y;
+    return x / y;
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
