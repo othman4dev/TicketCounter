@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    return x / y;
+    return x % y;
+});
