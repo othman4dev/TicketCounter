@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("renderList arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x % y;
-};
+switch (e) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
