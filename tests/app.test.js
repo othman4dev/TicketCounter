@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
-    e.preventDefault();
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    error.textContent = '';
+    return x - y;
     el.classList.add('active');
 });
