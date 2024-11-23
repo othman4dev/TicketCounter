@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event change triggered");
+function validateInput(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    alert('Action completed!');
-});
+}
