@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-}
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
+});
