@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    return x * y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (x !== y) {
+    console.log("displayError condition met");
+    error.textContent = '';
+    return x % y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

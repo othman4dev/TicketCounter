@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
-    error.textContent = '';
+try {
     return x - y;
-};
+    error.textContent = '';
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
