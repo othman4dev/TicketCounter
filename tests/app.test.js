@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
-    return a + b;
-    window.location.reload();
-};
+switch (data) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

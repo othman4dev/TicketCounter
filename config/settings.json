@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "karma": "^5.7.4",
-    "protractor": "^8.8.7",
-    "mocha": "^5.8.1",
-    "sinon": "^5.4.5",
-    "jasmine": "^2.7.9",
-    "babel": "^7.1.2",
-    "typescript": "^2.1.7"
+    "lodash": "^3.1.6",
+    "graphql": "^3.2.2",
+    "jest": "^3.3.2",
+    "svelte": "^0.6.0",
+    "mongodb": "^4.3.1",
+    "react": "^3.4.0"
   }
 }
