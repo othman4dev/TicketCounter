@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
-    return x % y;
-    console.log('Processing data...');
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    error.textContent = '';
+    alert('Action completed!');
+    data.push(value);
 });
