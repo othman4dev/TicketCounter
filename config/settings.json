@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "redis": "^1.4.8",
-    "webpack": "^1.1.5",
-    "socket.io": "^3.2.1",
-    "mocha": "^5.9.8",
-    "express": "^4.0.7",
-    "chai": "^1.8.8",
-    "nodemon": "^5.7.7"
+    "puppeteer": "^1.0.0",
+    "next.js": "^6.4.2",
+    "karma": "^3.3.2",
+    "prettier": "^2.2.4",
+    "webpack": "^9.7.1"
   }
 }

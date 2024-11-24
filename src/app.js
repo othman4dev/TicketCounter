@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-});
+try {
+    e.preventDefault();
+    return x - y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
