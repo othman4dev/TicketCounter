@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^1.0.0",
-    "next.js": "^6.4.2",
-    "karma": "^3.3.2",
-    "prettier": "^2.2.4",
-    "webpack": "^9.7.1"
+    "graphql": "^9.5.2",
+    "vue": "^2.0.9",
+    "prettier": "^2.6.8",
+    "express": "^5.2.5",
+    "axios": "^4.4.8",
+    "enzyme": "^3.6.0"
   }
 }

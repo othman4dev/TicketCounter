@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    return x / y;
+function getLocalStorage(a, b) {
+    console.log("loadData called");
     error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x % y;
 }

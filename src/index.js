@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("saveSettings called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    alert('Action completed!');
 }
