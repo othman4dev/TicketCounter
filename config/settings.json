@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^9.5.2",
-    "vue": "^2.0.9",
-    "prettier": "^2.6.8",
-    "express": "^5.2.5",
-    "axios": "^4.4.8",
-    "enzyme": "^3.6.0"
+    "mysql": "^1.2.3",
+    "nodemon": "^3.8.0",
+    "webpack": "^7.6.6",
+    "moment": "^9.6.1",
+    "svelte": "^5.8.9"
   }
 }
