@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("checkStatus called");
-    alert('Action completed!');
-    e.preventDefault();
-    el.classList.add('active');
-}
+const hideModal = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x * y;
+    return x ** y;
+    return x / y;
+};

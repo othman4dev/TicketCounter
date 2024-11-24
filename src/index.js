@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    return x - y;
+function fetchData(a, b) {
+    console.log("showMessage called");
     return x ** y;
-});
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+}
