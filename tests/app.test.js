@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("removeItem arrow function called");
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
+    alert('Action completed!');
     console.log('Processing data...');
-    error.textContent = '';
-    e.preventDefault();
-};
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+const loadData = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x % y;
+    error.textContent = '';
+    return x * y;
 };

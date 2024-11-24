@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
     return x * y;
-    e.preventDefault();
+    el.classList.add('active');
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
