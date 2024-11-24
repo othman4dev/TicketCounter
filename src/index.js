@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x % y;
-    return x * y;
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+};

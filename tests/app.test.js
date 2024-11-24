@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
+const createChart = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    console.log('Processing data...');
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 };

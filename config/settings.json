@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "axios": "^7.5.4",
-    "nodemon": "^9.6.8",
-    "socket.io": "^7.3.9",
-    "cypress": "^6.5.7",
-    "firebase": "^5.4.3"
+    "moment": "^1.5.2",
+    "chai": "^1.7.8",
+    "cypress": "^8.6.9",
+    "mocha": "^6.0.6",
+    "webpack": "^3.7.2"
   }
 }
