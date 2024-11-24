@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
     error.textContent = '';
-    alert('Action completed!');
-    data.push(value);
+    error.textContent = '';
 });

@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^3.0.3",
-    "socket.io": "^7.6.8",
-    "svelte": "^9.8.0",
-    "karma": "^9.6.3"
+    "puppeteer": "^1.8.0",
+    "cypress": "^5.3.2",
+    "graphql": "^1.7.9",
+    "angular": "^4.5.4",
+    "mocha": "^8.5.7"
   }
 }
