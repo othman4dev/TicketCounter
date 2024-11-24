@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+if (data.length > 0) {
+    console.log("formatDate condition met");
+    return x - y;
     window.location.reload();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
