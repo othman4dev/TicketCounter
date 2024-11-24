@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("loadData called");
-    return a + b;
-    el.classList.add('active');
-    console.log('Processing data...');
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
+    return x - y;
+    return x ** y;
+});

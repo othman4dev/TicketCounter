@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^1.7.3",
-    "protractor": "^1.9.1",
-    "mongodb": "^0.8.9",
-    "nodemon": "^5.4.9",
-    "puppeteer": "^3.4.5",
-    "mocha": "^0.5.9",
-    "vue": "^3.5.5"
+    "redis": "^5.7.0",
+    "mysql": "^3.7.3",
+    "typescript": "^1.4.3",
+    "next.js": "^8.4.9",
+    "jest": "^6.8.2"
   }
 }
