@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^3.3.7",
-    "react": "^0.4.8",
-    "babel": "^7.0.8",
-    "aws-sdk": "^2.6.7",
-    "sinon": "^8.8.6",
-    "jest": "^6.0.7",
-    "puppeteer": "^0.0.7"
+    "axios": "^7.5.4",
+    "nodemon": "^9.6.8",
+    "socket.io": "^7.3.9",
+    "cypress": "^6.5.7",
+    "firebase": "^5.4.3"
   }
 }
