@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("displayError arrow function called");
-    window.location.reload();
-    return x * y;
-    data.push(value);
-};
+switch (data) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

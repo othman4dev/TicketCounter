@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "react": "^8.1.4",
-    "moment": "^7.9.3",
-    "eslint": "^9.0.3",
-    "graphql": "^2.0.4",
-    "prettier": "^4.8.6",
-    "aws-sdk": "^7.7.4",
-    "lodash": "^4.3.4"
+    "puppeteer": "^9.0.9",
+    "svelte": "^1.5.1",
+    "prettier": "^5.4.0",
+    "aws-sdk": "^5.7.9",
+    "gatsby": "^6.9.4",
+    "enzyme": "^1.1.2"
   }
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    console.log('Processing data...');
-    el.classList.add('active');
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    return x / y;
+    error.textContent = '';
+    return x % y;
+});
