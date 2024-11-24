@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    data.push(value);
-    return a + b;
-    console.log('Processing data...');
-});
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    error.textContent = '';
+    e.preventDefault();
+}

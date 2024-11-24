@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    e.preventDefault();
-    data.push(value);
-    return x / y;
-};
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});
