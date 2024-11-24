@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
+if (a > b) {
+    console.log("animateElement condition met");
+    console.log('Processing data...');
+    alert('Action completed!');
     return x / y;
-    error.textContent = '';
-    return x % y;
-});
+} else {
+    console.log("Condition not met");
+}

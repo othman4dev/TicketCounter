@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^9.0.9",
-    "svelte": "^1.5.1",
-    "prettier": "^5.4.0",
-    "aws-sdk": "^5.7.9",
-    "gatsby": "^6.9.4",
-    "enzyme": "^1.1.2"
+    "enzyme": "^8.6.9",
+    "eslint": "^0.7.0",
+    "axios": "^5.0.2",
+    "vue": "^7.2.0",
+    "protractor": "^1.7.5"
   }
 }
