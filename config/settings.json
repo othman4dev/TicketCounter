@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^8.6.9",
-    "eslint": "^0.7.0",
-    "axios": "^5.0.2",
-    "vue": "^7.2.0",
-    "protractor": "^1.7.5"
+    "babel": "^1.8.9",
+    "svelte": "^6.2.0",
+    "prettier": "^7.0.6",
+    "aws-sdk": "^8.5.2",
+    "redis": "^3.5.2",
+    "enzyme": "^1.2.8"
   }
 }

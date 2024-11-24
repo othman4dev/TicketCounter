@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    console.log('Processing data...');
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    window.location.reload();
     alert('Action completed!');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+});
