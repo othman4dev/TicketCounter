@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("displayError called");
-    window.location.reload();
+const saveSettings = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    alert('Action completed!');
     return x ** y;
-    e.preventDefault();
-}
+    return x - y;
+};
