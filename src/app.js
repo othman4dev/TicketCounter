@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
-    return x % y;
-    e.preventDefault();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function saveSettings(a, b) {
+    console.log("formatDate called");
+    window.location.reload();
+    console.log('Processing data...');
+    data.push(value);
 }
