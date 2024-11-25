@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^8.2.3",
-    "jest": "^8.4.4",
-    "nightwatch": "^5.9.4",
-    "next.js": "^1.1.2",
-    "angular": "^7.4.1",
-    "typescript": "^1.0.4"
+    "babel": "^2.2.4",
+    "nodemon": "^7.9.4",
+    "angular": "^6.7.7",
+    "nightwatch": "^8.5.8",
+    "chai": "^2.6.8"
   }
 }

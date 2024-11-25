@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    el.classList.add('active');
+    return a + b;
+    window.location.reload();
+};
