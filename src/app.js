@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x - y;
-    window.location.reload();
-    return x * y;
+const createChart = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
+    alert('Action completed!');
 };

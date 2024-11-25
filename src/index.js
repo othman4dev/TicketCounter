@@ -1,6 +1,6 @@
 const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
+    console.log("fetchData arrow function called");
     console.log('Processing data...');
-    return x % y;
+    return x - y;
     error.textContent = '';
 };
