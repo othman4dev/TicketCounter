@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("processInput called");
-    return x / y;
-    alert('Action completed!');
-    alert('Action completed!');
-}
+const animateElement = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    return x % y;
+};
