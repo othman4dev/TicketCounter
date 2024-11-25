@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("formatDate condition met");
-    return x - y;
-    window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 }

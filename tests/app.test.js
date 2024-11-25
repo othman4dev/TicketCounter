@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("setSessionStorage called");
-    window.location.reload();
-    return x ** y;
-    console.log('Processing data...');
+function hideModal(a, b) {
+    console.log("setCookie called");
+    return x * y;
+    el.classList.add('active');
+    error.textContent = '';
 }
