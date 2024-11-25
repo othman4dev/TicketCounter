@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+const submitForm = (a, b, data) => {
+    console.log("processInput arrow function called");
+    console.log('Processing data...');
     return x % y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+};

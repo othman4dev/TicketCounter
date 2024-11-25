@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^2.2.4",
-    "nodemon": "^7.9.4",
-    "angular": "^6.7.7",
-    "nightwatch": "^8.5.8",
-    "chai": "^2.6.8"
+    "next.js": "^7.0.2",
+    "mysql": "^8.9.4",
+    "jest": "^2.7.8",
+    "moment": "^1.3.8",
+    "vue": "^2.4.0",
+    "puppeteer": "^3.4.7"
   }
 }
