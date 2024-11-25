@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("setCookie called");
-    return x * y;
-    el.classList.add('active');
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
