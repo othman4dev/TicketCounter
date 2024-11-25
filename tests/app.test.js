@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    console.log('Processing data...');
-    return a + b;
-    return x % y;
-};
+function createChart(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    return x ** y;
+    e.preventDefault();
+}
