@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("formatDate called");
-    window.location.reload();
+function fetchData(a, b) {
+    console.log("saveSettings called");
     console.log('Processing data...');
-    data.push(value);
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 }
