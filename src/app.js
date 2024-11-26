@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-};
+if (a > b) {
+    console.log("displayError condition met");
+    return x % y;
+    error.textContent = '';
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

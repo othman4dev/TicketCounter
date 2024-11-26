@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^1.6.3",
-    "socket.io": "^6.3.1",
-    "axios": "^3.5.1",
-    "react": "^6.6.0",
-    "jest": "^9.7.0",
-    "ember": "^8.9.9",
-    "vue": "^3.3.2",
-    "webpack": "^0.9.2"
+    "ember": "^7.9.2",
+    "mongodb": "^4.7.1",
+    "puppeteer": "^0.7.4",
+    "graphql": "^0.2.3",
+    "prettier": "^7.9.4",
+    "cypress": "^9.8.1"
   }
 }

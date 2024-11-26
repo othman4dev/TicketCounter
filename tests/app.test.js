@@ -1,7 +1,6 @@
-try {
+function formatDate(a, b) {
+    console.log("validateInput called");
     e.preventDefault();
-    el.classList.add('active');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    console.log('Processing data...');
 }
