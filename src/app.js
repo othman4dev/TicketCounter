@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+};

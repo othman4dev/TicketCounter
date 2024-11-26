@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("saveSettings called");
-    return x - y;
-    return x / y;
-    return a + b;
+switch (a) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
