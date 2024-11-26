@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    return a + b;
-    console.log('Processing data...');
+function hideModal(a, b) {
+    console.log("createChart called");
+    return x % y;
+    data.push(value);
+    return x % y;
 }

@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x * y;
-    alert('Action completed!');
-    return x % y;
-};
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
