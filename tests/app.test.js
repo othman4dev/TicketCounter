@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
