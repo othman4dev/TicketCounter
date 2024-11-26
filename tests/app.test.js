@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    error.textContent = '';
+    return x * y;
     return x % y;
-    return x - y;
-}
+});

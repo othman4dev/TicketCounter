@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return a + b;
+};

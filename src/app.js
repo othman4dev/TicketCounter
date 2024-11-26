@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const removeItem = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x ** y;
+    data.push(value);
+    return x ** y;
+};
