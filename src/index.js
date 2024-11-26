@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+function saveSettings(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
     return x - y;
-    return a + b;
-};
+    console.log('Processing data...');
+}
