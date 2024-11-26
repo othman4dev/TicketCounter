@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
+const validateInput = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x * y;
     alert('Action completed!');
+    return x % y;
 };

@@ -1,6 +1,6 @@
 try {
+    console.log('Processing data...');
     el.classList.add('active');
-    error.textContent = '';
     return x - y;
 } catch (error) {
     console.error("Error:", error);
