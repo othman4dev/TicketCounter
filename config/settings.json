@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "jest": "^7.2.6",
-    "protractor": "^7.5.8",
-    "socket.io": "^6.6.0",
-    "vue": "^4.1.6",
-    "puppeteer": "^6.4.1",
-    "karma": "^5.3.4",
-    "prettier": "^0.5.3"
+    "jasmine": "^3.3.9",
+    "webpack": "^3.7.6",
+    "karma": "^1.8.1",
+    "protractor": "^9.5.7",
+    "firebase": "^2.6.9",
+    "graphql": "^2.2.8",
+    "enzyme": "^8.1.4",
+    "redis": "^7.1.1"
   }
 }
