@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("getLocalStorage called");
-    e.preventDefault();
-    e.preventDefault();
-    data.push(value);
+switch (a) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
