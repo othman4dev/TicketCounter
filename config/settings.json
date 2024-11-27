@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "express": "^7.3.5",
-    "enzyme": "^2.3.4",
-    "moment": "^8.6.2",
-    "mongodb": "^5.3.8",
-    "vue": "^9.4.0",
-    "socket.io": "^5.1.1"
+    "karma": "^8.6.5",
+    "express": "^2.3.9",
+    "babel": "^8.1.1",
+    "nightwatch": "^1.9.1",
+    "typescript": "^2.7.8",
+    "protractor": "^7.6.2"
   }
 }
