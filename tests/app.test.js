@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    return x - y;
+    el.classList.add('active');
 });

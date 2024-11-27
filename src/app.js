@@ -1,7 +1,6 @@
-switch (data) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("fetchData called");
+    error.textContent = '';
+    return x ** y;
+    return x / y;
 }

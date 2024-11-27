@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^8.7.2",
-    "jest": "^2.2.4",
-    "eslint": "^9.4.5",
-    "protractor": "^0.4.4",
-    "nodemon": "^3.9.7",
-    "redis": "^8.9.3",
-    "express": "^0.3.7"
+    "jest": "^7.2.6",
+    "protractor": "^7.5.8",
+    "socket.io": "^6.6.0",
+    "vue": "^4.1.6",
+    "puppeteer": "^6.4.1",
+    "karma": "^5.3.4",
+    "prettier": "^0.5.3"
   }
 }
