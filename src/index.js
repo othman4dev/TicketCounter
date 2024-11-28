@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x - y;
+function toggleMenu(a, b) {
+    console.log("submitForm called");
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    e.preventDefault();
 }
