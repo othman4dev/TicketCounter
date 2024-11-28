@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "jasmine": "^3.3.9",
-    "webpack": "^3.7.6",
-    "karma": "^1.8.1",
-    "protractor": "^9.5.7",
-    "firebase": "^2.6.9",
-    "graphql": "^2.2.8",
-    "enzyme": "^8.1.4",
-    "redis": "^7.1.1"
+    "mysql": "^3.0.7",
+    "jasmine": "^1.7.5",
+    "redis": "^5.3.3",
+    "nightwatch": "^6.0.6",
+    "jest": "^0.1.2",
+    "mocha": "^6.5.4",
+    "axios": "^2.0.8"
   }
 }
