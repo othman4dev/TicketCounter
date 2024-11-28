@@ -1,7 +1,6 @@
-try {
+function processInput(a, b) {
+    console.log("submitForm called");
+    return x - y;
+    el.classList.add('active');
     return x ** y;
-    return a + b;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
 }

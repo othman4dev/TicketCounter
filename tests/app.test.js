@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
+try {
+    window.location.reload();
     return x ** y;
     el.classList.add('active');
-    return a + b;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

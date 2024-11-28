@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    return x / y;
-    console.log('Processing data...');
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
