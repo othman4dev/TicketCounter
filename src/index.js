@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    e.preventDefault();
-    return x - y;
-});
+try {
+    return x ** y;
+    return a + b;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

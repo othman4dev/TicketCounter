@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x / y;
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    return x ** y;
+    el.classList.add('active');
+    return a + b;
+});
