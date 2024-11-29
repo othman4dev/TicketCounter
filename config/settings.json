@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "react": "^2.6.1",
-    "babel": "^1.2.3",
-    "nodemon": "^3.5.3",
-    "prettier": "^2.1.9",
-    "jasmine": "^4.9.1",
-    "redis": "^3.2.9"
+    "next.js": "^1.6.5",
+    "socket.io": "^0.0.8",
+    "redis": "^1.7.7",
+    "react": "^8.1.1",
+    "jest": "^4.2.1",
+    "chai": "^9.8.6"
   }
 }
