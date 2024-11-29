@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    return x ** y;
-};
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    error.textContent = '';
+    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

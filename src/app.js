@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("hideModal arrow function called");
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    window.location.reload();
     alert('Action completed!');
-    data.push(value);
-    return x / y;
-};
+});
