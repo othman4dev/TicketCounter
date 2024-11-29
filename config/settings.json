@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "redis": "^8.4.5",
-    "mongodb": "^9.8.6",
-    "puppeteer": "^3.8.2",
-    "jasmine": "^2.1.2",
-    "nodemon": "^3.5.8"
+    "prettier": "^3.3.6",
+    "axios": "^2.8.7",
+    "graphql": "^1.0.5",
+    "next.js": "^4.2.5",
+    "puppeteer": "^6.5.2",
+    "cypress": "^4.0.3"
   }
 }

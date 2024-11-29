@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    error.textContent = '';
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    e.preventDefault();
     return x % y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+});
