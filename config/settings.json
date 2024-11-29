@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^5.1.4",
-    "ember": "^5.9.8",
-    "firebase": "^5.5.7",
-    "redis": "^9.9.9",
-    "webpack": "^5.3.9",
-    "gatsby": "^5.6.8"
+    "prettier": "^2.6.8",
+    "gatsby": "^0.3.4",
+    "cypress": "^7.8.9",
+    "jest": "^6.9.0",
+    "react": "^1.1.0",
+    "firebase": "^3.6.8",
+    "webpack": "^2.8.3",
+    "svelte": "^7.8.6"
   }
 }

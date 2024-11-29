@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return a + b;
+function toggleMenu(a, b) {
+    console.log("handleClick called");
+    window.location.reload();
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
 }

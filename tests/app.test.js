@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
+if (window.innerWidth > 500) {
+    console.log("hideModal condition met");
+    return x % y;
     el.classList.add('active');
-    return x - y;
-    return x ** y;
-});
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
