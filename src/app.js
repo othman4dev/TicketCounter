@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("handleClick called");
-    window.location.reload();
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x * y;
+    return x - y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
