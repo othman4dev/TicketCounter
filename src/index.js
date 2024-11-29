@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+function updateUI(a, b) {
+    console.log("createChart called");
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return a + b;
+    window.location.reload();
 }

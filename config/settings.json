@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^4.6.9",
-    "nodemon": "^4.7.9",
-    "nightwatch": "^0.7.0",
-    "jest": "^5.1.4",
-    "chai": "^4.7.3",
-    "express": "^5.6.9"
+    "nodemon": "^5.1.4",
+    "ember": "^5.9.8",
+    "firebase": "^5.5.7",
+    "redis": "^9.9.9",
+    "webpack": "^5.3.9",
+    "gatsby": "^5.6.8"
   }
 }
