@@ -1,7 +1,10 @@
 {
   "dependencies": {
-    "jest": "^4.3.4",
-    "enzyme": "^4.5.9",
-    "puppeteer": "^1.9.9"
+    "eslint": "^2.5.9",
+    "aws-sdk": "^3.0.1",
+    "mocha": "^7.4.3",
+    "redis": "^8.5.8",
+    "webpack": "^1.0.7",
+    "moment": "^8.5.5"
   }
 }

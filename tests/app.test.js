@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
+    error.textContent = '';
+    e.preventDefault();
 }
