@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event load triggered");
-    data.push(value);
+const submitForm = (a, b, data) => {
+    console.log("fetchData arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+    el.classList.add('active');
+    error.textContent = '';
+};
