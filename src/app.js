@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    error.textContent = '';
-};
+if (x === y) {
+    console.log("animateElement condition met");
+    return x / y;
+    alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
