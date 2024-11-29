@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    return x * y;
+    return a + b;
     window.location.reload();
-    return x ** y;
 } else {
     console.log("Condition not met");
 }
