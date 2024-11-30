@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    e.preventDefault();
-    return x - y;
-    data.push(value);
-};
+try {
+    return x ** y;
+    window.location.reload();
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

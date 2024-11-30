@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^0.4.6",
-    "socket.io": "^7.3.6",
-    "axios": "^4.5.8",
-    "typescript": "^9.6.4",
-    "express": "^1.1.1",
-    "react": "^3.8.3",
-    "jest": "^7.9.1"
+    "axios": "^7.5.9",
+    "cypress": "^0.4.0",
+    "karma": "^8.7.8",
+    "mocha": "^7.3.9",
+    "express": "^6.4.0",
+    "nightwatch": "^4.8.0",
+    "puppeteer": "^1.7.0",
+    "eslint": "^7.3.5"
   }
 }
