@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("fetchData arrow function called");
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    error.textContent = '';
-    data.push(value);
+    return a + b;
 };

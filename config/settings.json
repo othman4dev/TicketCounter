@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^6.7.9",
-    "jest": "^7.0.2",
-    "nodemon": "^4.8.3",
-    "nightwatch": "^1.5.0"
+    "vue": "^9.5.3",
+    "graphql": "^3.7.1",
+    "next.js": "^5.5.0",
+    "mongodb": "^1.6.4",
+    "express": "^0.3.2",
+    "react": "^1.8.5",
+    "socket.io": "^5.1.8"
   }
 }
