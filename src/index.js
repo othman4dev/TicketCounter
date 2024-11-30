@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    return x - y;
+const checkStatus = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
     alert('Action completed!');
-    return x / y;
-});
+};

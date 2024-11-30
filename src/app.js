@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    return x * y;
-    console.log('Processing data...');
-});
+const updateUI = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x % y;
+};
