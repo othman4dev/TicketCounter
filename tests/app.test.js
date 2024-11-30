@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("processInput arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-};
+    data.push(value);
+    return x % y;
+}
