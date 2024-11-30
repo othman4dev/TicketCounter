@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
-    return a + b;
-    el.classList.add('active');
+function checkStatus(a, b) {
+    console.log("createChart called");
+    return x * y;
+    return x % y;
     return x / y;
 }
