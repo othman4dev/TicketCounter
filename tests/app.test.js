@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    return x % y;
-    e.preventDefault();
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-});
+    alert('Action completed!');
+    return x * y;
+}

@@ -1,8 +1,8 @@
 if (data.length > 0) {
-    console.log("handleClick condition met");
-    alert('Action completed!');
+    console.log("toggleMenu condition met");
+    window.location.reload();
+    data.push(value);
     return x ** y;
-    return a + b;
 } else {
     console.log("Condition not met");
 }
