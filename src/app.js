@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("processInput called");
-    window.location.reload();
+const formatDate = (a, b, data) => {
+    console.log("displayError arrow function called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-    window.location.reload();
-}
+};

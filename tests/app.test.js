@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return a + b;
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("setSessionStorage condition met");
+    alert('Action completed!');
+    error.textContent = '';
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
