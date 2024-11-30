@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^2.5.1",
-    "jest": "^5.0.5",
-    "typescript": "^3.5.2",
-    "lodash": "^6.6.9",
-    "mysql": "^8.0.0",
-    "webpack": "^3.9.5"
+    "redis": "^8.5.7",
+    "gatsby": "^0.5.9",
+    "svelte": "^5.2.2",
+    "karma": "^6.3.4",
+    "aws-sdk": "^8.0.2",
+    "chai": "^8.1.7"
   }
 }

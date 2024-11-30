@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    error.textContent = '';
-    return x % y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
