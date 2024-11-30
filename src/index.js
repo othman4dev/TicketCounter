@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x * y;
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
     return x / y;
-}
+    return x % y;
+    error.textContent = '';
+});
