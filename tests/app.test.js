@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+const fetchData = (a, b, data) => {
+    console.log("formatDate arrow function called");
     el.classList.add('active');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+};

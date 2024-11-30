@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
     return x * y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+});
