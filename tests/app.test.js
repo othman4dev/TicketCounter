@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    return x - y;
+    return x / y;
     alert('Action completed!');
-    error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+});

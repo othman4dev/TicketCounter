@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "moment": "^1.2.4",
-    "eslint": "^6.2.0",
-    "jasmine": "^8.5.5",
-    "cypress": "^2.4.2",
-    "webpack": "^6.1.5",
-    "redis": "^5.9.2",
-    "jest": "^6.8.9",
-    "graphql": "^9.6.9",
-    "lodash": "^5.1.7"
+    "typescript": "^1.7.1",
+    "aws-sdk": "^5.6.1",
+    "jest": "^5.6.9",
+    "axios": "^9.3.0",
+    "vue": "^2.0.0",
+    "prettier": "^9.6.8",
+    "mongodb": "^0.0.1"
   }
 }

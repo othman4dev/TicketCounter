@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("displayError arrow function called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     return x * y;
-};
+    return x / y;
+}

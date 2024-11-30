@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("createChart called");
+    window.location.reload();
+    error.textContent = '';
+    return x - y;
 }
