@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return a + b;
-};
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    return x - y;
+    console.log('Processing data...');
+    return x % y;
+});
