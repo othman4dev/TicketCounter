@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("createChart called");
-    return x * y;
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
     return x % y;
-    return x / y;
-}
+    console.log('Processing data...');
+});
