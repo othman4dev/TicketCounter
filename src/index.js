@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return a + b;
-};
+function getLocalStorage(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
+    return x % y;
+    return x * y;
+}
