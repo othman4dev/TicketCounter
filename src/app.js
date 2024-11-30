@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("showMessage arrow function called");
+const setSessionStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return a + b;
     el.classList.add('active');
-    error.textContent = '';
-    return x - y;
+    return x / y;
 };

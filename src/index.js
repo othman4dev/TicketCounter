@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    alert('Action completed!');
+    return x % y;
+    return x / y;
+};
