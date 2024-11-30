@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    alert('Action completed!');
-};
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    console.log('Processing data...');
+    window.location.reload();
+});
