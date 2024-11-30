@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
+function loadData(a, b) {
+    console.log("submitForm called");
     return x ** y;
-    return x % y;
-    return a + b;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+}
