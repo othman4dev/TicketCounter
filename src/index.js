@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
+const renderList = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x / y;
-    return x % y;
-    error.textContent = '';
-});
+    return x / y;
+    alert('Action completed!');
+};

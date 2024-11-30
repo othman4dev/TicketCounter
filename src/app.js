@@ -1,7 +1,6 @@
-try {
-    return x % y;
+const saveSettings = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     console.log('Processing data...');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+    return x % y;
+};
