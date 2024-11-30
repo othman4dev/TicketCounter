@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    console.log('Processing data...');
+if (x === y) {
+    console.log("checkStatus condition met");
+    error.textContent = '';
     return x % y;
-});
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
