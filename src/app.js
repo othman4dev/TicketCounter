@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    console.log('Processing data...');
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event submit triggered");
     error.textContent = '';
-    return x % y;
-};
+    return x - y;
+    e.preventDefault();
+});

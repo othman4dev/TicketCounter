@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    return x / y;
+try {
     console.log('Processing data...');
-    return a + b;
-});
+    window.location.reload();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

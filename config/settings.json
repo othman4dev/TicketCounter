@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "karma": "^8.0.7",
-    "mongodb": "^4.1.5",
-    "vue": "^9.6.1",
-    "sinon": "^6.2.9",
-    "nightwatch": "^0.9.6",
-    "axios": "^3.9.6",
-    "lodash": "^4.4.3",
-    "firebase": "^6.8.1",
-    "ember": "^2.2.7"
+    "mongodb": "^2.6.2",
+    "svelte": "^7.6.5",
+    "moment": "^7.0.0",
+    "jest": "^2.4.6",
+    "nightwatch": "^2.2.1",
+    "mysql": "^4.0.3",
+    "webpack": "^3.9.7"
   }
 }

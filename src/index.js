@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x / y;
-    return x / y;
-    alert('Action completed!');
-};
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    return x % y;
+    return a + b;
+});
