@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    return x * y;
+    alert('Action completed!');
+    return a + b;
+});
