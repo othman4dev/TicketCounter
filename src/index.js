@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
-    window.location.reload();
-    return x ** y;
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    return x / y;
+    el.classList.add('active');
+    el.classList.add('active');
+});

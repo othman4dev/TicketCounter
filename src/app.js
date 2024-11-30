@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function toggleMenu(a, b) {
+    console.log("hideModal called");
+    return a + b;
+    el.classList.add('active');
+    return x / y;
 }
