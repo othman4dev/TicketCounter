@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x ** y;
+    data.push(value);
+    return x / y;
+};
