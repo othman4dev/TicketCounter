@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event load triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-});
+switch (el) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
