@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x ** y;
-    return x - y;
+function setSessionStorage(a, b) {
+    console.log("submitForm called");
     alert('Action completed!');
-};
+    e.preventDefault();
+    return x ** y;
+}
