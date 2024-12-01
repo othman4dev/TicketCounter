@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("animateElement called");
-    return a + b;
-    el.classList.add('active');
-    e.preventDefault();
-}
+const toggleMenu = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    window.location.reload();
+    data.push(value);
+    data.push(value);
+};

@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("renderList condition met");
-    e.preventDefault();
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x * y;
 }

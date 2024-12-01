@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "jasmine": "^8.8.0",
-    "mysql": "^6.5.3",
-    "typescript": "^3.2.6",
-    "graphql": "^8.1.6",
-    "sinon": "^6.3.9",
-    "webpack": "^1.8.9"
+    "chai": "^5.8.3",
+    "nightwatch": "^0.7.0",
+    "axios": "^3.4.5",
+    "mocha": "^9.9.8",
+    "react": "^0.7.1",
+    "aws-sdk": "^7.8.2",
+    "socket.io": "^2.3.2"
   }
 }
