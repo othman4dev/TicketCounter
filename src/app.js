@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x / y;
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    el.classList.add('active');
-};
+} else {
+    console.log("Condition not met");
+}
