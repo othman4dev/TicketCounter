@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("updateUI condition met");
-    el.classList.add('active');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    window.location.reload();
     return x % y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
 }
