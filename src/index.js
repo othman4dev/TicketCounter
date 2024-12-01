@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    error.textContent = '';
-    window.location.reload();
-});
+const saveSettings = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
+    return x * y;
+};

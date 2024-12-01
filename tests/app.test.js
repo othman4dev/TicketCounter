@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x ** y;
+    console.log('Processing data...');
+    return x ** y;
+};
