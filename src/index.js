@@ -1,7 +1,6 @@
-try {
-    return x % y;
+const renderList = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    console.log('Processing data...');
+};

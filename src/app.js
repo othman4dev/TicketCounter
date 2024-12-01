@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
+const fetchData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
     return a + b;
-    error.textContent = '';
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+};
