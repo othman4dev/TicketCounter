@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "ember": "^2.2.9",
-    "lodash": "^2.7.1",
-    "angular": "^4.3.4",
-    "chai": "^2.3.6",
-    "socket.io": "^9.4.9",
-    "mysql": "^7.5.0",
-    "axios": "^9.9.0",
-    "express": "^9.0.6"
+    "chai": "^7.3.9",
+    "graphql": "^1.6.3",
+    "ember": "^7.5.5",
+    "babel": "^0.5.3",
+    "axios": "^3.5.4"
   }
 }

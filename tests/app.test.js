@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
+const createChart = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x * y;
+    alert('Action completed!');
     return x ** y;
-    return x / y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+};
