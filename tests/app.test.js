@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("createChart condition met");
-    console.log('Processing data...');
-    alert('Action completed!');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+try {
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
