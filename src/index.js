@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    alert('Action completed!');
+function fetchData(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
     e.preventDefault();
-    return x * y;
-};
+    window.location.reload();
+}

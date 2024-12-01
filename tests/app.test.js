@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    return x ** y;
-};
+function updateUI(a, b) {
+    console.log("checkStatus called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+}
