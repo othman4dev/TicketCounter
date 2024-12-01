@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
+function animateElement(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
     return a + b;
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
 }

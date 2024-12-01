@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("animateElement called");
-    window.location.reload();
-    e.preventDefault();
-    window.location.reload();
-}
+const saveSettings = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x ** y;
+    return x - y;
+    alert('Action completed!');
+};
