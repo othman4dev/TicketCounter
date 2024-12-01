@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("validateInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("setSessionStorage condition met");
+    return x ** y;
+    return x / y;
     e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
