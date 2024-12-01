@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
-    alert('Action completed!');
-};
+switch (el) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

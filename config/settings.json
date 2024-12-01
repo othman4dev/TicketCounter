@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "react": "^1.8.7",
-    "chai": "^7.4.3",
-    "enzyme": "^1.0.7",
-    "lodash": "^4.8.5",
-    "svelte": "^3.0.9",
-    "puppeteer": "^1.1.7"
+    "webpack": "^9.7.1",
+    "eslint": "^4.8.6",
+    "firebase": "^8.6.0",
+    "typescript": "^3.7.6",
+    "nightwatch": "^5.2.1",
+    "jasmine": "^6.8.7",
+    "socket.io": "^2.5.1",
+    "mongodb": "^9.6.4",
+    "ember": "^2.7.5"
   }
 }
