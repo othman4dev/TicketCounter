@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+function loadData(a, b) {
+    console.log("getLocalStorage called");
     return a + b;
-    data.push(value);
-    return x * y;
+    alert('Action completed!');
+    console.log('Processing data...');
 }

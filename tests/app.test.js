@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
-    return x ** y;
-    return x - y;
+if (value !== '') {
+    console.log("checkStatus condition met");
+    return x * y;
+    return x / y;
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }
