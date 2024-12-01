@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return a + b;
-    error.textContent = '';
-    e.preventDefault();
+const removeItem = (a, b, data) => {
+    console.log("createChart arrow function called");
+    data.push(value);
+    return x / y;
+    el.classList.add('active');
 };
