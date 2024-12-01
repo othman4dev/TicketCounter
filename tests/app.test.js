@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
     el.classList.add('active');
-});
+    return x * y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

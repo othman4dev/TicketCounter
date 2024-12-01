@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("createChart arrow function called");
+if (x !== y) {
+    console.log("renderList condition met");
+    e.preventDefault();
     data.push(value);
-    return x / y;
     el.classList.add('active');
-};
+} else {
+    console.log("Condition not met");
+}

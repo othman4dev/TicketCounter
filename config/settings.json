@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "moment": "^2.4.3",
-    "mocha": "^0.0.5",
-    "jest": "^1.9.1",
-    "nodemon": "^4.7.4"
+    "jasmine": "^8.8.0",
+    "mysql": "^6.5.3",
+    "typescript": "^3.2.6",
+    "graphql": "^8.1.6",
+    "sinon": "^6.3.9",
+    "webpack": "^1.8.9"
   }
 }
