@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("getLocalStorage called");
+function renderList(a, b) {
+    console.log("checkStatus called");
+    return x / y;
     return a + b;
-    alert('Action completed!');
-    console.log('Processing data...');
+    e.preventDefault();
 }
