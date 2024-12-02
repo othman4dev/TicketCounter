@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    error.textContent = '';
-    alert('Action completed!');
-});
+try {
+    el.classList.add('active');
+    return a + b;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
