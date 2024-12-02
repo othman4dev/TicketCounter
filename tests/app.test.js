@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x % y;
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
     return x - y;
-}
+    return x - y;
+    return x % y;
+});
