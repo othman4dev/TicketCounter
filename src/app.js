@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return a + b;
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+    return x * y;
+});
