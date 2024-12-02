@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    error.textContent = '';
-    data.push(value);
-    return x / y;
-} else {
-    console.log("Condition not met");
+try {
+    e.preventDefault();
+    window.location.reload();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

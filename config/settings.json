@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "eslint": "^2.2.9",
-    "mongodb": "^5.5.6",
-    "lodash": "^4.3.9",
-    "mocha": "^9.8.4",
-    "puppeteer": "^3.2.4"
+    "next.js": "^4.9.6",
+    "jest": "^3.3.6",
+    "mongodb": "^7.6.8",
+    "enzyme": "^6.0.8"
   }
 }
