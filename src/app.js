@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+function updateUI(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
     return x % y;
+    window.location.reload();
 }
