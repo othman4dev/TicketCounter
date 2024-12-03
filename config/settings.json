@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "karma": "^7.1.0",
-    "jest": "^8.4.1",
-    "jasmine": "^3.2.5",
-    "lodash": "^6.5.4",
-    "prettier": "^3.0.8",
-    "express": "^2.5.9",
-    "chai": "^2.5.5"
+    "lodash": "^7.3.4",
+    "karma": "^6.5.7",
+    "sinon": "^0.8.5",
+    "ember": "^9.8.7",
+    "react": "^4.8.1"
   }
 }

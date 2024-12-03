@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x * y;
+const setSessionStorage = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+};
