@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "redis": "^1.8.4",
-    "sinon": "^8.4.5",
-    "jest": "^2.7.9",
-    "jasmine": "^7.9.1",
-    "gatsby": "^8.6.4",
-    "lodash": "^7.5.7",
-    "nodemon": "^2.9.9",
-    "enzyme": "^5.6.4"
+    "firebase": "^0.2.6",
+    "react": "^9.4.5",
+    "mocha": "^2.0.7",
+    "webpack": "^6.8.4",
+    "eslint": "^7.9.5"
   }
 }

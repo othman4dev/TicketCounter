@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+const formatDate = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     data.push(value);
-});
+    return x ** y;
+    console.log('Processing data...');
+};
