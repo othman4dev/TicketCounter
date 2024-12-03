@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    return x * y;
-    alert('Action completed!');
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    window.location.reload();
+});
