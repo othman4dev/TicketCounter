@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^4.0.1",
-    "firebase": "^4.3.2",
-    "prettier": "^6.1.1",
-    "ember": "^0.9.5",
-    "vue": "^4.0.4",
-    "cypress": "^8.5.3",
-    "karma": "^7.5.7"
+    "jest": "^1.9.8",
+    "svelte": "^5.0.6",
+    "karma": "^0.9.1",
+    "moment": "^3.0.5",
+    "vue": "^0.2.6",
+    "mysql": "^8.7.0",
+    "protractor": "^8.6.8"
   }
 }

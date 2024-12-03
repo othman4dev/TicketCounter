@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
-    el.classList.add('active');
-    alert('Action completed!');
-});
+const loadData = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    data.push(value);
+    return x ** y;
+    return a + b;
+};
