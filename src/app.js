@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("toggleMenu called");
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event resize triggered");
     console.log('Processing data...');
-    return x % y;
-    error.textContent = '';
-}
+    el.classList.add('active');
+    alert('Action completed!');
+});

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    error.textContent = '';
-    return x * y;
-});
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    e.preventDefault();
+    return a + b;
+}
