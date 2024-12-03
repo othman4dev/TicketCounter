@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
-    e.preventDefault();
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-};
+    data.push(value);
+});
