@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("handleClick called");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }

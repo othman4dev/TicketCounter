@@ -1,8 +1,8 @@
-if (x !== y) {
+if (x === y) {
     console.log("processInput condition met");
-    return x % y;
-    return x ** y;
-    alert('Action completed!');
+    console.log('Processing data...');
+    data.push(value);
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
