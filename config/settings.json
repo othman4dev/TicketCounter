@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "jasmine": "^4.4.4",
-    "express": "^1.8.5",
-    "svelte": "^1.1.8",
-    "mocha": "^9.3.0",
-    "gatsby": "^4.6.3",
-    "cypress": "^0.7.6",
-    "mysql": "^7.7.7",
-    "vue": "^5.0.2"
+    "mocha": "^8.6.5",
+    "aws-sdk": "^3.3.1",
+    "sinon": "^3.8.6",
+    "svelte": "^0.0.4",
+    "babel": "^6.7.7",
+    "graphql": "^9.5.2",
+    "next.js": "^4.6.0",
+    "express": "^7.6.3",
+    "enzyme": "^3.5.7"
   }
 }

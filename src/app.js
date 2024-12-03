@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
-    return x % y;
-    window.location.reload();
-}
+const loadData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x * y;
+    console.log('Processing data...');
+    return x * y;
+};
