@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^4.9.6",
-    "jest": "^3.3.6",
-    "mongodb": "^7.6.8",
-    "enzyme": "^6.0.8"
+    "karma": "^7.1.0",
+    "jest": "^8.4.1",
+    "jasmine": "^3.2.5",
+    "lodash": "^6.5.4",
+    "prettier": "^3.0.8",
+    "express": "^2.5.9",
+    "chai": "^2.5.5"
   }
 }
