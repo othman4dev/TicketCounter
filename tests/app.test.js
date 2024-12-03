@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-});
+    console.log('Processing data...');
+    alert('Action completed!');
+}

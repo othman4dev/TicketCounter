@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    data.push(value);
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const handleClick = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
+    return a + b;
+    return x ** y;
+};
