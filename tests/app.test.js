@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    data.push(value);
-    return x ** y;
-    console.log('Processing data...');
-};
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    error.textContent = '';
+    return x * y;
+});

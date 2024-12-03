@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^0.2.6",
-    "react": "^9.4.5",
-    "mocha": "^2.0.7",
-    "webpack": "^6.8.4",
-    "eslint": "^7.9.5"
+    "mongodb": "^9.4.0",
+    "enzyme": "^9.6.0",
+    "gatsby": "^2.2.1",
+    "socket.io": "^5.9.6",
+    "next.js": "^3.2.7",
+    "express": "^1.2.6"
   }
 }
