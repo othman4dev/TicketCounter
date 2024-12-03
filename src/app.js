@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x * y;
-    console.log('Processing data...');
-    return x * y;
-};
+function updateUI(a, b) {
+    console.log("handleClick called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+}

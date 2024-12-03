@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^8.6.5",
-    "aws-sdk": "^3.3.1",
-    "sinon": "^3.8.6",
-    "svelte": "^0.0.4",
-    "babel": "^6.7.7",
-    "graphql": "^9.5.2",
-    "next.js": "^4.6.0",
-    "express": "^7.6.3",
-    "enzyme": "^3.5.7"
+    "babel": "^8.5.6",
+    "puppeteer": "^1.4.9",
+    "lodash": "^3.7.8",
+    "moment": "^3.0.6",
+    "sinon": "^3.8.5",
+    "axios": "^2.5.1",
+    "gatsby": "^2.5.4",
+    "vue": "^3.0.7"
   }
 }
