@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("createChart called");
-    document.body.style.backgroundColor = 'lightblue';
+function setSessionStorage(a, b) {
+    console.log("animateElement called");
     return x ** y;
-    el.classList.add('active');
+    error.textContent = '';
+    console.log('Processing data...');
 }

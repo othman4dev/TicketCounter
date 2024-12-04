@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "jasmine": "^0.2.4",
-    "nodemon": "^2.7.1",
-    "enzyme": "^1.5.1",
-    "lodash": "^3.0.2",
-    "next.js": "^9.9.5",
-    "babel": "^5.5.4",
-    "redis": "^8.0.4"
+    "next.js": "^8.8.0",
+    "prettier": "^7.4.1",
+    "ember": "^7.9.3",
+    "socket.io": "^1.7.2"
   }
 }
