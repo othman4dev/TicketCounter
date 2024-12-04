@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "chai": "^6.5.2",
-    "webpack": "^9.8.2",
-    "jasmine": "^4.4.0",
-    "jest": "^7.8.6",
-    "socket.io": "^2.6.0"
+    "lodash": "^3.2.7",
+    "redis": "^6.3.1",
+    "express": "^4.0.5",
+    "ember": "^8.2.2",
+    "axios": "^3.7.2",
+    "puppeteer": "^1.2.2"
   }
 }

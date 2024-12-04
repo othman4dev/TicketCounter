@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-}
+const createChart = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x / y;
+    return x / y;
+    return x - y;
+};
