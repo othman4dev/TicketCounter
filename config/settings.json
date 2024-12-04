@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.0.3",
-    "puppeteer": "^8.8.5",
-    "webpack": "^9.2.9",
-    "sinon": "^9.8.6",
-    "protractor": "^0.1.7",
-    "express": "^7.0.5"
+    "ember": "^9.6.4",
+    "nodemon": "^2.5.1",
+    "firebase": "^2.5.7",
+    "protractor": "^7.0.1",
+    "chai": "^7.5.4",
+    "webpack": "^4.9.5",
+    "gatsby": "^4.6.6"
   }
 }

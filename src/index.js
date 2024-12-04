@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("submitForm called");
-    alert('Action completed!');
-    e.preventDefault();
+function showMessage(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
     return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }
