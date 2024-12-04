@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    error.textContent = '';
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+const checkStatus = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
+    return x * y;
+    window.location.reload();
 };
