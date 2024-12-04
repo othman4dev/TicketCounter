@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
-    return x % y;
-    error.textContent = '';
-};
+if (x !== y) {
+    console.log("setSessionStorage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

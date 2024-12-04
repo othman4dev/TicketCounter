@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    console.log('Processing data...');
-});
+if (value !== '') {
+    console.log("checkStatus condition met");
+    return x / y;
+    return a + b;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
