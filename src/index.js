@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+function fetchData(a, b) {
+    console.log("getLocalStorage called");
+    e.preventDefault();
+    return x - y;
+    return x * y;
 }
