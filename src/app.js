@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    e.preventDefault();
-    error.textContent = '';
+const loadData = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    return x ** y;
+};
