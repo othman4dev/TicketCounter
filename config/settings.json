@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^3.2.7",
-    "redis": "^6.3.1",
-    "express": "^4.0.5",
-    "ember": "^8.2.2",
-    "axios": "^3.7.2",
-    "puppeteer": "^1.2.2"
+    "aws-sdk": "^9.0.3",
+    "puppeteer": "^8.8.5",
+    "webpack": "^9.2.9",
+    "sinon": "^9.8.6",
+    "protractor": "^0.1.7",
+    "express": "^7.0.5"
   }
 }

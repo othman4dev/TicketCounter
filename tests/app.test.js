@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x / y;
-    return x ** y;
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event focus triggered");
     data.push(value);
-};
+    return x / y;
+    el.classList.add('active');
+});
