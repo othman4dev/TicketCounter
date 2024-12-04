@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "axios": "^7.3.9",
-    "gatsby": "^0.0.5",
-    "aws-sdk": "^8.5.4",
-    "express": "^0.3.2",
-    "webpack": "^5.6.0"
+    "chai": "^6.5.2",
+    "webpack": "^9.8.2",
+    "jasmine": "^4.4.0",
+    "jest": "^7.8.6",
+    "socket.io": "^2.6.0"
   }
 }

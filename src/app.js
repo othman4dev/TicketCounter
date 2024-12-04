@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event resize triggered");
+const updateUI = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return a + b;
+    error.textContent = '';
     return x % y;
-    alert('Action completed!');
-    return x ** y;
-});
+};

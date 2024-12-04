@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("displayError called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return a + b;
+switch (y) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
