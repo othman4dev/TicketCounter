@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    return x - y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("handleClick condition met");
+    return x * y;
+    return x % y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
