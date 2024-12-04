@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    e.preventDefault();
-};
+function processInput(a, b) {
+    console.log("displayError called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return a + b;
+}

@@ -1,7 +1,6 @@
-try {
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    return x % y;
     alert('Action completed!');
-    window.location.reload();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+});

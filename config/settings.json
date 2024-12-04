@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^5.3.2",
-    "prettier": "^9.7.7",
-    "mocha": "^8.2.8",
-    "jasmine": "^9.8.6",
-    "babel": "^0.0.2",
-    "jest": "^1.0.3"
+    "axios": "^7.3.9",
+    "gatsby": "^0.0.5",
+    "aws-sdk": "^8.5.4",
+    "express": "^0.3.2",
+    "webpack": "^5.6.0"
   }
 }
