@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+const handleClick = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x - y;
     alert('Action completed!');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+};

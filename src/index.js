@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    return x / y;
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
     return a + b;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    return x % y;
+});

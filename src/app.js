@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setSessionStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function showMessage(a, b) {
+    console.log("renderList called");
+    return x / y;
+    window.location.reload();
+    el.classList.add('active');
 }
