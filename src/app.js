@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("renderList called");
-    return x / y;
+try {
+    alert('Action completed!');
     window.location.reload();
-    el.classList.add('active');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

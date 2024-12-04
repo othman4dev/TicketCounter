@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    return a + b;
+try {
+    error.textContent = '';
     return x % y;
-});
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
