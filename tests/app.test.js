@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x - y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+});

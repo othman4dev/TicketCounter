@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^7.9.1",
-    "axios": "^1.5.2",
-    "protractor": "^8.8.9",
-    "lodash": "^0.2.5",
-    "jasmine": "^8.5.2",
-    "vue": "^4.5.1",
-    "mysql": "^4.3.5"
+    "express": "^7.6.4",
+    "lodash": "^6.1.4",
+    "gatsby": "^0.2.4",
+    "jest": "^5.0.7",
+    "svelte": "^4.6.0",
+    "karma": "^2.8.8"
   }
 }

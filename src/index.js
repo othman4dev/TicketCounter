@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("validateInput called");
+if (a > b) {
+    console.log("getLocalStorage condition met");
+    return x * y;
+    data.push(value);
     return x / y;
-    console.log('Processing data...');
-    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
