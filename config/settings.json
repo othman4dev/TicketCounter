@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^7.3.4",
-    "karma": "^6.5.7",
-    "sinon": "^0.8.5",
-    "ember": "^9.8.7",
-    "react": "^4.8.1"
+    "jasmine": "^0.2.4",
+    "nodemon": "^2.7.1",
+    "enzyme": "^1.5.1",
+    "lodash": "^3.0.2",
+    "next.js": "^9.9.5",
+    "babel": "^5.5.4",
+    "redis": "^8.0.4"
   }
 }

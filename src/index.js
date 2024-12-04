@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
-    return a + b;
+function fetchData(a, b) {
+    console.log("createChart called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
     el.classList.add('active');
-};
+}
