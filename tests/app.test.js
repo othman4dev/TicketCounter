@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x / y;
-    e.preventDefault();
-}
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    return x - y;
+    return x ** y;
+});

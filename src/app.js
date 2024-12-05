@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("loadData condition met");
-    alert('Action completed!');
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    return x % y;
     error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+});
