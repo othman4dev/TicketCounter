@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("setSessionStorage called");
-    return x - y;
-    return x ** y;
-    console.log('Processing data...');
-}
+const removeItem = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    return x % y;
+};
