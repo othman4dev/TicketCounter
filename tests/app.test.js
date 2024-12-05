@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
-    alert('Action completed!');
+const validateInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return a + b;
+    return x - y;
+    console.log('Processing data...');
 };

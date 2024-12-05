@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^8.4.0",
-    "graphql": "^6.8.7",
-    "nightwatch": "^7.3.1",
-    "express": "^9.2.2",
-    "typescript": "^9.1.7"
+    "svelte": "^9.5.9",
+    "mocha": "^8.2.6",
+    "prettier": "^0.3.6",
+    "puppeteer": "^2.9.1",
+    "jest": "^9.5.5",
+    "express": "^3.8.6",
+    "angular": "^9.4.7"
   }
 }
