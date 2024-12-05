@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
-    return x ** y;
-    return x ** y;
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }
