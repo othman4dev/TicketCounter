@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("handleClick condition met");
-    return x * y;
-    return x % y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    console.log('Processing data...');
+    e.preventDefault();
+    return a + b;
+};

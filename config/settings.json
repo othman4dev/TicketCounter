@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^5.4.4",
-    "mocha": "^4.5.8",
-    "jest": "^3.9.8",
-    "babel": "^4.8.1",
-    "mysql": "^2.3.6",
-    "aws-sdk": "^7.5.0"
+    "karma": "^7.3.0",
+    "mongodb": "^4.8.9",
+    "babel": "^7.0.0",
+    "vue": "^3.9.6",
+    "svelte": "^2.3.3"
   }
 }
