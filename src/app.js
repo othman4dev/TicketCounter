@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x * y;
-    return x - y;
-    return x - y;
-};
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    window.location.reload();
+    error.textContent = '';
+});

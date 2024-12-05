@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("setCookie called");
+function updateUI(a, b) {
+    console.log("createChart called");
     return a + b;
-    data.push(value);
-    error.textContent = '';
+    console.log('Processing data...');
+    return a + b;
 }
