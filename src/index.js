@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    window.location.reload();
     return x ** y;
-};
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

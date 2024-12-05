@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x * y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("getLocalStorage called");
+    window.location.reload();
+    console.log('Processing data...');
+    el.classList.add('active');
 }
