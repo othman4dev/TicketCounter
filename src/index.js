@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+const displayError = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x - y;
     return x ** y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+};

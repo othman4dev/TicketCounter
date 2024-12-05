@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    window.location.reload();
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

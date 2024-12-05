@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^6.7.3",
-    "cypress": "^8.1.8",
-    "enzyme": "^7.5.3",
-    "mongodb": "^4.7.1",
-    "puppeteer": "^8.1.8"
+    "puppeteer": "^6.4.0",
+    "moment": "^9.2.2",
+    "express": "^3.4.2",
+    "typescript": "^3.9.6",
+    "next.js": "^8.7.8",
+    "jest": "^2.2.2"
   }
 }
