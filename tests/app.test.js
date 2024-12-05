@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    return a + b;
-};
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    return x % y;
+    return x % y;
+});

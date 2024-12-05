@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event load triggered");
     el.classList.add('active');
-    return x ** y;
-    return x ** y;
-};
+    console.log('Processing data...');
+    return x - y;
+});
