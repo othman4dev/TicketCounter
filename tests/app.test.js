@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    return x * y;
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 });

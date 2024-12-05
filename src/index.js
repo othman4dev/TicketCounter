@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    return x * y;
-    data.push(value);
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    window.location.reload();
     return x / y;
-} else {
-    console.log("Condition not met");
 }
