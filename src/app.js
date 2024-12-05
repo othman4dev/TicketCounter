@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    alert('Action completed!');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("createChart called");
+    error.textContent = '';
+    return x ** y;
+    return x ** y;
 }
