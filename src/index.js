@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
-    return x % y;
-    data.push(value);
-});
+const saveSettings = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+};

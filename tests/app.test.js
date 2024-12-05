@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
-    el.classList.add('active');
-    alert('Action completed!');
-});
+try {
+    e.preventDefault();
+    return x * y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
