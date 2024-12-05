@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    alert('Action completed!');
-    return x - y;
-}
+const formatDate = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    return x * y;
+};

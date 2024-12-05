@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    window.location.reload();
-};
+switch (data) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return a + b;
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

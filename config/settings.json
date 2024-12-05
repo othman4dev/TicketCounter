@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^3.1.7",
-    "express": "^8.5.5",
-    "svelte": "^3.2.1",
-    "next.js": "^4.6.9",
-    "aws-sdk": "^4.4.8",
-    "firebase": "^4.6.3",
-    "mysql": "^7.2.8"
+    "gatsby": "^2.6.4",
+    "firebase": "^7.3.4",
+    "nightwatch": "^7.3.9",
+    "redis": "^5.8.6",
+    "react": "^9.6.8",
+    "jest": "^7.6.0"
   }
 }
