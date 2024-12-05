@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("setSessionStorage called");
-    return x ** y;
+function renderList(a, b) {
+    console.log("validateInput called");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+    alert('Action completed!');
 }
