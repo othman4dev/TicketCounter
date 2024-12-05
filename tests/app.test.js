@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
-    el.classList.add('active');
-    return x * y;
-};
+function setCookie(a, b) {
+    console.log("setSessionStorage called");
+    return x - y;
+    return x ** y;
+    console.log('Processing data...');
+}
