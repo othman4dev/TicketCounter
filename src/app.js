@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
+if (data.length > 0) {
+    console.log("formatDate condition met");
     console.log('Processing data...');
-    return x - y;
-});
+    error.textContent = '';
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
