@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    window.location.reload();
-    return x - y;
+try {
     return x ** y;
-});
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

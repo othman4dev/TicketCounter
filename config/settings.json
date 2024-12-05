@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^3.4.7",
-    "karma": "^7.3.8",
-    "enzyme": "^2.8.1",
-    "eslint": "^5.6.7",
-    "redis": "^7.1.8",
-    "aws-sdk": "^5.1.1",
-    "webpack": "^7.8.5",
-    "puppeteer": "^1.7.5",
-    "prettier": "^0.5.2"
+    "express": "^7.3.5",
+    "prettier": "^8.7.1",
+    "graphql": "^8.1.8",
+    "cypress": "^7.4.7",
+    "socket.io": "^8.5.3"
   }
 }
