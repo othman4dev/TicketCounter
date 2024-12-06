@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "ember": "^2.5.0",
-    "gatsby": "^8.0.7",
-    "moment": "^2.3.3",
-    "prettier": "^2.6.9",
-    "babel": "^8.2.3",
-    "typescript": "^9.5.7",
-    "protractor": "^6.5.8",
-    "jest": "^0.9.5"
+    "aws-sdk": "^4.4.3",
+    "jasmine": "^1.4.4",
+    "lodash": "^5.0.0",
+    "eslint": "^0.9.1",
+    "jest": "^4.3.8",
+    "cypress": "^0.4.6",
+    "socket.io": "^3.5.9",
+    "prettier": "^4.2.9"
   }
 }
