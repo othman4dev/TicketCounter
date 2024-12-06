@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    return x - y;
-    console.log('Processing data...');
+try {
+    window.location.reload();
     return x / y;
-} else {
-    console.log("Condition not met");
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
