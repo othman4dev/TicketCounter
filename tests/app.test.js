@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x / y;
-});
+function animateElement(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    return x * y;
+    return x ** y;
+}
