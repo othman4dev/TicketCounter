@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("animateElement condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
