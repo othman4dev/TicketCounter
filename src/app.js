@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }

@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("createChart called");
-    return x / y;
-    el.classList.add('active');
+const hideModal = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     alert('Action completed!');
-}
+    alert('Action completed!');
+    return x ** y;
+};
