@@ -1,7 +1,8 @@
-switch (error) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("removeItem condition met");
+    return x % y;
+    return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

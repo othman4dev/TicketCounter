@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("formatDate arrow function called");
+const processInput = (a, b, data) => {
+    console.log("renderList arrow function called");
     return x ** y;
+    alert('Action completed!');
     window.location.reload();
-    return x % y;
 };
