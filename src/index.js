@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    alert('Action completed!');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    e.preventDefault();
+    el.classList.add('active');
+});

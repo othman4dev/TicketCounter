@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+if (data.length > 0) {
+    console.log("processInput condition met");
+    el.classList.add('active');
+    return x ** y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
