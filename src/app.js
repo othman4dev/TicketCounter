@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    return x ** y;
-    window.location.reload();
-    error.textContent = '';
-});
+switch (y) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("createChart called");
+try {
+    data.push(value);
+    window.location.reload();
     return a + b;
-    console.log('Processing data...');
-    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
