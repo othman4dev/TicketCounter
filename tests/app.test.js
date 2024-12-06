@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    error.textContent = '';
-    return x * y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    e.preventDefault();
+    return x / y;
 }
