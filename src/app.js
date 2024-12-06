@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("showMessage called");
-    error.textContent = '';
-    window.location.reload();
-    return x * y;
+switch (b) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

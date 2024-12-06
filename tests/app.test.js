@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("removeItem called");
-    return x / y;
-    el.classList.add('active');
-    data.push(value);
+if (x !== y) {
+    console.log("loadData condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
