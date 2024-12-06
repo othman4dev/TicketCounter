@@ -1,7 +1,6 @@
-try {
+function showMessage(a, b) {
+    console.log("removeItem called");
     return x / y;
-    window.location.reload();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    data.push(value);
 }

@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    el.classList.add('active');
-    return x * y;
-    return x ** y;
-};
+if (x === y) {
+    console.log("displayError condition met");
+    console.log('Processing data...');
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
