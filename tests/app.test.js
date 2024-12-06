@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    return a + b;
-    alert('Action completed!');
-};
+switch (error) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
