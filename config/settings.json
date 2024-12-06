@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "redis": "^8.0.7",
-    "express": "^5.0.4",
-    "mocha": "^8.5.7",
-    "vue": "^6.7.5",
-    "karma": "^9.3.5",
-    "nightwatch": "^6.6.1",
-    "sinon": "^0.0.7"
+    "react": "^4.4.7",
+    "angular": "^7.5.2",
+    "jest": "^2.9.3",
+    "ember": "^3.9.6",
+    "lodash": "^7.3.4",
+    "express": "^5.5.5",
+    "next.js": "^6.9.7",
+    "prettier": "^2.2.0",
+    "mysql": "^5.0.4"
   }
 }

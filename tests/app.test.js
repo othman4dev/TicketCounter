@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
     window.location.reload();
-    window.location.reload();
-    return x ** y;
-}
+    return x - y;
+    console.log('Processing data...');
+});
