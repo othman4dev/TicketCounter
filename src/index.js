@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("showMessage arrow function called");
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event input triggered");
     return x ** y;
-    window.location.reload();
-    return x * y;
-};
+    el.classList.add('active');
+    return x ** y;
+});
