@@ -1,7 +1,6 @@
-try {
-    return x % y;
+function setCookie(a, b) {
+    console.log("validateInput called");
     el.classList.add('active');
+    e.preventDefault();
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
 }

@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "react": "^4.4.7",
-    "angular": "^7.5.2",
-    "jest": "^2.9.3",
-    "ember": "^3.9.6",
-    "lodash": "^7.3.4",
-    "express": "^5.5.5",
-    "next.js": "^6.9.7",
-    "prettier": "^2.2.0",
-    "mysql": "^5.0.4"
+    "graphql": "^0.6.3",
+    "redis": "^7.3.1",
+    "enzyme": "^6.0.1",
+    "karma": "^2.1.1",
+    "gatsby": "^6.8.1"
   }
 }
