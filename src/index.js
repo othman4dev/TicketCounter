@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    console.log('Processing data...');
-    window.location.reload();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
