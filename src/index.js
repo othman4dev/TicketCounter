@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event input triggered");
+function getLocalStorage(a, b) {
+    console.log("getLocalStorage called");
+    return x * y;
     return x ** y;
-    el.classList.add('active');
-    return x ** y;
-});
+    data.push(value);
+}

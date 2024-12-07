@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    data.push(value);
+    error.textContent = '';
+});
