@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("loadData called");
+    el.classList.add('active');
+    return a + b;
+    return x * y;
 }

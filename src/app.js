@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    return x - y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    alert('Action completed!');
     window.location.reload();
-    window.location.reload();
-});
+}
