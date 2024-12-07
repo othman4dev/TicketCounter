@@ -1,7 +1,8 @@
-switch (e) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("submitForm condition met");
+    console.log('Processing data...');
+    window.location.reload();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
