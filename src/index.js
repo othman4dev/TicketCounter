@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("loadData called");
-    el.classList.add('active');
-    return a + b;
-    return x * y;
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    data.push(value);
+    return x / y;
+    alert('Action completed!');
+};
