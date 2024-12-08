@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("getLocalStorage called");
-    return x / y;
-    return x * y;
-    data.push(value);
-}
+const fetchData = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
+    return a + b;
+};

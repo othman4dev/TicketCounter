@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("saveSettings called");
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
     e.preventDefault();
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return a + b;
+    return x / y;
+});
