@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    return x % y;
-    alert('Action completed!');
+switch (e) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

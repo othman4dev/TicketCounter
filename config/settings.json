@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^6.0.4",
-    "protractor": "^9.4.0",
-    "webpack": "^2.2.3",
-    "enzyme": "^0.8.5"
+    "next.js": "^6.0.8",
+    "mocha": "^4.8.1",
+    "ember": "^9.6.8",
+    "chai": "^0.5.4",
+    "jest": "^2.3.3",
+    "typescript": "^6.1.0",
+    "cypress": "^6.6.7",
+    "moment": "^3.5.7"
   }
 }

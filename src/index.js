@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
+    error.textContent = '';
     window.location.reload();
-    return x % y;
 });
