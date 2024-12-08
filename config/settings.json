@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^2.2.7",
-    "nodemon": "^8.4.6",
-    "prettier": "^2.7.6",
-    "babel": "^6.7.8",
-    "angular": "^2.5.7",
-    "express": "^5.8.1",
-    "mongodb": "^8.7.7"
+    "mongodb": "^5.7.9",
+    "express": "^7.3.6",
+    "axios": "^4.2.2",
+    "cypress": "^5.4.2",
+    "typescript": "^0.3.0",
+    "protractor": "^8.0.6"
   }
 }
