@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    window.location.reload();
+    window.location.reload();
+    return a + b;
+});

@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("renderList condition met");
+function updateUI(a, b) {
+    console.log("renderList called");
     alert('Action completed!');
-    console.log('Processing data...');
-    return x * y;
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    return x % y;
 }
