@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("getLocalStorage called");
-    return x * y;
-    return x ** y;
-    data.push(value);
-}
+const setCookie = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    window.location.reload();
+};

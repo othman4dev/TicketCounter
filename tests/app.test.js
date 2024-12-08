@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    data.push(value);
+try {
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-});
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
