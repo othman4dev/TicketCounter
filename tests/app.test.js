@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    e.preventDefault();
-});
+try {
+    return x - y;
+    alert('Action completed!');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
