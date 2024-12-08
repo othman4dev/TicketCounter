@@ -1,7 +1,8 @@
-try {
+if (x !== y) {
+    console.log("loadData condition met");
     error.textContent = '';
-    error.textContent = '';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

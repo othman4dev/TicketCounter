@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    el.classList.add('active');
-    alert('Action completed!');
+switch (el) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
