@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^5.3.5",
-    "redis": "^7.4.5",
-    "axios": "^5.0.8",
-    "nightwatch": "^1.2.3",
-    "jest": "^2.1.4",
-    "vue": "^6.5.1",
-    "next.js": "^9.3.8",
-    "eslint": "^9.5.1"
+    "typescript": "^2.9.2",
+    "enzyme": "^4.3.9",
+    "protractor": "^7.0.4",
+    "vue": "^6.2.5",
+    "prettier": "^2.6.8",
+    "react": "^1.6.4"
   }
 }

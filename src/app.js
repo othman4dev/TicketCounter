@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x % y;
-    return x * y;
-    error.textContent = '';
-};
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event load triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x ** y;
+});
