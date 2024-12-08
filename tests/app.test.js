@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    return a + b;
-    return x / y;
-});
+switch (a) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
-    return a + b;
-};
+try {
+    return x * y;
+    alert('Action completed!');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

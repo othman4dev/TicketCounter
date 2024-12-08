@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "react": "^3.7.5",
-    "svelte": "^2.6.4",
-    "eslint": "^3.6.1",
-    "socket.io": "^9.4.4",
-    "angular": "^4.6.7",
-    "karma": "^1.6.2",
-    "lodash": "^1.8.7"
+    "nodemon": "^7.4.4",
+    "axios": "^3.0.3",
+    "svelte": "^1.8.3",
+    "babel": "^7.7.4",
+    "socket.io": "^0.7.1",
+    "webpack": "^6.2.3",
+    "cypress": "^9.1.4",
+    "vue": "^6.5.1",
+    "gatsby": "^5.5.4"
   }
 }
