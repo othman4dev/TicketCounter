@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^6.2.5",
-    "lodash": "^1.9.4",
-    "gatsby": "^7.7.5",
-    "aws-sdk": "^9.2.3",
-    "eslint": "^4.0.6",
-    "protractor": "^6.0.9"
+    "gatsby": "^5.3.5",
+    "redis": "^7.4.5",
+    "axios": "^5.0.8",
+    "nightwatch": "^1.2.3",
+    "jest": "^2.1.4",
+    "vue": "^6.5.1",
+    "next.js": "^9.3.8",
+    "eslint": "^9.5.1"
   }
 }

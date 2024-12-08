@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    window.location.reload();
-};
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x ** y;
+    return x / y;
+}
