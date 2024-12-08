@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x % y;
-    return x / y;
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-};
+});
