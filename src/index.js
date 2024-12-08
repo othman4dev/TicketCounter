@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
     alert('Action completed!');
-    return x % y;
-    return x % y;
-});
+    e.preventDefault();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
