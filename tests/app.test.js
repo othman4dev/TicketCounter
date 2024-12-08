@@ -1,8 +1,8 @@
-if (a > b) {
+if (window.innerWidth > 500) {
     console.log("handleClick condition met");
-    return x * y;
-    console.log('Processing data...');
-    return x / y;
+    return a + b;
+    el.classList.add('active');
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

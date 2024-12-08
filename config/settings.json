@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^5.7.9",
-    "express": "^7.3.6",
-    "axios": "^4.2.2",
-    "cypress": "^5.4.2",
-    "typescript": "^0.3.0",
-    "protractor": "^8.0.6"
+    "babel": "^2.6.8",
+    "react": "^4.3.2",
+    "moment": "^3.8.7",
+    "cypress": "^8.9.7",
+    "redis": "^1.4.1",
+    "aws-sdk": "^5.9.7"
   }
 }
