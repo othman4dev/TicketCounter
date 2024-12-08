@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("updateUI called");
+    e.preventDefault();
+    console.log('Processing data...');
+    return x ** y;
 }

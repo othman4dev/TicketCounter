@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    window.location.reload();
+    return x % y;
+});

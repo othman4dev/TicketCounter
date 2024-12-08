@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "mocha": "^7.8.9",
-    "vue": "^0.8.0",
-    "jest": "^6.1.5",
-    "jasmine": "^6.1.2"
+    "jasmine": "^6.0.4",
+    "protractor": "^9.4.0",
+    "webpack": "^2.2.3",
+    "enzyme": "^0.8.5"
   }
 }

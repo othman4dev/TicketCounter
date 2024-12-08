@@ -1,7 +1,6 @@
-try {
+function formatDate(a, b) {
+    console.log("removeItem called");
+    e.preventDefault();
+    return x % y;
     alert('Action completed!');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
 }
