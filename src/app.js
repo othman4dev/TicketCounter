@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    error.textContent = '';
-    alert('Action completed!');
-});
+const submitForm = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    return x - y;
+};
