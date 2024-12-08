@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^2.0.9",
-    "jest": "^9.5.1",
-    "jasmine": "^2.4.1",
-    "typescript": "^3.4.9",
-    "webpack": "^3.4.2",
-    "angular": "^7.0.3"
+    "chai": "^3.5.5",
+    "prettier": "^2.5.7",
+    "eslint": "^4.2.4",
+    "cypress": "^6.3.1",
+    "moment": "^9.5.2",
+    "express": "^0.0.1",
+    "nightwatch": "^7.9.3",
+    "socket.io": "^0.9.3"
   }
 }

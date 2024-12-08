@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    return x - y;
+    return x / y;
+});

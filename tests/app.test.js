@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x * y;
-    return x - y;
-    return x / y;
-};
+function updateUI(a, b) {
+    console.log("saveSettings called");
+    e.preventDefault();
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+}
