@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("renderList condition met");
+const showMessage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     alert('Action completed!');
-    return x / y;
+    data.push(value);
     return a + b;
-} else {
-    console.log("Condition not met");
-}
+};

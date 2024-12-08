@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("fetchData called");
+    return x * y;
+    data.push(value);
+    console.log('Processing data...');
 }

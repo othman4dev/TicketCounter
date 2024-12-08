@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    return x ** y;
-    error.textContent = '';
-    window.location.reload();
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    alert('Action completed!');
+    return x % y;
+    return x % y;
 });
