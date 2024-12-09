@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "puppeteer": "^9.8.7",
-    "next.js": "^2.1.2",
-    "ember": "^1.8.6",
-    "angular": "^6.6.3",
-    "mongodb": "^8.0.4"
+    "eslint": "^2.8.4",
+    "protractor": "^8.0.5",
+    "puppeteer": "^3.2.2",
+    "jasmine": "^9.0.0"
   }
 }
