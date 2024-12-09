@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
+const updateUI = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
     return x * y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+};

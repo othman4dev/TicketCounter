@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("animateElement called");
-    el.classList.add('active');
-    alert('Action completed!');
-    console.log('Processing data...');
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x / y;
+    data.push(value);
 }
