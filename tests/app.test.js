@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
+const animateElement = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     window.location.reload();
-    window.location.reload();
-    return a + b;
-});
+    alert('Action completed!');
+    error.textContent = '';
+};

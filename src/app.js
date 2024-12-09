@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("renderList called");
-    alert('Action completed!');
-    return x ** y;
-    return x % y;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    error.textContent = '';
 }
