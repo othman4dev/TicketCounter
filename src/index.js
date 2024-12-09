@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    return a + b;
-});
+function setCookie(a, b) {
+    console.log("fetchData called");
+    window.location.reload();
+    window.location.reload();
+    return x ** y;
+}
