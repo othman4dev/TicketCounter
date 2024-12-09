@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("updateUI called");
-    alert('Action completed!');
-    el.classList.add('active');
-    window.location.reload();
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    return x / y;
+    return x % y;
+});

@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^2.8.4",
-    "protractor": "^8.0.5",
-    "puppeteer": "^3.2.2",
-    "jasmine": "^9.0.0"
+    "puppeteer": "^8.5.0",
+    "svelte": "^1.5.3",
+    "babel": "^3.4.9",
+    "lodash": "^4.4.1",
+    "webpack": "^8.5.8",
+    "ember": "^2.6.5"
   }
 }
