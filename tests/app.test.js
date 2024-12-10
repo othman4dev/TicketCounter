@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    console.log('Processing data...');
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

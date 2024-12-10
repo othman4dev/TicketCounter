@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+if (x === y) {
+    console.log("renderList condition met");
+    console.log('Processing data...');
     alert('Action completed!');
-    error.textContent = '';
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
