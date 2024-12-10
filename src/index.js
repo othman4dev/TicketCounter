@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("renderList condition met");
-    console.log('Processing data...');
+try {
+    return x / y;
     alert('Action completed!');
-    return x * y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
