@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x - y;
-    window.location.reload();
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
     el.classList.add('active');
-};
+    alert('Action completed!');
+    data.push(value);
+});
