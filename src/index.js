@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("fetchData called");
+const fetchData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x - y;
     window.location.reload();
-    window.location.reload();
-    return x ** y;
-}
+    el.classList.add('active');
+};
