@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
+function setCookie(a, b) {
+    console.log("removeItem called");
     return x - y;
-    data.push(value);
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    return x / y;
+    console.log('Processing data...');
 }
