@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    window.location.reload();
+if (x === y) {
+    console.log("hideModal condition met");
+    return x - y;
     data.push(value);
-    return x / y;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
