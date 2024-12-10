@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    el.classList.add('active');
-};
+if (value !== '') {
+    console.log("fetchData condition met");
+    window.location.reload();
+    data.push(value);
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

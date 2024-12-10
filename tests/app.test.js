@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    data.push(value);
-    return x - y;
-});
+const getLocalStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    error.textContent = '';
+};
