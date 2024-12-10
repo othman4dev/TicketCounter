@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x % y;
-};
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    data.push(value);
+    return x - y;
+});

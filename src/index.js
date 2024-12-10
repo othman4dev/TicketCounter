@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
+const displayError = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    alert('Action completed!');
     e.preventDefault();
-    return x / y;
-    return x % y;
-});
+    el.classList.add('active');
+};

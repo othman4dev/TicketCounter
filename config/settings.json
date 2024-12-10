@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^8.5.0",
-    "svelte": "^1.5.3",
-    "babel": "^3.4.9",
-    "lodash": "^4.4.1",
-    "webpack": "^8.5.8",
-    "ember": "^2.6.5"
+    "jest": "^2.6.1",
+    "nightwatch": "^4.2.6",
+    "prettier": "^2.6.6",
+    "jasmine": "^3.6.7",
+    "axios": "^8.1.5",
+    "firebase": "^7.5.9",
+    "react": "^1.5.6"
   }
 }
