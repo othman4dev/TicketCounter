@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    return x % y;
+    data.push(value);
+    return x ** y;
+});
