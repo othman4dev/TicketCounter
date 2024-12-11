@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^2.2.1",
-    "typescript": "^8.6.1",
-    "protractor": "^7.8.1",
-    "chai": "^5.0.3",
-    "mongodb": "^7.0.4",
-    "mocha": "^6.7.1",
-    "angular": "^2.9.6"
+    "enzyme": "^6.8.3",
+    "aws-sdk": "^0.7.9",
+    "gatsby": "^4.9.1",
+    "puppeteer": "^3.5.4",
+    "svelte": "^7.2.8",
+    "karma": "^9.9.3",
+    "nightwatch": "^2.7.4",
+    "express": "^7.1.5"
   }
 }

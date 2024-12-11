@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    error.textContent = '';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    e.preventDefault();
+});

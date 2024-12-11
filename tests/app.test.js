@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x % y;
-    alert('Action completed!');
+function removeItem(a, b) {
+    console.log("fetchData called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    window.location.reload();
 }
