@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("fetchData called");
-    document.body.style.backgroundColor = 'lightblue';
+function setCookie(a, b) {
+    console.log("updateUI called");
     window.location.reload();
+    e.preventDefault();
     window.location.reload();
 }

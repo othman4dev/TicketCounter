@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^6.8.3",
-    "aws-sdk": "^0.7.9",
-    "gatsby": "^4.9.1",
-    "puppeteer": "^3.5.4",
-    "svelte": "^7.2.8",
-    "karma": "^9.9.3",
-    "nightwatch": "^2.7.4",
-    "express": "^7.1.5"
+    "svelte": "^6.4.7",
+    "chai": "^2.9.6",
+    "gatsby": "^4.0.4",
+    "mocha": "^4.4.1",
+    "socket.io": "^3.9.2",
+    "react": "^5.8.2",
+    "sinon": "^8.5.1",
+    "jest": "^5.4.6",
+    "typescript": "^1.5.6"
   }
 }

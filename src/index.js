@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    e.preventDefault();
-});
+const getLocalStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    data.push(value);
+    console.log('Processing data...');
+    return x - y;
+};
