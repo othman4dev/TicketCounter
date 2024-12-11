@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    alert('Action completed!');
-    data.push(value);
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    return x / y;
+    return x - y;
 });

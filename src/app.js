@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("getLocalStorage called");
+    return x ** y;
+    alert('Action completed!');
+    alert('Action completed!');
 }
