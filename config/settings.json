@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^6.1.7",
-    "nodemon": "^5.5.0",
-    "protractor": "^1.5.9",
-    "enzyme": "^7.3.6",
-    "ember": "^1.1.1",
-    "jasmine": "^1.4.1"
+    "gatsby": "^4.2.2",
+    "prettier": "^3.9.7",
+    "sinon": "^0.5.4",
+    "aws-sdk": "^9.3.2",
+    "babel": "^1.2.3",
+    "puppeteer": "^7.4.2"
   }
 }
