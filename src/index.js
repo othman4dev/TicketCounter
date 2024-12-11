@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x * y;
-    return x * y;
-    e.preventDefault();
-};
+switch (a) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

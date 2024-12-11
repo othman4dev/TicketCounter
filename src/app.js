@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("animateElement called");
-    console.log('Processing data...');
-    return x ** y;
-    return x ** y;
+switch (a) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

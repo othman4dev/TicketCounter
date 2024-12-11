@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
+function saveSettings(a, b) {
+    console.log("handleClick called");
+    return x * y;
     return x - y;
-    return x % y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }
