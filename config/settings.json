@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^4.1.5",
-    "babel": "^8.7.5",
-    "prettier": "^5.0.0",
-    "webpack": "^5.4.6",
-    "mongodb": "^4.4.5",
-    "protractor": "^2.2.4",
-    "nodemon": "^1.2.3"
+    "sinon": "^2.2.1",
+    "typescript": "^8.6.1",
+    "protractor": "^7.8.1",
+    "chai": "^5.0.3",
+    "mongodb": "^7.0.4",
+    "mocha": "^6.7.1",
+    "angular": "^2.9.6"
   }
 }
