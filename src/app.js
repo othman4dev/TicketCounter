@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    return x ** y;
     alert('Action completed!');
-    return x - y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
