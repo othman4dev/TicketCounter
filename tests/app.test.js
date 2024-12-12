@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("handleClick called");
-    return x * y;
-    return x - y;
+const processInput = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x % y;
+    return x ** y;
     console.log('Processing data...');
-}
+};
