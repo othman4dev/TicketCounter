@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("displayError called");
-    e.preventDefault();
-    return x - y;
-    return x - y;
-}
+const saveSettings = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    error.textContent = '';
+    return x % y;
+};
