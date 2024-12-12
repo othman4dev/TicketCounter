@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return a + b;
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
     data.push(value);
-    return x % y;
-};
+    console.log('Processing data...');
+});
