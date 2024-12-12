@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
-    return x ** y;
+function formatDate(a, b) {
+    console.log("setSessionStorage called");
+    return a + b;
+    return x - y;
     return x % y;
 }

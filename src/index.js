@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("displayError called");
-    return x * y;
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event resize triggered");
     data.push(value);
-    e.preventDefault();
-}
+    alert('Action completed!');
+    return x % y;
+});

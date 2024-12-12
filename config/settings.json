@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "moment": "^9.3.3",
-    "redis": "^6.5.9",
-    "axios": "^6.7.4",
-    "graphql": "^8.9.9",
-    "ember": "^2.1.7"
+    "chai": "^1.6.4",
+    "mocha": "^7.3.5",
+    "cypress": "^4.7.9",
+    "jest": "^5.9.6"
   }
 }
