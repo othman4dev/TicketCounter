@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x / y;
-    error.textContent = '';
-    return x % y;
+const getLocalStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    return a + b;
 };
