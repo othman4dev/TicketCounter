@@ -1,7 +1,8 @@
-switch (e) {
-    case 3:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    window.location.reload();
+    e.preventDefault();
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
