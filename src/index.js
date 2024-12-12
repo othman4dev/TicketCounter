@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("checkStatus called");
-    return x * y;
-    el.classList.add('active');
-    alert('Action completed!');
+function showMessage(a, b) {
+    console.log("displayError called");
+    e.preventDefault();
+    return x - y;
+    return x - y;
 }

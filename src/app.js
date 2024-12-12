@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event mouseover triggered");
+    console.log('Processing data...');
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+    console.log('Processing data...');
+});
