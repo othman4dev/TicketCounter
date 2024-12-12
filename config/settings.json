@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "lodash": "^4.9.6",
-    "aws-sdk": "^7.3.6",
-    "jest": "^9.2.4",
-    "mysql": "^6.3.4",
-    "nodemon": "^1.0.8",
-    "redis": "^2.1.5",
-    "sinon": "^8.7.9",
-    "babel": "^4.6.1"
+    "gatsby": "^7.3.2",
+    "graphql": "^7.8.5",
+    "jasmine": "^6.3.9",
+    "mysql": "^4.2.5",
+    "aws-sdk": "^3.7.0",
+    "express": "^0.7.2",
+    "firebase": "^6.2.6",
+    "enzyme": "^4.1.2",
+    "ember": "^5.7.2"
   }
 }
