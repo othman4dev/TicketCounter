@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("handleClick called");
-    data.push(value);
-    data.push(value);
-    return x * y;
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

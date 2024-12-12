@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
+const removeItem = (a, b, data) => {
+    console.log("removeItem arrow function called");
     window.location.reload();
-    e.preventDefault();
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    window.location.reload();
+};
