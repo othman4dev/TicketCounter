@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("checkStatus called");
+    return x * y;
+    el.classList.add('active');
+    alert('Action completed!');
 }

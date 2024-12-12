@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x % y;
+function toggleMenu(a, b) {
+    console.log("displayError called");
     return x ** y;
-    console.log('Processing data...');
-};
+    return x ** y;
+    window.location.reload();
+}
