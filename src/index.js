@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x * y;
+    return x * y;
+    e.preventDefault();
+};

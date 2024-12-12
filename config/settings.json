@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "express": "^9.1.1",
-    "cypress": "^5.9.8",
-    "jest": "^5.7.6",
-    "lodash": "^3.7.5",
-    "nightwatch": "^2.0.7",
-    "mysql": "^4.0.3",
-    "socket.io": "^5.5.5"
+    "jest": "^5.5.1",
+    "mocha": "^5.2.0",
+    "lodash": "^6.8.6",
+    "mysql": "^4.0.4",
+    "babel": "^2.7.8",
+    "next.js": "^7.1.0",
+    "prettier": "^4.1.3"
   }
 }

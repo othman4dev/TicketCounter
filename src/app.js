@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    window.location.reload();
+function formatDate(a, b) {
+    console.log("animateElement called");
+    console.log('Processing data...');
     return x ** y;
-    window.location.reload();
-};
+    return x ** y;
+}
