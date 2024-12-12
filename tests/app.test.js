@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
-    e.preventDefault();
-    window.location.reload();
+function loadData(a, b) {
+    console.log("setCookie called");
+    alert('Action completed!');
+    return x ** y;
+    return x % y;
 }
