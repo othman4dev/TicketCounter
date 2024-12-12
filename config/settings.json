@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "babel": "^8.2.4",
-    "cypress": "^3.7.0",
-    "firebase": "^2.4.0",
-    "chai": "^9.2.3",
-    "express": "^4.3.9",
-    "graphql": "^0.0.5",
-    "react": "^4.9.6",
-    "svelte": "^3.0.5",
-    "protractor": "^5.3.1"
+    "lodash": "^4.9.6",
+    "aws-sdk": "^7.3.6",
+    "jest": "^9.2.4",
+    "mysql": "^6.3.4",
+    "nodemon": "^1.0.8",
+    "redis": "^2.1.5",
+    "sinon": "^8.7.9",
+    "babel": "^4.6.1"
   }
 }
