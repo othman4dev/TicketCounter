@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    data.push(value);
-    alert('Action completed!');
-    return x % y;
-});
+function createChart(a, b) {
+    console.log("submitForm called");
+    return x ** y;
+    return x * y;
+    return a + b;
+}

@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("setSessionStorage called");
-    return a + b;
-    return x - y;
-    return x % y;
+switch (b) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
