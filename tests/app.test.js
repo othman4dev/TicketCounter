@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x * y;
-    error.textContent = '';
-    el.classList.add('active');
-};
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
+    return x % y;
+    data.push(value);
+});

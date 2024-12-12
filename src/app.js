@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("formatDate called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    window.location.reload();
+switch (a) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
