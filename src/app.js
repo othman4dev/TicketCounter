@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
+try {
+    return a + b;
+    return x / y;
     console.log('Processing data...');
-    return x % y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

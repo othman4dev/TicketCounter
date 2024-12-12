@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
+function animateElement(a, b) {
+    console.log("animateElement called");
     data.push(value);
-    data.push(value);
-    return x - y;
-};
+    return x % y;
+    console.log('Processing data...');
+}
