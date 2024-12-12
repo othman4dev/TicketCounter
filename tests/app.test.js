@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("renderList condition met");
+const toggleMenu = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return a + b;
     data.push(value);
-    return x - y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+};

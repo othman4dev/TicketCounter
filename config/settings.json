@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^4.8.3",
-    "vue": "^4.5.9",
-    "mysql": "^7.6.8",
-    "mocha": "^1.6.5",
-    "eslint": "^9.9.8"
+    "aws-sdk": "^4.2.1",
+    "axios": "^2.4.8",
+    "next.js": "^3.8.2",
+    "babel": "^0.6.1",
+    "typescript": "^4.1.8"
   }
 }
