@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^1.7.9",
-    "mysql": "^5.8.7",
-    "axios": "^2.4.3",
-    "graphql": "^7.6.9",
-    "karma": "^5.3.8",
-    "react": "^0.5.9",
-    "nightwatch": "^6.7.4"
+    "gatsby": "^4.8.3",
+    "vue": "^4.5.9",
+    "mysql": "^7.6.8",
+    "mocha": "^1.6.5",
+    "eslint": "^9.9.8"
   }
 }
