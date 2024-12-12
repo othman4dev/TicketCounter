@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("submitForm called");
-    return x ** y;
-    return x * y;
-    return a + b;
-}
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    console.log('Processing data...');
+    return x / y;
+    alert('Action completed!');
+});

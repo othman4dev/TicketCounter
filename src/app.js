@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("updateUI called");
-    return x * y;
-    console.log('Processing data...');
-    return x * y;
+function saveSettings(a, b) {
+    console.log("formatDate called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    window.location.reload();
 }
