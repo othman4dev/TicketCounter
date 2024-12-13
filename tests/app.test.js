@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("renderList arrow function called");
-    data.push(value);
-    el.classList.add('active');
+const updateUI = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x % y;
+    return x * y;
     window.location.reload();
 };
