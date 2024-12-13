@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x ** y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const formatDate = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
+    el.classList.add('active');
+    window.location.reload();
+};

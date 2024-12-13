@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    el.classList.add('active');
-    e.preventDefault();
-    return a + b;
-};
+function validateInput(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    return x % y;
+    return x ** y;
+}
