@@ -1,7 +1,8 @@
-switch (x) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    error.textContent = '';
+    window.location.reload();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

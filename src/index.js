@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("showMessage called");
-    return x / y;
-    return a + b;
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event submit triggered");
+    return x % y;
     alert('Action completed!');
-}
+    alert('Action completed!');
+});
