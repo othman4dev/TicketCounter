@@ -1,7 +1,8 @@
-try {
-    return x - y;
-    return x % y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("setCookie condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

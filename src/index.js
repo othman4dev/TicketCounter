@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-};
+try {
+    window.location.reload();
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

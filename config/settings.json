@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^5.4.4",
-    "moment": "^7.2.2",
-    "sinon": "^2.2.7",
-    "firebase": "^1.2.6",
-    "protractor": "^1.1.5"
+    "vue": "^3.8.8",
+    "lodash": "^9.1.0",
+    "jest": "^2.2.1",
+    "puppeteer": "^4.8.6",
+    "moment": "^2.5.4"
   }
 }
