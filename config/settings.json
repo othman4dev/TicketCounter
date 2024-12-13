@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "svelte": "^2.2.6",
-    "eslint": "^8.6.0",
-    "puppeteer": "^1.1.4",
-    "graphql": "^6.7.2",
-    "lodash": "^7.2.6",
-    "ember": "^2.3.1",
-    "vue": "^7.7.1",
-    "socket.io": "^7.4.1",
-    "aws-sdk": "^4.9.1"
+    "react": "^8.4.0",
+    "jasmine": "^2.0.7",
+    "moment": "^4.2.6",
+    "jest": "^3.2.7",
+    "cypress": "^6.1.5",
+    "nodemon": "^0.8.0",
+    "graphql": "^8.0.9",
+    "redis": "^3.7.3",
+    "aws-sdk": "^1.6.3"
   }
 }

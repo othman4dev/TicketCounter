@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
-    e.preventDefault();
-    alert('Action completed!');
-});
+const displayError = (a, b, data) => {
+    console.log("displayError arrow function called");
+    el.classList.add('active');
+    return x ** y;
+    data.push(value);
+};
