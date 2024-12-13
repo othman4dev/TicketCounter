@@ -1,7 +1,7 @@
 try {
-    return x - y;
-    el.classList.add('active');
-    return a + b;
+    return x * y;
+    console.log('Processing data...');
+    alert('Action completed!');
 } catch (error) {
     console.error("Error:", error);
 }

@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^9.9.1",
-    "enzyme": "^6.2.9",
-    "next.js": "^8.8.3",
-    "sinon": "^6.2.1",
-    "ember": "^5.0.3"
+    "jest": "^0.3.3",
+    "vue": "^7.6.3",
+    "eslint": "^3.0.2",
+    "firebase": "^8.2.4",
+    "graphql": "^2.0.0",
+    "express": "^0.6.6",
+    "prettier": "^2.4.7"
   }
 }

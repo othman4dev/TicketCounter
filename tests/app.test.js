@@ -1,8 +1,8 @@
 if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    return x ** y;
-    el.classList.add('active');
-    return x ** y;
+    console.log("saveSettings condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
