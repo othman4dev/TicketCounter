@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("hideModal called");
-    console.log('Processing data...');
-    e.preventDefault();
-    el.classList.add('active');
+function createChart(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    return x * y;
+    return x / y;
 }

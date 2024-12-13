@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+try {
+    return x % y;
     e.preventDefault();
-});
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

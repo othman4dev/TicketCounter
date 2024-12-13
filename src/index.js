@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+if (x === y) {
+    console.log("loadData condition met");
     alert('Action completed!');
-    error.textContent = '';
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-};
+} else {
+    console.log("Condition not met");
+}
