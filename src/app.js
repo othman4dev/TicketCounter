@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
     return x / y;
-    el.classList.add('active');
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return x - y;
+});
