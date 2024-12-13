@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    return x - y;
+    window.location.reload();
+    alert('Action completed!');
+});
