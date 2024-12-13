@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+const createChart = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     return x / y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+};
