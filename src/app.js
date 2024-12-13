@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("submitForm called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event click triggered");
     e.preventDefault();
-}
+    e.preventDefault();
+    alert('Action completed!');
+});

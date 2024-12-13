@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "prettier": "^5.7.0",
-    "react": "^4.0.2",
-    "puppeteer": "^8.9.6",
-    "mongodb": "^3.0.1",
-    "cypress": "^8.3.3"
+    "svelte": "^2.2.6",
+    "eslint": "^8.6.0",
+    "puppeteer": "^1.1.4",
+    "graphql": "^6.7.2",
+    "lodash": "^7.2.6",
+    "ember": "^2.3.1",
+    "vue": "^7.7.1",
+    "socket.io": "^7.4.1",
+    "aws-sdk": "^4.9.1"
   }
 }
