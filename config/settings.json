@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^8.8.2",
-    "aws-sdk": "^6.0.4",
-    "puppeteer": "^1.7.9",
-    "cypress": "^1.9.3",
-    "graphql": "^2.2.1"
+    "lodash": "^0.7.6",
+    "ember": "^3.1.6",
+    "jasmine": "^6.2.3",
+    "cypress": "^1.8.7",
+    "jest": "^5.4.2"
   }
 }
