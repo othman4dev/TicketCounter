@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
     return x / y;
-    return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+});

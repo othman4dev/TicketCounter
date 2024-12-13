@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^6.0.4",
-    "babel": "^1.6.3",
-    "prettier": "^5.4.1",
-    "nightwatch": "^2.8.7",
-    "socket.io": "^8.7.6",
-    "lodash": "^7.2.5",
-    "mocha": "^5.0.0"
+    "nightwatch": "^8.8.2",
+    "aws-sdk": "^6.0.4",
+    "puppeteer": "^1.7.9",
+    "cypress": "^1.9.3",
+    "graphql": "^2.2.1"
   }
 }

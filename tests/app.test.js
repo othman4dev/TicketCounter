@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x % y;
+try {
     return x * y;
-    window.location.reload();
-};
+    e.preventDefault();
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
