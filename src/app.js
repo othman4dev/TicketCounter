@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("displayError arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    data.push(value);
-};
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    e.preventDefault();
+});

@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "react": "^8.4.0",
-    "jasmine": "^2.0.7",
-    "moment": "^4.2.6",
-    "jest": "^3.2.7",
-    "cypress": "^6.1.5",
-    "nodemon": "^0.8.0",
-    "graphql": "^8.0.9",
-    "redis": "^3.7.3",
-    "aws-sdk": "^1.6.3"
+    "svelte": "^6.3.7",
+    "jest": "^3.0.8",
+    "redis": "^0.3.0",
+    "sinon": "^6.4.8",
+    "webpack": "^6.7.7"
   }
 }

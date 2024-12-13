@@ -1,6 +1,6 @@
 const setSessionStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    data.push(value);
+    console.log("saveSettings arrow function called");
     alert('Action completed!');
-    alert('Action completed!');
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 };
