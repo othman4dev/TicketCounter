@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("animateElement called");
-    data.push(value);
-    return x % y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
 }
