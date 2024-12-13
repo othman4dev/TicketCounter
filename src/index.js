@@ -1,7 +1,6 @@
-try {
+function fetchData(a, b) {
+    console.log("hideModal called");
     window.location.reload();
-    window.location.reload();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    console.log('Processing data...');
 }

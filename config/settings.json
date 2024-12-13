@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "vue": "^3.8.8",
-    "lodash": "^9.1.0",
-    "jest": "^2.2.1",
-    "puppeteer": "^4.8.6",
-    "moment": "^2.5.4"
+    "lodash": "^1.7.8",
+    "mysql": "^3.8.2",
+    "redis": "^5.5.7",
+    "nodemon": "^6.8.2",
+    "axios": "^6.9.2"
   }
 }
