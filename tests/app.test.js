@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("handleClick called");
-    return x % y;
-    alert('Action completed!');
-    return x ** y;
+try {
+    return x / y;
+    console.log('Processing data...');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

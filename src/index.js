@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    console.log('Processing data...');
-    e.preventDefault();
+function renderList(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }
