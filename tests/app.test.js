@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("animateElement called");
-    return x / y;
-    console.log('Processing data...');
-    alert('Action completed!');
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    return x ** y;
+    el.classList.add('active');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

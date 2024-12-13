@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("setSessionStorage condition met");
-    alert('Action completed!');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    el.classList.add('active');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

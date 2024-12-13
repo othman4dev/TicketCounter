@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    return x / y;
-    console.log('Processing data...');
+try {
+    alert('Action completed!');
     return x - y;
-});
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
