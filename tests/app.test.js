@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    error.textContent = '';
-    data.push(value);
-});
+switch (error) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

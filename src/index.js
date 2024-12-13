@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    error.textContent = '';
-    error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
