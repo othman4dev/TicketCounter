@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    error.textContent = '';
-    window.location.reload();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
