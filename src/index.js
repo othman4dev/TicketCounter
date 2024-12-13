@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    return x % y;
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    error.textContent = '';
+    error.textContent = '';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
