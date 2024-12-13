@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
     error.textContent = '';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    return x % y;
+};

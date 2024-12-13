@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("handleClick called");
+    return x % y;
+    alert('Action completed!');
+    return x ** y;
 }
