@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^9.5.7",
-    "mongodb": "^9.3.0",
-    "axios": "^3.6.0",
-    "firebase": "^4.2.3",
-    "protractor": "^0.9.4",
-    "enzyme": "^6.7.6",
-    "mocha": "^7.5.8"
+    "next.js": "^8.2.5",
+    "firebase": "^7.3.3",
+    "moment": "^0.7.6",
+    "axios": "^0.5.6",
+    "enzyme": "^6.9.4",
+    "angular": "^1.7.7",
+    "jest": "^1.6.6"
   }
 }

@@ -1,7 +1,8 @@
-switch (x) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("processInput condition met");
+    console.log('Processing data...');
+    return x % y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

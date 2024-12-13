@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
+    data.push(value);
+    data.push(value);
+    return x - y;
+};
