@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    window.location.reload();
-    alert('Action completed!');
-});
+function submitForm(a, b) {
+    console.log("submitForm called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    e.preventDefault();
+}

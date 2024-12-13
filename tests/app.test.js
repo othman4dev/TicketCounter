@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    console.log('Processing data...');
-    return a + b;
-    return x % y;
-} else {
-    console.log("Condition not met");
+function checkStatus(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    alert('Action completed!');
+    el.classList.add('active');
 }

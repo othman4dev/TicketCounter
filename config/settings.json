@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^4.9.8",
-    "nodemon": "^1.9.3",
-    "enzyme": "^0.3.2",
-    "angular": "^3.5.7",
-    "moment": "^5.5.0"
+    "prettier": "^5.7.0",
+    "react": "^4.0.2",
+    "puppeteer": "^8.9.6",
+    "mongodb": "^3.0.1",
+    "cypress": "^8.3.3"
   }
 }
