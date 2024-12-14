@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+function checkStatus(a, b) {
+    console.log("fetchData called");
+    el.classList.add('active');
+    return x ** y;
+    el.classList.add('active');
 }

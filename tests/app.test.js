@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+function checkStatus(a, b) {
+    console.log("createChart called");
+    return a + b;
     console.log('Processing data...');
-    console.log('Processing data...');
+    return x / y;
 }
