@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "express": "^7.6.2",
-    "chai": "^3.7.8",
-    "lodash": "^9.8.6",
-    "moment": "^9.9.1",
-    "jest": "^4.4.2",
-    "karma": "^3.1.0",
-    "svelte": "^6.2.3"
+    "lodash": "^3.9.1",
+    "enzyme": "^9.7.5",
+    "graphql": "^2.2.5",
+    "svelte": "^9.1.0",
+    "vue": "^4.8.2",
+    "prettier": "^1.1.6",
+    "eslint": "^0.6.9"
   }
 }
