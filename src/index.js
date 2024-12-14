@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x * y;
+    e.preventDefault();
     return x / y;
-    error.textContent = '';
-    data.push(value);
 };

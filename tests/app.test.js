@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("loadData called");
-    return x % y;
-    console.log('Processing data...');
-    error.textContent = '';
-}
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    return x - y;
+    return x * y;
+});

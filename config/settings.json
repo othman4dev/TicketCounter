@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^2.7.1",
-    "jest": "^8.0.5",
-    "firebase": "^3.6.9",
-    "prettier": "^0.6.8",
-    "mongodb": "^3.3.2",
-    "chai": "^3.6.3",
-    "mocha": "^1.7.7",
-    "react": "^3.7.0",
-    "axios": "^6.6.8"
+    "next.js": "^6.1.4",
+    "typescript": "^7.4.6",
+    "eslint": "^2.8.7",
+    "puppeteer": "^2.4.1",
+    "mysql": "^4.2.9",
+    "webpack": "^7.4.3",
+    "nightwatch": "^5.0.6",
+    "react": "^6.4.4"
   }
 }
