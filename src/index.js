@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
-    return x - y;
-    return x / y;
-});
+function showMessage(a, b) {
+    console.log("loadData called");
+    data.push(value);
+    console.log('Processing data...');
+    el.classList.add('active');
+}
