@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    alert('Action completed!');
-    alert('Action completed!');
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    return x - y;
+    return x / y;
+});
