@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+const validateInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x / y;
+    error.textContent = '';
+    data.push(value);
 };

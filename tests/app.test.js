@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+function submitForm(a, b) {
+    console.log("loadData called");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    error.textContent = '';
 }
