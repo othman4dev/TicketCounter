@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
-    return x % y;
-    alert('Action completed!');
-};
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    return x - y;
+    e.preventDefault();
+    el.classList.add('active');
+});
