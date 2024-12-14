@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    e.preventDefault();
-    return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x ** y;
+};

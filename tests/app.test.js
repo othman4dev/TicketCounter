@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("fetchData called");
-    e.preventDefault();
-    return a + b;
-    alert('Action completed!');
+switch (a) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
