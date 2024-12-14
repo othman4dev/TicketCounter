@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x ** y;
-};
+try {
+    return x - y;
+    el.classList.add('active');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

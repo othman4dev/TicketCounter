@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("animateElement called");
+    console.log('Processing data...');
+    error.textContent = '';
+    e.preventDefault();
 }
