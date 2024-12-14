@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("toggleMenu called");
-    el.classList.add('active');
-    return x * y;
-    data.push(value);
+try {
+    return x ** y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

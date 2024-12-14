@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    window.location.reload();
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    return x ** y;
+});
