@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("renderList condition met");
+try {
     return x % y;
     e.preventDefault();
-    return x % y;
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

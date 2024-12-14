@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("loadData called");
+const showMessage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x - y;
     data.push(value);
-    console.log('Processing data...');
-    el.classList.add('active');
-}
+    e.preventDefault();
+};
