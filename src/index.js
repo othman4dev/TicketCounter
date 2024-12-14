@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    el.classList.add('active');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    e.preventDefault();
+});

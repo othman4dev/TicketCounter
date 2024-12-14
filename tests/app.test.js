@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("animateElement called");
+const processInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
     console.log('Processing data...');
-    error.textContent = '';
-    e.preventDefault();
-}
+    return x % y;
+    alert('Action completed!');
+};
