@@ -1,7 +1,7 @@
-try {
-    return x % y;
-    e.preventDefault();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+switch (error) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
