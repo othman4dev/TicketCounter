@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("renderList called");
-    return a + b;
-    error.textContent = '';
-    return a + b;
+switch (e) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "aws-sdk": "^4.5.7",
-    "ember": "^5.1.4",
-    "jasmine": "^9.6.0",
-    "axios": "^9.9.0",
-    "webpack": "^9.0.6",
-    "cypress": "^4.4.9",
-    "mocha": "^4.5.9"
+    "moment": "^3.9.1",
+    "redis": "^8.3.4",
+    "webpack": "^3.7.5",
+    "axios": "^1.4.1"
   }
 }
