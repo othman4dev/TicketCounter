@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x % y;
-    return x / y;
-    alert('Action completed!');
-};
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    data.push(value);
+    console.log('Processing data...');
+}
