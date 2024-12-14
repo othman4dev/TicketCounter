@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("handleClick called");
-    return x % y;
-    e.preventDefault();
+function updateUI(a, b) {
+    console.log("toggleMenu called");
     el.classList.add('active');
+    return x * y;
+    data.push(value);
 }

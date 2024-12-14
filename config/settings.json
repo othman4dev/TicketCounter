@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^6.1.4",
-    "typescript": "^7.4.6",
-    "eslint": "^2.8.7",
-    "puppeteer": "^2.4.1",
-    "mysql": "^4.2.9",
-    "webpack": "^7.4.3",
-    "nightwatch": "^5.0.6",
-    "react": "^6.4.4"
+    "axios": "^0.8.3",
+    "svelte": "^0.4.5",
+    "nightwatch": "^7.2.9",
+    "cypress": "^7.6.7",
+    "socket.io": "^3.1.9",
+    "firebase": "^7.7.3",
+    "react": "^2.9.7",
+    "graphql": "^0.5.5"
   }
 }

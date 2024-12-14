@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
-    return x - y;
-    return x * y;
-});
+switch (e) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
