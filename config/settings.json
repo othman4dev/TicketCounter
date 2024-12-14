@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "chai": "^1.6.3",
-    "enzyme": "^6.6.4",
-    "react": "^8.3.6",
-    "socket.io": "^6.0.5",
-    "express": "^3.5.4",
-    "puppeteer": "^4.6.1",
-    "jasmine": "^8.8.0"
+    "jasmine": "^9.2.3",
+    "eslint": "^4.1.1",
+    "sinon": "^0.6.8",
+    "ember": "^6.5.7",
+    "vue": "^3.7.4",
+    "jest": "^1.2.7",
+    "nodemon": "^9.8.7",
+    "nightwatch": "^7.9.7",
+    "redis": "^9.5.0"
   }
 }

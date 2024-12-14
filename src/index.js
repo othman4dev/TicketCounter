@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
     e.preventDefault();
-    return x ** y;
-});
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
