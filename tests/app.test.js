@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
+try {
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

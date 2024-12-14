@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^0.3.3",
-    "vue": "^7.6.3",
-    "eslint": "^3.0.2",
-    "firebase": "^8.2.4",
-    "graphql": "^2.0.0",
-    "express": "^0.6.6",
-    "prettier": "^2.4.7"
+    "webpack": "^6.2.6",
+    "socket.io": "^8.0.6",
+    "nightwatch": "^9.8.4",
+    "mysql": "^6.2.9",
+    "redis": "^2.8.2"
   }
 }
