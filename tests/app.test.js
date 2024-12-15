@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("toggleMenu called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    alert('Action completed!');
 }
