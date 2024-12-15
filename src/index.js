@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    el.classList.add('active');
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    el.classList.add('active');
+};

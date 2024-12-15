@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return x - y;
+    alert('Action completed!');
     el.classList.add('active');
-    data.push(value);
 } else {
     console.log("Condition not met");
 }

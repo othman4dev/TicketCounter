@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("renderList called");
-    return x % y;
-    alert('Action completed!');
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
+    error.textContent = '';
+    console.log('Processing data...');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
