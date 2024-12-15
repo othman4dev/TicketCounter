@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("fetchData called");
+    return a + b;
+    el.classList.add('active');
+    return x % y;
 }
