@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    return x - y;
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
     data.push(value);
-    return x ** y;
+    el.classList.add('active');
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

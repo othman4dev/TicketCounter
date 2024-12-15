@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+try {
     return a + b;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

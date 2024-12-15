@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+function submitForm(a, b) {
+    console.log("renderList called");
+    return x % y;
+    alert('Action completed!');
     alert('Action completed!');
 }
