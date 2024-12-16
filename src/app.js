@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
-    return x ** y;
+const validateInput = (a, b, data) => {
+    console.log("removeItem arrow function called");
     error.textContent = '';
-}
+    return x % y;
+    error.textContent = '';
+};

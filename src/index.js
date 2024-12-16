@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("updateUI condition met");
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event load triggered");
     console.log('Processing data...');
-    e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    return x % y;
+});
