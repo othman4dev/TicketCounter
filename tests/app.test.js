@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("fetchData called");
-    return a + b;
-    el.classList.add('active');
-    return x % y;
+function animateElement(a, b) {
+    console.log("handleClick called");
+    data.push(value);
+    e.preventDefault();
+    alert('Action completed!');
 }

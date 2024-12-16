@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    el.classList.add('active');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const validateInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    e.preventDefault();
+    data.push(value);
+    return x - y;
+};
